@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt pursuit crowd bop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd bop0000" x="0" y="0" width="1168" height="613" frameX="0" frameY="-39" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0001" x="1168" y="0" width="1168" height="623" frameX="0" frameY="-30" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0002" x="2336" y="0" width="1168" height="631" frameX="0" frameY="-23" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0003" x="0" y="631" width="1168" height="637" frameX="0" frameY="-17" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0004" x="1168" y="631" width="1168" height="643" frameX="0" frameY="-12" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0005" x="2336" y="631" width="1168" height="646" frameX="0" frameY="-9" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0006" x="0" y="1277" width="1168" height="649" frameX="0" frameY="-6" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0007" x="1168" y="1277" width="1168" height="652" frameX="0" frameY="-4" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0008" x="2336" y="1277" width="1168" height="654" frameX="0" frameY="-2" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0009" x="0" y="1931" width="1168" height="655" frameX="0" frameY="-1" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0010" x="1168" y="1931" width="1168" height="655" frameX="0" frameY="-1" frameWidth="1168" frameHeight="656"/>
+	<SubTexture name="crowd bop0011" x="2336" y="1931" width="1168" height="656"/>
+	<SubTexture name="crowd bop0012" x="2336" y="1931" width="1168" height="656"/>
+	<SubTexture name="crowd bop0013" x="2336" y="1931" width="1168" height="656"/>
+</TextureAtlas>

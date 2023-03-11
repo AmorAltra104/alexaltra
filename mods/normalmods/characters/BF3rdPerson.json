@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up Flip",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF3rdPerson",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

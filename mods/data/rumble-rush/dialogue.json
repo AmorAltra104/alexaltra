@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "smirk",
+			"text": "Not bad!",
+			"boxState": "normal",
+			"sound": "rumble1",
+			"speed": 0.00500000000000001,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "teeth",
+			"text": "Thanks man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "normal",
+			"text": "You ready for another round?",
+			"boxState": "normal",
+			"sound": "rumble2",
+			"speed": 0.00500000000000001,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah sure!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "Wait a second...",
+			"boxState": "normal",
+			"sound": "rumble3",
+			"speed": 0.00500000000000001,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "wtf",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "Something feels... off.",
+			"boxState": "normal",
+			"sound": "rumble4",
+			"speed": 0.015,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "It's probably not a big deal.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "teeth",
+			"text": "Let's start!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		}
+	]
+}

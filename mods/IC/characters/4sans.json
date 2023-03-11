@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leftt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rightt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				83
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWNN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				151
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UPP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				96
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nightmare SANS Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				5
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Rightt"
+		},
+		{
+			"offsets": [
+				39,
+				83
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "DOWNN"
+		},
+		{
+			"offsets": [
+				-38,
+				151
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "UPP"
+		},
+		{
+			"offsets": [
+				134,
+				12
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Leftt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare/Sans/DeathSans",
+	"position": [
+		50,
+		-80
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		175
+	],
+	"camera_position": [
+		90,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

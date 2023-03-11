@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A certain long amount  of time after Shaggy x Matt occurs.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, Jesus.. it’s you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You again? Hey! How’s it going?\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have the damn nerve to ask me “how it’s going” after all you’ve done to me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You’ve made my life hell. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Everyone thinks I’m weak."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " I can’t even have a fight without being seen as a failure."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And it’s all because of you, you god damn blue-haired dwarf."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I’m assuming you want a rematch then, huh, Matt?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good assumption. This time, though, I have nothing to lose. Shaggy has taught me a lot. \r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You will perish."
+		}
+	]
+}

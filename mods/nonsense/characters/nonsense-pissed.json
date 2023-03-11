@@ -1,0 +1,219 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-77,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				-75,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-74,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pissed left"
+		},
+		{
+			"offsets": [
+				-59,
+				-141
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right Pissed"
+		},
+		{
+			"offsets": [
+				-67,
+				-172
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pissed Down"
+		},
+		{
+			"offsets": [
+				-66,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Pissed"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-120
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Mad Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-119
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Mad Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-110
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "MAD up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-167
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-121
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "MadRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pissed mid-song",
+			"loop": false,
+			"name": "pissed mid-song"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nonsense_Pissed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nonsense-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		222,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

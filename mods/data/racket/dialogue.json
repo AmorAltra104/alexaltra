@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Just a few more practice rounds and I'll be able to rank up!",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.15,
+			"sound": ""
+		},
+		{
+			"expression": "wtf",
+			"text": "Huh?",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smirk",
+			"text": "Well hello again!",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket1"
+		},
+		{
+			"expression": "wtf",
+			"text": "Matt?",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "wtf",
+			"text": "what are you doing here?",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smirk",
+			"text": "Trying to practice",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket2"
+		},
+		{
+			"expression": "wtf",
+			"text": "But aren't you the champion?",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "sad",
+			"text": "Not at tennis.",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket3"
+		},
+		{
+			"expression": "sad",
+			"text": "It's my worst sport.",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket4"
+		},
+		{
+			"expression": "talk",
+			"text": "Well...",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "We can practice together!",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "Hmmm",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket5"
+		},
+		{
+			"expression": "talk",
+			"text": "After a few rap battles of course!",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "I knew you would say that.",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket6"
+		},
+		{
+			"expression": "smirk",
+			"text": "3 rounds and we'll play after alright?",
+			"boxState": "normal",
+			"portrait": "pursuit",
+			"speed": 0.005,
+			"sound": "racket7"
+		},
+		{
+			"expression": "talk",
+			"text": "Deal.",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

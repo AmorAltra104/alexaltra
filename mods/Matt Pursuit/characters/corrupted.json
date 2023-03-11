@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-740,
+				-220
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				-730,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				-830,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				-600,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				-825,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sword fight boss",
+	"position": [
+		-1000,
+		-250
+	],
+	"healthicon": "Matt(SwordFight)",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		0
+	],
+	"camera_position": [
+		900,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,68 @@
+{
+	"storyName": "showdown",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"rival",
+			"icons-fish",
+			[
+				246,
+				193,
+				115
+			]
+		],
+		[
+			"stardust",
+			"icons-fish",
+			[
+				0,
+				235,
+				255
+			]
+		],
+		[
+			"starstruck",
+			"icons-fish",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"knockout",
+			"icons-fish",
+			[
+				246,
+				133,
+				115
+			]
+		],
+		[
+			"knockout-old",
+			"icons-fish",
+			[
+				246,
+				133,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

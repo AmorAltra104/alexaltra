@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello again!",
+			"boxState": "normal",
+			"sound": "stardust1",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "normal",
+			"text": "Thanks for saving me from whatever that was last week.",
+			"boxState": "normal",
+			"sound": "stardust2",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "No problem.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "So what was it did you have to do yestarday?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "normal",
+			"text": "Met up with an old rival.",
+			"boxState": "normal",
+			"sound": "stardust3",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "normal",
+			"text": "His name's Garcello.",
+			"boxState": "normal",
+			"sound": "stardust4",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "smirk",
+			"text": "I used to play against him on this same tennis court back when we were kids.",
+			"boxState": "normal",
+			"sound": "stardust5",
+			"speed": 0.00500000000000001,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Neato.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "I've improved a bit since last time, what do you say we sing some more?",
+			"boxState": "normal",
+			"sound": "stardust6",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure thing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		}
+	]
+}

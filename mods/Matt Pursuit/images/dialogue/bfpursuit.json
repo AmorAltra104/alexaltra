@@ -1,0 +1,89 @@
+{
+	"position": [
+		100,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.9,
+	"image": "bf_dialogue_matt_pursuit",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "bf normal",
+			"loop_name": "bf normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf angry",
+			"idle_name": "bf angry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "nerd",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf nerdneck",
+			"idle_name": "bf nerdneck"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "teeth",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf teeth",
+			"idle_name": "bf teeth"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "wtf",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf wtf",
+			"idle_name": "bf wtf"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf zad",
+			"idle_name": "bf zad"
+		}
+	]
+}

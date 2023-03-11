@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "What just happened?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "Why is everything destroyed?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Fine."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "You win"
+		},
+		{
+			"sound": "swordfight1",
+			"speed": 0.05,
+			"portrait": "corrupt",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "We were winning the whole time."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's make a deal."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I outrap you one more time, you leave Matt alone."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And if you win, I'll leave you alone."
+		},
+		{
+			"sound": "swordfight2",
+			"speed": 0.05,
+			"portrait": "corrupt",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Hm..."
+		},
+		{
+			"sound": "swordfight3",
+			"speed": 0.05,
+			"portrait": "corrupt",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Alright."
+		}
+	]
+}

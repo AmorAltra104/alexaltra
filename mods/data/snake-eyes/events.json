@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "field",
+		"player1": "bf-indie",
+		"player2": "cuphead",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"playsound",
+						"1",
+						"5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 221,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Snake-Eyes"
+	}
+}

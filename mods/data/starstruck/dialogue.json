@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro that was easy"
+		},
+		{
+			"sound": "starstruck1",
+			"speed": 0.05,
+			"portrait": "pursuit",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "What."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah man."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I want a challenge!"
+		},
+		{
+			"sound": "starstruck2",
+			"speed": 0.05,
+			"portrait": "pursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm exhausted, it's late at night."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "nerd",
+			"text": "Okay and?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The writer couldn't think of an explanation but basically we're supposed to sing another 2 songs."
+		},
+		{
+			"sound": "starstruck3",
+			"speed": 0.05,
+			"portrait": "pursuit",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Ugh."
+		}
+	]
+}

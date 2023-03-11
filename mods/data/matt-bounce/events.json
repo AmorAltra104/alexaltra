@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "alley",
+		"player1": "miibf",
+		"player2": "met",
+		"player3": null,
+		"events": [
+			[
+				45777.7777777778,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"BF"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"imageflash",
+						"SANESSSS",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "mattnormal",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "matt-bounce"
+	}
+}

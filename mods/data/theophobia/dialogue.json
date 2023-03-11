@@ -1,0 +1,138 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "suddenly, in the middle of fight"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you start being blinded by white light\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you feel it's not just you being blinded"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you got blinded for a few minutes and when finally the white light goes out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "in the sky you see matt, flying"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he apparently is very angry and for the first time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you see that matt used one of his transformations.. you get very scared"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHAT THE FUNK IS HAPPENING?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Don't worry, its a normal.. thing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHAT DO YOU MEAN, BRO, THE ENTIRE PLACE IS DESTROYED "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "YOU ARE FLYING AND ITS LOOKS LIKE THE SCENE OF GOD EATER"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm.. this time.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you did the biggest mistake of your life"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " I will beat you with so much power"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so much desire"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that doctors wont even know where to start"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " if its going to be for the surgery or if they will see you still.. alive"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "......."
+
+		}
+	]
+}

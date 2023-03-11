@@ -1,0 +1,15 @@
+Set value1 to normal for stand still
+Set value1 to little for a bit of movement
+Set value1 to medium for purgatory movement
+Set value1 to large for a lot of movement
+DONT CHANGE VALUE2
+thank you BL0KYBL0K on github for most of the script
+
+-------------------
+
+Establezca el valor 1 en normal para quedarse quieto
+Establezca value1 en poco para un poco de movimiento.
+Establezca el valor 1 en medio para el movimiento del purgatorio.
+Establezca value1 en grande para una gran cantidad de movimiento
+NO CAMBIAR VALOR2
+gracias BL0KYBL0K en github por la mayor parte del guión

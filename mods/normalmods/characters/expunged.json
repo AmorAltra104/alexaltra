@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambitrueform idle"
+		},
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambitrueform left"
+		},
+		{
+			"offsets": [
+				80,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambitrueform down"
+		},
+		{
+			"offsets": [
+				53,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambitrueform up"
+		},
+		{
+			"offsets": [
+				70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambitrueform right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambitrueform",
+	"position": [
+		0,
+		-160
+	],
+	"healthicon": "expunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		0,
+		0
+	],
+	"camera_position": [
+		-290,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

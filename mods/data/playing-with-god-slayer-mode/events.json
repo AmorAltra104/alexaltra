@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"godpshaggy"
+					],
+					[
+						"Change Character",
+						"GF",
+						"godmatt"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"GF",
+						"matt2"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"pshaggy"
+					]
+				]
+			],
+			[
+				307200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"godpshaggy"
+					],
+					[
+						"Change Character",
+						"GF",
+						"godmatt"
+					]
+				]
+			],
+			[
+				345525,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"pshaggy"
+					],
+					[
+						"Change Character",
+						"GF",
+						"matt2"
+					]
+				]
+			],
+			[
+				397963.636363638,
+				[
+					[
+						"Change Character",
+						"GF",
+						"godmatt"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"godpshaggy"
+					]
+				]
+			]
+		]
+	}
+}

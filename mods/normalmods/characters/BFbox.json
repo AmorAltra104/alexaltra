@@ -1,0 +1,309 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Attack Down "
+		},
+		{
+			"offsets": [
+				155,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Attack Left"
+		},
+		{
+			"offsets": [
+				147,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Attack Up "
+		},
+		{
+			"offsets": [
+				150,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Attack Right"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				-49,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block down",
+			"indices": [],
+			"name": "BF Block Down"
+		},
+		{
+			"offsets": [
+				-48,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block up",
+			"indices": [],
+			"name": "BF Block Up"
+		},
+		{
+			"offsets": [
+				-48,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block left",
+			"indices": [],
+			"name": "BF Block Left"
+		},
+		{
+			"offsets": [
+				-48,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block right",
+			"indices": [],
+			"name": "BF Block Right"
+		},
+		{
+			"offsets": [
+				-40,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BF Dodge Up"
+		},
+		{
+			"offsets": [
+				-40,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BF Dodge Up"
+		},
+		{
+			"offsets": [
+				-40,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BF Dodge Down"
+		},
+		{
+			"offsets": [
+				-40,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "BF Dodge Down"
+		},
+		{
+			"offsets": [
+				170,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead loop"
+		},
+		{
+			"offsets": [
+				-50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "backhit",
+			"indices": [],
+			"name": "BF hit in the back"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				-7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				560,
+				380
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Dead Counter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				323,
+				-102
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hey",
+			"indices": [],
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [
+				950,
+				290
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "fight",
+			"indices": [],
+			"name": "Symbol 24"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				420
+			],
+			"anim": "Glow",
+			"fps": 24,
+			"name": "BF GlowEyes Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				420
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF GlowEyes Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BF hit in the back",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF Boxing",
+	"position": [
+		40,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

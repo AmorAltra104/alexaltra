@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend falls to the ground, the ground was quite hard, there would be some cracks but nothing to worry about"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend gets up and looks around"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The Location was somewhat confusing, it was divided into parts, several parts"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Before the boyfriend asked himself a lot of things"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Something starts to appear and disappear in the debris that would be flying"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A hand touches boyfriend's shoulder.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend starts to shiver and when he looks back"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He can look at a creature, similar to matt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rejected",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " ..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "HEY, WHO ARE YOU?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rejeitado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " .. / .... .- ...- . / - --- / .- ... -.- / - .... .- - --..-- / -.. --- -. - / -.-- --- ..- / - .... .. -. -.- ..--.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend gets up and takes a good look at the creature"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He looks right at him and offers a microphone.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't know who you are, but maybe you like to sing, weird guy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rejected",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " . ..- / ... .. -. - --- / --- / -.-. .... . .. .-. --- / -... . / ... ..- .- / -- --- .-. - . / .- / -.. .. ... - -. -.-. .. .-, K.E.I.T.H."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Okay, I understand nothing, but take that mic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It takes the mic and goes quickly back, the boyfriend feels a slight shiver"
+		}
+	]
+}

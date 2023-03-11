@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 23,
+			"name": "ALT BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				1
+			],
+			"anim": "idle",
+			"fps": 23,
+			"name": "ALT BF IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				1
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF TRANSFORMATION"
+		},
+		{
+			"offsets": [
+				83,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "transformation",
+			"indices": [],
+			"name": "BF TRANSFORMATION"
+		},
+		{
+			"offsets": [
+				79,
+				9
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ALT BF LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 23,
+			"name": "ALT BF RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				64
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ALT BF UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND ZERO SPEAKER",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"expression": "wtf",
+			"text": "What the hell was that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "I feel... different.",
+			"boxState": "normal",
+			"sound": "tennis1",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "angry",
+			"text": "Okay.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "wtf",
+			"text": "Something's up.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "I fear it's too late.",
+			"boxState": "normal",
+			"sound": "tennis2",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow so scary",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angy",
+			"text": "!'/.,0",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "wtf",
+			"text": "You good?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "neutral",
+			"text": "Stay away.",
+			"boxState": "normal",
+			"sound": "tennis3",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "wtf",
+			"text": "Bro what",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "neutral",
+			"text": "This entity is too powerful.",
+			"boxState": "normal",
+			"sound": "tennis4",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "talk",
+			"text": "He has a name actually, it's Matt.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Also he's chill now, what are you saying?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angy",
+			"text": "His power levels are too high",
+			"boxState": "normal",
+			"sound": "tennis5",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "teeth",
+			"text": "Cool story bro",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angry",
+			"text": "Why won't you take us seriously?",
+			"boxState": "normal",
+			"sound": "tennis6",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "nerd",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angy",
+			"text": "Just get out.",
+			"boxState": "normal",
+			"sound": "tennis7",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "nerd",
+			"text": "Nah bro I'm staying here",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angry",
+			"text": "GO!",
+			"boxState": "angry",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis8"
+		},
+		{
+			"expression": "angry",
+			"text": "YOU HAVE TO GO!",
+			"boxState": "angry",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis9"
+		},
+		{
+			"expression": "talk",
+			"text": "Nah I can deal with this.",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "You can't. It's far too dangerous!",
+			"boxState": "normal",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis10"
+		},
+		{
+			"expression": "talk",
+			"text": "Who?",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis11"
+		},
+		{
+			"expression": "teeth",
+			"text": "Cares",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "You think you're so funny huh?",
+			"boxState": "normal",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis12"
+		},
+		{
+			"expression": "teeth",
+			"text": "Yeah kinda",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "sad",
+			"text": "Please just leave.",
+			"boxState": "normal",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis13"
+		},
+		{
+			"expression": "teeth",
+			"text": "Rap battle first",
+			"boxState": "normal",
+			"portrait": "bfpursuit",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "angry",
+			"text": "I hate you.",
+			"boxState": "normal",
+			"portrait": "half",
+			"speed": 0.05,
+			"sound": "tennis14"
+		}
+	]
+}

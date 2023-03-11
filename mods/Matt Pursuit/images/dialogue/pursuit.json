@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		100
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"loop_name": "matt normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				1
+			]
+		},
+		{
+			"loop_name": "matt smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt smirk",
+			"anim": "smirk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "matt zad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt zad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "matt angy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt angy",
+			"anim": "angy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "matt_pursuit_dialogue"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-12,
+				-282
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambiguitar idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambiguitar down"
+		},
+		{
+			"offsets": [
+				-18,
+				-292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambiguitar up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-245
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bambiguitar right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-268
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bambiguitar left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambiguitar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		181,
+		0
+	],
+	"camera_position": [
+		150,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

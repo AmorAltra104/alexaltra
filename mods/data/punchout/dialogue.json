@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0.0399999999999999
+		},
+		{
+			"expression": "confused",
+			"text": "well, I see youre still angry",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "how could I not be after everything you did to me",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "cmon man, all this started just because I beat you in a training",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "I totally dont care about that right now",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Im going to punch you so hard Ill put you in a coma for 10 months",
+			"boxState": "angry",
+			"portrait": "matt",
+			"speed": 0.025
+		},
+		{
+			"expression": "shocked",
+			"text": "wow rude",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "wait how do you understand my language I thought all you heard was some beep bops ?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "got used to it dumbass"
+		}
+	]
+}

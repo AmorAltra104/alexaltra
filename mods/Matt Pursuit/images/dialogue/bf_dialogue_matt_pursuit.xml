@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf dialogue matt pursuit.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf angry0000" x="0" y="0" width="283" height="283"/>
+	<SubTexture name="bf nerdneck0000" x="283" y="0" width="280" height="280"/>
+	<SubTexture name="bf normal0000" x="563" y="0" width="278" height="278"/>
+	<SubTexture name="bf teeth0000" x="0" y="283" width="286" height="286"/>
+	<SubTexture name="bf wtf0000" x="286" y="283" width="289" height="289"/>
+	<SubTexture name="bf zad0000" x="575" y="283" width="295" height="295"/>
+</TextureAtlas>

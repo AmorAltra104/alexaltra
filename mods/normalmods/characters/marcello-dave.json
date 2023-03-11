@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "totally dave idle dance"
+		},
+		{
+			"offsets": [
+				81,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "totally dave NOTE LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "totally dave NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-22,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "totally dave NOTE UP"
+		},
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "totally dave NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Marcello_Dave_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dave",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

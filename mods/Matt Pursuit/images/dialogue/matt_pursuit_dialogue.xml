@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt pursuit dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt angy0000" x="0" y="0" width="282" height="282"/>
+	<SubTexture name="matt normal0000" x="282" y="0" width="281" height="281"/>
+	<SubTexture name="matt smirk0000" x="563" y="0" width="281" height="281"/>
+	<SubTexture name="matt zad0000" x="0" y="282" width="281" height="281"/>
+</TextureAtlas>

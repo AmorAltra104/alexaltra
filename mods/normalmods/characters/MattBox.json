@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Matt Attack Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt Attack Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Matt Attack Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Matt Attack Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block down",
+			"indices": [],
+			"name": "Matt Block Down"
+		},
+		{
+			"offsets": [
+				1,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block up",
+			"indices": [],
+			"name": "Matt Block Up"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block left",
+			"indices": [],
+			"name": "Matt Block Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block right",
+			"indices": [],
+			"name": "Matt Block Right"
+		},
+		{
+			"offsets": [
+				40,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fistthrow",
+			"indices": [],
+			"name": "Matt Attack FistThrow"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-10
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Matt Parry Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Matt Parry Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				-18
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Matt Parry Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				-18
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Matt Parry Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				550,
+				380
+			],
+			"anim": "Glow",
+			"fps": 24,
+			"name": "Matt GlowEyes Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				30
+			],
+			"anim": "Hey",
+			"fps": 24,
+			"name": "Matt Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MattBox",
+	"position": [
+		450,
+		310
+	],
+	"healthicon": "OGmatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		-250,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

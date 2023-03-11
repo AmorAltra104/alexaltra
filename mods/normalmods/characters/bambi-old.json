@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MARCELLO idle dance"
+		},
+		{
+			"offsets": [
+				28,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MARCELLO NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				47,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MARCELLO NOTE UP0"
+		},
+		{
+			"offsets": [
+				14,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MARCELLO NOTE RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MARCELLO MISS RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MARCELLO NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MARCELLO MISS LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-13
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MARCELLO MISS UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MARCELLO MISS DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": ""
+		}
+
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi-old",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bambi-joke",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		180,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

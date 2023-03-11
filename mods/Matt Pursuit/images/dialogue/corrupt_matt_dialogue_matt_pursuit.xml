@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corrupt matt dialogue matt pursuit.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corrupt neutral0000" x="0" y="0" width="415" height="415"/>
+	<SubTexture name="corrupt sad0000" x="415" y="0" width="415" height="415"/>
+	<SubTexture name="corrupt smile0000" x="0" y="415" width="418" height="418"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				380,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Sword Attack Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				210
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Sword Attack Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Sword Attack Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bf Sword Attack Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "block down",
+			"fps": 24,
+			"name": "BF Sword Block Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Sword Block Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"anim": "block up",
+			"fps": 24,
+			"name": "BF Sword Block Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				60
+			],
+			"anim": "block right",
+			"fps": 24,
+			"name": "BF Sword Block Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				78
+			],
+			"anim": "block left",
+			"fps": 24,
+			"name": "BF Sword Block Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFSword",
+	"position": [
+		150,
+		480
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

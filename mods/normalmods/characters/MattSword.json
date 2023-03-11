@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Matt Sword Attack Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt Sword Attack Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt Sword Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Matt Sword Attack Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Matt Sword Attack Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				156
+			],
+			"anim": "Drawback",
+			"fps": 24,
+			"name": "Matt Sword Drawback",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-10
+			],
+			"anim": "block down",
+			"fps": 24,
+			"name": "Matt Sword Block Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-14
+			],
+			"anim": "block up",
+			"fps": 24,
+			"name": "Matt Sword Block Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-13
+			],
+			"anim": "block right",
+			"fps": 24,
+			"name": "Matt Sword Block Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-10
+			],
+			"anim": "block left",
+			"fps": 24,
+			"name": "Matt Sword Block Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MattSword",
+	"position": [
+		400,
+		300
+	],
+	"healthicon": "OGmatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		-400,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

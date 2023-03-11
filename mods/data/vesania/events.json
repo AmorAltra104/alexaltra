@@ -1,0 +1,124 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "vesania",
+		"player1": "bf-retro",
+		"player2": "smileeeeer",
+		"player3": null,
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"suicide"
+					]
+				]
+			],
+			[
+				39600,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49200,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154800,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-invisible",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Vesania"
+	}
+}

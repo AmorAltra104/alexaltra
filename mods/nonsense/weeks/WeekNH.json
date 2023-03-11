@@ -1,0 +1,66 @@
+{
+	"storyName": "Vs nonsense ported to psych engine",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"commonsense",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"highlights",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"context",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"nonsense",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"nonsensical",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Nonsense"
+}

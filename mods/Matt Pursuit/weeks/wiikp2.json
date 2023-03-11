@@ -1,0 +1,50 @@
+{
+	"storyName": "homebrew'd",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"tennis-match",
+			"icons-half",
+			[
+				255,
+				133,
+				135
+			]
+		],
+		[
+			"homebrew",
+			"icons-corrupt",
+			[
+				235,
+				113,
+				135
+			]
+		],
+		[
+			"sword-fight",
+			"icons-corrupt",
+			[
+				215,
+				133,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

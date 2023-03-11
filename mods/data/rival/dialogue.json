@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "smirk",
+			"text": "...and then everything came back!",
+			"boxState": "normal",
+			"sound": "rival1",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "normal",
+			"text": "So...",
+			"boxState": "normal",
+			"sound": "rival2",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "smirk",
+			"text": "Wanna rap together?",
+			"boxState": "normal",
+			"sound": "rival3",
+			"speed": 0.005,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "For old times sake?",
+			"boxState": "normal",
+			"sound": "rival4",
+			"speed": 0.005,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't know man I'm a little bit rusty.",
+			"boxState": "normal",
+			"sound": "garcello1",
+			"speed": 0.05,
+			"portrait": "garcello"
+		},
+		{
+			"expression": "normal",
+			"text": "Come on, give it a try.",
+			"boxState": "normal",
+			"sound": "rival5",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright.",
+			"boxState": "normal",
+			"sound": "garcello2",
+			"speed": 0.05,
+			"portrait": "garcello"
+		}
+	]
+}
