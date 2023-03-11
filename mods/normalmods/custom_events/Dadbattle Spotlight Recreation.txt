@@ -1,0 +1,5 @@
+Used in Dad Battle 
+
+Recreation by Gostar64
+
+Value 1: 0/1 = OFF/ON, 2 = Target Dad, 3 = Target BF

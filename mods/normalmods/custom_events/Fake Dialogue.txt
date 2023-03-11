@@ -1,0 +1,11 @@
+Make a fake dialogue box or sumthin idk
+
+value1 = Text, talker (bf/gf/dad), and box state
+(0 for normal, 1 for shocked)
+
+value2 = Seconds, Character Image, animation on XML
+DON'T INCLUDE SPACES AFTER OR BEFORE COMMA
+example:
+value1 = focus,0
+value2 = 1,BF_Dialogue,BF LOOP
+

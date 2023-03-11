@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.55,
+	"image": "bf_blocked_maze",
+	"animations": [
+		{
+			"loop_name": "bf blocked & maze portrait0004",
+			"idle_offsets": [
+				-50,
+				-70
+			],
+			"idle_name": "bf blocked & maze portrait0004",
+			"anim": "talk",
+			"loop_offsets": [
+				-50,
+				-70
+			]
+		}
+	]
+}

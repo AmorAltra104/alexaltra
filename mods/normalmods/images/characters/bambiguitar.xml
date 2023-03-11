@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambiguitar.png">
+<SubTexture name="bambiguitar down0000" x="1287" y="194" width="314" height="193" frameX="-201" frameY="-252" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar down0001" x="1287" y="578" width="319" height="189" frameX="-200" frameY="-247" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar down0002" x="1287" y="387" width="323" height="191" frameX="-200" frameY="-243" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar down0003" x="1287" y="0" width="324" height="194" frameX="-200" frameY="-240" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar idle0000" x="644" y="966" width="325" height="236" frameX="-229" frameY="-181" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar idle0001" x="324" y="727" width="325" height="238" frameX="-226" frameY="-179" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar idle0002" x="640" y="0" width="322" height="241" frameX="-225" frameY="-176" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar idle0003" x="0" y="0" width="322" height="244" frameX="-222" frameY="-173" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar left0000" x="640" y="241" width="322" height="238" frameX="-204" frameY="-192" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar left0001" x="649" y="727" width="322" height="238" frameX="-207" frameY="-192" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar left0002" x="0" y="966" width="322" height="238" frameX="-210" frameY="-192" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar left0003" x="322" y="966" width="322" height="238" frameX="-213" frameY="-192" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar right0000" x="962" y="240" width="324" height="239" frameX="-245" frameY="-208" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar right0001" x="962" y="479" width="324" height="239" frameX="-240" frameY="-208" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar right0002" x="0" y="727" width="324" height="239" frameX="-233" frameY="-208" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar right0003" x="0" y="486" width="324" height="241" frameX="-228" frameY="-206" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar up0000" x="322" y="0" width="318" height="243" frameX="-233" frameY="-164" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar up0001" x="0" y="244" width="320" height="242" frameX="-233" frameY="-165" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar up0002" x="324" y="486" width="323" height="241" frameX="-232" frameY="-166" frameWidth="755" frameHeight="473" />
+<SubTexture name="bambiguitar up0003" x="962" y="0" width="325" height="240" frameX="-232" frameY="-167" frameWidth="755" frameHeight="473" />
+</TextureAtlas>

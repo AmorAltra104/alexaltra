@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambiphone.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bambidance0000" x="0" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0001" x="0" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0002" x="276" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0003" x="276" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0004" x="552" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0005" x="552" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0006" x="828" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0007" x="828" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0008" x="1104" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0009" x="1104" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0010" x="1380" y="0" width="276" height="366"/>
+	<SubTexture name="bambidance0011" x="1380" y="0" width="276" height="366"/>
+	<SubTexture name="bambidedo0000" x="1656" y="0" width="268" height="391"/>
+	<SubTexture name="bambidedo0001" x="1656" y="0" width="268" height="391"/>
+	<SubTexture name="bambidedo0002" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0003" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0004" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0005" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0006" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0007" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0008" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0009" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0010" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0011" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0012" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0013" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0014" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0015" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0016" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0017" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0018" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0019" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0020" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0021" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0022" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0023" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0024" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0025" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0026" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0027" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0028" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0029" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0030" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0031" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0032" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0033" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0034" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0035" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0036" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0037" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0038" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0039" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0040" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0041" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0042" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0043" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0044" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0045" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0046" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0047" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0048" x="0" y="391" width="268" height="391"/>
+	<SubTexture name="bambidedo0049" x="0" y="391" width="268" height="391"/>
+</TextureAtlas>

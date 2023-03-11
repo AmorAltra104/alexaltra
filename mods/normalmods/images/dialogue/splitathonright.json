@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-60,
+		70
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"loop_name": "gftalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gftalkdone",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "splitathonright"
+}

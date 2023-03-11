@@ -1,0 +1,24 @@
+{
+	"position": [
+		-50,
+		60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.45,
+	"image": "bambi_splitathon",
+	"animations": [
+		{
+			"idle_offsets": [
+				-135,
+				-81
+			],
+			"loop_offsets": [
+				-135,
+				-81
+			],
+			"anim": "talk",
+			"idle_name": "bambi splitathon portrait0004",
+			"loop_name": "bambi splitathon portrait0004"
+		}
+	]
+}

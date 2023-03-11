@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		-20
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-10,
+				-6
+			],
+			"loop_name": "MattTalkloop0",
+			"idle_name": "MattTalk "
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-10,
+				-6
+			],
+			"loop_name": "MattTalkloop angy0",
+			"idle_name": "MattTalkangy0"
+		}
+	],
+	"image": "Matt_Dialogue"
+}

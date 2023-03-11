@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.55,
+	"image": "generic",
+	"animations": [
+		{
+			"idle_offsets": [
+				-50,
+				-70
+			],
+			"loop_offsets": [
+				-50,
+				-70
+			],
+			"anim": "talk",
+			"idle_name": "bf furiosity & corntheft portrait0004",
+			"loop_name": "bf furiosity & corntheft portrait0004"
+		}
+	]
+}

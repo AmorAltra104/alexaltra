@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MoldyGH.png">
+<SubTexture name="MoldyGH down0000" x="1895" y="2145" width="529" height="935" frameX="-154" frameY="-250" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH down0001" x="1366" y="2145" width="529" height="941" frameX="-154" frameY="-244" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH down0002" x="1896" y="1092" width="529" height="950" frameX="-154" frameY="-235" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH idle0000" x="683" y="2145" width="683" height="1022" frameX="0" frameY="-162" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH idle0001" x="0" y="2145" width="683" height="1031" frameX="0" frameY="-153" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH idle0002" x="631" y="1092" width="672" height="1051" frameX="-16" frameY="-136" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH idle0003" x="1884" y="0" width="648" height="1061" frameX="-36" frameY="-126" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH left0000" x="1303" y="1092" width="593" height="1051" frameX="-78" frameY="-136" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH left0001" x="2532" y="1050" width="574" height="1043" frameX="-97" frameY="-144" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH left0002" x="3172" y="1050" width="560" height="1049" frameX="-103" frameY="-142" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH right0000" x="2532" y="0" width="640" height="1050" frameX="-48" frameY="-137" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH right0001" x="3172" y="0" width="646" height="1050" frameX="-42" frameY="-137" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH right0002" x="0" y="1092" width="631" height="1053" frameX="-57" frameY="-134" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH up0000" x="0" y="0" width="620" height="1092" frameX="-67" frameY="-95" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH up0001" x="620" y="0" width="632" height="1089" frameX="-61" frameY="-98" frameWidth="768" frameHeight="1366" />
+<SubTexture name="MoldyGH up0002" x="1252" y="0" width="632" height="1081" frameX="-61" frameY="-106" frameWidth="768" frameHeight="1366" />
+</TextureAtlas>

@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		70
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "bambitalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambitalkdone",
+			"anim": "bambi",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "davetalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "davetalkdone",
+			"anim": "dave",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "splitathonleft"
+}

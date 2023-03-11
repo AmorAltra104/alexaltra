@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exbungo_at_3am.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="449" height="655" pivotX="247.5" pivotY="340.25"/>
+	<SubTexture name="sing0000" x="449" y="0" width="445" height="650" pivotX="227.5" pivotY="327.55"/>
+</TextureAtlas>

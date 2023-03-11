@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RefGF",
+	"position": [
+		280,
+		200
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MattTalk 0000" x="0" y="0" width="593" height="630"/>
+	<SubTexture name="MattTalkangy0000" x="593" y="0" width="593" height="629"/>
+	<SubTexture name="MattTalkloop0000" x="1186" y="0" width="599" height="635" frameX="0" frameY="0" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop0001" x="1186" y="0" width="599" height="635" frameX="0" frameY="0" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop0002" x="0" y="635" width="599" height="634" frameX="-5" frameY="-2" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop0003" x="0" y="635" width="599" height="634" frameX="-5" frameY="-2" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop0004" x="0" y="0" width="593" height="630" frameX="-13" frameY="-6" frameWidth="593" frameHeight="630"/>
+	<SubTexture name="MattTalkloop0005" x="0" y="0" width="593" height="630" frameX="-13" frameY="-6" frameWidth="593" frameHeight="630"/>
+	<SubTexture name="MattTalkloop angy0000" x="599" y="635" width="599" height="635" frameX="0" frameY="0" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop angy0001" x="599" y="635" width="599" height="635" frameX="0" frameY="0" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop angy0002" x="1198" y="635" width="599" height="633" frameX="-5" frameY="-3" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop angy0003" x="1198" y="635" width="599" height="633" frameX="-5" frameY="-3" frameWidth="606" frameHeight="636"/>
+	<SubTexture name="MattTalkloop angy0004" x="593" y="0" width="593" height="629" frameX="-13" frameY="-7" frameWidth="593" frameHeight="629"/>
+	<SubTexture name="MattTalkloop angy0005" x="593" y="0" width="593" height="629" frameX="-13" frameY="-7" frameWidth="593" frameHeight="629"/>
+</TextureAtlas>

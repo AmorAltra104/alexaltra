@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="splitathonright.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gftalk0000" x="0" y="0" width="362" height="377" frameX="0" frameY="-13" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0001" x="362" y="0" width="355" height="377" frameX="-5" frameY="-13" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0002" x="717" y="0" width="349" height="377" frameX="-10" frameY="-13" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0003" x="1066" y="0" width="342" height="377" frameX="-15" frameY="-13" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0004" x="1408" y="0" width="335" height="390" frameX="-17" frameY="0" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0005" x="0" y="390" width="341" height="390" frameX="-13" frameY="0" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0006" x="341" y="390" width="346" height="390" frameX="-9" frameY="0" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0007" x="687" y="390" width="352" height="389" frameX="-5" frameY="-1" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0008" x="1039" y="390" width="357" height="389" frameX="-1" frameY="-1" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalk0009" x="0" y="0" width="362" height="377" frameX="0" frameY="-13" frameWidth="362" frameHeight="390"/>
+	<SubTexture name="gftalkdone0000" x="0" y="0" width="362" height="377" frameX="0" frameY="0" frameWidth="362" frameHeight="390"/>
+</TextureAtlas>

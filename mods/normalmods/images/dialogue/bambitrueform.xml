@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambitrueform.png"><SubTexture name="bambitrueform down0000" x="674" y="1830" width="814" height="610" frameX="0" frameY="-202" frameWidth="814" frameHeight="1002" />
+<SubTexture name="bambitrueform down0001" x="1488" y="1830" width="814" height="582" frameX="0" frameY="-222" frameWidth="814" frameHeight="1002" />
+<SubTexture name="bambitrueform down0002" x="2929" y="0" width="814" height="541" frameX="0" frameY="-239" frameWidth="814" frameHeight="1002" />
+<SubTexture name="bambitrueform idle0000" x="674" y="0" width="541" height="909" frameX="-63" frameY="-50" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform idle0001" x="610" y="944" width="469" height="881" frameX="-95" frameY="-71" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform idle0002" x="1079" y="944" width="433" height="865" frameX="-111" frameY="-87" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform idle0003" x="1860" y="0" width="395" height="801" frameX="-139" frameY="-110" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform left0000" x="0" y="1830" width="674" height="714" frameX="0" frameY="-114" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform left0001" x="2255" y="740" width="674" height="726" frameX="0" frameY="-95" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform left0002" x="2255" y="0" width="674" height="740" frameX="0" frameY="-81" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform right0000" x="0" y="2544" width="930" height="504" frameX="-4" frameY="-159" frameWidth="1011" frameHeight="1002" />
+<SubTexture name="bambitrueform right0001" x="930" y="2544" width="877" height="494" frameX="-42" frameY="-165" frameWidth="1011" frameHeight="1002" />
+<SubTexture name="bambitrueform right0002" x="1807" y="2544" width="844" height="475" frameX="-63" frameY="-177" frameWidth="1011" frameHeight="1002" />
+<SubTexture name="bambitrueform up0000" x="0" y="0" width="674" height="944" frameX="0" frameY="-19" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform up0001" x="1215" y="0" width="645" height="908" frameX="-9" frameY="-43" frameWidth="674" frameHeight="1002" />
+<SubTexture name="bambitrueform up0002" x="0" y="944" width="610" height="886" frameX="-24" frameY="-56" frameWidth="674" frameHeight="1002" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt_Menu.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Matt Idle0000" x="0" y="0" width="293" height="577" frameX="0" frameY="-19" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0001" x="293" y="0" width="292" height="579" frameX="0" frameY="-17" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0002" x="585" y="0" width="289" height="583" frameX="-1" frameY="-13" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0003" x="874" y="0" width="287" height="589" frameX="-1" frameY="-7" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0004" x="1161" y="0" width="286" height="593" frameX="-1" frameY="-3" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0005" x="1447" y="0" width="285" height="595" frameX="-1" frameY="-1" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0006" x="1732" y="0" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0007" x="0" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0008" x="285" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0009" x="570" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0010" x="855" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0011" x="1140" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0012" x="1425" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+	<SubTexture name="M Matt Idle0013" x="1710" y="596" width="285" height="596" frameX="-1" frameY="0" frameWidth="293" frameHeight="596"/>
+</TextureAtlas>

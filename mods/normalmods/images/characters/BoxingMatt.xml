@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt FNF Whatever.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Matt Down0000" x="0" y="0" width="1025" height="589" frameX="0" frameY="-3" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0001" x="1025" y="0" width="935" height="551" frameX="-56" frameY="-10" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0002" x="1960" y="0" width="890" height="531" frameX="-83" frameY="-12" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0003" x="2850" y="0" width="872" height="539" frameX="-94" frameY="0" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0004" x="0" y="589" width="868" height="539" frameX="-96" frameY="0" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0005" x="868" y="589" width="867" height="539" frameX="-97" frameY="0" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0006" x="868" y="589" width="867" height="539" frameX="-97" frameY="0" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt Down0007" x="868" y="589" width="867" height="539" frameX="-97" frameY="0" frameWidth="1025" frameHeight="592"/>
+	<SubTexture name="Matt idle0000" x="1735" y="589" width="457" height="507" frameX="-46" frameY="-33" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0001" x="2192" y="589" width="467" height="515" frameX="-44" frameY="-29" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0002" x="2659" y="589" width="478" height="528" frameX="-41" frameY="-25" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0003" x="3137" y="589" width="507" height="563" frameX="-35" frameY="-5" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0004" x="0" y="1152" width="519" height="578" frameX="-30" frameY="0" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0005" x="519" y="1152" width="522" height="584" frameX="-28" frameY="0" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0006" x="1041" y="1152" width="533" height="582" frameX="-14" frameY="0" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0007" x="1574" y="1152" width="545" height="574" frameX="0" frameY="0" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0008" x="2119" y="1152" width="541" height="572" frameX="-3" frameY="0" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0009" x="2660" y="1152" width="520" height="556" frameX="-12" frameY="-10" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0010" x="3180" y="1152" width="496" height="538" frameX="-25" frameY="-25" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0011" x="0" y="1736" width="505" height="551" frameX="-13" frameY="-23" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0012" x="505" y="1736" width="510" height="557" frameX="-10" frameY="-18" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0013" x="1015" y="1736" width="488" height="534" frameX="-28" frameY="-23" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt idle0014" x="1735" y="589" width="457" height="507" frameX="-46" frameY="-33" frameWidth="550" frameHeight="584"/>
+	<SubTexture name="Matt Left0000" x="1503" y="1736" width="537" height="616"/>
+	<SubTexture name="Matt Left0001" x="2040" y="1736" width="507" height="554" frameX="-21" frameY="-21" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Left0002" x="2547" y="1736" width="488" height="534" frameX="-38" frameY="-38" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Left0003" x="3035" y="1736" width="480" height="520" frameX="-52" frameY="-52" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Left0004" x="3515" y="1736" width="476" height="517" frameX="-58" frameY="-55" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Left0005" x="0" y="2352" width="476" height="517" frameX="-58" frameY="-55" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Left0006" x="476" y="2352" width="476" height="517" frameX="-58" frameY="-55" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Left0007" x="476" y="2352" width="476" height="517" frameX="-58" frameY="-55" frameWidth="537" frameHeight="616"/>
+	<SubTexture name="Matt Right0000" x="952" y="2352" width="558" height="580" frameX="-49" frameY="0" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0001" x="1510" y="2352" width="548" height="538" frameX="-21" frameY="-19" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0002" x="2058" y="2352" width="555" height="515" frameX="-5" frameY="-26" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0003" x="2613" y="2352" width="558" height="502" frameX="0" frameY="-29" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0004" x="3171" y="2352" width="558" height="498" frameX="0" frameY="-29" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0005" x="0" y="2932" width="558" height="498" frameX="0" frameY="-29" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0006" x="0" y="2932" width="558" height="498" frameX="0" frameY="-29" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Right0007" x="0" y="2932" width="558" height="498" frameX="0" frameY="-29" frameWidth="607" frameHeight="580"/>
+	<SubTexture name="Matt Up0000" x="558" y="2932" width="619" height="835"/>
+	<SubTexture name="Matt Up0001" x="1177" y="2932" width="482" height="630" frameX="-50" frameY="-104" frameWidth="619" frameHeight="835"/>
+	<SubTexture name="Matt Up0002" x="1659" y="2932" width="433" height="523" frameX="-68" frameY="-160" frameWidth="619" frameHeight="835"/>
+	<SubTexture name="Matt Up0003" x="2092" y="2932" width="419" height="481" frameX="-73" frameY="-182" frameWidth="619" frameHeight="835"/>
+	<SubTexture name="Matt Up0004" x="2511" y="2932" width="416" height="466" frameX="-74" frameY="-186" frameWidth="619" frameHeight="835"/>
+	<SubTexture name="Matt Up0005" x="2927" y="2932" width="416" height="461" frameX="-74" frameY="-187" frameWidth="619" frameHeight="835"/>
+	<SubTexture name="Matt Up0006" x="2927" y="2932" width="416" height="461" frameX="-74" frameY="-187" frameWidth="619" frameHeight="835"/>
+	<SubTexture name="Matt Up0007" x="2927" y="2932" width="416" height="461" frameX="-74" frameY="-187" frameWidth="619" frameHeight="835"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+Shakes and moves the window
+through-out your desktop
+
+Value1: X Value
+Value2: Y Value

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambifarmback.png">
+<SubTexture name="bambifarmback idle0000" x="0" y="0" width="1500" height="900" frameX="0" frameY="0" frameWidth="1500" frameHeight="900" />
+<SubTexture name="bambifarmback idle0001" x="0" y="0" width="1500" height="900" frameX="0" frameY="0" frameWidth="1500" frameHeight="900" />
+<SubTexture name="bambifarmback idle0002" x="0" y="0" width="1500" height="900" frameX="0" frameY="0" frameWidth="1500" frameHeight="900" />
+<SubTexture name="bambifarmback idle0003" x="1500" y="0" width="1500" height="900" frameX="0" frameY="0" frameWidth="1500" frameHeight="900" />
+<SubTexture name="bambifarmback idle0004" x="1500" y="0" width="1500" height="900" frameX="0" frameY="0" frameWidth="1500" frameHeight="900" />
+<SubTexture name="bambifarmback idle0005" x="1500" y="0" width="1500" height="900" frameX="0" frameY="0" frameWidth="1500" frameHeight="900" />
+</TextureAtlas>

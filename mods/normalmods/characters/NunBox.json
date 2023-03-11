@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nunchuck Attack Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nunchuck Shield"
+		},
+		{
+			"offsets": [
+				70,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hit",
+			"indices": [],
+			"name": "Nunchuck Hit"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nunchuck Attack Left"
+		},
+		{
+			"offsets": [
+				-5,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nunchuck Attack Up"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nunchuck Attack Right"
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fistthrow",
+			"indices": [],
+			"name": "Nunchuck Attack FistThrow"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NunchuckBox",
+	"position": [
+		70,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

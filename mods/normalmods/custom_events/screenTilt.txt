@@ -1,0 +1,3 @@
+Tilt the screen
+value1 is the final angle
+value2 is the duration of the tilt

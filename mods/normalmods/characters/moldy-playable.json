@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MoldyGH idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MoldyGH down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MoldyGH left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MoldyGH up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MoldyGH right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MoldyGH",
+	"position": [
+		-50,
+		-170
+	],
+	"healthicon": "moldy",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

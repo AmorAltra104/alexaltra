@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mort.png">
+ <SubTexture name="Mort Idol0000" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+ <SubTexture name="Mort up0000" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+ <SubTexture name="Mort down0000" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+ <SubTexture name="Mort left0000" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+ <SubTexture name="Mort right0000" x="0" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+</TextureAtlas>
