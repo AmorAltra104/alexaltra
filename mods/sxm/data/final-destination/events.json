@@ -1,0 +1,200 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "boxma",
+		"player1": "bfshock",
+		"player2": "shaggyM",
+		"player3": null,
+		"events": [
+			[
+				57550,
+				[
+					[
+						"Screen Shake",
+						"13, 0.03",
+						""
+					],
+					[
+						"Blammed Lights",
+						"1",
+						""
+					],
+					[
+						"Toggle Trail",
+						"",
+						"1"
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"0"
+					],
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.1"
+					]
+				]
+			],
+			[
+				89550,
+				[
+					[
+						"Screen Shake",
+						"1.8, 0.01",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91150,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				92750,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				131150,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					],
+					[
+						"Screen Shake",
+						"13, 0.03",
+						""
+					],
+					[
+						"Toggle Trail",
+						"",
+						"1"
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				143950,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"0"
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.1"
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				156950,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				157050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				157150,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				157250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				157350,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "matt",
+		"bpm": 300,
+		"mania": 8,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "final-destination"
+	}
+}

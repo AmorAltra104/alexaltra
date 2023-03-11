@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "spooky",
+		"player1": "matt",
+		"player2": "rshaggysit",
+		"player3": null,
+		"events": [
+			[
+				19500,
+				[
+					[
+						"Play Animation",
+						"standUP",
+						"dad"
+					]
+				]
+			],
+			[
+				19937.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rshaggy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "NoGF",
+		"bpm": 240,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Power-Link"
+	}
+}

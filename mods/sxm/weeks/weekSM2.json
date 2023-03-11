@@ -1,0 +1,57 @@
+{
+	"storyName": "the shaggy and matt revenge!",
+	"hideFreeplay": false,
+	"weekBackground": "boxin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekSM",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"ShaggyMatt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"powered",
+			"shaggy",
+			[
+				86,
+				173,
+				193
+			]
+		],
+		[
+			"coercion",
+			"shaggymatt",
+			[
+				0,
+				53,
+				255
+			]
+		],
+		[
+			"destructive duo",
+			"shaggymatt",
+			[
+				166,
+				33,
+				155
+			]
+		],
+		[
+			"burning regret",
+			"shaggymattangry",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Shaggy + Matt 2"
+}

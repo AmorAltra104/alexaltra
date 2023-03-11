@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		100,
+		100
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "redshagman talk idle",
+			"anim": "talk idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "redshagman talk sad?",
+			"anim": "talk sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "redshagman talk i will kill",
+			"anim": "talk mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "redshagman talk ?????",
+			"anim": "talk ?",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "redshagman talk what",
+			"anim": "talk confident",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "redshagman talk"
+}

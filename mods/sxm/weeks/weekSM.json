@@ -1,0 +1,49 @@
+{
+	"storyName": "Shaggy X Matt Ultimate Power",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "boxin",
+	"weekBefore": "weekprologue",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Power Link",
+			"shaggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Revenge",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Final Destination",
+			"shaggymatt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"ShaggyMatt",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"weekName": "Shaggy + Matt"
+}

@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hey.",
+			"boxState": "normal",
+			"sound": "pixeltext",
+			"portrait": "matttalk",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk sad",
+			"text": "i've come to this mansion to accept your training.",
+			"boxState": "normal",
+			"portrait": "matttalk",
+			"speed": 0.035,
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk left",
+			"text": "sure thing man!",
+			"boxState": "normal",
+			"portrait": "redshagmantalk",
+			"speed": 0.035,
+			"sound": "pixeltext"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, how will we train?"
+		},
+		{
+			"expression": "talk confident",
+			"text": "i'll channel some power through a regular song battle.",
+			"boxState": "normal",
+			"portrait": "redshagmantalk",
+			"speed": 0.035,
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk idle",
+			"text": "Won't feel any different from singing normally as power cannalization has no feeling.",
+			"boxState": "normal",
+			"portrait": "redshagmantalk",
+			"speed": 0.035,
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk idle",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "matttalk",
+			"speed": 0.035,
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk right",
+			"text": "i just wanna beat that kid. will this help me do that?",
+			"boxState": "normal",
+			"portrait": "matttalk",
+			"speed": 0.035,
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk ?",
+			"text": "this will give you more control over voice- direction correlation",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"sound": "pixeltext"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can sense that you've got great singing speed already."
+		},
+		{
+			"expression": "talk confident",
+			"text": "With this you'll be like, unstoppable!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk idle",
+			"text": "Heh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matttalk",
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk confident",
+			"text": "But first, show me what you've got.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk up",
+			"text": "thank you so much!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk confident",
+			"text": "No problem, Man!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"sound": "pixeltext"
+		},
+		{
+			"expression": "talk right",
+			"text": "Let's do this!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"sound": "pixeltext"
+		}
+	]
+}

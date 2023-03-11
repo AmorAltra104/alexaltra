@@ -1,0 +1,31 @@
+{
+	"storyName": "chapter final soon!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "boxin",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"soon",
+			"shaggy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "Shaggy + Matt"
+}

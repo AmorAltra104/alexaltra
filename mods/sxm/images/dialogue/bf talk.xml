@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf talk.png"><SubTexture name="bf talk idle0000" x="0" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
+<SubTexture name="bf talk missed0000" x="434" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
+<SubTexture name="bf talk up0000" x="868" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
+<SubTexture name="bf talk boo0000" x="1302" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
+</TextureAtlas>

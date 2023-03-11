@@ -1,0 +1,9 @@
+just place it anywhere.
+if you want to change the time just change where are ''9999'':
+                          
+    if curStep >= 0 and curStep < 9999 then
+        setProperty("camHUD.angle", spin * math.sin(songPos))
+    end
+                
+    if curStep == 9999 then
+        setProperty("camHUD.angle", 0)

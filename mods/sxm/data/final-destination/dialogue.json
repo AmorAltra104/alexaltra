@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GOD DAMN IT!!!!"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk sad",
+			"text": "Hey, like, what's wrong dude?"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I CAN'T! I CAN'T BEAT THIS PIECE OF SHIT!!!!!"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk ?",
+			"text": "That's a bit rude..."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk ?",
+			"text": "There's no point in getting angry. this guy is physically unable to loose"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...what?"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk ?",
+			"text": "'that kid' is boyfriend."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk ?",
+			"text": "Every single being in this universe that has challenged him was defeated and stuff"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk ?",
+			"text": "That's because any time he looses a battle he dies."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk confident",
+			"text": "But death does not mean end to him, every time he dies he is given the choice to reset time to a certain state"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk confident",
+			"text": "That means that from our perspective, there is no possible outcome in which the flow of time continues after he's defeated"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the hell"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i've been fighting for nothing?"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk confident",
+			"text": "Your power has increased drastically. I wouldn't call that nothing man"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, I'll tell you what."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk confident",
+			"text": "We can't beat him but we can sure as heck give him a challenge."
+		},
+		{
+			"sound": "pixelbtext",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "boop?"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You wanna sing together?"
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk confident",
+			"text": "Yeah man! with my power and your speed, he's bound to have a bad time."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.035,
+			"portrait": "redshagmantalk",
+			"boxState": "normal",
+			"expression": "talk ?",
+			"text": "If that makes you fell better of course..."
+		},
+		{
+			"sound": "pixeltext",
+			"speed": 0.05,
+			"portrait": "matttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

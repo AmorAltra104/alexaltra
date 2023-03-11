@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-258
+			],
+			"anim": "sit",
+			"fps": 30,
+			"name": "shaggy_sit0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "standUP",
+			"fps": 30,
+			"name": "shaggy_stand0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-220
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": true,
+			"name": "shaggy_sit0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rshaggysit",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		26,
+		26
+	],
+	"camera_position": [
+		-30,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

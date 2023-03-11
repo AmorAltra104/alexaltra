@@ -1,0 +1,64 @@
+{
+	"position": [
+		-40,
+		80
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": false,
+	"scale": 1.3,
+	"image": "matt talk",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "matt talk idle",
+			"loop_name": ""
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "left",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "matt talk left"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "matt talk right"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "up",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "matt talk up"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "sky",
+		"player1": "bfscared",
+		"player2": "shaggymattangry",
+		"player3": null,
+		"events": [
+			[
+				99000,
+				[
+					[
+						"Screen Shake",
+						"1, 0.10",
+						""
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				99500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "mattangry",
+		"bpm": 150,
+		"mania": 9,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "burning regret"
+	}
+}

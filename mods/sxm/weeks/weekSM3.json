@@ -1,0 +1,50 @@
+{
+	"storyName": "the final revenge with someone else!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekSM2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"shaggymatt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"multiverse encounter",
+			"rshaggygshaggy",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"my turn!",
+			"rshaggy",
+			[
+				255,
+				0,
+				15
+			]
+		],
+		[
+			"now mine!",
+			"gshaggy",
+			[
+				66,
+				255,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "stop!",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		90
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf talk idle",
+			"anim": "bf talk idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf talk missed",
+			"anim": "bf talk missed",
+			"loop_offsets": [
+				0,
+				-1
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf talk up",
+			"anim": "bf talk up",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf talk boo",
+			"anim": "bf talk boo",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bf talk"
+}
