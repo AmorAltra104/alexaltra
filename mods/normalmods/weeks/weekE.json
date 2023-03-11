@@ -1,0 +1,26 @@
+{
+	"storyName": "BRUH THERES MORE???",
+	"difficulties": "Easy, Normal, Hard, Legacy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bonus-Song",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "THERES MORE????"
+}

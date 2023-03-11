@@ -1,0 +1,103 @@
+{
+	"storyName": "Matt isnt on his best mood",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "arena",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"punchout",
+			"matt",
+			[
+				235,
+				175,
+				35
+			]
+		],
+		[
+			"Shadow Taker",
+			"mattangry",
+			[
+				175,
+				100,
+				180
+			]
+		],
+		[
+			"end up",
+			"boxingmatt",
+			[
+				160,
+				120,
+				0
+			]
+		],
+		[
+			"new-end-up",
+			"boxingmatt",
+			[
+				160,
+				120,
+				0
+			]
+		],
+		[
+			"edgelord",
+			"combat",
+			[
+				0,
+				0,
+				160
+			]
+		],
+		[
+			"no",
+			"boxingmatt",
+			[
+				140,
+				60,
+				0
+			]
+		],
+		[
+			"menacing-power",
+			"boxingmatt",
+			[
+				220,
+				200,
+				80
+			]
+		],
+		[
+			"last-breath",
+			"mattgod",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"unfortunate",
+			"kivromatt",
+			[
+				120,
+				120,
+				20
+			]
+		]
+	],
+	"weekName": "TitleBout"
+}

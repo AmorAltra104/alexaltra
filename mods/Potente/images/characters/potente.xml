@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pot.png"><SubTexture name="pot idle0000" x="0" y="0" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot idle0001" x="358" y="0" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot idle0002" x="716" y="0" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot idle0003" x="1074" y="0" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot idle0004" x="0" y="510" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot idle0005" x="358" y="510" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot idle0006" x="716" y="510" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot left0000" x="1074" y="510" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot left0001" x="0" y="1020" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot left0002" x="358" y="1020" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot down0000" x="716" y="1020" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot down0001" x="1074" y="1020" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot down0002" x="0" y="1530" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot up0000" x="358" y="1530" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot up0001" x="716" y="1530" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot up0002" x="1074" y="1530" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot right0000" x="0" y="2040" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot right0001" x="358" y="2040" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+<SubTexture name="pot right0002" x="716" y="2040" width="358" height="510" frameX="0" frameY="0" frameWidth="358" frameHeight="510" />
+</TextureAtlas>

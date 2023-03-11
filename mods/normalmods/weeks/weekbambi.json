@@ -1,0 +1,31 @@
+{
+	"storyName": "Stop breaking your phone mf!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "farm",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Arable",
+			"bambiphone",
+			[
+				86,
+				193,
+				13
+			]
+		]
+	],
+	"weekCharacters": [
+		"bambiphone",
+		"bf",
+		"gf"
+	],
+	"weekName": "BambiArable"
+}

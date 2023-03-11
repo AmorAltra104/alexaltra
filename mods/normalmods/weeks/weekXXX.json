@@ -1,0 +1,49 @@
+{
+	"storyName": "Mr. Bambi's Fun Corn Maze!",
+	"difficulties": "Easy, Normal, Hard, Legacy",
+	"hideFreeplay": false,
+	"weekBackground": "bamballs",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"davehouse",
+		"davehouse",
+		"davehouse"
+	],
+	"songs": [
+		[
+			"Blocked",
+			"bambi",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Corn-theft",
+			"bambi",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Maze",
+			"bambi",
+			[
+				0,
+				193,
+				0
+			]
+		]
+	],
+	"weekName": "bamballs!"
+}

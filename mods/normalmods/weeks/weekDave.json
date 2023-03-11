@@ -1,0 +1,49 @@
+{
+	"storyName": "Dave's fun rapping battle!",
+	"difficulties": "Easy, Normal, Hard, Legacy",
+	"hideFreeplay": false,
+	"weekBackground": "davehouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"House",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Insanity",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Polygonized",
+			"dave-furiosity",
+			[
+				255,
+				193,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"davehouse",
+		"davehouse",
+		"davehouse"
+	],
+	"hideStoryMode": false,
+	"weekName": "Dave"
+}
