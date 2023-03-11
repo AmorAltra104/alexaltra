@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scary Bambi.png"><SubTexture name="Scary Bambi Idle Dance0000" x="3360" y="3791" width="930" height="1077" frameX="-226" frameY="-295" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0001" x="0" y="4906" width="924" height="1062" frameX="-230" frameY="-310" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0002" x="6880" y="0" width="885" height="1025" frameX="-191" frameY="-347" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0003" x="5962" y="2102" width="912" height="1037" frameX="-259" frameY="-333" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0004" x="5962" y="1064" width="872" height="1038" frameX="-226" frameY="-331" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0005" x="0" y="1344" width="1047" height="1246" frameX="-139" frameY="-126" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0006" x="2937" y="4906" width="1039" height="1040" frameX="-129" frameY="-332" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0007" x="6880" y="1025" width="882" height="1005" frameX="-245" frameY="-367" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0008" x="0" y="5968" width="917" height="1025" frameX="-235" frameY="-347" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Idle Dance0009" x="5962" y="0" width="918" height="1064" frameX="-226" frameY="-308" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Right Pose0000" x="3783" y="1203" width="1008" height="1202" frameX="-96" frameY="-148" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Right Pose0001" x="3783" y="0" width="1062" height="1203" frameX="-316" frameY="-151" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Right Pose0002" x="1122" y="2590" width="960" height="1176" frameX="-416" frameY="-177" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Right Pose0003" x="2710" y="0" width="1073" height="1223" frameX="-104" frameY="-138" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Right Pose0004" x="1796" y="0" width="914" height="1267" frameX="-263" frameY="-83" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Left Pose0000" x="4845" y="0" width="1117" height="1122" frameX="-214" frameY="-227" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Left Pose0001" x="4845" y="2241" width="873" height="1091" frameX="-136" frameY="-260" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Left Pose0002" x="5962" y="3139" width="873" height="1036" frameX="-210" frameY="-316" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Left Pose0003" x="2014" y="4906" width="923" height="1055" frameX="-221" frameY="-290" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Left Pose0004" x="4845" y="1122" width="979" height="1119" frameX="-190" frameY="-230" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Down Smack0000" x="0" y="2590" width="1122" height="1201" frameX="-146" frameY="-143" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Down Smack0001" x="3985" y="5968" width="1151" height="911" frameX="-133" frameY="-431" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Down Smack0002" x="5136" y="5968" width="1154" height="836" frameX="-129" frameY="-511" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Down Smack0003" x="6290" y="5968" width="1152" height="831" frameX="-126" frameY="-459" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Down Smack0004" x="2801" y="5968" width="1184" height="947" frameX="-106" frameY="-328" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Up Pose0000" x="2368" y="3791" width="992" height="1091" frameX="-167" frameY="-260" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Up Pose0001" x="0" y="0" width="927" height="1344" frameX="-162" frameY="-9" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Up Pose0002" x="927" y="0" width="869" height="1308" frameX="-173" frameY="-45" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Up Pose0003" x="1047" y="1344" width="946" height="1228" frameX="-100" frameY="-123" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Up Pose0004" x="4947" y="4906" width="1069" height="1028" frameX="-59" frameY="-323" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0000" x="2710" y="1223" width="862" height="1204" frameX="-207" frameY="-163" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0001" x="2981" y="2590" width="1256" height="1131" frameX="-108" frameY="-234" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0002" x="1150" y="3791" width="1218" height="1104" frameX="-106" frameY="-264" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0003" x="924" y="4906" width="1090" height="1060" frameX="-139" frameY="-308" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0004" x="2082" y="2590" width="899" height="1144" frameX="-223" frameY="-223" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0005" x="917" y="5968" width="961" height="1010" frameX="-111" frameY="-363" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0006" x="0" y="3791" width="1150" height="1115" frameX="-179" frameY="-253" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0007" x="4290" y="3791" width="1059" height="1074" frameX="-200" frameY="-293" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0008" x="3976" y="4906" width="971" height="1040" frameX="-215" frameY="-327" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="Scary Bambi Trolling0009" x="1878" y="5968" width="923" height="993" frameX="-249" frameY="-374" frameWidth="1378" frameHeight="1378" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wiik1000train.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="train0000" x="0" y="0" width="1560" height="462"/>
+	<SubTexture name="train0001" x="0" y="462" width="1560" height="462"/>
+	<SubTexture name="train0002" x="0" y="924" width="1560" height="462"/>
+	<SubTexture name="train0003" x="0" y="1386" width="1560" height="462"/>
+</TextureAtlas>

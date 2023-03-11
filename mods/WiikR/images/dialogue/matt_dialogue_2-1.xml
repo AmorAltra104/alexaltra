@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="matt dialogue 2.png"><SubTexture name="matt dialogue 2 speak0000" x="0" y="0" width="101" height="144" frameX="-5" frameY="0" frameWidth="107" frameHeight="144" />
+<SubTexture name="matt dialogue 2 speak0001" x="101" y="0" width="102" height="144" frameX="-4" frameY="0" frameWidth="107" frameHeight="144" />
+<SubTexture name="matt dialogue 2 speak0002" x="203" y="0" width="101" height="144" frameX="-2" frameY="0" frameWidth="107" frameHeight="144" />
+</TextureAtlas>

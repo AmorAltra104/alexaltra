@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitch.png"><SubTexture name="glitch speak0000" x="0" y="0" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch speak0001" x="128" y="0" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch speak0002" x="0" y="159" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch speak0003" x="128" y="159" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch speak0004" x="0" y="318" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch speak0005" x="128" y="318" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch speak0006" x="0" y="477" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+<SubTexture name="glitch silent0000" x="128" y="477" width="128" height="159" frameX="0" frameY="0" frameWidth="128" frameHeight="159" />
+</TextureAtlas>

@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		270,
+		190
+	],
+	"scale": 3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "matt dialogue 2 speak",
+			"idle_name": "matt dialogue 2 speak"
+		}
+	],
+	"image": "matt_dialogue_2-1"
+}

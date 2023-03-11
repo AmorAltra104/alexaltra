@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt_dialog.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt talk0000" x="0" y="0" width="281" height="303" frameX="0" frameY="-7" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0001" x="0" y="0" width="281" height="303" frameX="0" frameY="-7" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0002" x="281" y="0" width="260" height="310" frameX="-8" frameY="0" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0003" x="281" y="0" width="260" height="310" frameX="-8" frameY="0" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0004" x="541" y="0" width="265" height="308" frameX="-6" frameY="-2" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0005" x="541" y="0" width="265" height="308" frameX="-6" frameY="-2" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0006" x="806" y="0" width="270" height="306" frameX="-6" frameY="-4" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk0007" x="806" y="0" width="270" height="306" frameX="-6" frameY="-4" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0000" x="1076" y="0" width="284" height="302" frameX="0" frameY="-8" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0001" x="1076" y="0" width="284" height="302" frameX="0" frameY="-8" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0002" x="1360" y="0" width="273" height="310" frameX="-6" frameY="0" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0003" x="1360" y="0" width="273" height="310" frameX="-6" frameY="0" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0004" x="1633" y="0" width="279" height="308" frameX="-3" frameY="-2" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0005" x="1633" y="0" width="279" height="308" frameX="-3" frameY="-2" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0006" x="0" y="310" width="282" height="307" frameX="-2" frameY="-3" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk grrr0007" x="0" y="310" width="282" height="307" frameX="-2" frameY="-3" frameWidth="284" frameHeight="310"/>
+	<SubTexture name="matt talk uh0000" x="282" y="310" width="281" height="302" frameX="0" frameY="-8" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0001" x="282" y="310" width="281" height="302" frameX="0" frameY="-8" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0002" x="281" y="0" width="260" height="310" frameX="-8" frameY="0" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0003" x="281" y="0" width="260" height="310" frameX="-8" frameY="0" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0004" x="541" y="0" width="265" height="308" frameX="-6" frameY="-2" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0005" x="541" y="0" width="265" height="308" frameX="-6" frameY="-2" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0006" x="563" y="310" width="265" height="306" frameX="-6" frameY="-4" frameWidth="281" frameHeight="310"/>
+	<SubTexture name="matt talk uh0007" x="563" y="310" width="265" height="306" frameX="-6" frameY="-4" frameWidth="281" frameHeight="310"/>
+</TextureAtlas>

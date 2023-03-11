@@ -1,0 +1,40 @@
+{
+	"storyName": "the true revenge",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"pegadinha",
+			"pegadinha",
+			[
+				255,
+				175,
+				115
+			]
+		],
+		[
+			"pegadinha remix",
+			"pegadinha",
+			[
+				255,
+				175,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"Matt",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

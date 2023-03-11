@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				452,
+				18
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "g left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				350,
+				10
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "g down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				374,
+				10
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "g up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				252,
+				-3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "g right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "g idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "g idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "g left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "g right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "g up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt_punch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "matt3",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		75,
+		80
+	],
+	"camera_position": [
+		-20,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

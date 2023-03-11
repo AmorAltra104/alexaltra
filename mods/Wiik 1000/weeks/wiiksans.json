@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Mattgalo",
+			"mattsans",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "mattsans",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "sans",
+	"weekName": "wiiksans",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "wiik1000",
+	"startUnlocked": true
+}

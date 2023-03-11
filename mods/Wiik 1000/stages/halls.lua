@@ -1,0 +1,15 @@
+function onCreate()
+
+makeLuaSprite('bg','judgementbackground',-275,-200)
+addLuaSprite('bg')
+scaleObject('bg', 1, 1)
+makeLuaSprite('fg','judgementforeground',-275,-100)
+addLuaSprite('fg', true)
+scaleObject('fg', 1, 1)
+makeLuaSprite('black', 'thebox',-300,-900)
+makeLuaSprite('black2', 'thebox',-300,550)
+--addLuaSprite('black')
+--addLuaSprite('black2')
+setObjectCamera('black','camHUD')
+setObjectCamera('black2','camHUD')
+end

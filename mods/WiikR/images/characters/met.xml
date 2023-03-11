@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="matt.png"><SubTexture name="matt idle dance0000" x="963" y="712" width="458" height="605" frameX="-294" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0001" x="2449" y="1138" width="487" height="559" frameX="-293" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0002" x="2938" y="0" width="490" height="558" frameX="-293" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0003" x="2449" y="0" width="489" height="572" frameX="-293" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0004" x="0" y="1337" width="482" height="585" frameX="-294" frameY="-123" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0005" x="1450" y="605" width="468" height="596" frameX="-294" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0006" x="1450" y="0" width="468" height="605" frameX="-294" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0007" x="1450" y="0" width="468" height="605" frameX="-294" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0008" x="1450" y="0" width="468" height="605" frameX="-294" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle dance0009" x="1450" y="0" width="468" height="605" frameX="-294" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt right pose0000" x="482" y="1337" width="474" height="578" frameX="-295" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt right pose0001" x="0" y="1922" width="493" height="572" frameX="-296" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt right pose0002" x="2449" y="572" width="477" height="566" frameX="-297" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt right pose0003" x="2938" y="558" width="459" height="553" frameX="-297" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt right pose0004" x="956" y="1337" width="446" height="578" frameX="-295" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt left pose0000" x="493" y="1922" width="534" height="570" frameX="-143" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt left pose0001" x="1402" y="1337" width="690" height="574" frameX="-7" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt left pose0002" x="1695" y="1922" width="685" height="567" frameX="-3" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt left pose0003" x="0" y="2494" width="665" height="558" frameX="-17" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt left pose0004" x="1027" y="1922" width="668" height="570" frameX="-23" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt down pose0000" x="1918" y="594" width="519" height="590" frameX="-276" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt down pose0001" x="665" y="2494" width="591" height="556" frameX="-283" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt down pose0002" x="1256" y="2494" width="555" height="551" frameX="-281" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt down pose0003" x="2380" y="1922" width="515" height="563" frameX="-276" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt down pose0004" x="1918" y="0" width="531" height="594" frameX="-264" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt idle0000" x="0" y="712" width="484" height="625" frameX="-248" frameY="-87" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt up pose0000" x="0" y="0" width="488" height="712" frameX="-243" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt up pose0001" x="488" y="0" width="481" height="693" frameX="-239" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt up pose0002" x="969" y="0" width="481" height="663" frameX="-244" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matt up pose0003" x="484" y="712" width="479" height="623" frameX="-248" frameY="-89" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mattmuitodoido.png"><SubTexture name="mattmuitodoido idle0000" x="0" y="0" width="439" height="592" frameX="-31" frameY="-12" frameWidth="506" frameHeight="630" />
+<SubTexture name="mattmuitodoido idle0001" x="865" y="0" width="390" height="526" frameX="-33" frameY="-27" frameWidth="457" frameHeight="593" />
+<SubTexture name="mattmuitodoido idle0002" x="439" y="0" width="426" height="575" frameX="-51" frameY="-6" frameWidth="524" frameHeight="593" />
+</TextureAtlas>

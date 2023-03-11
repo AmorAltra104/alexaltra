@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "idle",
+	"idle_anim": "idle",
+	"position": [
+		90,
+		0
+	],
+	"scale": 0.85,
+	"image": "Menu_Matt"
+}

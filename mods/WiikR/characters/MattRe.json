@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle dance0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right pose0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt left pose0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down pose0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matt up pose0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/met",
+	"position": [
+		-140,
+		110
+	],
+	"healthicon": "matt1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		139,
+		0
+	],
+	"camera_position": [
+		-20,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

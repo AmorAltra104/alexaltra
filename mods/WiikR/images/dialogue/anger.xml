@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anger.png"><SubTexture name="anger speak0000" x="0" y="0" width="111" height="148" frameX="0" frameY="0" frameWidth="111" frameHeight="148" />
+<SubTexture name="anger speak0001" x="0" y="148" width="111" height="148" frameX="0" frameY="0" frameWidth="111" frameHeight="148" />
+<SubTexture name="anger silent0000" x="0" y="296" width="111" height="148" frameX="0" frameY="0" frameWidth="111" frameHeight="148" />
+</TextureAtlas>

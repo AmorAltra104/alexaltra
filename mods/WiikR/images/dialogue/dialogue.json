@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "God damn, why are you so good?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What was I thinking.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY DID I DECIDE TO TRAIN A DWARF WITH A TEA KETTLE FOR A VOICE?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "okay that one kinda hurt"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You won’t win.. you can’t win."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have to redeem myself."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattputo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I HAVE TO DESTROY YOU!"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rejected idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rejected left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rejected down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rejected up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rejected right pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rejectedp",
+	"position": [
+		-310,
+		10
+	],
+	"healthicon": "rejectedp",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		110,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

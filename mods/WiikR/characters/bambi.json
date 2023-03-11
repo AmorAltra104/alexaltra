@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				330,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scary Bambi Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				373
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scary Bambi Right Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				329,
+				363
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scary Bambi Left Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scary Bambi Down Smack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				364,
+				375
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scary Bambi Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scary_Bambi",
+	"position": [
+		-140,
+		110
+	],
+	"healthicon": "matt1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		139,
+		0
+	],
+	"camera_position": [
+		-20,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				75,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matt singLEFT"
+		},
+		{
+			"offsets": [
+				-29,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up"
+		},
+		{
+			"offsets": [
+				-90,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down"
+		},
+		{
+			"offsets": [
+				2,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matte",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-mattfalled",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		255
+	],
+	"camera_position": [
+		120,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
