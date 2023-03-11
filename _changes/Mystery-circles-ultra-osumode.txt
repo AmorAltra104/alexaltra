@@ -1,0 +1,19 @@
+mods/data/Mystery-circles-ultra/boyfriend die.lua
+mods/data/Mystery-circles-ultra/lel2.lua
+mods/data/Mystery-circles-ultra/mod.txt
+mods/data/Mystery-circles-ultra/script.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/Camellia/fonts/2.ttf
+mods/songs/Mystery-circles-ultra/Inst.ogg
+mods/songs/Mystery-circles-ultra/inst.ogg

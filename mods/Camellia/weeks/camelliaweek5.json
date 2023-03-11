@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "4",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "week3HF",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ghost",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"ghoul",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"ghost-vip",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week4extra",
+	"hiddenUntilUnlocked": false
+}

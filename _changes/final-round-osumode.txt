@@ -1,0 +1,27 @@
+mods/data/final-round/events.json
+mods/data/final-round/final-round-broke.json
+mods/data/final-round/final-round-easy.json
+mods/data/final-round/final-round-hard.json
+mods/data/final-round/final-round.json
+mods/data/final-round/mod.txt
+mods/data/final-round/script.lua
+mods/data/final-round/script2.lua
+mods/data/final-round/script3 (this is so dumb).lua
+mods/data/final-round/script3_this_is_so_dumb.lua
+mods/data/final-round/scripto.lua
+mods/data/final-round/Spin using Sine and Cosine waves.lua
+mods/data/final-round/white.lua
+mods/WiikR/stages/BOOMmattbreakseverythinglikeuknow.json
+mods/WiikR/stages/BOOMmattbreakseverythinglikeuknow.lua
+mods/WiikR/custom_events/Camera Flash.lua
+mods/WiikR/custom_events/LinearSpin.lua
+mods/WiikR/scripts/ChangeSecondaryCharacter.lua
+mods/WiikR/scripts/Dead Script.lua
+mods/WiikR/scripts/graynote.lua
+mods/WiikR/scripts/grayscript.lua
+mods/WiikR/scripts/iconbop.lua
+mods/WiikR/scripts/precacheing.lua
+mods/songs/final-round/Voices.ogg
+mods/songs/final-round/voices.ogg
+mods/songs/final-round/Inst.ogg
+mods/songs/final-round/inst.ogg

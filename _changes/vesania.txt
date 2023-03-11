@@ -1,0 +1,55 @@
+mods/data/vesania/camIntro.lua
+mods/data/vesania/events.json
+mods/WI/characters/suicide.json
+mods/WI/images/characters/Suicide.png
+mods/WI/images/characters/Suicide.xml
+mods/data/vesania/mod.txt
+mods/data/vesania/vesania-hard.json
+mods/WI/characters/bf-retro.json
+mods/WI/characters/smileeeeer.json
+mods/WI/stages/vesania.json
+mods/WI/stages/vesania.lua
+mods/WI/images/characters/BOYFRIEND-RETRO.png
+mods/WI/images/characters/BOYFRIEND-RETRO.xml
+mods/WI/images/characters/Smiler_Mouse.png
+mods/WI/images/characters/Smiler_Mouse.xml
+mods/WI/custom_events/Set Cam Zoom.lua
+mods/WI/custom_events/Flash.lua
+mods/WI/scripts/cameraMovement.lua
+mods/WI/scripts/camShake.lua
+mods/WI/scripts/camZoom.lua
+mods/WI/scripts/changeGameOver.lua
+mods/WI/scripts/cinematic.lua
+mods/WI/scripts/countDownEffect.lua
+mods/WI/scripts/cutscenes.lua
+mods/WI/scripts/endMickeyAnimations.lua
+mods/WI/scripts/extraCharacter.lua
+mods/WI/scripts/healthDrain.lua
+mods/WI/scripts/mickeyHud.lua
+mods/WI/scripts/oldEffect.lua
+mods/WI/scripts/screenBeat.lua
+mods/WI/scripts/songTransitions.lua
+mods/WI/images/backgrounds/vesania/sky.png
+mods/WI/images/backgrounds/vesania/pillar bg.png
+mods/WI/images/backgrounds/vesania/satan.png
+mods/WI/images/backgrounds/vesania/satan.xml
+mods/WI/images/backgrounds/vesania/BG.png
+mods/WI/images/backgrounds/vesania/demons.png
+mods/WI/images/backgrounds/vesania/demons.xml
+mods/WI/images/backgrounds/vesania/Skulls.png
+mods/WI/images/characters/leakers/MICKEY-LEAKER-Book.png
+mods/WI/images/characters/leakers/MICKEY-LEAKER-Book.xml
+mods/WI/characters/leakermouse.json
+mods/WI/images/characters/leakers/MICKEY-LEAKER.png
+mods/WI/images/characters/leakers/MICKEY-LEAKER.xml
+mods/WI/images/characters/leakers/SATAN LEAKERS.png
+mods/WI/images/characters/leakers/SATAN LEAKERS.xml
+mods/WI/fonts/MilkyNice.ttf
+mods/WI/images/daSTAT.png
+mods/WI/images/daSTAT.xml
+mods/WI/images/grain.png
+mods/WI/images/grain.xml
+mods/songs/vesania/Voices.ogg
+mods/songs/vesania/voices.ogg
+mods/songs/vesania/Inst.ogg
+mods/songs/vesania/inst.ogg

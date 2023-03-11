@@ -1,0 +1,15 @@
+mods/data/final-boss/final-boss-canon.json
+mods/data/final-boss/mod.txt
+mods/Rhys fanchart/characters/bf.json
+mods/Rhys fanchart/characters/unknowedShag.json
+mods/Rhys fanchart/characters/unknowedmatt.json
+mods/Rhys fanchart/stages/final-boss.json
+mods/Rhys fanchart/stages/final-boss.lua
+mods/Rhys fanchart/images/characters/unknowedShag.png
+mods/Rhys fanchart/images/characters/unknowedShag.xml
+mods/Rhys fanchart/images/characters/unknowedmatt.png
+mods/Rhys fanchart/images/characters/unknowedmatt.xml
+mods/Rhys fanchart/scripts/MultiKeySupport.lua
+mods/Rhys fanchart/images/final boss.png
+mods/songs/final-boss/Inst.ogg
+mods/songs/final-boss/inst.ogg

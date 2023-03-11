@@ -1,0 +1,61 @@
+mods/data/liquated-cmode/camellia die.lua
+mods/data/liquated-cmode/liquated-cmode-hard.json
+mods/data/liquated-cmode/liquated-cmode-mania-c.json
+mods/data/liquated-cmode/liquated-cmode-modchart.json
+mods/data/liquated-cmode/liquated-cmode.json
+mods/data/liquated-cmode/mod.txt
+mods/data/liquated-cmode/script.lua
+mods/Camellia/characters/camellia-c.json
+mods/Camellia/characters/bf-c.json
+mods/Camellia/stages/stage1-c.json
+mods/Camellia/stages/stage1-c.lua
+mods/Camellia/images/characters/camellia-c.png
+mods/Camellia/images/characters/camellia-c.xml
+mods/Camellia/images/characters/BOYFRIEND-c.png
+mods/Camellia/images/characters/BOYFRIEND-c.xml
+mods/Camellia/stages/stage1.1-c.json
+mods/Camellia/stages/stage1.1-c.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/images/stage1/BG_CITY.png
+mods/Camellia/images/stage1/BG_WALL.png
+mods/Camellia/images/stage1/FG_Floor.png
+mods/Camellia/images/stage1/BF_GLOW.png
+mods/Camellia/images/stage1/CAMELLIA_GLOW2.png
+mods/Camellia/fonts/font.ttf
+mods/Camellia/fonts/2.ttf
+mods/Camellia/images/stage1/BG_CITY2.png
+mods/Camellia/images/stage1/BG_CITY2.xml
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/Camellia/images/myth engine/newscorewall.png
+mods/Camellia/images/myth engine/newscorewall-botplay.png
+mods/Camellia/images/myth engine/bar camellia bf.png
+mods/Camellia/images/myth engine/bar botan bf.png
+mods/Camellia/images/myth engine/bar gf bf.png
+mods/Camellia/images/myth engine/bar camellia neobf.png
+mods/Camellia/images/myth engine/bar pico pico.png
+mods/Camellia/images/myth engine/bar bf camellia.png
+mods/Camellia/images/myth engine/bar miku bf.png
+mods/Camellia/images/myth engine/bar bf botan.png
+mods/Camellia/images/myth engine/healthlight.png
+mods/Camellia/images/myth engine/healthlight.xml
+mods/Camellia/images/myth engine/newtimebars.png
+mods/Camellia/images/myth engine/timebar camellia.png
+mods/Camellia/images/myth engine/timebar botan.png
+mods/Camellia/images/myth engine/timebar miku.png
+mods/Camellia/images/myth engine/timebar pico.png
+mods/Camellia/images/myth engine/timebar gf.png
+mods/Camellia/images/myth engine/timebar bf.png
+mods/songs/liquated-cmode/Voices.ogg
+mods/songs/liquated-cmode/voices.ogg
+mods/songs/liquated-cmode/Inst.ogg
+mods/songs/liquated-cmode/inst.ogg

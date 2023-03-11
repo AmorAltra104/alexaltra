@@ -1,0 +1,67 @@
+{
+	"storyName": "This is chaos help!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "boxin",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"4 players joined",
+			"smbt",
+			[
+				166,
+				173,
+				253
+			]
+		],
+		[
+			"6 players joined",
+			"smbtwz",
+			[
+				46,
+				173,
+				253
+			]
+		],
+		[
+			"the transformed quad",
+			"transformedquad",
+			[
+				20,
+				40,
+				73
+			]
+		],
+		[
+			"4 players joined god",
+			"smbtgod",
+			[
+				26,
+				0,
+				0
+			]
+		],
+		[
+			"6 players joined god",
+			"smbtwzgod",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "bruh"
+}

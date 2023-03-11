@@ -1,0 +1,13 @@
+mods/data/resort/mod.txt
+mods/data/resort/resort-hard.json
+mods/data/resort/Script.lua
+mods/Matt Pursuit/stages/midnight.json
+mods/Matt Pursuit/stages/midnight.lua
+mods/Matt Pursuit/custom_events/Cinematics.lua
+mods/Matt Pursuit/custom_events/TweenSpin.lua
+mods/Matt Pursuit/custom_events/wavy.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/songs/resort/Voices.ogg
+mods/songs/resort/voices.ogg
+mods/songs/resort/Inst.ogg
+mods/songs/resort/inst.ogg

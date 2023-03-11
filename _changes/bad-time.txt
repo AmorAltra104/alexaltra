@@ -1,0 +1,44 @@
+mods/data/bad-time/bad-time-genocidal.json
+mods/data/bad-time/bad-time-hard.json
+mods/data/bad-time/DodgeSans.lua
+mods/data/bad-time/healthbarsans.lua
+mods/data/bad-time/lelleelle.lua
+mods/data/bad-time/mod.txt
+mods/data/bad-time/no.lua
+mods/data/bad-time/no2.lua
+mods/data/bad-time/sans jumpscare.lua
+mods/data/bad-time/script.lua
+mods/data/bad-time/sus.lua
+mods/IC/characters/4bfsans.json
+mods/IC/characters/4sans.json
+mods/IC/characters/nogf.json
+mods/IC/stages/sansN.json
+mods/IC/stages/sansN.lua
+mods/IC/images/characters/Nightmare/Sans/BF-BS-shader.png
+mods/IC/images/characters/Nightmare/Sans/BF-BS-shader.xml
+mods/IC/images/characters/Nightmare/Sans/DeathSans.png
+mods/IC/images/characters/Nightmare/Sans/DeathSans.xml
+mods/IC/images/characters/GF_assetsno.png
+mods/IC/images/characters/GF_assetsno.xml
+mods/IC/custom_notetypes/Orange Bone Note.lua
+mods/IC/custom_notetypes/Blue Bone Note.lua
+mods/IC/custom_events/CamaraZoom.lua
+mods/IC/scripts/charDance.lua
+mods/IC/scripts/Debug_Keys.lua
+mods/IC/scripts/heltxd.lua
+mods/IC/scripts/Kade.lua
+mods/IC/scripts/Splash.lua
+mods/IC/images/zassets/sans/images/Nightmare Sans Stage.png
+mods/IC/images/zassets/sans/images/Nightmare Sans Stage.xml
+mods/IC/images/zassets/bendy/images/jejejboy.png
+mods/IC/images/OBONE_assets.png
+mods/IC/images/OBONE_assets.xml
+mods/IC/images/BBONE_assets.png
+mods/IC/images/BBONE_assets.xml
+mods/IC/images/1PortPorAsbelSen.png
+mods/IC/images/2PortPorAsbelSen.png
+mods/IC/fonts/cumhead.otf
+mods/songs/bad-time/Voices.ogg
+mods/songs/bad-time/voices.ogg
+mods/songs/bad-time/Inst.ogg
+mods/songs/bad-time/inst.ogg

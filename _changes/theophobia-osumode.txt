@@ -1,0 +1,21 @@
+mods/data/theophobia/file.lua
+mods/data/theophobia/mod.txt
+mods/data/theophobia/script.lua
+mods/data/theophobia/Spin using Sine and Cosine waves.lua
+mods/data/theophobia/theophobia-broke.json
+mods/data/theophobia/theophobia-easy.json
+mods/data/theophobia/theophobia-hard.json
+mods/data/theophobia/theophobia.json
+mods/WiikR/stages/BOOMmattbreakseverythinglikeuknow.json
+mods/WiikR/stages/BOOMmattbreakseverythinglikeuknow.lua
+mods/WiikR/custom_events/Camera Flash.lua
+mods/WiikR/scripts/ChangeSecondaryCharacter.lua
+mods/WiikR/scripts/Dead Script.lua
+mods/WiikR/scripts/graynote.lua
+mods/WiikR/scripts/grayscript.lua
+mods/WiikR/scripts/iconbop.lua
+mods/WiikR/scripts/precacheing.lua
+mods/songs/theophobia/Voices.ogg
+mods/songs/theophobia/voices.ogg
+mods/songs/theophobia/Inst.ogg
+mods/songs/theophobia/inst.ogg

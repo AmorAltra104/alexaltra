@@ -1,0 +1,132 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c,Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"first-town-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"liquated-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"why-do-you-hate-me-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"quaoar-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"crystallized-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"nacreous-snowmelt-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"lioness-pride-cmode",
+			"botan",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"ghost-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"ghoul-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"ghost-vip-cmode",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"boyfriend",
+			"bf",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		
+		[
+		"pico",
+			"pico",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "weeks1",
+	"hiddenUntilUnlocked": false
+}

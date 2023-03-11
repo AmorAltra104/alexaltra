@@ -1,0 +1,11 @@
+mods/data/racket/mod.txt
+mods/data/racket/racket-hard.json
+mods/data/racket/Script.lua
+mods/data/racket/Script1.lua
+mods/Matt Pursuit/stages/courtday.json
+mods/Matt Pursuit/stages/courtday.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/songs/racket/Voices.ogg
+mods/songs/racket/voices.ogg
+mods/songs/racket/Inst.ogg
+mods/songs/racket/inst.ogg

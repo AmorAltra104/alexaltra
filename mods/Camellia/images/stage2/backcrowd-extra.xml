@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="无标题-1.png">
+
+
+	<SubTexture name="bg1000" x="1950" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1001" x="0" y="650" width="1950" height="650"/>
+	<SubTexture name="bg1002" x="1950" y="650" width="1950" height="650"/>
+	<SubTexture name="bg1003" x="0" y="1300" width="1950" height="650"/>
+	<SubTexture name="bg1004" x="1950" y="1300" width="1950" height="650"/>
+	<SubTexture name="bg1005" x="0" y="1300" width="1950" height="650"/>
+	<SubTexture name="bg1006" x="1950" y="650" width="1950" height="650"/>
+	<SubTexture name="bg1007" x="0" y="650" width="1950" height="650"/>
+	<SubTexture name="bg1008" x="1950" y="0" width="1950" height="650"/>
+
+	<SubTexture name="bg1009" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1010" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1011" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1012" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1013" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1014" x="0" y="0" width="1950" height="650"/>
+    <SubTexture name="bg1015" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1016" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1017" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1018" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1019" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1020" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1021" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1022" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1023" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1024" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1025" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1026" x="0" y="0" width="1950" height="650"/>
+	<SubTexture name="bg1027" x="0" y="0" width="1950" height="650"/>
+
+</TextureAtlas>

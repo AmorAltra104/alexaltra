@@ -1,0 +1,10 @@
+mods/data/final-destination/events.json
+mods/data/final-destination/final-destination-erect.json
+mods/data/final-destination/mod.txt
+mods/bonus/stages/boxmaerect.json
+mods/bonus/stages/boxmaerect.lua
+mods/bonus/custom_events/Toggle Trail.lua
+mods/songs/final-destination/Voices.ogg
+mods/songs/final-destination/voices.ogg
+mods/songs/final-destination/Inst.ogg
+mods/songs/final-destination/inst.ogg

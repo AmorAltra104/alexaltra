@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see you’ve made it past that last battle. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "that was kinda tuff! All this rock-flying stuff is just too overkilled, but i managed to pass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Enough with this nonsensical blabbering. Make no mistake, pal, I am nowhere near my true capability."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But that’s only to ensure less collateral damage. Besides, I’d rather not have problems with your girlfriend’s parents."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tell me, though, BF.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What have you done to help anyone?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What have you created? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " I know you’ve battled a nearly infinite amount of other opponents in other realities. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you haven’t done anything to help any of them."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Think on this, dwarf: Am I really the villain, or are you the true villain?\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That arena that we trained in the first time we met.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All I wanted to do was help train a new person to get better at singing. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you just kept coming back. And you ruined my life."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Just as you have so many others."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "metigodi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your rampage ends now. Show me what you can do."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i'm sorry..."
+		}
+	]
+}

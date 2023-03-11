@@ -1,0 +1,19 @@
+mods/data/end-up/Cutscene.lua
+mods/data/end-up/CutsceneEnd.lua
+mods/data/end-up/end-up.json
+mods/data/end-up/mod.txt
+mods/normalmods/stages/ArenaDanger.json
+mods/normalmods/stages/ArenaDanger.lua
+mods/normalmods/custom_notetypes/Bell Note Sing.lua
+mods/normalmods/custom_notetypes/Bell Note.lua
+mods/normalmods/custom_events/Arrow flip.lua
+mods/normalmods/custom_events/LinearAlpha.lua
+mods/normalmods/custom_events/Flash Camera.lua
+mods/normalmods/custom_events/Set Cam Zoom.lua
+mods/normalmods/custom_events/Cam Boom Speed.lua
+mods/normalmods/sounds/bell.ogg
+mods/normalmods/sounds/cancelMenu.ogg
+mods/songs/end-up/Voices.ogg
+mods/songs/end-up/voices.ogg
+mods/songs/end-up/Inst.ogg
+mods/songs/end-up/inst.ogg

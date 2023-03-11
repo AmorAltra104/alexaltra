@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "wtf",
+			"text": "Now can you guys explain what you're trying to do?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "neutral",
+			"text": "Well you see,",
+			"boxState": "normal",
+			"sound": "homebrew1",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "talk",
+			"text": "This matt individual has immense power",
+			"boxState": "normal",
+			"sound": "homebrew2",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "neutral",
+			"text": "We must transport it into our facility to study it.",
+			"boxState": "normal",
+			"sound": "homebrew3",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "talk",
+			"text": "So we can replicate that same power.",
+			"boxState": "normal",
+			"sound": "homebrew4",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "nerd",
+			"text": "Good for your bro",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "There's no way to end the process",
+			"boxState": "normal",
+			"sound": "homebrew5",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "talk",
+			"text": "Unless of course you homebrew the Wii.",
+			"boxState": "normal",
+			"sound": "homebrew6",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "talk",
+			"text": "But you don't know how to do that!",
+			"boxState": "normal",
+			"sound": "homebrew7",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes I do.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "I saw a tutorial yestarday.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "All I gotta do is press this button and...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angry",
+			"text": "WAIT!",
+			"boxState": "angry",
+			"sound": "homebrew8",
+			"speed": 0.05,
+			"portrait": "half"
+		},
+		{
+			"sound": "homebrew9",
+			"speed": 0.05,
+			"portrait": "corrupt",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Idiot."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "Huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "Oh./"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap battle."
+		},
+		{
+			"sound": "homebrew10",
+			"speed": 0.05,
+			"portrait": "corrupt",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Fine."
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "final destination but erect!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "boxin",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"final destination erect",
+			"shaggymatterect",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"shaggymatt",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

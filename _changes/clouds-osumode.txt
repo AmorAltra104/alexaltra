@@ -1,0 +1,14 @@
+mods/data/clouds/clouds-easy.json
+mods/data/clouds/clouds-hard.json
+mods/data/clouds/clouds.json
+mods/data/clouds/coolstuff.lua
+mods/data/clouds/CreditsSong.lua
+mods/data/clouds/glitchfx.lua
+mods/data/clouds/mod.txt
+mods/Wiik 1000/stages/matttrain.json
+mods/Wiik 1000/stages/matttrain.lua
+mods/Wiik 1000/scripts/CreditsScript.lua
+mods/songs/clouds/Voices.ogg
+mods/songs/clouds/voices.ogg
+mods/songs/clouds/Inst.ogg
+mods/songs/clouds/inst.ogg

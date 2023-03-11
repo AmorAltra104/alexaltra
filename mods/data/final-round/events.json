@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.7,
+		"stage": "BOOMmattbreakseverythinglikeuknow",
+		"player1": "miibf",
+		"player2": "mattsuperpowered",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"midlescroll",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				50,
+				[
+					[
+						"Move",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "girlfriend invisivel",
+		"bpm": 300,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "final-round"
+	}
+}

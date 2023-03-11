@@ -1,0 +1,31 @@
+mods/data/versiculus-iratus/camPos.lua
+mods/data/versiculus-iratus/mod.txt
+mods/data/versiculus-iratus/satan laugh.lua
+mods/data/versiculus-iratus/versiculus-iratus-hard.json
+mods/data/versiculus-iratus/versiculus-iratus-old.json
+mods/WI/stages/hell.json
+mods/WI/stages/hell.lua
+mods/WI/custom_events/UI Fade.lua
+mods/WI/custom_events/Flash.lua
+mods/WI/custom_events/cinematic.lua
+mods/WI/custom_events/Fade Cameras.lua
+mods/WI/custom_events/Set Cam Zoom.lua
+mods/WI/scripts/cameraMovement.lua
+mods/WI/scripts/camShake.lua
+mods/WI/scripts/camZoom.lua
+mods/WI/scripts/changeGameOver.lua
+mods/WI/scripts/cinematic.lua
+mods/WI/scripts/countDownEffect.lua
+mods/WI/scripts/cutscenes.lua
+mods/WI/scripts/endMickeyAnimations.lua
+mods/WI/scripts/extraCharacter.lua
+mods/WI/scripts/healthDrain.lua
+mods/WI/scripts/mickeyHud.lua
+mods/WI/scripts/oldEffect.lua
+mods/WI/scripts/screenBeat.lua
+mods/WI/scripts/songTransitions.lua
+mods/WI/fonts/MilkyNice.ttf
+mods/songs/versiculus-iratus/Voices.ogg
+mods/songs/versiculus-iratus/voices.ogg
+mods/songs/versiculus-iratus/Inst.ogg
+mods/songs/versiculus-iratus/inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				105,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				144,
+				64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				-19,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				-29,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				-22,
+				228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "matt up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/def_godmatt",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "lol",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		75
+	],
+	"camera_position": [
+		-70,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

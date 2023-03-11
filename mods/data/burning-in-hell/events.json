@@ -1,0 +1,279 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "sans-21",
+		"player1": "bf-chara",
+		"player2": "sans-enojao",
+		"player3": null,
+		"events": [
+			[
+				14294.1176470588,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20823.5294117647,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33264.7058823529,
+				[
+					[
+						"Play Animation",
+						"anim",
+						"dad"
+					]
+				]
+			],
+			[
+				33794.1176470588,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sans-21"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-chara-2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.34",
+						"1"
+					]
+				]
+			],
+			[
+				33882.3529411765,
+				[
+					[
+						"Flashes Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Set Cam Zoom",
+						"0.72",
+						"1"
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sans-enojao"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-chara"
+					]
+				]
+			],
+			[
+				79059.0588235293,
+				[
+					[
+						"Flashes Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				81088.2352941175,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82852.9411764705,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90970.588235294,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				97235.2941176469,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-chara-2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sans-21"
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.34",
+						"1"
+					]
+				]
+			],
+			[
+				101735.294117647,
+				[
+					[
+						"Flashes Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120352.94117647,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"Set Cam Zoom",
+						"0.72",
+						"1"
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sans-enojao"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-chara"
+					]
+				]
+			],
+			[
+				124240.529411764,
+				[
+					[
+						"Flashes Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				127147.058823529,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134117.647058823,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				136323.529411764,
+				[
+					[
+						"DodgeMechanic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				163764.705882353,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFAYU",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Burning-In-Hell"
+	}
+}

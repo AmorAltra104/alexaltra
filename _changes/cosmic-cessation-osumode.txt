@@ -1,0 +1,6 @@
+mods/data/cosmic-cessation/cosmic-cessation-canon.json
+mods/data/cosmic-cessation/events.json
+mods/data/cosmic-cessation/mod.txt
+mods/bonus/custom_events/Toggle Trail.lua
+mods/songs/cosmic-cessation/Inst.ogg
+mods/songs/cosmic-cessation/inst.ogg

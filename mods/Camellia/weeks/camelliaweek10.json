@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "4",
+	"weekBefore": "",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"pgbs",
+			"miku",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"ghost-vs-ghoul",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"machinegun-psystyle",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week9other"
+}

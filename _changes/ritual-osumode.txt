@@ -1,0 +1,20 @@
+mods/data/ritual/bro.lua
+mods/data/ritual/healthbarbendy.lua
+mods/data/ritual/mod.txt
+mods/data/ritual/ritual-hard.json
+mods/data/ritual/skip countdown.lua
+mods/data/ritual/sus.lua
+mods/data/ritual/urigod.lua
+mods/IC/stages/ritual.json
+mods/IC/stages/ritual.lua
+mods/IC/custom_notetypes/TintaNote.lua
+mods/IC/scripts/charDance.lua
+mods/IC/scripts/Debug_Keys.lua
+mods/IC/scripts/heltxd.lua
+mods/IC/scripts/Kade.lua
+mods/IC/scripts/Splash.lua
+mods/IC/fonts/cumhead.otf
+mods/songs/ritual/Voices.ogg
+mods/songs/ritual/voices.ogg
+mods/songs/ritual/Inst.ogg
+mods/songs/ritual/inst.ogg

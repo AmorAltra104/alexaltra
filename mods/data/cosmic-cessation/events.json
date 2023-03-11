@@ -1,0 +1,120 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "boxma",
+		"player1": "bf",
+		"player2": "oshaggy",
+		"player3": null,
+		"events": [
+			[
+				47000,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				47900,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				50300,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				51100,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"1"
+					],
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Toggle Trail",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					],
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				198300,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "dmatt",
+		"bpm": 150,
+		"mania": 8,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Cosmic-Cessation"
+	}
+}

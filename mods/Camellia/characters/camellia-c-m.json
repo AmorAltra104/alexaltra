@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				86,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Camellia_Idle"
+		},
+		{
+			"offsets": [
+				86,
+				132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Camellia_Left0"
+		},
+		{
+			"offsets": [
+				86,
+				202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Camellia_Down0"
+		},
+		{
+			"offsets": [
+				86,
+				198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Camellia_Up0"
+		},
+		{
+			"offsets": [
+				86,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Camellia_Right0"
+		},
+		{
+			"offsets": [
+				89,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Camellia_Left_MISS"
+		},
+		{
+			"offsets": [
+				87,
+				202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Camellia_Down_MISS0"
+		},
+		{
+			"offsets": [
+				91,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Camellia_Up_MISS"
+		},
+		{
+			"offsets": [
+				159,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "camelliafunkmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/camellia-c",
+	"position": [
+		180,
+		310
+	],
+	"healthicon": "camellia",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		95,
+		66
+	],
+	"camera_position": [
+		50,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

@@ -1,0 +1,7 @@
+mods/data/final-boss/final-boss-canon.json
+mods/data/final-boss/mod.txt
+mods/Rhys fanchart/stages/final-boss.json
+mods/Rhys fanchart/stages/final-boss.lua
+mods/Rhys fanchart/scripts/MultiKeySupport.lua
+mods/songs/final-boss/Inst.ogg
+mods/songs/final-boss/inst.ogg

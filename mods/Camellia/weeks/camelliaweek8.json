@@ -1,0 +1,33 @@
+{
+	"storyName": "",
+	"difficulties": "Impossible, Impossible, Impossible, Impossible",
+	"hideFreeplay": false,
+	"weekBackground": "3",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"hello-bpm-2021",
+			"neobf",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	
+	],
+	"hideStoryMode": true,
+	"weekName": "week3HF",
+	"hiddenUntilUnlocked": false
+}

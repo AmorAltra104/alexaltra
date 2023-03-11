@@ -1,0 +1,11 @@
+mods/data/commonsense/commonsense-easy.json
+mods/data/commonsense/commonsense-hard.json
+mods/data/commonsense/commonsense.json
+mods/data/commonsense/events.json
+mods/data/commonsense/mod.txt
+mods/data/commonsense/script.lua
+mods/nonsense/stages/stage.json
+mods/songs/commonsense/Voices.ogg
+mods/songs/commonsense/voices.ogg
+mods/songs/commonsense/Inst.ogg
+mods/songs/commonsense/inst.ogg

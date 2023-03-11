@@ -1,0 +1,32 @@
+mods/data/unknown-suffering/hudFade.lua
+mods/data/unknown-suffering/mod.txt
+mods/data/unknown-suffering/unknown-suffering-hard.json
+mods/WI/stages/bobux.json
+mods/WI/stages/bobux.lua
+mods/WI/custom_events/UI Fade.lua
+mods/WI/custom_events/Flash.lua
+mods/WI/custom_events/Do Syringe.lua
+mods/WI/custom_events/Set Cam Zoom.lua
+mods/WI/custom_events/coverScreen.lua
+mods/WI/custom_events/Scroll Speed Change.lua
+mods/WI/custom_events/objectAlpha.lua
+mods/WI/scripts/cameraMovement.lua
+mods/WI/scripts/camShake.lua
+mods/WI/scripts/camZoom.lua
+mods/WI/scripts/changeGameOver.lua
+mods/WI/scripts/cinematic.lua
+mods/WI/scripts/countDownEffect.lua
+mods/WI/scripts/cutscenes.lua
+mods/WI/scripts/endMickeyAnimations.lua
+mods/WI/scripts/extraCharacter.lua
+mods/WI/scripts/healthDrain.lua
+mods/WI/scripts/mickeyHud.lua
+mods/WI/scripts/oldEffect.lua
+mods/WI/scripts/screenBeat.lua
+mods/WI/scripts/songTransitions.lua
+mods/WI/sounds/mechanics/Warning.ogg
+mods/WI/fonts/MilkyNice.ttf
+mods/songs/unknown-suffering/Voices.ogg
+mods/songs/unknown-suffering/voices.ogg
+mods/songs/unknown-suffering/Inst.ogg
+mods/songs/unknown-suffering/inst.ogg

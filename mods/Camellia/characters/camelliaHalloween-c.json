@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				133
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Camellia_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				158
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Camellia_Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				206
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Camellia_Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				203
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Camellia_Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Camellia_Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				154
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Camellia_Left_MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				208
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Camellia_Down_MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				235
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Camellia_Up_MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				137
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Camellia_Right_MISS",
+			"indices": []
+		}
+		
+	],
+	"no_antialiasing": false,
+	"image": "characters/camellia_halloween-c",
+	"position": [
+		180,
+		310
+	],
+	"healthicon": "camellia",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		95,
+		86
+	],
+	"camera_position": [
+		50,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

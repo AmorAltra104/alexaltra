@@ -1,0 +1,12 @@
+mods/data/stardust/mod.txt
+mods/data/stardust/Script.lua
+mods/data/stardust/Script1.lua
+mods/data/stardust/stardust-hard.json
+mods/Matt Pursuit/stages/midnight.json
+mods/Matt Pursuit/stages/midnight.lua
+mods/Matt Pursuit/custom_events/Toggle Trail.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/songs/stardust/Voices.ogg
+mods/songs/stardust/voices.ogg
+mods/songs/stardust/Inst.ogg
+mods/songs/stardust/inst.ogg

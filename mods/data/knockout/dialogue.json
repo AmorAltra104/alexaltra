@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "wtf",
+			"text": "That's all you got?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "wtf",
+			"text": "That was nothing!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "I actually tried that time.",
+			"boxState": "normal",
+			"sound": "knockout1",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Listen here Despicable Mii",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "angry",
+			"text": "There's NO WAY that's all you can do.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "But it was late at-",
+			"boxState": "normal",
+			"sound": "knockout2",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "angry",
+			"text": "No excuses.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "sad",
+			"text": "Btw is this song well charted because the old version of it wasn't...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"sound": "knockout6",
+			"speed": 0.05,
+			"portrait": "pursuit",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "*old knockout sounds*"
+		},
+		{
+			"expression": "angy",
+			"text": "What",
+			"boxState": "normal",
+			"sound": "knockout3",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "angy",
+			"text": "You had the easy side stop complaining.",
+			"boxState": "normal",
+			"sound": "knockout4",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "Give it your all.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		},
+		{
+			"expression": "normal",
+			"text": "Are you sure you want me to actually try this time?",
+			"boxState": "normal",
+			"sound": "knockout5",
+			"speed": 0.05,
+			"portrait": "pursuit"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm sure.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfpursuit"
+		}
+	]
+}

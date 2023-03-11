@@ -1,0 +1,32 @@
+mods/data/crystallized/boyfriend die.lua
+mods/data/crystallized/crystallized-hard.json
+mods/data/crystallized/crystallized-mania-c.json
+mods/data/crystallized/crystallized-modchart.json
+mods/data/crystallized/crystallized.json
+mods/data/crystallized/lel2.lua
+mods/data/crystallized/mod.txt
+mods/data/crystallized/script.lua
+mods/data/crystallized/storymode.lua
+mods/Camellia/stages/stage2.json
+mods/Camellia/stages/stage2.lua
+mods/Camellia/custom_events/Hud Zoom.lua
+mods/Camellia/custom_events/Set Cam Zoom.lua
+mods/Camellia/custom_events/CamaraHudZoom.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/fonts/font.ttf
+mods/Camellia/fonts/2.ttf
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/songs/crystallized/Voices.ogg
+mods/songs/crystallized/voices.ogg
+mods/songs/crystallized/Inst.ogg
+mods/songs/crystallized/inst.ogg

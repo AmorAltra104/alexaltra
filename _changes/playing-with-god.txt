@@ -1,0 +1,30 @@
+mods/data/playing-with-god/events.json
+mods/Rhys fanchart/characters/godmatt.json
+mods/Rhys fanchart/images/characters/godmatt.png
+mods/Rhys fanchart/images/characters/godmatt.xml
+mods/Rhys fanchart/characters/godpshaggy.json
+mods/Rhys fanchart/images/characters/godpshaggy.png
+mods/Rhys fanchart/images/characters/godpshaggy.xml
+mods/Rhys fanchart/characters/pshaggy.json
+mods/Rhys fanchart/images/characters/pshaggy.png
+mods/Rhys fanchart/images/characters/pshaggy.xml
+mods/Rhys fanchart/characters/matt2.json
+mods/Rhys fanchart/images/characters/mattangry.png
+mods/Rhys fanchart/images/characters/mattangry.xml
+mods/data/playing-with-god/mod.txt
+mods/data/playing-with-god/playing-with-god-canon.json
+mods/data/playing-with-god/playing-with-god-mania.json
+mods/data/playing-with-god/script1.lua
+mods/Rhys fanchart/characters/bf.json
+mods/Rhys fanchart/stages/god-eater.json
+mods/Rhys fanchart/stages/god-eater.lua
+mods/Rhys fanchart/scripts/MultiKeySupport.lua
+mods/Rhys fanchart/images/god eater/god_bg.png
+mods/Rhys fanchart/images/god eater/god_bg.xml
+mods/Rhys fanchart/images/god eater/sasso.png
+mods/Rhys fanchart/images/god eater/rocas1.png
+mods/Rhys fanchart/images/god eater/rocas1.xml
+mods/songs/playing-with-god/Voices.ogg
+mods/songs/playing-with-god/voices.ogg
+mods/songs/playing-with-god/Inst.ogg
+mods/songs/playing-with-god/inst.ogg

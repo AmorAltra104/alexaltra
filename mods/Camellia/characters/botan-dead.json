@@ -1,0 +1,57 @@
+{
+	"animations": [
+		
+		{
+			"offsets": [
+				134,
+				187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "botan GameOver START"
+		},
+		{
+			"offsets": [
+				82,
+				150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "botan GameOver LOOP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				253
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "botan GameOver RETRYCONFIRM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/botan-dead",
+	"position": [
+		180,
+		310
+	],
+	"healthicon": "botan",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		202,
+		230
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

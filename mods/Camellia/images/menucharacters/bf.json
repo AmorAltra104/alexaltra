@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF HEY!!",
+	"idle_anim": "BF idle dance white",
+	"position": [
+		58,
+		2
+	],
+	"scale": 0.8,
+	"image": "menu_bf",
+	"flipX": false
+}

@@ -1,0 +1,6 @@
+mods/data/adagio/mod.txt
+mods/Rhys fanchart/scripts/MultiKeySupport.lua
+mods/songs/adagio/Voices.ogg
+mods/songs/adagio/voices.ogg
+mods/songs/adagio/Inst.ogg
+mods/songs/adagio/inst.ogg

@@ -1,0 +1,16 @@
+mods/data/arrival/arrival-broke.json
+mods/data/arrival/arrival-hard.json
+mods/data/arrival/mod.txt
+mods/data/arrival/script.lua
+mods/WiikR/stages/bgignisgladius.json
+mods/WiikR/stages/bgignisgladius.lua
+mods/WiikR/scripts/ChangeSecondaryCharacter.lua
+mods/WiikR/scripts/Dead Script.lua
+mods/WiikR/scripts/graynote.lua
+mods/WiikR/scripts/grayscript.lua
+mods/WiikR/scripts/iconbop.lua
+mods/WiikR/scripts/precacheing.lua
+mods/songs/arrival/Voices.ogg
+mods/songs/arrival/voices.ogg
+mods/songs/arrival/Inst.ogg
+mods/songs/arrival/inst.ogg

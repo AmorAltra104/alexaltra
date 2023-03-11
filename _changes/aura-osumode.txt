@@ -1,0 +1,8 @@
+mods/data/aura/aura-canon.json
+mods/data/aura/mod.txt
+mods/data/aura/script1.lua
+mods/Rhys fanchart/stages/WBG.json
+mods/Rhys fanchart/stages/WBG.lua
+mods/Rhys fanchart/scripts/MultiKeySupport.lua
+mods/songs/aura/Inst.ogg
+mods/songs/aura/inst.ogg

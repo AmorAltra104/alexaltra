@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay man this is getting boring"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " *He just doesn't care*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You understand that even I'm not excited about this anymore?, maybe it's better to end this once and for all"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You're like this because you didn't get v-bucks *vine boom*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Clearly annoyed*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won the v-bucks"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Didn't win ��"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, coming out of it.  I want to end this once and for all"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I win, I'll give you 200 bobux.. but if I lose, I'll have to give all the v-bucks I got"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " *Dramatic music*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

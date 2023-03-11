@@ -1,0 +1,12 @@
+mods/data/ignis-gladius/ignis-gladius-hard.json
+mods/data/ignis-gladius/mod.txt
+mods/WiikR/stages/bgignisgladius.lua
+mods/WiikR/stages/bgignisgladius.json
+mods/WiikR/images/bgfront.png
+mods/WiikR/images/bgback.png
+mods/WiikR/stages/bgignisgladius.json
+mods/songs/ignis-gladius/Inst.ogg
+mods/songs/ignis-gladius/Voices.ogg
+mods/WiikR/images/characters/kendo.png
+mods/WiikR/images/characters/kendo.xml
+mods/WiikR/characters/swordplaymatt.json

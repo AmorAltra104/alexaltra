@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow.. again?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you here again, after all?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're really insisting on this, it's getting irritating."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep, Boop, Beep, Haha"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know you can talk, you know that."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "... Okay"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just came to sing, I couldn't find anyone who wanted to sing but that stranger "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you're looking for something to do?, Okay then, you've found it."
+		}
+	]
+}

@@ -1,0 +1,23 @@
+mods/data/final-destination/events.json
+mods/data/final-destination/final-destination-erect.json
+mods/data/final-destination/mod.txt
+mods/bonus/characters/erect-bf.json
+mods/bonus/characters/shaggyME.json
+mods/bonus/characters/matt.json
+mods/bonus/stages/boxmaerect.json
+mods/bonus/stages/boxmaerect.lua
+mods/bonus/images/characters/BF_ERECT.png
+mods/bonus/images/characters/BF_ERECT.xml
+mods/bonus/images/characters/shaggy.png
+mods/bonus/images/characters/shaggy.xml
+mods/bonus/images/characters/matt.png
+mods/bonus/images/characters/matt.xml
+mods/bonus/custom_events/Toggle Trail.lua
+mods/bonus/images/boxmaerect/boxwall.png
+mods/bonus/images/boxmaerect/boxingnight3.png
+mods/bonus/images/characters/GF_ERECT.png
+mods/bonus/images/characters/GF_ERECT.xml
+mods/songs/final-destination/Voices.ogg
+mods/songs/final-destination/voices.ogg
+mods/songs/final-destination/Inst.ogg
+mods/songs/final-destination/inst.ogg

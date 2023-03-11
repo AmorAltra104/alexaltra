@@ -1,0 +1,24 @@
+mods/data/rival/mod.txt
+mods/data/rival/rival-hard.json
+mods/data/rival/Script.lua
+mods/data/rival/Script1.lua
+mods/Matt Pursuit/characters/garcello.json
+mods/Matt Pursuit/characters/pursuit_new.json
+mods/Matt Pursuit/characters/gfmii.json
+mods/Matt Pursuit/stages/courtday.json
+mods/Matt Pursuit/stages/courtday.lua
+mods/Matt Pursuit/images/characters/garcello_assets.png
+mods/Matt Pursuit/images/characters/garcello_assets.xml
+mods/Matt Pursuit/images/characters/matt_new.png
+mods/Matt Pursuit/images/characters/matt_new.xml
+mods/Matt Pursuit/images/characters/GF_MII_assets.png
+mods/Matt Pursuit/images/characters/GF_MII_assets.xml
+mods/Matt Pursuit/custom_events/health_drain.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/Matt Pursuit/images/SkyBox.png
+mods/Matt Pursuit/images/Buildings.png
+mods/Matt Pursuit/images/Floor.png
+mods/songs/rival/Voices.ogg
+mods/songs/rival/voices.ogg
+mods/songs/rival/Inst.ogg
+mods/songs/rival/inst.ogg

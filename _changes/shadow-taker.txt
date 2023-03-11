@@ -1,0 +1,35 @@
+mods/data/shadow-taker/mod.txt
+mods/data/shadow-taker/shadow-taker.json
+mods/normalmods/characters/Matt.json
+mods/normalmods/characters/gfr2.json
+mods/normalmods/stages/Arena.json
+mods/normalmods/stages/Arena.lua
+mods/normalmods/images/characters/matt_assets.png
+mods/normalmods/images/characters/matt_assets.xml
+mods/normalmods/images/characters/gf/GFr2.png
+mods/normalmods/images/characters/gf/GFr2.xml
+mods/normalmods/characters/Mattangry.json
+mods/normalmods/images/characters/Mattangry.png
+mods/normalmods/images/characters/Mattangry.xml
+mods/normalmods/custom_notetypes/Bell Note Sing.lua
+mods/normalmods/custom_notetypes/Bell Note.lua
+mods/normalmods/custom_events/sound player.lua
+mods/normalmods/custom_events/Set Cam Zoom.lua
+mods/normalmods/custom_events/Cam Boom Speed.lua
+mods/normalmods/custom_events/Arrow flip.lua
+mods/normalmods/custom_events/punch warn fade.lua
+mods/normalmods/custom_events/Flash Camera.lua
+mods/normalmods/custom_events/LinearSpin.lua
+mods/normalmods/images/back.png
+mods/normalmods/images/arena-characters.png
+mods/normalmods/images/arena-characters.xml
+mods/normalmods/images/lights.png
+mods/normalmods/images/arena.png
+mods/normalmods/images/Bell Note.png
+mods/normalmods/images/Bell Note.xml
+mods/normalmods/sounds/cancelMenu.ogg
+mods/normalmods/sounds/bell.ogg
+mods/songs/shadow-taker/Voices.ogg
+mods/songs/shadow-taker/voices.ogg
+mods/songs/shadow-taker/Inst.ogg
+mods/songs/shadow-taker/inst.ogg

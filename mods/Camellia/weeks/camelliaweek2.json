@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"first-town",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"liquated",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"why-do-you-hate-me",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weeks1",
+	"hiddenUntilUnlocked": false
+}

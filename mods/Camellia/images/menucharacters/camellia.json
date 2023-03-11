@@ -1,0 +1,12 @@
+{
+	
+	"image": "Menu_camellia",
+	"position": [
+		140,
+		-50
+	],
+	"loop": false,
+	"scale": 1,
+	"idle_anim": "camellia idle Black Lines",
+	"confirm_anim": "M Dad Idle"
+}

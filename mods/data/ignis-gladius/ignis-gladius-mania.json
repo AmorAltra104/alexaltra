@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "after bf saved the universe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A few weeks go by and the boyfriend goes to the volcano where matt was supposed to be"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And there he was"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Matt was in his armor and with his golden boots"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He was warming up, which was weird because he wasn't supposed to be there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "In that time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, what are you doing here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "here is literally a volcano"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "besides that only fighters can enter the arena"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": " ahm.. why isn't there anyone.. guarding the place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe it's because I came early"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Every time I come before everyone else, to warm up before confrontations"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Isn't that illegal?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Isn't that illegal?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well.. What are you doing here?, Punk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "i came....",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "FOR A REMATCH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": " That time it wasn't worth it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattmuitodoido",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm.. Okay, but I won't hold back"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Some people arrive at the scene and watch the fight"
+		}
+	]
+}

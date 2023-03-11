@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				-317
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "matt left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-283
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "matt down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				-239
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "matt up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-335
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "matt right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				-299
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 30,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				-300
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle2",
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				-37,
+				-270
+			],
+			"loop": false,
+			"anim": "standUP",
+			"fps": 30,
+			"name": "matt up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				-318
+			],
+			"loop": false,
+			"anim": "sit",
+			"fps": 30,
+			"name": "matt down note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/godmatt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shaggymattgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		10,
+		10
+	],
+	"camera_position": [
+		10,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

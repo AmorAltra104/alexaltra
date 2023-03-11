@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BG.png">
+
+<SubTexture name="bg20000" x="1933" y="473" width="1885" height="465" frameX="-33" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20001" x="1933" y="0" width="1897" height="473" frameX="-27" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20002" x="0" y="985" width="1910" height="481" frameX="-20" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20003" x="0" y="497" width="1918" height="488" frameX="-16" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20004" x="0" y="0" width="1933" height="497" frameX="-9" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20005" x="0" y="497" width="1918" height="488" frameX="-16" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20006" x="0" y="985" width="1910" height="481" frameX="-20" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20007" x="1933" y="0" width="1897" height="473" frameX="-27" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20008" x="1933" y="473" width="1885" height="465" frameX="-33" frameY="-152" frameWidth="1950" frameHeight="650" />
+
+<SubTexture name="bg20009" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20010" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20011" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20012" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20013" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20014" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20015" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20016" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20017" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20018" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20019" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20020" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20021" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20022" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20023" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20024" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20025" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20026" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20027" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20028" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20029" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20030" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20031" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20032" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20033" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20034" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20035" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20036" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20037" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20038" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20039" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20040" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+<SubTexture name="bg20041" x="1933" y="938" width="1868" height="457" frameX="-41" frameY="-152" frameWidth="1950" frameHeight="650" />
+
+</TextureAtlas>
+    

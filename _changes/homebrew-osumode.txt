@@ -1,0 +1,13 @@
+mods/data/homebrew/homebrew-hard.json
+mods/data/homebrew/mod.txt
+mods/data/homebrew/Script.lua
+mods/data/homebrew/Script1.lua
+mods/Matt Pursuit/stages/midnight.json
+mods/Matt Pursuit/stages/midnight.lua
+mods/Matt Pursuit/custom_events/wavy.lua
+mods/Matt Pursuit/custom_events/Shader.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/songs/homebrew/Voices.ogg
+mods/songs/homebrew/voices.ogg
+mods/songs/homebrew/Inst.ogg
+mods/songs/homebrew/inst.ogg

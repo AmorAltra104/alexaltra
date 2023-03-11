@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"quaoar",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"crystallized",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"nacreous-snowmelt",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2",
+	"hiddenUntilUnlocked": false
+}

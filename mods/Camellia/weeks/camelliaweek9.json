@@ -1,0 +1,54 @@
+{
+	"storyName": "",
+	"difficulties": "Mania-c, Modchart,Mania-c,Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "4",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"camellia",
+		"bf",
+		"gf"
+	],
+	"songs": 
+	[
+		
+		
+		[
+			"kisaragi",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"Mystery-circles-ultra",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"Compute-It-With-Some-Devilish-Alcoholic-Steampunk-Engines",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+		
+	],
+	"hideStoryMode": true,
+	"weekName": "week9other",
+	"hiddenUntilUnlocked": false
+}

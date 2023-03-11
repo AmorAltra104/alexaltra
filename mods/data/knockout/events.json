@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "fieldrain",
+		"player1": "bf-rain",
+		"player2": "cuphead-pissed",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"playsound",
+						"angry",
+						"5"
+					]
+				]
+			],
+			[
+				133235.294117647,
+				[
+					[
+						"Add Camera Zoom",
+						"0.060",
+						"0.30"
+					]
+				]
+			],
+			[
+				133676.470588235,
+				[
+					[
+						"Add Camera Zoom",
+						"0.060",
+						"0.30"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 136,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Knockout"
+	}
+}

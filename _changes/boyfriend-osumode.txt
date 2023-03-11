@@ -1,0 +1,27 @@
+mods/data/boyfriend/boyfriend die.lua
+mods/data/boyfriend/boyfriend-hard.json
+mods/data/boyfriend/boyfriend-mania-c.json
+mods/data/boyfriend/boyfriend-modchart.json
+mods/data/boyfriend/boyfriend.json
+mods/data/boyfriend/mod.txt
+mods/data/boyfriend/script.lua
+mods/Camellia/stages/stage4.json
+mods/Camellia/stages/stage4.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/fonts/font.ttf
+mods/Camellia/fonts/2.ttf
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/songs/boyfriend/Voices.ogg
+mods/songs/boyfriend/voices.ogg
+mods/songs/boyfriend/Inst.ogg
+mods/songs/boyfriend/inst.ogg
