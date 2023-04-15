@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Matt ChillSnap0"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Matt BoxIdle0"
+		},
+		{
+			"offsets": [
+				-43,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Matt BoxLeft0"
+		},
+		{
+			"offsets": [
+				-41,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Matt BoxDown0"
+		},
+		{
+			"offsets": [
+				-29,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Matt BoxUp0"
+		},
+		{
+			"offsets": [
+				8,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Matt BoxRight0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt_box",
+	"position": [
+		-125,
+		250
+	],
+	"healthicon": "matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		61,
+		186
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welcome to the arena! im here to train you today, i see that you brought your girlfriend too."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok let's start with a warm up, show me what you got!"
+		}
+	]
+}

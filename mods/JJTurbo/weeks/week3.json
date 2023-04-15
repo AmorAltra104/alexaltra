@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"emotion",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"boxing-match-unknown-sides",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ballin",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ballin-b-side",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

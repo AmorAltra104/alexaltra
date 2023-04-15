@@ -1,0 +1,13 @@
+mods/data/bonus-round/bonus-round-hard.json
+mods/data/bonus-round/bonus-round-normal.json
+mods/data/bonus-round/bonus-round.json
+mods/data/bonus-round/mod.txt
+mods/JJTurbo/stages/BoxingRing.json
+mods/JJTurbo/stages/BoxingRing.lua
+mods/JJTurbo/custom_events/Flash.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/bonus-round/Voices.ogg
+mods/songs/bonus-round/voices.ogg
+mods/songs/bonus-round/Inst.ogg
+mods/songs/bonus-round/inst.ogg

@@ -1,0 +1,25 @@
+mods/data/tko/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/data/tko/events.json
+mods/data/tko/goofy_note_press.lua
+mods/data/tko/mod.txt
+mods/data/tko/script2.lua
+mods/data/tko/script3.lua
+mods/data/tko/script4.lua
+mods/data/tko/tko-easy.json
+mods/data/tko/tko-hard.json
+mods/data/tko/tko-old.json
+mods/data/tko/tko.json
+mods/Matt/stages/tko.json
+mods/Matt/stages/tko.lua
+mods/Matt/custom_events/Text.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/images/backwhite.png
+mods/Matt/images/floorblack.png
+mods/songs/tko/Voices.ogg
+mods/songs/tko/voices.ogg
+mods/songs/tko/Inst.ogg
+mods/songs/tko/inst.ogg

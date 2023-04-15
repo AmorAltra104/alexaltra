@@ -1,0 +1,50 @@
+{
+	"storyName": "matt x shaggy (wiik 4)",
+	"difficulties": "hard, god",
+	"hideFreeplay": false,
+	"weekBackground": "matt",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"power link",
+			"rshaggy",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"revenge",
+			"mattblue",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"final destination",
+			"shaggymatt",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

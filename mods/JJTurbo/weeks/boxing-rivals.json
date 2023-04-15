@@ -1,0 +1,32 @@
+{
+	"storyName": "boxing-rivals hehehe",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tko",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"boxing-rivals",
+			"Blue_Matt-icons",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"MattBlue",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "boxing-rivals"
+}

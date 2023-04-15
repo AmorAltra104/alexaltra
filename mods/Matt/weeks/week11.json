@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"disqualified",
+			"sickomode",
+			[
+				115,
+				135,
+				155
+			]
+		],
+		[
+			"competition",
+			"sickomode",
+			[
+				115,
+				135,
+				155
+			]
+		],
+		[
+			"ultimate-knockout",
+			"sickomode",
+			[
+				115,
+				135,
+				155
+			]
+		],
+		[
+			"infraction",
+			"sickomode",
+			[
+				115,
+				135,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

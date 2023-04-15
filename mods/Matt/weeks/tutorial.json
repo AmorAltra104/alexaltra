@@ -1,0 +1,59 @@
+{
+	"storyName": "vs matt wiik 4 ( toturial week )",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"practice round",
+			"matt",
+			[
+				255,
+				173,
+				75
+			]
+		],
+		[
+			"bold training",
+			"matt",
+			[
+				255,
+				173,
+				75
+			]
+		],
+		[
+			"resort",
+			"matt",
+			[
+				255,
+				173,
+				75
+			]
+		],
+		[
+			"final exam",
+			"matt",
+			[
+				255,
+				173,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

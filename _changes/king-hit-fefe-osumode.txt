@@ -1,0 +1,20 @@
+mods/data/king-hit-fefe/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/data/king-hit-fefe/goofy_note_press.lua
+mods/data/king-hit-fefe/king-hit-fefe-easy.json
+mods/data/king-hit-fefe/king-hit-fefe-hard.json
+mods/data/king-hit-fefe/king-hit-fefe.json
+mods/data/king-hit-fefe/mod.txt
+mods/data/king-hit-fefe/script2.lua
+mods/data/king-hit-fefe/script3.lua
+mods/data/king-hit-fefe/script4.lua
+mods/Matt/stages/troll.json
+mods/Matt/stages/troll.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/songs/king-hit-fefe/Voices.ogg
+mods/songs/king-hit-fefe/voices.ogg
+mods/songs/king-hit-fefe/Inst.ogg
+mods/songs/king-hit-fefe/inst.ogg

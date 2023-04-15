@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "mattj down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "mattj left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "mattj up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "mattj right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "mattj idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mattj",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "icon_mattj",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		148,
+		0
+	],
+	"camera_position": [
+		-20,
+		60
+	],
+	"sing_duration": 5.00000000000001,
+	"scale": 1
+}

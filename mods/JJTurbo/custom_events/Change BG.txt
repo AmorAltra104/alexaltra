@@ -1,0 +1,9 @@
+edgelord xd
+
+Value 1: bg = arena
+         bg1 = volcano
+         bg2 = dark
+         bg3 = bg
+         bg4 = bgnight
+         bg5 = stadium
+         bg6 = tko

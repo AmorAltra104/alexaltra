@@ -1,0 +1,15 @@
+mods/data/sporting-ushear/mod.txt
+mods/data/sporting-ushear/sporting-ushear-hard.json
+mods/JJTurbo/stages/wuhu-town.json
+mods/JJTurbo/stages/wuhu-town.lua
+mods/JJTurbo/custom_events/karaokelyrics.lua
+mods/JJTurbo/custom_events/Camera Flash.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/custom_events/Set Cam Zoom.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/sporting-ushear/Voices.ogg
+mods/songs/sporting-ushear/voices.ogg
+mods/songs/sporting-ushear/Inst.ogg
+mods/songs/sporting-ushear/inst.ogg

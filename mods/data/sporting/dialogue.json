@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "excuse me how da heel  did i get here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " i dunno"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i just wanted to get back to my tuesday singing lessons :("
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool"
+		}
+	]
+}

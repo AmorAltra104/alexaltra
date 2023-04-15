@@ -1,0 +1,95 @@
+{
+	"storyName": "your dead.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"final-stand",
+			"matt",
+			[
+				126,
+				0,
+				133
+			]
+		],
+		[
+			"target-of-a-rap",
+			"matt",
+			[
+				126,
+				0,
+				133
+			]
+		],
+		[
+			"direct-attack",
+			"matt",
+			[
+				126,
+				0,
+				133
+			]
+		],
+		[
+			"last-round",
+			"matt",
+			[
+				66,
+				0,
+				133
+			]
+		],
+		[
+			"last-battle",
+			"matt2",
+			[
+				66,
+				0,
+				133
+			]
+		],
+		[
+			"pe",
+			"kivromatt",
+			[
+				66,
+				0,
+				133
+			]
+		],
+		[
+			"revenge-rev-sides",
+			"matt2",
+			[
+				0,
+				0,
+				133
+			]
+		],
+		[
+			"tiebreaker",
+			"matt2",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

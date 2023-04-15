@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"tko-voiid",
+			"mattangry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tko-paper",
+			"mattangry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"boxing-match-potente",
+			"mattangry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"burnout",
+			"mattangry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blastout",
+			"mattangry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"alter-ego",
+			"mattangry",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

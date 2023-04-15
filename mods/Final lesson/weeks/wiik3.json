@@ -1,0 +1,95 @@
+{
+	"storyName": "grab a new keyboard.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"fisticuffs-unknown",
+			"matt",
+			[
+				95,
+				0,
+				73
+			]
+		],
+		[
+			"outmatched-again",
+			"matt",
+			[
+				95,
+				0,
+				73
+			]
+		],
+		[
+			"blackout",
+			"matt",
+			[
+				95,
+				0,
+				73
+			]
+		],
+		[
+			"pugilism",
+			"matt",
+			[
+				95,
+				0,
+				73
+			]
+		],
+		[
+			"unknown-matt-song",
+			"matt",
+			[
+				95,
+				0,
+				73
+			]
+		],
+		[
+			"COMPETITION",
+			"matt",
+			[
+				95,
+				0,
+				73
+			]
+		],
+		[
+			"killer",
+			"matt2",
+			[
+				95,
+				0,
+				33
+			]
+		],
+		[
+			"atomic",
+			"matt2",
+			[
+				95,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

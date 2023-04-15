@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Matt god down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Matt god up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Matt god right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				223,
+				-58
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt God Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt god idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mattgod",
+	"position": [
+		80,
+		120
+	],
+	"healthicon": "mattgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

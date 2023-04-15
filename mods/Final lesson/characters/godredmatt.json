@@ -1,0 +1,40 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "godredmatt",
+    "spritesheetType": "SPARROW",
+    "barColor": [255, 102, 0],
+    "offsetsFlipWhenPlayer": true,
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "idle0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "right0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "down0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "up0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "left0",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

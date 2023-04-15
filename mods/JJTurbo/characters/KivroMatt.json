@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-340
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mattidle"
+		},
+		{
+			"offsets": [
+				70,
+				-394
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mattleft"
+		},
+		{
+			"offsets": [
+				-29,
+				-377
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mattdown"
+		},
+		{
+			"offsets": [
+				-13,
+				-324
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mattup"
+		},
+		{
+			"offsets": [
+				-13,
+				-374
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mattright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KivroMatt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "KivroMatt-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		35
+	],
+	"camera_position": [
+		40,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

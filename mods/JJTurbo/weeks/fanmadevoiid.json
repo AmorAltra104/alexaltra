@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"old-enemies",
+			"mattangry",
+			[
+				146,
+				80,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "voiidmatt2",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"voiidmatt2",
+		"bf",
+		""
+	],
+	"storyName": "enemies",
+	"weekName": "matt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

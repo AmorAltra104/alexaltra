@@ -1,0 +1,25 @@
+mods/data/tko-voiid/mod.txt
+mods/data/tko-voiid/tko-voiid-hard.json
+mods/JJTurbo/characters/bfrtx2.json
+mods/JJTurbo/characters/wiik-2-rtx.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/matt1.json
+mods/JJTurbo/stages/matt1.lua
+mods/JJTurbo/images/characters/bfrtx2.png
+mods/JJTurbo/images/characters/bfrtx2.xml
+mods/JJTurbo/images/characters/wiik 2.png
+mods/JJTurbo/images/characters/wiik 2.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/custom_events/Flash.lua
+mods/JJTurbo/custom_events/TweenSpin.lua
+mods/JJTurbo/custom_events/ArrowDisappear.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/arena-bg.png
+mods/JJTurbo/images/arena-characters.xml
+mods/JJTurbo/images/railing.png
+mods/JJTurbo/images/white.png
+mods/songs/tko-voiid/Inst.ogg
+mods/songs/tko-voiid/inst.ogg

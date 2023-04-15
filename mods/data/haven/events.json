@@ -1,0 +1,606 @@
+{
+	"song": {
+		"events": [
+			[
+				54857.1428571428,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55178.5714285714,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55285.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55392.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55714.2857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55821.4285714285,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				55928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56035.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56142.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56357.1428571428,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56464.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56571.4285714285,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56678.5714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				56892.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57107.1428571428,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57321.4285714285,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57428.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57535.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57750,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57857.1428571428,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				57964.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				58071.4285714285,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				58178.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"GF"
+					]
+				]
+			],
+			[
+				67767.8571428571,
+				[
+					[
+						"Power Up",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				67821.4285714285,
+				[
+					[
+						"Play Animation",
+						"powerup",
+						"Gf"
+					]
+				]
+			],
+			[
+				68035.7142857142,
+				[
+					[
+						"Change Character",
+						"GF",
+						"pshaggy"
+					]
+				]
+			],
+			[
+				68303.5714285714,
+				[
+					[
+						"Play Animation",
+						"snap",
+						"Gf"
+					]
+				]
+			],
+			[
+				68464.2857142857,
+				[
+					[
+						"Play Animation",
+						"snapped",
+						"Gf"
+					]
+				]
+			],
+			[
+				68517.8571428571,
+				[
+					[
+						"Cam Boom Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				68571.4285714285,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"matt5upsetbr"
+					],
+					[
+						"Change Character",
+						"3",
+						"pshaggy"
+					],
+					[
+						"Change Character",
+						"0",
+						"b5lookup"
+					],
+					[
+						"Dad Fly",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"DanceSpeed",
+						"GF",
+						"1.5"
+					]
+				]
+			],
+			[
+				96053.5714285713,
+				[
+					[
+						"DanceSpeed",
+						"Dad",
+						"2"
+					]
+				]
+			],
+			[
+				96107.1428571427,
+				[
+					[
+						"Power Up",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				150428.571428572,
+				[
+					[
+						"playsound",
+						"sword",
+						"1"
+					]
+				]
+			],
+			[
+				150857.142857143,
+				[
+					[
+						"CamBoomSpeed",
+						"1",
+						"1.2"
+					]
+				]
+			],
+			[
+				150910.714285714,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				151714.285714286,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				152571.428571429,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				155142.857142857,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				156857.142857143,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				159428.571428572,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				161142.857142857,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				162857.142857143,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				164571.428571429,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				166285.714285715,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				169714.285714286,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				171428.571428572,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				173142.857142858,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				174857.142857143,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			],
+			[
+				176571.428571429,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

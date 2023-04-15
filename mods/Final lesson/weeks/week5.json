@@ -1,0 +1,41 @@
+{
+	"storyName": "the fucking brick mod",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"kill-issue",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"him",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

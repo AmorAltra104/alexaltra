@@ -1,0 +1,12 @@
+mods/data/pbrfa/mod.txt
+mods/data/pbrfa/pbrfa-hard.json
+mods/Matt/stages/itsreallyfarawaymanyouhavenoidea.json
+mods/Matt/stages/itsreallyfarawaymanyouhavenoidea.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/images/twitter.png
+mods/songs/pbrfa/Inst.ogg
+mods/songs/pbrfa/inst.ogg

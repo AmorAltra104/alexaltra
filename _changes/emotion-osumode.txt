@@ -1,0 +1,11 @@
+mods/data/emotion/emotion-hard.json
+mods/data/emotion/emotion.json
+mods/data/emotion/mod.txt
+mods/JJTurbo/stages/wuhu-town.json
+mods/JJTurbo/stages/wuhu-town.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/emotion/Voices.ogg
+mods/songs/emotion/voices.ogg
+mods/songs/emotion/Inst.ogg
+mods/songs/emotion/inst.ogg

@@ -1,0 +1,10 @@
+mods/data/allies/allies-hard.json
+mods/data/allies/mod.txt
+mods/JJTurbo/stages/backyard.json
+mods/JJTurbo/custom_events/Flash Camera.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/allies/Voices.ogg
+mods/songs/allies/voices.ogg
+mods/songs/allies/Inst.ogg
+mods/songs/allies/inst.ogg

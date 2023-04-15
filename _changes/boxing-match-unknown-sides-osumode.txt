@@ -1,0 +1,10 @@
+mods/data/boxing-match-unknown-sides/boxing-match-unknown-sides-hard.json
+mods/data/boxing-match-unknown-sides/boxing-match-unknown-sides.json
+mods/data/boxing-match-unknown-sides/mod.txt
+mods/data/boxing-match-unknown-sides/script.lua
+mods/JJTurbo/stages/matt2.json
+mods/JJTurbo/stages/matt2.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/boxing-match-unknown-sides/Inst.ogg
+mods/songs/boxing-match-unknown-sides/inst.ogg

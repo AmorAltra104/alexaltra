@@ -1,0 +1,77 @@
+{
+	"storyName": "fucking matt",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"red",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"hull",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"duo-of-chaos",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"causin-ruckus",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"kurutta",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"machigai",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

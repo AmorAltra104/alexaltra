@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				-370
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "matt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-310
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				49,
+				-303
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matt up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-414
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matt down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoxingMatt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		60,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

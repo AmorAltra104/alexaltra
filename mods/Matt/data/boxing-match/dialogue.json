@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the funk is wrong with y-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "suck on mii nuts"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sing as loud as you can, no one will be able to hear you scream"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok tha was kinda ru-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'll punch you so hard you'll forget how to speak completely"
+		}
+	]
+}

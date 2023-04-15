@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-381
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-392
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				-47,
+				-388
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				-30,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				-38,
+				-352
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfkendo",
+	"position": [
+		-10,
+		0
+	],
+	"healthicon": "icon-bfkendo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		215,
+		255
+	],
+	"camera_position": [
+		100,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

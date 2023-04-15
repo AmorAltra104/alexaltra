@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				-247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				23,
+				-296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				45,
+				-307
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				-36,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				8,
+				-245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mattchapter4",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "mattchapter4",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		137,
+		255
+	],
+	"camera_position": [
+		50,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

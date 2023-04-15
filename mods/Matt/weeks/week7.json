@@ -1,0 +1,50 @@
+{
+	"storyName": "vs matt wiik 4 ( wiik2 )",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "matt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"light it up 4",
+			"matt",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"ruckus 4",
+			"matt",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"target practice 4",
+			"matt",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

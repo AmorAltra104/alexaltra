@@ -1,0 +1,32 @@
+{
+	"storyName": "advantage",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stadium",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"disadvantage",
+			"icon-matt_rev_new",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"matt_rev_new",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "disadvantage"
+}

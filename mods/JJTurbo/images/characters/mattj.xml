@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mattj.png"><SubTexture name="mattj idle0000" x="0" y="0" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj idle0001" x="533" y="0" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj idle0002" x="1066" y="0" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj idle0003" x="1599" y="0" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj idle0004" x="0" y="596" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj idle0005" x="533" y="596" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj left0000" x="1066" y="596" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj left0001" x="1599" y="596" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj left0002" x="0" y="1192" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj left0003" x="533" y="1192" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj down0000" x="1066" y="1192" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj down0001" x="1599" y="1192" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj down0002" x="0" y="1788" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj down0003" x="533" y="1788" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj up0000" x="1066" y="1788" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj up0001" x="1599" y="1788" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj up0002" x="0" y="2384" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj up0003" x="533" y="2384" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj right0000" x="1066" y="2384" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj right0001" x="1599" y="2384" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj right0002" x="0" y="2980" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+<SubTexture name="mattj right0003" x="533" y="2980" width="533" height="596" frameX="0" frameY="0" frameWidth="533" frameHeight="596" />
+</TextureAtlas>

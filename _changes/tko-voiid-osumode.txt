@@ -1,0 +1,12 @@
+mods/data/tko-voiid/mod.txt
+mods/data/tko-voiid/tko-voiid-hard.json
+mods/JJTurbo/stages/matt1.json
+mods/JJTurbo/stages/matt1.lua
+mods/JJTurbo/custom_events/Flash.lua
+mods/JJTurbo/custom_events/TweenSpin.lua
+mods/JJTurbo/custom_events/ArrowDisappear.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/tko-voiid/Inst.ogg
+mods/songs/tko-voiid/inst.ogg

@@ -1,0 +1,756 @@
+{
+	"song": {
+		"events": [
+			[
+				73200,
+				[
+					[
+						"Change Character",
+						"1",
+						"matt4angryfastswing"
+					]
+				]
+			],
+			[
+				73275,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73350,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73425,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73575,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73762.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73837.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				73912.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				74025,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				74137.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				74212.5,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				74287.5,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				74362.5,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				93750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				93900,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				94050,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				94350,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				94650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96150,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96300,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96450,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96600,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				96900,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97050,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97350,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97800,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				97950,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				98100,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				98250,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				98475,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				98625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				98775,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				98925,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99075,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99225,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99300,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99450,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				99900,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100050,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100275,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100350,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100425,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100575,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				100725,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104475,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104550,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104775,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104850,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				104925,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105075,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105150,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105225,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105300,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105450,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				105525,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

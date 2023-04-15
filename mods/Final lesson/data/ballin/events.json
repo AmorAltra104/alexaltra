@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "arena",
+		"player1": "bfMII",
+		"player2": "mattbox",
+		"player3": null,
+		"events": [
+			[
+				19100,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				25500,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				31900,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				37000,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				51100,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				75500,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				83400,
+				[
+					[
+						"",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			],
+			[
+				115100,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattbox"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Change Character",
+						"1",
+						"mattangry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_B",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "ballin"
+	}
+}

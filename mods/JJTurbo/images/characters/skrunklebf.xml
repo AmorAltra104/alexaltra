@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skrunklebf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skrunkle MISS down0000" x="0" y="0" width="330" height="368" pivotX="46.7" pivotY="259.75" frameX="0" frameY="-13" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0001" x="0" y="0" width="330" height="368" frameX="0" frameY="-13" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0002" x="335" y="0" width="326" height="379" frameX="0" frameY="-4" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0003" x="335" y="0" width="326" height="379" frameX="0" frameY="-4" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0004" x="666" y="0" width="317" height="383" frameX="-6" frameY="0" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0005" x="666" y="0" width="317" height="383" frameX="-6" frameY="0" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0006" x="988" y="0" width="315" height="383" frameX="-8" frameY="0" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0007" x="988" y="0" width="315" height="383" frameX="-8" frameY="0" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS down0008" x="988" y="0" width="315" height="383" frameX="-8" frameY="0" frameWidth="330" frameHeight="383"/>
+	<SubTexture name="skrunkle MISS left0000" x="1308" y="0" width="345" height="391" pivotX="68.3" pivotY="268.8" frameX="0" frameY="-1" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0001" x="1308" y="0" width="345" height="391" frameX="0" frameY="-1" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0002" x="1658" y="0" width="337" height="392" frameX="-8" frameY="0" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0003" x="1658" y="0" width="337" height="392" frameX="-8" frameY="0" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0004" x="2000" y="0" width="340" height="390" frameX="-6" frameY="-2" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0005" x="2000" y="0" width="340" height="390" frameX="-6" frameY="-2" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0006" x="2345" y="0" width="340" height="390" frameX="-6" frameY="-2" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0007" x="2345" y="0" width="340" height="390" frameX="-6" frameY="-2" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS left0008" x="2345" y="0" width="340" height="390" frameX="-6" frameY="-2" frameWidth="346" frameHeight="392"/>
+	<SubTexture name="skrunkle MISS right0000" x="2690" y="0" width="348" height="376" pivotX="46.2" pivotY="256.15" frameX="-13" frameY="-5" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0001" x="2690" y="0" width="348" height="376" frameX="-13" frameY="-5" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0002" x="3043" y="0" width="343" height="380" frameX="-5" frameY="-1" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0003" x="3043" y="0" width="343" height="380" frameX="-5" frameY="-1" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0004" x="3391" y="0" width="344" height="381" frameX="0" frameY="0" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0005" x="3391" y="0" width="344" height="381" frameX="0" frameY="0" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0006" x="3740" y="0" width="344" height="381" frameX="0" frameY="0" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0007" x="3740" y="0" width="344" height="381" frameX="0" frameY="0" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS right0008" x="3740" y="0" width="344" height="381" frameX="0" frameY="0" frameWidth="361" frameHeight="381"/>
+	<SubTexture name="skrunkle MISS up0000" x="0" y="397" width="302" height="402" pivotX="35.45" pivotY="273.65" frameX="0" frameY="0" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0001" x="0" y="397" width="302" height="402" frameX="0" frameY="0" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0002" x="307" y="397" width="291" height="395" frameX="-16" frameY="-5" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0003" x="307" y="397" width="291" height="395" frameX="-16" frameY="-5" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0004" x="603" y="397" width="302" height="386" frameX="-8" frameY="-12" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0005" x="603" y="397" width="302" height="386" frameX="-8" frameY="-12" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0006" x="910" y="397" width="304" height="386" frameX="-6" frameY="-12" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0007" x="910" y="397" width="304" height="386" frameX="-6" frameY="-12" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle MISS up0008" x="910" y="397" width="304" height="386" frameX="-6" frameY="-12" frameWidth="310" frameHeight="402"/>
+	<SubTexture name="skrunkle attack0000" x="1219" y="397" width="355" height="311" pivotX="635.35" pivotY="476.8" frameX="-605" frameY="-286" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0001" x="1219" y="397" width="355" height="311" frameX="-605" frameY="-286" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0002" x="1579" y="397" width="426" height="349" frameX="-456" frameY="-250" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0003" x="2010" y="397" width="439" height="353" frameX="-445" frameY="-249" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0004" x="2454" y="397" width="714" height="364" frameX="-156" frameY="-235" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0005" x="3173" y="397" width="865" height="455" frameX="0" frameY="-144" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0006" x="0" y="857" width="709" height="595" frameX="-163" frameY="0" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0007" x="714" y="857" width="415" height="575" frameX="-484" frameY="-21" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0008" x="1134" y="857" width="350" height="463" frameX="-613" frameY="-141" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0009" x="1134" y="857" width="350" height="463" frameX="-613" frameY="-141" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0010" x="1489" y="857" width="319" height="365" frameX="-616" frameY="-239" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0011" x="1489" y="857" width="319" height="365" frameX="-616" frameY="-239" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0012" x="1813" y="857" width="319" height="372" frameX="-614" frameY="-247" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0013" x="1813" y="857" width="319" height="372" frameX="-614" frameY="-247" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0014" x="2137" y="857" width="318" height="355" frameX="-610" frameY="-263" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0015" x="2137" y="857" width="318" height="355" frameX="-610" frameY="-263" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0016" x="2137" y="857" width="318" height="355" frameX="-610" frameY="-263" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0017" x="2137" y="857" width="318" height="355" frameX="-610" frameY="-263" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0018" x="2137" y="857" width="318" height="355" frameX="-610" frameY="-263" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle attack0019" x="2137" y="857" width="318" height="355" frameX="-610" frameY="-263" frameWidth="963" frameHeight="619"/>
+	<SubTexture name="skrunkle dodge0000" x="2460" y="857" width="387" height="393" pivotX="61.9" pivotY="263.6" frameX="0" frameY="0" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0001" x="2460" y="857" width="387" height="393" frameX="0" frameY="0" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0002" x="2852" y="857" width="391" height="377" frameX="-25" frameY="-14" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0003" x="2852" y="857" width="391" height="377" frameX="-25" frameY="-14" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0004" x="3248" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0005" x="3248" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0006" x="3657" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0007" x="3657" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0008" x="3657" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0009" x="3657" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0010" x="3657" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle dodge0011" x="3657" y="857" width="404" height="366" frameX="-23" frameY="-24" frameWidth="427" frameHeight="393"/>
+	<SubTexture name="skrunkle down0000" x="0" y="1457" width="328" height="324" pivotX="44.2" pivotY="216.8" frameX="0" frameY="-14" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0001" x="0" y="1457" width="328" height="324" frameX="0" frameY="-14" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0002" x="333" y="1457" width="324" height="337" frameX="0" frameY="-3" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0003" x="333" y="1457" width="324" height="337" frameX="0" frameY="-3" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0004" x="662" y="1457" width="315" height="340" frameX="-6" frameY="0" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0005" x="662" y="1457" width="315" height="340" frameX="-6" frameY="0" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0006" x="982" y="1457" width="313" height="340" frameX="-8" frameY="0" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0007" x="982" y="1457" width="313" height="340" frameX="-8" frameY="0" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle down0008" x="982" y="1457" width="313" height="340" frameX="-8" frameY="0" frameWidth="328" frameHeight="340"/>
+	<SubTexture name="skrunkle hurt0000" x="1300" y="1457" width="341" height="320" pivotX="64.3" pivotY="243.75" frameX="0" frameY="-48" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0001" x="1646" y="1457" width="341" height="320" frameX="0" frameY="-48" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0002" x="1992" y="1457" width="344" height="323" frameX="-37" frameY="-45" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0003" x="2341" y="1457" width="337" height="368" frameX="-44" frameY="0" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0004" x="2341" y="1457" width="337" height="368" frameX="-44" frameY="0" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0005" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0006" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0007" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0008" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0009" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0010" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle hurt0011" x="2683" y="1457" width="339" height="364" frameX="-42" frameY="-3" frameWidth="381" frameHeight="368"/>
+	<SubTexture name="skrunkle idle0000" x="3027" y="1457" width="316" height="350" pivotX="33.9" pivotY="239.65" frameX="0" frameY="-13" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0001" x="3027" y="1457" width="316" height="350" frameX="0" frameY="-13" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0002" x="3348" y="1457" width="315" height="356" frameX="-1" frameY="-8" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0003" x="3348" y="1457" width="315" height="356" frameX="-1" frameY="-8" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0004" x="3668" y="1457" width="313" height="358" frameX="-3" frameY="-6" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0005" x="3668" y="1457" width="313" height="358" frameX="-3" frameY="-6" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0006" x="0" y="1830" width="314" height="364" frameX="-1" frameY="0" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0007" x="0" y="1830" width="314" height="364" frameX="-1" frameY="0" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0008" x="319" y="1830" width="307" height="363" frameX="-4" frameY="-1" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0009" x="319" y="1830" width="307" height="363" frameX="-4" frameY="-1" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0010" x="631" y="1830" width="306" height="363" frameX="-5" frameY="-1" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0011" x="631" y="1830" width="306" height="363" frameX="-5" frameY="-1" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0012" x="631" y="1830" width="306" height="363" frameX="-5" frameY="-1" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle idle0013" x="631" y="1830" width="306" height="363" frameX="-5" frameY="-1" frameWidth="316" frameHeight="364"/>
+	<SubTexture name="skrunkle left0000" x="942" y="1830" width="342" height="348" pivotX="65.6" pivotY="224.75" frameX="0" frameY="0" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0001" x="942" y="1830" width="342" height="348" frameX="0" frameY="0" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0002" x="1289" y="1830" width="338" height="348" frameX="-4" frameY="0" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0003" x="1289" y="1830" width="338" height="348" frameX="-4" frameY="0" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0004" x="1632" y="1830" width="336" height="347" frameX="-7" frameY="-1" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0005" x="1632" y="1830" width="336" height="347" frameX="-7" frameY="-1" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0006" x="1973" y="1830" width="336" height="347" frameX="-7" frameY="-1" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0007" x="1973" y="1830" width="336" height="347" frameX="-7" frameY="-1" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle left0008" x="1973" y="1830" width="336" height="347" frameX="-7" frameY="-1" frameWidth="343" frameHeight="348"/>
+	<SubTexture name="skrunkle pre attack0000" x="2314" y="1830" width="368" height="312" pivotX="51.6" pivotY="200.65" frameX="0" frameY="-5" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0001" x="2314" y="1830" width="368" height="312" frameX="0" frameY="-5" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0002" x="2687" y="1830" width="347" height="316" frameX="-21" frameY="-2" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0003" x="2687" y="1830" width="347" height="316" frameX="-21" frameY="-2" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0004" x="3039" y="1830" width="346" height="317" frameX="-19" frameY="0" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0005" x="3039" y="1830" width="346" height="317" frameX="-19" frameY="0" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0006" x="3039" y="1830" width="346" height="317" frameX="-19" frameY="0" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0007" x="3039" y="1830" width="346" height="317" frameX="-19" frameY="0" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle pre attack0008" x="3039" y="1830" width="346" height="317" frameX="-19" frameY="0" frameWidth="368" frameHeight="318"/>
+	<SubTexture name="skrunkle right0000" x="3390" y="1830" width="335" height="351" pivotX="22.15" pivotY="233.45" frameX="-2" frameY="-7" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0001" x="3390" y="1830" width="335" height="351" frameX="-2" frameY="-7" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0002" x="3730" y="1830" width="323" height="354" frameX="-1" frameY="-4" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0003" x="3730" y="1830" width="323" height="354" frameX="-1" frameY="-4" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0004" x="0" y="2199" width="320" height="356" frameX="0" frameY="-2" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0005" x="0" y="2199" width="320" height="356" frameX="0" frameY="-2" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0006" x="325" y="2199" width="320" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0007" x="325" y="2199" width="320" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle right0008" x="325" y="2199" width="320" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358"/>
+	<SubTexture name="skrunkle shiverstimbers0000" x="650" y="2199" width="308" height="361" pivotX="28.15" pivotY="237.45" frameX="0" frameY="-1" frameWidth="310" frameHeight="362"/>
+	<SubTexture name="skrunkle shiverstimbers0001" x="963" y="2199" width="307" height="359" frameX="-3" frameY="-3" frameWidth="310" frameHeight="362"/>
+	<SubTexture name="skrunkle shiverstimbers0002" x="1275" y="2199" width="305" height="360" frameX="-2" frameY="-2" frameWidth="310" frameHeight="362"/>
+	<SubTexture name="skrunkle shiverstimbers0003" x="1585" y="2199" width="307" height="362" frameX="-3" frameY="0" frameWidth="310" frameHeight="362"/>
+	<SubTexture name="skrunkle up0000" x="1897" y="2199" width="285" height="385" pivotX="27.2" pivotY="256.65" frameX="-9" frameY="0" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0001" x="1897" y="2199" width="285" height="385" frameX="-9" frameY="0" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0002" x="2187" y="2199" width="289" height="377" frameX="-10" frameY="-6" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0003" x="2187" y="2199" width="289" height="377" frameX="-10" frameY="-6" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0004" x="2481" y="2199" width="299" height="365" frameX="-3" frameY="-16" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0005" x="2481" y="2199" width="299" height="365" frameX="-3" frameY="-16" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0006" x="2785" y="2199" width="302" height="363" frameX="0" frameY="-18" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0007" x="2785" y="2199" width="302" height="363" frameX="0" frameY="-18" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle up0008" x="2785" y="2199" width="302" height="363" frameX="0" frameY="-18" frameWidth="302" frameHeight="385"/>
+	<SubTexture name="skrunkle yea0000" x="3092" y="2199" width="328" height="366" pivotX="23.9" pivotY="241.35" frameX="-3" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0001" x="3092" y="2199" width="328" height="366" frameX="-3" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0002" x="3425" y="2199" width="323" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0003" x="3425" y="2199" width="323" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0004" x="3753" y="2199" width="321" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0005" x="3753" y="2199" width="321" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0006" x="3753" y="2199" width="321" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0007" x="3753" y="2199" width="321" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="skrunkle yea0008" x="3753" y="2199" width="321" height="364" frameX="0" frameY="-2" frameWidth="331" frameHeight="366"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "vs matt wiik4 (wiik5)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "matt",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"rivalry",
+			"matthappy",
+			[
+				255,
+				213,
+				95
+			]
+		],
+		[
+			"parry",
+			"matthappy",
+			[
+				255,
+				213,
+				95
+			]
+		],
+		[
+			"starlight",
+			"mattangry",
+			[
+				255,
+				213,
+				95
+			]
+		],
+		[
+			"swordsman",
+			"mattangry",
+			[
+				255,
+				213,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bababoyeeeeee"
+}

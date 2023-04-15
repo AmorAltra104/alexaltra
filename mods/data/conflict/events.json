@@ -1,0 +1,1946 @@
+{
+	"song": {
+		"events": [
+			[
+				60000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60046.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60093.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60140.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60187.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60281.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60328.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60468.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60562.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60609.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60656.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60703.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				60937.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61031.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61218.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61312.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61406.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61546.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61593.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61640.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61687.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				61875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62062.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62156.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62437.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62531.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62671.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62718.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62765.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62812.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				62906.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66046.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66093.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66140.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66187.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66234.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66281.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66328.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66421.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66468.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66515.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66562.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66609.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66656.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66703.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66773.4375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66820.3125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66867.1875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66914.0625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				66960.9375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67007.8125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67054.6875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67101.5625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67148.4375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67195.3125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67242.1875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67289.0625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67335.9375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67382.8125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67429.6875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67476.5625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67546.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67593.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67640.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67687.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67757.8125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67828.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67898.4375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				67992.1875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				68132.8125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				68203.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108187.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108281.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108468.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108562.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				108937.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109031.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109312.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109687.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				109968.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				110062.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				110156.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				110250,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				110437.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				110625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				110812.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156046.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156093.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156140.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156187.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156234.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156281.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156328.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156468.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156562.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156609.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156656.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156703.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				156937.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157031.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157218.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157312.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157406.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157546.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157593.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157640.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157687.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				157875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158062.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158156.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158250,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158437.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158531.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158671.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158718.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158765.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158812.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				158906.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162046.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162093.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162140.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162187.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162234.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162281.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162328.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162421.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162468.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162515.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162562.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162609.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162656.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162703.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162796.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162843.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162890.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162937.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				162984.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163031.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163078.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163171.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163218.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163265.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163312.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163382.8125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163453.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163500,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163546.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163593.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163640.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163687.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163734.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163781.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163828.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163921.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				163968.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164015.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164062.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164109.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164156.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164203.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164250,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164437.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164671.875,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164718.75,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164765.625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164812.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164859.375,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164906.25,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			],
+			[
+				164953.125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

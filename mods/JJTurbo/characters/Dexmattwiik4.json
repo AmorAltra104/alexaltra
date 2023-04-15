@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				240,
+				-300
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				426,
+				-320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				160,
+				-370
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				220,
+				-360
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				230,
+				-310
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up note"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Dexmattwiik4",
+	"position": [
+		150,
+		-40
+	],
+	"healthicon": "icon-Dexmattwiik4",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		0
+	],
+	"camera_position": [
+		-280,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

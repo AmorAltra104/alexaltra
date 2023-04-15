@@ -1,0 +1,10 @@
+mods/data/old-enemies/mod.txt
+mods/data/old-enemies/old-enemies-hard.json
+mods/JJTurbo/stages/voiidmatt2.json
+mods/JJTurbo/stages/voiidmatt2.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/old-enemies/Voices.ogg
+mods/songs/old-enemies/voices.ogg
+mods/songs/old-enemies/Inst.ogg
+mods/songs/old-enemies/inst.ogg

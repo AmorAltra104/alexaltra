@@ -1,0 +1,30 @@
+mods/data/dexatory/dexatory-hard.json
+mods/data/dexatory/mod.txt
+mods/JJTurbo/characters/silverbfmii2.json
+mods/JJTurbo/characters/Dexmattwiik4.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/volcanored.json
+mods/JJTurbo/stages/volcanored.lua
+mods/JJTurbo/images/characters/BFMII2.png
+mods/JJTurbo/images/characters/BFMII2.xml
+mods/JJTurbo/images/characters/Dexmattwiik4.png
+mods/JJTurbo/images/characters/Dexmattwiik4.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/custom_events/Fade UI.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/ShowHud.lua
+mods/JJTurbo/custom_events/MoveArrowsToMiddle.lua
+mods/JJTurbo/custom_events/HideHud.lua
+mods/JJTurbo/custom_events/Flash Camera.lua
+mods/JJTurbo/custom_events/TweenSpin.lua
+mods/JJTurbo/custom_events/Smooth cam zoom.lua
+mods/JJTurbo/custom_events/shakey arrows.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/BGvolcano.png
+mods/JJTurbo/images/RingVolcano.png
+mods/songs/dexatory/Voices.ogg
+mods/songs/dexatory/voices.ogg
+mods/songs/dexatory/Inst.ogg
+mods/songs/dexatory/inst.ogg

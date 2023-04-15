@@ -1,0 +1,18 @@
+mods/data/final-exam/final-exam-hard.json
+mods/data/final-exam/mod.txt
+mods/data/final-exam/script4.lua
+mods/Matt/stages/court.json
+mods/Matt/stages/court.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/images/skynotthefangirl.png
+mods/Matt/images/basketballsinyourmouth.png
+mods/Matt/images/fences_and_floor.png
+mods/Matt/images/bush.png
+mods/songs/final-exam/Voices.ogg
+mods/songs/final-exam/voices.ogg
+mods/songs/final-exam/Inst.ogg
+mods/songs/final-exam/inst.ogg

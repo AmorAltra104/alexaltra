@@ -1,0 +1,11 @@
+mods/data/legacy/legacy-hard.json
+mods/data/legacy/legacy.json
+mods/data/legacy/mod.txt
+mods/JJTurbo/stages/sword-arena.json
+mods/JJTurbo/stages/sword-arena.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/legacy/Voices.ogg
+mods/songs/legacy/voices.ogg
+mods/songs/legacy/Inst.ogg
+mods/songs/legacy/inst.ogg

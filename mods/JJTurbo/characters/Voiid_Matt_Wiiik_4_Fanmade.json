@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				-310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				450,
+				-270
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-351
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matt down note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				290,
+				-280
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matt up note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "matt right note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Voiid_Matt_Wiik_4_FanMade",
+	"position": [
+		200,
+		-90
+	],
+	"healthicon": "Voiid_Matt_Wiik_4_FanMade-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		13,
+		0,
+		9
+	],
+	"camera_position": [
+		-200,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

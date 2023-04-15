@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"diabolic-paper",
+			"Blue_Matt-icons",
+			[
+				26,
+				140,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "freetousebg",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"MattBlue",
+		"bf",
+		""
+	],
+	"storyName": "diabolical",
+	"weekName": "diabolical boi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hey",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "i've come to this mansion to accept your training",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "sure thing man!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "ok so how will we train?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "i'll channel some power through  a regular song battle.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "wont feel diferent  from singing  normally as power cannalization has no feeling",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "i just wanna beat that kid, will this help me do that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_down"
+		},
+		{
+			"expression": "talk",
+			"text": "this will give you more control over voice firection correlation",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_ser"
+		},
+		{
+			"expression": "talk",
+			"text": "i can sence that you have great singing speed already",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "with this you will be like, unstoppable!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "heh",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "but first show me what you got",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "lets do this!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_up"
+		}
+	]
+}

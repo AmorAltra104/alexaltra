@@ -1,0 +1,41 @@
+{
+	"storyName": "wiik2",
+	"difficulties": "old, Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "matt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sporting",
+			"mattmad",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"boxing match",
+			"mattmadmad",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "wiik2",
+	"hiddenUntilUnlocked": false
+}

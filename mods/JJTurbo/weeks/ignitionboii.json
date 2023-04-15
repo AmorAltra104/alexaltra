@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"ignition",
+			"Voiid_Matt_Wiik_4_FanMade-Icons",
+			[
+				155,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "volcano",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "voiid",
+	"weekName": "ignition",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

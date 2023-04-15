@@ -1,0 +1,59 @@
+{
+	"storyName": "more vs matt wiik4 extras",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"purgatory",
+			"mattsword",
+			[
+				255,
+				160,
+				55
+			]
+		],
+		[
+			"champion",
+			"mattsword",
+			[
+				255,
+				160,
+				55
+			]
+		],
+		[
+			"war of honour",
+			"mattsword",
+			[
+				255,
+				160,
+				55
+			]
+		],
+		[
+			"antagonist",
+			"matthurt",
+			[
+				255,
+				160,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "g"
+}

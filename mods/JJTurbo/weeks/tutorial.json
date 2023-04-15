@@ -1,0 +1,31 @@
+{
+	"storyName": "quick warm up",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Arena",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"coaching",
+			"mattblue",
+			[
+				66,
+				73,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "train"
+}

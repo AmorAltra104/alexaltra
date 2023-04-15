@@ -1,0 +1,32 @@
+{
+	"storyName": "sopheyyyyyyyyyyy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "boxma",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"cleverness-sophey",
+			"mattangrydx",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"mattangrydx",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sophey cleverness"
+}

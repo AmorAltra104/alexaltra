@@ -1,0 +1,40 @@
+mods/data/edgy/edgy-hard.json
+mods/data/edgy/mod.txt
+mods/JJTurbo/characters/bfrtx.json
+mods/JJTurbo/characters/wiik-2-rtx.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/voiidmatt2butblack.json
+mods/JJTurbo/stages/voiidmatt2butblack.lua
+mods/JJTurbo/images/characters/bfrtx.png
+mods/JJTurbo/images/characters/bfrtx.xml
+mods/JJTurbo/images/characters/wiik 2.png
+mods/JJTurbo/images/characters/wiik 2.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/custom_notetypes/Bullet Note.lua
+mods/JJTurbo/custom_events/lyrics.lua
+mods/JJTurbo/custom_events/chartthing.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/Smooth cam zoom.lua
+mods/JJTurbo/custom_events/MoveArrowsToMiddle.lua
+mods/JJTurbo/custom_events/Black.lua
+mods/JJTurbo/custom_events/transparent notes.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/boxingnight2.png
+mods/JJTurbo/images/buildings.png
+mods/JJTurbo/images/boxingnight3.png
+mods/JJTurbo/images/lights.png
+mods/JJTurbo/images/ruido.png
+mods/JJTurbo/images/stadium/5galaxy.png
+mods/JJTurbo/images/stadium/4arenaringback.png
+mods/JJTurbo/images/stadium/33.png
+mods/JJTurbo/images/stadium/2arenaring.png
+mods/JJTurbo/images/stadium/1arenastage.png
+mods/JJTurbo/images/black thing.png
+mods/JJTurbo/images/gun note/bullet_notes.png
+mods/JJTurbo/images/gun note/bullet_notes.xml
+mods/songs/edgy/Voices.ogg
+mods/songs/edgy/voices.ogg
+mods/songs/edgy/Inst.ogg
+mods/songs/edgy/inst.ogg

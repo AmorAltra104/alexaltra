@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hey like whats going on dude?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_ser"
+		},
+		{
+			"expression": "talk",
+			"text": "I CANT BEAT THIS PIECE OF SHIT!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_ang"
+		},
+		{
+			"expression": "talk",
+			"text": "that's a bit rude...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_ser"
+		},
+		{
+			"expression": "talk",
+			"text": "there is no point in getting angry, this guy is physically unable to lose",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_down"
+		},
+		{
+			"expression": "talk",
+			"text": "...what?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_down"
+		},
+		{
+			"expression": "talk",
+			"text": "'that kid' is boyfriend",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_Sh_ser"
+		},
+		{
+			"expression": "talk",
+			"text": "every single being in this universe that has challenged him was defeated and stuff",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_ser"
+		},
+		{
+			"expression": "talk",
+			"text": "that's because every battle he loses he dies",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_Sh_ser"
+		},
+		{
+			"expression": "talk",
+			"text": "!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "but death does not mean end to him, every time he dies he is given the choise to reset time to a sertain state",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "that means from our prespective there is no possible outcome in which  the flow of time continues after he is defeated",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_SH_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "what the hell",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_down"
+		},
+		{
+			"expression": "talk",
+			"text": "i've been fighting for nothing?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_ang"
+		},
+		{
+			"expression": "talk",
+			"text": "your power has increased drastically , i wouldn't call that nothing man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_Sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "hey i'll tell you what",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_SH_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "we cant beat him but we can sura as heck give  him a challenge",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_Sh_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "you wanna sing together?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f"
+		},
+		{
+			"expression": "talk",
+			"text": "with my power and your speed he is bound to have a bad time",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_SH_smug"
+		},
+		{
+			"expression": "talk",
+			"text": "if that makes you feel better of course...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_SH_con"
+		},
+		{
+			"expression": "talk",
+			"text": "you know what? let's do this!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "f_up"
+		}
+	]
+}

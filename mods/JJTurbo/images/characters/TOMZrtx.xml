@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TOMZ.png"><SubTexture name="TOMZ idle0000" x="0" y="0" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0001" x="951" y="0" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0002" x="1902" y="0" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0003" x="2853" y="0" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0004" x="3804" y="0" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0005" x="4755" y="0" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0006" x="0" y="971" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ idle0007" x="951" y="971" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0000" x="1902" y="971" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0001" x="2853" y="971" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0002" x="3804" y="971" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0003" x="4755" y="971" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0004" x="0" y="1942" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0005" x="951" y="1942" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0006" x="1902" y="1942" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0007" x="2853" y="1942" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ left0008" x="3804" y="1942" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0000" x="4755" y="1942" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0001" x="0" y="2913" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0002" x="951" y="2913" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0003" x="1902" y="2913" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0004" x="2853" y="2913" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0005" x="3804" y="2913" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0006" x="4755" y="2913" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0007" x="0" y="3884" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ down0008" x="951" y="3884" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0000" x="1902" y="3884" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0001" x="2853" y="3884" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0002" x="3804" y="3884" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0003" x="4755" y="3884" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0004" x="0" y="4855" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0005" x="951" y="4855" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0006" x="1902" y="4855" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0007" x="2853" y="4855" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ up0008" x="3804" y="4855" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0000" x="4755" y="4855" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0001" x="0" y="5826" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0002" x="951" y="5826" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0003" x="1902" y="5826" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0004" x="2853" y="5826" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0005" x="3804" y="5826" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0006" x="4755" y="5826" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0007" x="0" y="6797" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+<SubTexture name="TOMZ right0008" x="951" y="6797" width="951" height="971" frameX="0" frameY="0" frameWidth="951" frameHeight="971" />
+</TextureAtlas>

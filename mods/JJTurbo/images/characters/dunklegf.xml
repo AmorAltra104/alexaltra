@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dunklegf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dunkle boppin0000" x="0" y="0" width="343" height="468" pivotX="145.75" pivotY="289.9" frameX="0" frameY="-4" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0001" x="0" y="0" width="343" height="468" frameX="0" frameY="-4" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0002" x="348" y="0" width="342" height="468" frameX="0" frameY="-4" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0003" x="695" y="0" width="333" height="465" frameX="-9" frameY="-7" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0004" x="1033" y="0" width="324" height="465" frameX="-9" frameY="-7" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0005" x="1362" y="0" width="322" height="463" frameX="-11" frameY="-9" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0006" x="1362" y="0" width="322" height="463" frameX="-11" frameY="-9" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0007" x="1689" y="0" width="314" height="468" frameX="-19" frameY="-4" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0008" x="1689" y="0" width="314" height="468" frameX="-19" frameY="-4" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0009" x="2008" y="0" width="313" height="469" frameX="-20" frameY="-3" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0010" x="2008" y="0" width="313" height="469" frameX="-20" frameY="-3" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0011" x="2326" y="0" width="313" height="471" frameX="-20" frameY="-1" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0012" x="2326" y="0" width="313" height="471" frameX="-20" frameY="-1" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0013" x="2644" y="0" width="334" height="472" frameX="-9" frameY="0" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0014" x="2644" y="0" width="334" height="472" frameX="-9" frameY="0" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0015" x="2983" y="0" width="330" height="472" frameX="-12" frameY="0" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0016" x="3318" y="0" width="330" height="463" frameX="-12" frameY="-9" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0017" x="3653" y="0" width="313" height="463" frameX="-20" frameY="-9" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0018" x="0" y="477" width="313" height="465" frameX="-20" frameY="-7" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0019" x="0" y="477" width="313" height="465" frameX="-20" frameY="-7" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0020" x="318" y="477" width="313" height="470" frameX="-20" frameY="-2" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0021" x="318" y="477" width="313" height="470" frameX="-20" frameY="-2" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0022" x="636" y="477" width="313" height="469" frameX="-20" frameY="-3" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0023" x="636" y="477" width="313" height="469" frameX="-20" frameY="-3" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0024" x="954" y="477" width="313" height="469" frameX="-20" frameY="-3" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle boppin0025" x="954" y="477" width="313" height="469" frameX="-20" frameY="-3" frameWidth="343" frameHeight="472"/>
+	<SubTexture name="dunkle down0000" x="1272" y="477" width="315" height="458" pivotX="127.8" pivotY="286.1" frameX="0" frameY="-11" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0001" x="1272" y="477" width="315" height="458" frameX="0" frameY="-11" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0002" x="1592" y="477" width="313" height="461" frameX="-2" frameY="-8" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0003" x="1592" y="477" width="313" height="461" frameX="-2" frameY="-8" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0004" x="1910" y="477" width="313" height="466" frameX="-2" frameY="-3" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0005" x="1910" y="477" width="313" height="466" frameX="-2" frameY="-3" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0006" x="2228" y="477" width="313" height="469" frameX="-2" frameY="0" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0007" x="2228" y="477" width="313" height="469" frameX="-2" frameY="0" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle down0008" x="2228" y="477" width="313" height="469" frameX="-2" frameY="0" frameWidth="315" frameHeight="469"/>
+	<SubTexture name="dunkle left0000" x="2546" y="477" width="345" height="475" pivotX="157.8" pivotY="296.15" frameX="0" frameY="-4" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0001" x="2546" y="477" width="345" height="475" frameX="0" frameY="-4" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0002" x="2896" y="477" width="334" height="479" frameX="-11" frameY="0" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0003" x="2896" y="477" width="334" height="479" frameX="-11" frameY="0" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0004" x="3235" y="477" width="331" height="473" frameX="-14" frameY="-6" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0005" x="3235" y="477" width="331" height="473" frameX="-14" frameY="-6" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0006" x="3571" y="477" width="331" height="474" frameX="-14" frameY="-5" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0007" x="3571" y="477" width="331" height="474" frameX="-14" frameY="-5" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle left0008" x="3571" y="477" width="331" height="474" frameX="-14" frameY="-5" frameWidth="345" frameHeight="479"/>
+	<SubTexture name="dunkle right0000" x="0" y="961" width="327" height="470" pivotX="125.25" pivotY="288.2" frameX="0" frameY="-1" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0001" x="0" y="961" width="327" height="470" frameX="0" frameY="-1" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0002" x="332" y="961" width="318" height="471" frameX="0" frameY="0" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0003" x="332" y="961" width="318" height="471" frameX="0" frameY="0" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0004" x="655" y="961" width="313" height="471" frameX="0" frameY="0" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0005" x="655" y="961" width="313" height="471" frameX="0" frameY="0" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0006" x="973" y="961" width="313" height="467" frameX="0" frameY="-4" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0007" x="973" y="961" width="313" height="467" frameX="0" frameY="-4" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle right0008" x="973" y="961" width="313" height="467" frameX="0" frameY="-4" frameWidth="327" frameHeight="471"/>
+	<SubTexture name="dunkle scared0000" x="1291" y="961" width="313" height="473" pivotX="125.25" pivotY="291.95" frameX="0" frameY="-1" frameWidth="313" frameHeight="474"/>
+	<SubTexture name="dunkle scared0001" x="1609" y="961" width="313" height="473" frameX="0" frameY="-1" frameWidth="313" frameHeight="474"/>
+	<SubTexture name="dunkle scared0002" x="1927" y="961" width="313" height="473" frameX="0" frameY="-1" frameWidth="313" frameHeight="474"/>
+	<SubTexture name="dunkle scared0003" x="2245" y="961" width="313" height="474"/>
+	<SubTexture name="dunkle sobs0000" x="2563" y="961" width="316" height="468" pivotX="133.05" pivotY="286" frameX="-5" frameY="-1" frameWidth="321" frameHeight="469"/>
+	<SubTexture name="dunkle sobs0001" x="2563" y="961" width="316" height="468" frameX="-5" frameY="-1" frameWidth="321" frameHeight="469"/>
+	<SubTexture name="dunkle sobs0002" x="2884" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0003" x="2884" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0004" x="3210" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0005" x="3210" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0006" x="3536" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0007" x="3536" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0008" x="2884" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0009" x="2884" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0010" x="3210" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0011" x="3210" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0012" x="3536" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle sobs0013" x="3536" y="961" width="321" height="469"/>
+	<SubTexture name="dunkle up0000" x="0" y="1440" width="313" height="469" pivotX="126.7" pivotY="289.95" frameX="-1" frameY="-3" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0001" x="0" y="1440" width="313" height="469" frameX="-1" frameY="-3" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0002" x="318" y="1440" width="313" height="472" frameX="-1" frameY="0" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0003" x="318" y="1440" width="313" height="472" frameX="-1" frameY="0" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0004" x="636" y="1440" width="313" height="468" frameX="-1" frameY="-4" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0005" x="636" y="1440" width="313" height="468" frameX="-1" frameY="-4" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0006" x="954" y="1440" width="314" height="466" frameX="0" frameY="-6" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0007" x="954" y="1440" width="314" height="466" frameX="0" frameY="-6" frameWidth="314" frameHeight="472"/>
+	<SubTexture name="dunkle up0008" x="954" y="1440" width="314" height="466" frameX="0" frameY="-6" frameWidth="314" frameHeight="472"/>
+</TextureAtlas>

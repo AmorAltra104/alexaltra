@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fisherman_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fisher Down0000" x="10" y="10" width="311" height="597" pivotX="375.3" pivotY="292.9"/>
+	<SubTexture name="Fisher Down0001" x="10" y="10" width="311" height="597"/>
+	<SubTexture name="Fisher Down0002" x="331" y="10" width="309" height="597" frameX="-1" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0003" x="331" y="10" width="309" height="597" frameX="-1" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0004" x="650" y="10" width="308" height="597" frameX="-1" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0005" x="650" y="10" width="308" height="597" frameX="-1" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0006" x="968" y="10" width="309" height="597" frameX="0" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0007" x="968" y="10" width="309" height="597" frameX="0" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0008" x="1287" y="10" width="309" height="597" frameX="0" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0009" x="1287" y="10" width="309" height="597" frameX="0" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Down0010" x="1287" y="10" width="309" height="597" frameX="0" frameY="0" frameWidth="311" frameHeight="597"/>
+	<SubTexture name="Fisher Idle0000" x="1606" y="10" width="464" height="521" pivotX="488.2" pivotY="235.75" frameX="0" frameY="-11" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0001" x="2080" y="10" width="464" height="521" frameX="0" frameY="-11" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0002" x="2554" y="10" width="463" height="523" frameX="-2" frameY="-9" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0003" x="2554" y="10" width="463" height="523" frameX="-2" frameY="-9" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0004" x="3027" y="10" width="450" height="531" frameX="-2" frameY="-1" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0005" x="3027" y="10" width="450" height="531" frameX="-2" frameY="-1" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0006" x="3487" y="10" width="445" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0007" x="3487" y="10" width="445" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0008" x="10" y="617" width="442" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0009" x="462" y="617" width="442" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0010" x="914" y="617" width="442" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0011" x="1366" y="617" width="442" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0012" x="1366" y="617" width="442" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Idle0013" x="1818" y="617" width="442" height="532" frameX="-2" frameY="0" frameWidth="465" frameHeight="532"/>
+	<SubTexture name="Fisher Left0000" x="2270" y="617" width="487" height="499" pivotX="565.8" pivotY="204.35" frameX="0" frameY="-3" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0001" x="2767" y="617" width="487" height="499" frameX="0" frameY="-3" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0002" x="3264" y="617" width="488" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0003" x="3264" y="617" width="488" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0004" x="10" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0005" x="10" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0006" x="510" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0007" x="510" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0008" x="510" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0009" x="510" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Left0010" x="510" y="1159" width="490" height="502" frameX="-3" frameY="0" frameWidth="493" frameHeight="502"/>
+	<SubTexture name="Fisher Right0000" x="1010" y="1159" width="488" height="509" pivotX="364.85" pivotY="217.1" frameX="-5" frameY="-6" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0001" x="1010" y="1159" width="488" height="509" frameX="-5" frameY="-6" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0002" x="1508" y="1159" width="487" height="514" frameX="-2" frameY="-1" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0003" x="1508" y="1159" width="487" height="514" frameX="-2" frameY="-1" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0004" x="2005" y="1159" width="485" height="514" frameX="0" frameY="-1" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0005" x="2005" y="1159" width="485" height="514" frameX="0" frameY="-1" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0006" x="2500" y="1159" width="485" height="515" frameX="0" frameY="0" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0007" x="2500" y="1159" width="485" height="515" frameX="0" frameY="0" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0008" x="2500" y="1159" width="485" height="515" frameX="0" frameY="0" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0009" x="2500" y="1159" width="485" height="515" frameX="0" frameY="0" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Right0010" x="2500" y="1159" width="485" height="515" frameX="0" frameY="0" frameWidth="493" frameHeight="515"/>
+	<SubTexture name="Fisher Up0000" x="2995" y="1159" width="409" height="635" pivotX="400.25" pivotY="346.1"/>
+	<SubTexture name="Fisher Up0001" x="3414" y="1159" width="409" height="635"/>
+	<SubTexture name="Fisher Up0002" x="10" y="1804" width="404" height="626" frameX="-4" frameY="-9" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0003" x="10" y="1804" width="404" height="626" frameX="-4" frameY="-9" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0004" x="424" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0005" x="424" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0006" x="838" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0007" x="838" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0008" x="1252" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0009" x="1252" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+	<SubTexture name="Fisher Up0010" x="1252" y="1804" width="404" height="623" frameX="-3" frameY="-12" frameWidth="409" frameHeight="635"/>
+</TextureAtlas>

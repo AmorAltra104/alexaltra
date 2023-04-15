@@ -1,0 +1,32 @@
+{
+	"storyName": "endurance",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "training",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"endurance",
+			"icon_mattj",
+			[
+				255,
+				115,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"mattj",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "endurance"
+}

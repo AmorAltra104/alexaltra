@@ -1,0 +1,68 @@
+{
+	"storyName": "wiik 3",
+	"difficulties": "old, Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "matt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"fisticuffs",
+			"mattbox",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"wind up",
+			"mattbox",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"deathmatch",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"king hit",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"tko",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

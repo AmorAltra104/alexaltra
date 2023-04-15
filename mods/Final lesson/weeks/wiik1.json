@@ -1,0 +1,113 @@
+{
+	"storyName": "Give Up.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lesson",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"outsider",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"truce",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"peace",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"vigorous",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"game-over",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"sudden-death-tomz",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"terminal",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"timeout",
+			"matt",
+			[
+				120,
+				53,
+				135
+			]
+		],
+		[
+			"vibe-check",
+			"kivromatt",
+			[
+				120,
+				53,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

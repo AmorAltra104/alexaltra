@@ -1,0 +1,77 @@
+{
+	"storyName": "matt wants to play..",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"unknown",
+			"mattgod",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"sudden-death",
+			"mattgod",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"finisher",
+			"mattgod",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"headshot",
+			"mattgod",
+			[
+				0,
+				0,
+				10
+			]
+		],
+		[
+			"incursion",
+			"kivromatt",
+			[
+				255,
+				140,
+				60
+			]
+		],
+		[
+			"jjitler",
+			"matt2",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

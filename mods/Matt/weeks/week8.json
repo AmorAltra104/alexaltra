@@ -1,0 +1,68 @@
+{
+	"storyName": "vs matt wiik 4 ( wiik4)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "matt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"opponent",
+			"mattsword",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"combat",
+			"mattsword",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"conflict",
+			"matthurt",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"endless battle",
+			"matthurt",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"forgiveness",
+			"mattsword",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "wiik 4",
+	"hiddenUntilUnlocked": false
+}

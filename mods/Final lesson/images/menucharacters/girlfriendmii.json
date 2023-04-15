@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "GF Dancing Beat",
+	"position": [
+		500,
+		160
+	],
+	"scale": 0.4,
+	"image": "GF_MII_assets",
+	"flipX": false
+}

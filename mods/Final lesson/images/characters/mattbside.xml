@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mattbside.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Matt BoxDown0000" x="0" y="0" width="475" height="415"/>
+	<SubTexture name="Matt BoxDown0001" x="0" y="0" width="475" height="415"/>
+	<SubTexture name="Matt BoxDown0002" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0003" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0004" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0005" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0006" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0007" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0008" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0009" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0010" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0011" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0012" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxDown0013" x="475" y="0" width="475" height="413" frameX="0" frameY="-2" frameWidth="475" frameHeight="415"/>
+	<SubTexture name="Matt BoxIdle0000" x="950" y="0" width="429" height="450" frameX="0" frameY="-9" frameWidth="429" frameHeight="459"/>
+	<SubTexture name="Matt BoxIdle0001" x="950" y="0" width="429" height="450" frameX="0" frameY="-9" frameWidth="429" frameHeight="459"/>
+	<SubTexture name="Matt BoxIdle0002" x="1379" y="0" width="429" height="455" frameX="0" frameY="-4" frameWidth="429" frameHeight="459"/>
+	<SubTexture name="Matt BoxIdle0003" x="1379" y="0" width="429" height="455" frameX="0" frameY="-4" frameWidth="429" frameHeight="459"/>
+	<SubTexture name="Matt BoxIdle0004" x="0" y="455" width="429" height="458" frameX="0" frameY="-1" frameWidth="429" frameHeight="459"/>
+	<SubTexture name="Matt BoxIdle0005" x="0" y="455" width="429" height="458" frameX="0" frameY="-1" frameWidth="429" frameHeight="459"/>
+	<SubTexture name="Matt BoxIdle0006" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0007" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0008" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0009" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0010" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0011" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0012" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxIdle0013" x="429" y="455" width="429" height="459"/>
+	<SubTexture name="Matt BoxLeft0000" x="858" y="455" width="482" height="425" frameX="0" frameY="-3" frameWidth="482" frameHeight="429"/>
+	<SubTexture name="Matt BoxLeft0001" x="858" y="455" width="482" height="425" frameX="0" frameY="-3" frameWidth="482" frameHeight="429"/>
+	<SubTexture name="Matt BoxLeft0002" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0003" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0004" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0005" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0006" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0007" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0008" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0009" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0010" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0011" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0012" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxLeft0013" x="1340" y="455" width="482" height="429"/>
+	<SubTexture name="Matt BoxRight0000" x="0" y="914" width="504" height="433" frameX="0" frameY="-3" frameWidth="504" frameHeight="437"/>
+	<SubTexture name="Matt BoxRight0001" x="0" y="914" width="504" height="433" frameX="0" frameY="-3" frameWidth="504" frameHeight="437"/>
+	<SubTexture name="Matt BoxRight0002" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0003" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0004" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0005" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0006" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0007" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0008" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0009" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0010" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0011" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0012" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxRight0013" x="504" y="914" width="504" height="437"/>
+	<SubTexture name="Matt BoxUp0000" x="1008" y="914" width="422" height="471"/>
+	<SubTexture name="Matt BoxUp0001" x="1008" y="914" width="422" height="471"/>
+	<SubTexture name="Matt BoxUp0002" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0003" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0004" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0005" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0006" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0007" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0008" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0009" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0010" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0011" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0012" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt BoxUp0013" x="1430" y="914" width="422" height="467" frameX="0" frameY="-4" frameWidth="422" frameHeight="471"/>
+	<SubTexture name="Matt ChillSnap0000" x="0" y="1385" width="440" height="462"/>
+	<SubTexture name="Matt ChillSnap0001" x="440" y="1385" width="440" height="462"/>
+	<SubTexture name="Matt ChillSnap0002" x="880" y="1385" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0003" x="1320" y="1385" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0004" x="1320" y="1385" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0005" x="0" y="1847" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0006" x="440" y="1847" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0007" x="880" y="1847" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0008" x="1320" y="1847" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0009" x="0" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0010" x="0" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0011" x="440" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0012" x="880" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0013" x="880" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0014" x="880" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+	<SubTexture name="Matt ChillSnap0015" x="880" y="2308" width="440" height="461" frameX="0" frameY="-1" frameWidth="440" frameHeight="462"/>
+</TextureAtlas>

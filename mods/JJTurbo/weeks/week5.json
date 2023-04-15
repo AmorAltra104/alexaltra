@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bonus-round",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"insano",
+			"Matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fisticuffs-remix",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

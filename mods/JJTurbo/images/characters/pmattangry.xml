@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pmattangry.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt down note0000" x="0" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0001" x="0" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0002" x="359" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0003" x="359" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0004" x="718" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0005" x="718" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0006" x="1077" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0007" x="1077" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0008" x="1436" y="0" width="359" height="420"/>
+	<SubTexture name="matt down note0009" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0010" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0011" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0012" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0013" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0014" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0015" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0016" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0017" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt down note0018" x="0" y="420" width="359" height="420"/>
+	<SubTexture name="matt idle0000" x="359" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0001" x="359" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0002" x="696" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0003" x="696" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0004" x="1033" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0005" x="1033" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0006" x="1370" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0007" x="1370" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0008" x="1707" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0009" x="1707" y="420" width="337" height="479"/>
+	<SubTexture name="matt idle0010" x="0" y="899" width="337" height="479"/>
+	<SubTexture name="matt idle0011" x="337" y="899" width="337" height="479"/>
+	<SubTexture name="matt idle0012" x="337" y="899" width="337" height="479"/>
+	<SubTexture name="matt idle0013" x="337" y="899" width="337" height="479"/>
+	<SubTexture name="matt left note0000" x="674" y="899" width="392" height="438"/>
+	<SubTexture name="matt left note0001" x="674" y="899" width="392" height="438"/>
+	<SubTexture name="matt left note0002" x="1066" y="899" width="392" height="438"/>
+	<SubTexture name="matt left note0003" x="1066" y="899" width="392" height="438"/>
+	<SubTexture name="matt left note0004" x="1458" y="899" width="392" height="438"/>
+	<SubTexture name="matt left note0005" x="1458" y="899" width="392" height="438"/>
+	<SubTexture name="matt left note0006" x="0" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0007" x="0" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0008" x="392" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0009" x="392" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0010" x="784" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0011" x="784" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0012" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0013" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0014" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0015" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0016" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0017" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0018" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0019" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0020" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0021" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt left note0022" x="1176" y="1378" width="392" height="438"/>
+	<SubTexture name="matt right note0000" x="0" y="1816" width="521" height="416"/>
+	<SubTexture name="matt right note0001" x="0" y="1816" width="521" height="416"/>
+	<SubTexture name="matt right note0002" x="521" y="1816" width="521" height="416"/>
+	<SubTexture name="matt right note0003" x="521" y="1816" width="521" height="416"/>
+	<SubTexture name="matt right note0004" x="1042" y="1816" width="521" height="416"/>
+	<SubTexture name="matt right note0005" x="1042" y="1816" width="521" height="416"/>
+	<SubTexture name="matt right note0006" x="0" y="2232" width="521" height="416"/>
+	<SubTexture name="matt right note0007" x="0" y="2232" width="521" height="416"/>
+	<SubTexture name="matt right note0008" x="521" y="2232" width="521" height="416"/>
+	<SubTexture name="matt right note0009" x="521" y="2232" width="521" height="416"/>
+	<SubTexture name="matt right note0010" x="1042" y="2232" width="521" height="416"/>
+	<SubTexture name="matt right note0011" x="1042" y="2232" width="521" height="416"/>
+	<SubTexture name="matt right note0012" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0013" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0014" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0015" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0016" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0017" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0018" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0019" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt right note0020" x="0" y="2648" width="521" height="416"/>
+	<SubTexture name="matt up note0000" x="521" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0001" x="521" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0002" x="863" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0003" x="863" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0004" x="1205" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0005" x="1205" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0006" x="1547" y="2648" width="342" height="478"/>
+	<SubTexture name="matt up note0007" x="0" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0008" x="0" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0009" x="342" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0010" x="342" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0011" x="684" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0012" x="684" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0013" x="684" y="3126" width="342" height="478"/>
+	<SubTexture name="matt up note0014" x="684" y="3126" width="342" height="478"/>
+</TextureAtlas>

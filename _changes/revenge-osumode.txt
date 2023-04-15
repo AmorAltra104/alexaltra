@@ -1,0 +1,25 @@
+mods/data/revenge/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/data/revenge/goofy_note_press.lua
+mods/data/revenge/mod.txt
+mods/data/revenge/revenge-easy.json
+mods/data/revenge/revenge-god.json
+mods/data/revenge/revenge-hard.json
+mods/data/revenge/revenge.json
+mods/data/revenge/script2.lua
+mods/data/revenge/script3.lua
+mods/data/revenge/script4.lua
+mods/Matt/stages/boxing.json
+mods/Matt/stages/boxing.lua
+mods/Matt/stages/swordfight.json
+mods/Matt/stages/swordfight.lua
+mods/Matt/custom_notetypes/HD Note.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/sounds/loss_matt.ogg
+mods/songs/revenge/Voices.ogg
+mods/songs/revenge/voices.ogg
+mods/songs/revenge/Inst.ogg
+mods/songs/revenge/inst.ogg

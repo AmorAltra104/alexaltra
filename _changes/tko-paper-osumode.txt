@@ -1,0 +1,13 @@
+mods/data/tko-paper/mod.txt
+mods/data/tko-paper/tko-paper-hard.json
+mods/JJTurbo/stages/voiidmatt2.json
+mods/JJTurbo/stages/voiidmatt2.lua
+mods/JJTurbo/custom_events/Flash.lua
+mods/JJTurbo/custom_events/Set_Cam_Zoom.lua
+mods/JJTurbo/custom_events/TweenSpin.lua
+mods/JJTurbo/custom_events/ArrowDisappear.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/tko-paper/Inst.ogg
+mods/songs/tko-paper/inst.ogg

@@ -1,0 +1,2466 @@
+{
+	"song": {
+		"events": [
+			[
+				3310.81081081081,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3851.35135135135,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7635.13513513513,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8175.67567567567,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8716.21621621622,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				10743.2432432432,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				10878.3783783784,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				12905.4054054054,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				13040.5405405405,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				13310.8108108108,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13614.8648648649,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14121.6216216216,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				14391.8918918919,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14695.9459459459,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15202.7027027027,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				15472.972972973,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15743.2432432432,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16013.5135135135,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16283.7837837838,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"0.1"
+					],
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17162.1621621622,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				17364.8648648649,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				24932.4324324324,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25067.5675675676,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25202.7027027027,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25337.8378378378,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25472.972972973,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25608.1081081081,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25810.8108108108,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				26554.054054054,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26655.4054054054,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27094.5945945946,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27364.8648648649,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28175.6756756757,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28445.9459459459,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28750,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28885.1351351351,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29020.2702702703,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29256.7567567567,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30878.3783783784,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30979.7297297297,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31418.9189189189,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31689.1891891892,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32500,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32770.2702702703,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33074.3243243243,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33209.4594594595,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33344.5945945946,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33581.0810810811,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34459.4594594594,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				34662.1621621621,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37837.8378378378,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				37905.4054054054,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38783.7837837838,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				39020.2702702703,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40067.5675675675,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40945.9459459459,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				41148.6486486486,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41689.1891891892,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42027.027027027,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				42229.7297297297,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43310.8108108108,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43581.0810810811,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44391.8918918919,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44662.1621621621,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45472.9729729729,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46554.054054054,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53918.9189189189,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				54121.6216216216,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54662.1621621621,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				55202.7027027027,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56081.081081081,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57128.3783783783,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57364.8648648648,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57905.4054054054,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58175.6756756756,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58716.2162162162,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58851.3513513513,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59121.6216216216,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59527.027027027,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59797.2972972973,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60067.5675675675,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61452.7027027027,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61689.1891891892,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62229.7297297297,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63040.5405405405,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63175.6756756756,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63445.9459459459,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63851.3513513513,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64121.6216216216,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64391.8918918918,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64729.7297297297,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				65777.027027027,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66013.5135135135,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66554.054054054,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66824.3243243243,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67364.8648648648,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67770.2702702702,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68175.6756756756,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68445.9459459459,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68716.2162162162,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70101.3513513513,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70337.8378378378,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70878.3783783783,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71148.6486486486,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71689.1891891891,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71824.3243243243,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72094.5945945945,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72500,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72770.2702702702,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73040.5405405405,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73378.3783783783,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0.5"
+					]
+				]
+			],
+			[
+				73581.081081081,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73885.1351351351,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74121.6216216216,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74425.6756756756,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74662.1621621621,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75202.7027027027,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75540.5405405405,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				75743.2432432432,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76283.7837837838,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76824.3243243243,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77364.8648648649,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77702.7027027027,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0.5"
+					]
+				]
+			],
+			[
+				77905.4054054054,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78209.4594594594,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78445.9459459459,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78750,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78986.4864864865,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79527.027027027,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79864.8648648648,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				80067.5675675675,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80608.1081081081,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81148.6486486486,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81689.1891891892,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82027.0270270271,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				82500.0000000001,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82770.2702702703,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83040.5405405406,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83108.1081081082,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				83310.8108108109,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83648.6486486487,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				83851.3513513514,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84155.4054054055,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84189.1891891893,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				84391.891891892,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84662.1621621622,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84932.4324324325,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85202.7027027028,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85270.2702702704,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				85472.9729729731,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85810.8108108109,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				86013.5135135136,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86317.5675675677,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86351.3513513514,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				86554.0540540542,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88716.2162162164,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90067.5675675677,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90675.6756756758,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				90878.3783783785,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91182.4324324326,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91418.9189189191,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91722.9729729731,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91959.4594594596,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92263.5135135137,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92500.0000000002,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92804.0540540542,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93040.5405405407,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93344.5945945948,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93581.0810810813,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93885.1351351353,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94121.6216216218,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94425.6756756758,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94662.1621621623,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94966.2162162164,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95202.7027027029,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95506.7567567569,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95743.2432432434,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96047.2972972975,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96283.7837837839,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96587.837837838,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96824.3243243245,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97128.3783783785,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97364.864864865,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97668.9189189191,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97905.4054054056,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98209.4594594596,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98445.9459459461,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98750.0000000002,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98986.4864864867,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99290.5405405407,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99527.0270270272,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99831.0810810813,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100067.567567568,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100371.621621622,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100608.108108108,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100912.162162162,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101148.648648649,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101452.702702703,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101689.189189189,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101993.243243243,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102229.72972973,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102533.783783784,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102770.27027027,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103074.324324324,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103851.351351352,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104155.405405406,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104391.891891892,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104695.945945946,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104932.432432433,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105236.486486487,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105472.972972973,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105777.027027027,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106013.513513514,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106317.567567568,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106554.054054054,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106858.108108108,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107094.594594595,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107398.648648649,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109020.270270271,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109256.756756757,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109797.297297298,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110067.567567568,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110608.108108108,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110743.243243244,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111418.918918919,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111689.18918919,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111959.45945946,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112229.72972973,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113344.594594595,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113581.081081081,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114121.621621622,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114391.891891892,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114932.432432433,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115067.567567568,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115743.243243244,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116013.513513514,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116283.783783784,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116554.054054054,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116689.18918919,
+				[
+					[
+						"Flip Arrow Positions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116824.324324325,
+				[
+					[
+						"Flip Arrow Positions Back",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

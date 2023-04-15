@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				-247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				3,
+				-283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				-40,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				-89,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				-86,
+				-225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PHMatt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "PHMatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		42,
+		42
+	],
+	"camera_position": [
+		50,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
