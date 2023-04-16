@@ -31,5 +31,7 @@ mods/normalmods/images/uno.png
 mods/normalmods/images/dos.png
 mods/normalmods/images/tres.png
 mods/normalmods/images/cuatro.png
+mods/songs/burnout/Voices.ogg
+mods/songs/burnout/voices.ogg
 mods/songs/burnout/Inst.ogg
 mods/songs/burnout/inst.ogg

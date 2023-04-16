@@ -1,0 +1,6 @@
+mods/data/unknown/mod.txt
+mods/data/unknown/unknown-hard.json
+mods/Final lesson/stages/vol.json
+mods/Final lesson/stages/vol.lua
+mods/songs/unknown/Inst.ogg
+mods/songs/unknown/inst.ogg

@@ -1,0 +1,28 @@
+mods/data/ballin/ballin-hard.json
+mods/data/ballin/events.json
+mods/Final lesson/characters/mattangry.json
+mods/Final lesson/images/characters/mattangry.png
+mods/Final lesson/images/characters/mattangry.xml
+mods/Final lesson/characters/mattbox.json
+mods/Final lesson/images/characters/matt_box.png
+mods/Final lesson/images/characters/matt_box.xml
+mods/data/ballin/mod.txt
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/mattChill.json
+mods/Final lesson/characters/gf_CA.json
+mods/Final lesson/stages/matt3.json
+mods/Final lesson/stages/matt3.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/matt_chill.png
+mods/Final lesson/images/characters/matt_chill.xml
+mods/Final lesson/images/characters/GF_CA.png
+mods/Final lesson/images/characters/GF_CA.xml
+mods/Final lesson/images/boxwall.png
+mods/Final lesson/images/boxwall.xml
+mods/Final lesson/images/boxfloor.png
+mods/Final lesson/images/boxfloor.xml
+mods/songs/ballin/Voices.ogg
+mods/songs/ballin/voices.ogg
+mods/songs/ballin/Inst.ogg
+mods/songs/ballin/inst.ogg

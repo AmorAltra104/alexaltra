@@ -1,0 +1,8 @@
+mods/data/target-of-a-rap/mod.txt
+mods/data/target-of-a-rap/target-of-a-rap-hard.json
+mods/data/target-of-a-rap/target-of-a-rap.json
+mods/Final lesson/stages/matt2.json
+mods/Final lesson/stages/matt2.lua
+mods/Final lesson/stages/stage.json
+mods/songs/target-of-a-rap/Inst.ogg
+mods/songs/target-of-a-rap/inst.ogg

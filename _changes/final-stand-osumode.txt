@@ -1,0 +1,6 @@
+mods/data/final-stand/final-stand-hard.json
+mods/data/final-stand/mod.txt
+mods/Final lesson/stages/matt2.json
+mods/Final lesson/stages/matt2.lua
+mods/songs/final-stand/Inst.ogg
+mods/songs/final-stand/inst.ogg

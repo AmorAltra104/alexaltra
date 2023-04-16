@@ -1,0 +1,9 @@
+mods/data/blackout/blackout-hard.json
+mods/data/blackout/blackout.json
+mods/data/blackout/mod.txt
+mods/Final lesson/stages/matt3.json
+mods/Final lesson/stages/matt3.lua
+mods/Final lesson/stages/arena.json
+mods/Final lesson/stages/arena.lua
+mods/songs/blackout/Inst.ogg
+mods/songs/blackout/inst.ogg

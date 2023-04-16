@@ -1,9 +1,30 @@
+mods/data/final-destination/Editable Combo and Ratings v2.2 (Player Only).lua
 mods/data/final-destination/events.json
 mods/data/final-destination/final-destination-erect.json
+mods/data/final-destination/final-destination-god.json
+mods/data/final-destination/final-destination-hard.json
+mods/data/final-destination/goofy_note_press.lua
+mods/data/final-destination/lights.lua
 mods/data/final-destination/mod.txt
-mods/bonus/stages/boxmaerect.json
-mods/bonus/stages/boxmaerect.lua
-mods/bonus/custom_events/Toggle Trail.lua
+mods/data/final-destination/P2ExtraIcon.lua
+mods/data/final-destination/script12.lua
+mods/data/final-destination/script14.lua
+mods/data/final-destination/script2.lua
+mods/data/final-destination/script3.lua
+mods/data/final-destination/script4.lua
+mods/data/final-destination/script6.lua
+mods/Matt/stages/boxing.json
+mods/Matt/stages/boxing.lua
+mods/Matt/custom_notetypes/Tricky Note.lua
+mods/Matt/custom_notetypes/HD Note.lua
+mods/Matt/custom_events/Toggle Trail.lua
+mods/Matt/custom_events/Blammed Lights.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/sounds/loss_matt.ogg
 mods/songs/final-destination/Voices.ogg
 mods/songs/final-destination/voices.ogg
 mods/songs/final-destination/Inst.ogg

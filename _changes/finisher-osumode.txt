@@ -1,0 +1,9 @@
+mods/data/finisher/finisher-hard.json
+mods/data/finisher/mod.txt
+mods/Final lesson/stages/vol.json
+mods/Final lesson/stages/vol.lua
+mods/Final lesson/custom_events/Arrow flip.lua
+mods/Final lesson/custom_events/FlipUI.lua
+mods/Final lesson/custom_events/LinearSpin.lua
+mods/songs/finisher/Inst.ogg
+mods/songs/finisher/inst.ogg

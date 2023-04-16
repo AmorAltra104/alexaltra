@@ -1,3 +1,4 @@
+mods/data/headshot/events.json
 mods/data/headshot/headshot-hard.json
 mods/data/headshot/mod.txt
 mods/Rhys fanchart/characters/bf.json

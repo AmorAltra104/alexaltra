@@ -1,0 +1,8 @@
+mods/data/lesson/lesson-hard.json
+mods/data/lesson/mod.txt
+mods/Final lesson/stages/matt1.json
+mods/Final lesson/stages/matt1.lua
+mods/songs/lesson/Voices.ogg
+mods/songs/lesson/voices.ogg
+mods/songs/lesson/Inst.ogg
+mods/songs/lesson/inst.ogg

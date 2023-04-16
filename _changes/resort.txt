@@ -1,24 +1,18 @@
 mods/data/resort/mod.txt
 mods/data/resort/resort-hard.json
 mods/data/resort/Script.lua
-mods/Matt Pursuit/characters/bf-mii.json
-mods/Matt Pursuit/characters/halfcorrupted.json
-mods/Matt Pursuit/characters/gfmii.json
-mods/Matt Pursuit/stages/midnight.json
-mods/Matt Pursuit/stages/midnight.lua
-mods/Matt Pursuit/images/characters/BOIFREN_MII.png
-mods/Matt Pursuit/images/characters/BOIFREN_MII.xml
-mods/Matt Pursuit/images/characters/matt_half_corrupt.png
-mods/Matt Pursuit/images/characters/matt_half_corrupt.xml
-mods/Matt Pursuit/images/characters/GF_MII_assets.png
-mods/Matt Pursuit/images/characters/GF_MII_assets.xml
-mods/Matt Pursuit/custom_events/Cinematics.lua
-mods/Matt Pursuit/custom_events/TweenSpin.lua
-mods/Matt Pursuit/custom_events/wavy.lua
-mods/Matt Pursuit/scripts/Golden.lua
-mods/Matt Pursuit/images/SkyMidnight.png
-mods/Matt Pursuit/images/BuildingsNight.png
-mods/Matt Pursuit/images/FloorNight.png
+mods/data/resort/script4.lua
+mods/Matt/stages/court.json
+mods/Matt/stages/court.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/images/skynotthefangirl.png
+mods/Matt/images/basketballsinyourmouth.png
+mods/Matt/images/fences_and_floor.png
+mods/Matt/images/bush.png
 mods/songs/resort/Voices.ogg
 mods/songs/resort/voices.ogg
 mods/songs/resort/Inst.ogg
