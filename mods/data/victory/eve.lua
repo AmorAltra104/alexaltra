@@ -1,0 +1,5 @@
+-- function onStepHit()
+-- if curStep == 1 then
+-- doTweenAlpha('camHUD','camHUD',0,1,'linear')
+-- end
+-- end

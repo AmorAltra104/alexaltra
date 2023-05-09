@@ -1,0 +1,70 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009,
+				20010,
+				20011
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "ralsei"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				20012,
+				20013,
+				20014,
+				20015,
+				20016,
+				20017,
+				20018,
+				20019,
+				20019,
+				20019
+
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "ralsei"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "ralsei2",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

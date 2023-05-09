@@ -1,0 +1,6936 @@
+{
+	"song": {
+		"player1": "ski",
+		"events": [
+			[
+				900,
+				[
+					[
+						"lyrics",
+						"* SANS...?",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				2025,
+				[
+					[
+						"lyrics",
+						"* SANS!",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				2625,
+				[
+					[
+						"lyrics",
+						"* WAKE UP!",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				2962.5,
+				[
+					[
+						"Play Animation",
+						"WakingUp",
+						"Dad"
+					]
+				]
+			],
+			[
+				3375,
+				[
+					[
+						"lyrics",
+						"* what is it dude...",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"lyrics",
+						"* A HUMAN HAS FALLEN FROM THE SURFACE WORLD!",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				7387.5,
+				[
+					[
+						"lyrics",
+						"* really.",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				8100,
+				[
+					[
+						"lyrics",
+						"* and you gotta bone to pick with em?",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				9750,
+				[
+					[
+						"Play Animation",
+						"Mad",
+						"GF"
+					]
+				]
+			],
+			[
+				9900,
+				[
+					[
+						"lyrics",
+						"* THERE ARE NO TIME FOR PUNS!",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				11212.5,
+				[
+					[
+						"lyrics",
+						"* cmon that was a real rib tickler",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				13387.5,
+				[
+					[
+						"lyrics",
+						"* ayeee",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				13687.5,
+				[
+					[
+						"lyrics",
+						"* UGH, ENOUGH!",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				15487.5,
+				[
+					[
+						"lyrics",
+						"* alright...",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				16725,
+				[
+					[
+						"lyrics",
+						"* here we go again...",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				19050,
+				[
+					[
+						"lyrics",
+						"",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Change Character",
+						"1",
+						"sans-ic"
+					]
+				]
+			],
+			[
+				96450,
+				[
+					[
+						"lyrics",
+						"* REALLY SANS...",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				97350,
+				[
+					[
+						"lyrics",
+						"* what",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				97837.5,
+				[
+					[
+						"lyrics",
+						"* THE FIRST LINE OF THE CHORUS IS A PUN.",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				99712.5,
+				[
+					[
+						"lyrics",
+						"* yup",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"lyrics",
+						"* YOU IMBECILE!",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				101550,
+				[
+					[
+						"lyrics",
+						"* THAT WAS VERY...",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				103012.5,
+				[
+					[
+						"lyrics",
+						"* CLEVER...",
+						"Pixel Paps.ttf"
+					]
+				]
+			],
+			[
+				104175,
+				[
+					[
+						"lyrics",
+						"* thanks, buddy",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"lyrics",
+						"",
+						"Pixel Sans.ttf"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Change Character",
+						"1",
+						"sans-orange"
+					],
+					[
+						"Change Character",
+						"0",
+						"ski-orange"
+					]
+				]
+			],
+			[
+				207000,
+				[
+					[
+						"Change Character",
+						"1",
+						"sans-ic"
+					],
+					[
+						"Change Character",
+						"0",
+						"ski"
+					]
+				]
+			],
+			[
+				240000,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				240300,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				240600,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			]
+		],
+		"gfVersion": "papyrus-ic",
+		"notes": [
+			{
+				"sectionNotes": [
+					[
+						900,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						2025,
+						2,
+						0,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						2625,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						2812.5,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						3375,
+						2,
+						0
+					],
+					[
+						3525,
+						1,
+						0
+					],
+					[
+						3862.5,
+						3,
+						0
+					],
+					[
+						4500,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						3712.5,
+						0,
+						0
+					],
+					[
+						4050,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						5062.5,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						5250,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						5475,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						5850,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						6000,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						6262.5,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						6375,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						6600,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						6825,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						7050,
+						3,
+						0,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						7387.5,
+						3,
+						0
+					],
+					[
+						7650,
+						0,
+						0
+					],
+					[
+						8100,
+						2,
+						0
+					],
+					[
+						8362.5,
+						1,
+						0
+					],
+					[
+						8587.5,
+						2,
+						0
+					],
+					[
+						8700,
+						3,
+						0
+					],
+					[
+						8925,
+						1,
+						0
+					],
+					[
+						9187.5,
+						0,
+						0
+					],
+					[
+						9300,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						9600,
+						3,
+						0
+					],
+					[
+						9750,
+						0,
+						0
+					],
+					[
+						11212.5,
+						1,
+						0
+					],
+					[
+						11250,
+						0,
+						0
+					],
+					[
+						11550,
+						2,
+						0
+					],
+					[
+						11737.5,
+						3,
+						0
+					],
+					[
+						11850,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						12037.5,
+						3,
+						0
+					],
+					[
+						12450,
+						2,
+						0
+					],
+					[
+						12750,
+						1,
+						0
+					],
+					[
+						12975,
+						0,
+						0
+					],
+					[
+						13050,
+						1,
+						0
+					],
+					[
+						13387.5,
+						2,
+						600
+					],
+					[
+						13687.5,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						14212.5,
+						3,
+						0,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						14512.5,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						15487.5,
+						1,
+						0
+					],
+					[
+						15900,
+						3,
+						0
+					],
+					[
+						16725,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						16987.5,
+						3,
+						0
+					],
+					[
+						17175,
+						1,
+						0
+					],
+					[
+						17362.5,
+						2,
+						0
+					],
+					[
+						17475,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						20100,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						19500,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						19800,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						20250,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						20400,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						20700,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						21000,
+						0,
+						450,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						21900,
+						1,
+						150
+					],
+					[
+						22200,
+						0,
+						150
+					],
+					[
+						22500,
+						3,
+						0
+					],
+					[
+						22800,
+						2,
+						900
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						24300,
+						1,
+						0
+					],
+					[
+						24600,
+						0,
+						150
+					],
+					[
+						24900,
+						3,
+						0
+					],
+					[
+						25050,
+						2,
+						0
+					],
+					[
+						25200,
+						3,
+						0
+					],
+					[
+						25500,
+						1,
+						150
+					],
+					[
+						25800,
+						0,
+						450
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						26700,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						27000,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						27300,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						27600,
+						3,
+						900,
+						"Sky Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						29100,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						29400,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						29700,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						30000,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						30300,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						30600,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						30900,
+						1,
+						150,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						31500,
+						1,
+						150
+					],
+					[
+						31800,
+						2,
+						150
+					],
+					[
+						32100,
+						0,
+						150
+					],
+					[
+						32400,
+						3,
+						150
+					],
+					[
+						32700,
+						2,
+						0
+					],
+					[
+						33000,
+						1,
+						0
+					],
+					[
+						33300,
+						2,
+						150
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						33862.5,
+						1,
+						150
+					],
+					[
+						34200,
+						3,
+						150
+					],
+					[
+						34500,
+						0,
+						150
+					],
+					[
+						34800,
+						1,
+						0
+					],
+					[
+						35100,
+						2,
+						0
+					],
+					[
+						35250,
+						1,
+						300
+					],
+					[
+						35700,
+						0,
+						0
+					],
+					[
+						35850,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						36000,
+						3,
+						0
+					],
+					[
+						36225,
+						2,
+						0
+					],
+					[
+						36450,
+						1,
+						0
+					],
+					[
+						36600,
+						2,
+						150
+					],
+					[
+						36900,
+						0,
+						150
+					],
+					[
+						37200,
+						1,
+						0
+					],
+					[
+						37350,
+						2,
+						0
+					],
+					[
+						37500,
+						1,
+						0
+					],
+					[
+						37800,
+						3,
+						0
+					],
+					[
+						38100,
+						2,
+						150
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						38400,
+						1,
+						150
+					],
+					[
+						38850,
+						0,
+						0
+					],
+					[
+						39000,
+						1,
+						150
+					],
+					[
+						39300,
+						2,
+						0
+					],
+					[
+						39600,
+						0,
+						0
+					],
+					[
+						39900,
+						1,
+						0
+					],
+					[
+						40050,
+						3,
+						150
+					],
+					[
+						40350,
+						0,
+						150
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						40800,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						40950,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						41250,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						41700,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						42000,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						42300,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						42450,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						42750,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						43050,
+						4,
+						0,
+						"Sky Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						43200,
+						3,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						43500,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						43800,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						43950,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						44100,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						44250,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						44400,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						44550,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						44850,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						45150,
+						0,
+						150,
+						"Sky Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						45600,
+						1,
+						150
+					],
+					[
+						45900,
+						2,
+						150
+					],
+					[
+						46200,
+						0,
+						150
+					],
+					[
+						46500,
+						3,
+						0
+					],
+					[
+						46650,
+						2,
+						0
+					],
+					[
+						46800,
+						1,
+						150
+					],
+					[
+						47100,
+						0,
+						0
+					],
+					[
+						47250,
+						2,
+						150
+					],
+					[
+						47550,
+						1,
+						150
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						48000,
+						1,
+						0
+					],
+					[
+						48187.5,
+						0,
+						0
+					],
+					[
+						48300,
+						3,
+						0
+					],
+					[
+						48450,
+						1,
+						0
+					],
+					[
+						48600,
+						3,
+						150
+					],
+					[
+						49050,
+						2,
+						0
+					],
+					[
+						49200,
+						1,
+						150
+					],
+					[
+						49500,
+						0,
+						150
+					],
+					[
+						49800,
+						3,
+						150
+					],
+					[
+						50250,
+						1,
+						0,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						50400,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						50550,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						50700,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						51000,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						51300,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						51450,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						51600,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						51750,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						51900,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						52200,
+						0,
+						300,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						52800,
+						1,
+						0
+					],
+					[
+						52950,
+						1,
+						0
+					],
+					[
+						53250,
+						2,
+						150
+					],
+					[
+						53550,
+						0,
+						150
+					],
+					[
+						53850,
+						3,
+						0
+					],
+					[
+						54000,
+						2,
+						0
+					],
+					[
+						54187.5,
+						3,
+						0
+					],
+					[
+						54300,
+						0,
+						0
+					],
+					[
+						54600,
+						1,
+						300
+					],
+					[
+						55050,
+						2,
+						0,
+						"Sky Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						55200,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						55500,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						55650,
+						3,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						56100,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						56250,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						56400,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						56550,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						56850,
+						1,
+						300,
+						"Sky Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						57900,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						58500,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						59100,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						59700,
+						0,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						60300,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						60600,
+						2,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						60900,
+						1,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						61200,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						61500,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						61800,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						62100,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						62700,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						63300,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						63900,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						64500,
+						0,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						65100,
+						1,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						65400,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						65700,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						66000,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						66300,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						66600,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						66900,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						67500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						68100,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						68700,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						69300,
+						1,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						69900,
+						0,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						70500,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						70800,
+						1,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						71100,
+						3,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						71400,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						71700,
+						1,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						72300,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						72900,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						73500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						74100,
+						0,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						74700,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						75000,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						75300,
+						3,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						75600,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						75900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						76200,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						76500,
+						2,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						77100,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						77700,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						78300,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						78900,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						79500,
+						1,
+						300,
+						"Dad & GF Sing Note"
+					],
+					[
+						80100,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						80400,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						80700,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						81000,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						81300,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						81900,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						82500,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						83100,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						83700,
+						0,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						84300,
+						3,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						84600,
+						2,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						84900,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						85200,
+						0,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						85500,
+						3,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						85800,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						86100,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						86700,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						87300,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						87900,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						88500,
+						2,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						89100,
+						1,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						89700,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						90000,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						90300,
+						2,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						90600,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						90900,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						91500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						92100,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						92700,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						93300,
+						2,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						91500,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						92100,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						92700,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						93300,
+						6,
+						450,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						93900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						94500,
+						0,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						95100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						95400,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						95700,
+						3,
+						300,
+						"Sky Sing Note1"
+					],
+					[
+						93900,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						94500,
+						4,
+						450,
+						"Dad & GF Sing Note"
+					],
+					[
+						95100,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						95400,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						95700,
+						7,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						96450,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						96600,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						96862.5,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						97350,
+						1,
+						0
+					],
+					[
+						97837.5,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						98025,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						98250,
+						2,
+						0,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						98437.5,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						98550,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						98700,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						98850,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						99000,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						99075,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						99300,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						99712.5,
+						2,
+						0
+					],
+					[
+						100200,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						100650,
+						0,
+						0,
+						"GF Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100875,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						101100,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						101325,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						101550,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						101700,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						102000,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						102262.5,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						103012.5,
+						1,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103275,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						104175,
+						2,
+						0
+					],
+					[
+						104700,
+						1,
+						0
+					],
+					[
+						104850,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106500,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						105900,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						106200,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						106650,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						106800,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						107100,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						107400,
+						0,
+						450,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108300,
+						1,
+						150
+					],
+					[
+						108600,
+						0,
+						150
+					],
+					[
+						108900,
+						3,
+						0
+					],
+					[
+						109200,
+						2,
+						900
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110700,
+						1,
+						0
+					],
+					[
+						111300,
+						3,
+						0
+					],
+					[
+						111450,
+						2,
+						0
+					],
+					[
+						111600,
+						3,
+						0
+					],
+					[
+						111900,
+						1,
+						150
+					],
+					[
+						112200,
+						0,
+						450
+					],
+					[
+						111000,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						113100,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						113400,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						113700,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						114000,
+						3,
+						900,
+						"Sky Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						115500,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						115800,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						116100,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						116400,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						116700,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						117000,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117300,
+						1,
+						150,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						117900,
+						1,
+						150
+					],
+					[
+						118200,
+						2,
+						150
+					],
+					[
+						118500,
+						0,
+						150
+					],
+					[
+						118800,
+						3,
+						150
+					],
+					[
+						119100,
+						2,
+						0
+					],
+					[
+						119700,
+						2,
+						150
+					],
+					[
+						119400,
+						1,
+						150
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120600,
+						3,
+						150
+					],
+					[
+						120900,
+						0,
+						150
+					],
+					[
+						121500,
+						2,
+						0
+					],
+					[
+						121200,
+						1,
+						150
+					],
+					[
+						121800,
+						1,
+						150
+					],
+					[
+						122100,
+						0,
+						150
+					],
+					[
+						120300,
+						1,
+						0
+					],
+					[
+						120300,
+						5,
+						0,
+						"GF Sing"
+					],
+					[
+						120600,
+						7,
+						150,
+						"GF Sing"
+					],
+					[
+						120900,
+						4,
+						150,
+						"GF Sing"
+					],
+					[
+						121200,
+						5,
+						150,
+						"GF Sing"
+					],
+					[
+						121500,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						121800,
+						5,
+						150,
+						"GF Sing"
+					],
+					[
+						122100,
+						4,
+						150,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122700,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						123000,
+						2,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						123300,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						123600,
+						0,
+						900,
+						"Sky Sing Note"
+					],
+					[
+						122700,
+						6,
+						0
+					],
+					[
+						123000,
+						6,
+						150
+					],
+					[
+						123300,
+						5,
+						0
+					],
+					[
+						123600,
+						4,
+						900
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						125400,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						125850,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						126000,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						126300,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						126450,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						126750,
+						0,
+						150,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127200,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						127350,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						127650,
+						0,
+						300,
+						"GF Sing"
+					],
+					[
+						128250,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						128400,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						128700,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						128850,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						129000,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						129300,
+						3,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						129600,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						129900,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						130050,
+						2,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						130350,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						130500,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						130800,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						130950,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						131100,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						131400,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						131550,
+						0,
+						150,
+						"Sky Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132000,
+						1,
+						0
+					],
+					[
+						132150,
+						1,
+						0
+					],
+					[
+						132300,
+						0,
+						0
+					],
+					[
+						132450,
+						3,
+						150
+					],
+					[
+						132900,
+						2,
+						0
+					],
+					[
+						133050,
+						1,
+						0
+					],
+					[
+						133200,
+						2,
+						150
+					],
+					[
+						133500,
+						1,
+						0
+					],
+					[
+						133650,
+						0,
+						0
+					],
+					[
+						133800,
+						3,
+						0
+					],
+					[
+						133950,
+						1,
+						150
+					],
+					[
+						134250,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134400,
+						1,
+						150
+					],
+					[
+						134700,
+						0,
+						0
+					],
+					[
+						134850,
+						3,
+						0
+					],
+					[
+						135000,
+						2,
+						150
+					],
+					[
+						135450,
+						1,
+						0
+					],
+					[
+						135600,
+						2,
+						150
+					],
+					[
+						135900,
+						0,
+						0
+					],
+					[
+						136050,
+						3,
+						0
+					],
+					[
+						136200,
+						1,
+						0
+					],
+					[
+						136350,
+						0,
+						300
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						136800,
+						1,
+						150
+					],
+					[
+						137100,
+						3,
+						0
+					],
+					[
+						137250,
+						3,
+						0
+					],
+					[
+						137400,
+						0,
+						150
+					],
+					[
+						137700,
+						1,
+						0
+					],
+					[
+						138000,
+						2,
+						150
+					],
+					[
+						138300,
+						3,
+						150
+					],
+					[
+						138600,
+						1,
+						0
+					],
+					[
+						138750,
+						0,
+						300
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139200,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						139350,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						139650,
+						0,
+						300,
+						"GF Sing"
+					],
+					[
+						140100,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						140400,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						140700,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						140850,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						141000,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						141300,
+						3,
+						150,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						141600,
+						0,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						141900,
+						3,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						142200,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						142500,
+						0,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						142800,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						142950,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						143100,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						143400,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						143700,
+						0,
+						150,
+						"Sky Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						144300,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						144900,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						145500,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						146100,
+						0,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						146700,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						147000,
+						2,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						147300,
+						1,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						147600,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						147900,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						148200,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						148500,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						149100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						149700,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						150300,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						150900,
+						0,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						151500,
+						1,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						151800,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						152100,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						152400,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						152700,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						153000,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						153300,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						153900,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						154500,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						155100,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						155700,
+						1,
+						450,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						156300,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						156600,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						156900,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						157200,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						157500,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						157800,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						158100,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						158700,
+						1,
+						150
+					],
+					[
+						159300,
+						0,
+						150
+					],
+					[
+						159600,
+						3,
+						150
+					],
+					[
+						159900,
+						2,
+						150
+					],
+					[
+						160200,
+						1,
+						150
+					],
+					[
+						160500,
+						0,
+						300
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						161100,
+						1,
+						0
+					],
+					[
+						161400,
+						2,
+						0
+					],
+					[
+						161700,
+						3,
+						150
+					],
+					[
+						162000,
+						0,
+						150
+					],
+					[
+						162300,
+						1,
+						0
+					],
+					[
+						162600,
+						2,
+						150
+					],
+					[
+						162900,
+						3,
+						150
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						163500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						164100,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						164700,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						165300,
+						2,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						165900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						166200,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						166500,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						166800,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						167100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						167400,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						167700,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						168300,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						168900,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						169200,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						169500,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						169800,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						170100,
+						0,
+						450,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						170700,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						171000,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						171300,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						171600,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						171900,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						172200,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						172500,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						173100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						173700,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						174300,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						174900,
+						2,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						175500,
+						1,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						176100,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						176400,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						176700,
+						2,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						177000,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						177300,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						177900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						178500,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						179100,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						179700,
+						2,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						177900,
+						5,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						178500,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						179100,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						179700,
+						6,
+						450,
+						"Dad & GF Sing Note"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						180300,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						180900,
+						0,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						181800,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						181500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						182100,
+						3,
+						300,
+						"Sky Sing Note1"
+					],
+					[
+						180300,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						180900,
+						4,
+						450,
+						"Dad & GF Sing Note"
+					],
+					[
+						181500,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						181800,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						182100,
+						7,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						183000,
+						1,
+						450,
+						"GF Sing"
+					],
+					[
+						183900,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						183600,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						184200,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						184500,
+						1,
+						150,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						184800,
+						0,
+						300,
+						"GF Sing"
+					],
+					[
+						185250,
+						3,
+						300,
+						"GF Sing"
+					],
+					[
+						185700,
+						1,
+						450,
+						"GF Sing"
+					],
+					[
+						186600,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						186750,
+						2,
+						150,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						187200,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						187650,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						188100,
+						2,
+						450,
+						"GF Sing"
+					],
+					[
+						189000,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						189150,
+						2,
+						150,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						189600,
+						0,
+						300,
+						"GF Sing"
+					],
+					[
+						190050,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						190500,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						190800,
+						1,
+						900,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						192900,
+						2,
+						0
+					],
+					[
+						193200,
+						0,
+						0
+					],
+					[
+						193350,
+						3,
+						0
+					],
+					[
+						193500,
+						0,
+						0
+					],
+					[
+						193650,
+						3,
+						0
+					],
+					[
+						193800,
+						2,
+						150
+					],
+					[
+						194100,
+						1,
+						150
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						194850,
+						2,
+						0
+					],
+					[
+						195000,
+						0,
+						0
+					],
+					[
+						195150,
+						3,
+						0
+					],
+					[
+						195300,
+						0,
+						150
+					],
+					[
+						195600,
+						1,
+						150
+					],
+					[
+						195900,
+						2,
+						150
+					],
+					[
+						196200,
+						0,
+						150
+					],
+					[
+						196500,
+						1,
+						150
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						197250,
+						3,
+						0
+					],
+					[
+						197400,
+						2,
+						150
+					],
+					[
+						197700,
+						0,
+						0
+					],
+					[
+						197850,
+						1,
+						0
+					],
+					[
+						198000,
+						2,
+						150
+					],
+					[
+						198300,
+						2,
+						0
+					],
+					[
+						198450,
+						3,
+						0
+					],
+					[
+						198600,
+						0,
+						150
+					],
+					[
+						199050,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						199200,
+						1,
+						0
+					],
+					[
+						199350,
+						1,
+						0
+					],
+					[
+						199500,
+						0,
+						150
+					],
+					[
+						199800,
+						3,
+						150
+					],
+					[
+						200100,
+						2,
+						150
+					],
+					[
+						200400,
+						1,
+						150
+					],
+					[
+						200700,
+						0,
+						0
+					],
+					[
+						200850,
+						0,
+						0
+					],
+					[
+						201000,
+						3,
+						150
+					],
+					[
+						201450,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						201600,
+						1,
+						150
+					],
+					[
+						201900,
+						0,
+						0
+					],
+					[
+						202050,
+						3,
+						0
+					],
+					[
+						202200,
+						2,
+						150
+					],
+					[
+						202650,
+						1,
+						0
+					],
+					[
+						202800,
+						0,
+						0
+					],
+					[
+						202950,
+						3,
+						0
+					],
+					[
+						203100,
+						0,
+						0
+					],
+					[
+						203250,
+						3,
+						0
+					],
+					[
+						203400,
+						0,
+						0
+					],
+					[
+						203700,
+						1,
+						0
+					],
+					[
+						203850,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						204000,
+						2,
+						0
+					],
+					[
+						204150,
+						2,
+						0
+					],
+					[
+						204300,
+						1,
+						150
+					],
+					[
+						204600,
+						0,
+						150
+					],
+					[
+						205050,
+						3,
+						0
+					],
+					[
+						205200,
+						2,
+						0
+					],
+					[
+						205350,
+						1,
+						0
+					],
+					[
+						205500,
+						3,
+						0
+					],
+					[
+						205650,
+						0,
+						0
+					],
+					[
+						205800,
+						1,
+						150
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						207000,
+						7,
+						0
+					],
+					[
+						207150,
+						5,
+						150
+					],
+					[
+						207450,
+						4,
+						0
+					],
+					[
+						207600,
+						7,
+						150
+					],
+					[
+						208050,
+						4,
+						0
+					],
+					[
+						208200,
+						5,
+						300
+					],
+					[
+						207900,
+						5,
+						0
+					],
+					[
+						208650,
+						4,
+						0
+					],
+					[
+						207000,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						207150,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						207450,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						207600,
+						3,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						207900,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						208050,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						208200,
+						1,
+						300,
+						"Sky Sing Note"
+					],
+					[
+						208650,
+						0,
+						0,
+						"Sky Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						208800,
+						6,
+						0
+					],
+					[
+						209100,
+						5,
+						0
+					],
+					[
+						209400,
+						4,
+						0
+					],
+					[
+						209700,
+						7,
+						0
+					],
+					[
+						209850,
+						6,
+						0
+					],
+					[
+						210000,
+						5,
+						0
+					],
+					[
+						210300,
+						7,
+						0
+					],
+					[
+						208800,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						209100,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						209400,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						209700,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						209850,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						210000,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						210300,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						210600,
+						0,
+						300,
+						"Sky Sing Note"
+					],
+					[
+						210600,
+						4,
+						300
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						212100,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						211500,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						211800,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						212250,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						212400,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						212700,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						213000,
+						0,
+						450,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						213900,
+						1,
+						150
+					],
+					[
+						214200,
+						0,
+						150
+					],
+					[
+						214500,
+						3,
+						0
+					],
+					[
+						214800,
+						2,
+						900
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						216300,
+						1,
+						0
+					],
+					[
+						216900,
+						3,
+						0
+					],
+					[
+						217050,
+						2,
+						0
+					],
+					[
+						217200,
+						3,
+						0
+					],
+					[
+						217500,
+						1,
+						150
+					],
+					[
+						217800,
+						0,
+						450
+					],
+					[
+						216600,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						218700,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						219000,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						219300,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						219600,
+						3,
+						900,
+						"Sky Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						221100,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						221400,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						221700,
+						1,
+						150,
+						"GF Sing"
+					],
+					[
+						222000,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						222300,
+						3,
+						150,
+						"GF Sing"
+					],
+					[
+						222600,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						222900,
+						1,
+						150,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						223500,
+						1,
+						150
+					],
+					[
+						223800,
+						2,
+						150
+					],
+					[
+						224100,
+						0,
+						150
+					],
+					[
+						224400,
+						3,
+						150
+					],
+					[
+						224700,
+						2,
+						0
+					],
+					[
+						225300,
+						2,
+						150
+					],
+					[
+						225000,
+						1,
+						150
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						226200,
+						3,
+						150
+					],
+					[
+						226500,
+						0,
+						150
+					],
+					[
+						227100,
+						2,
+						0
+					],
+					[
+						226800,
+						1,
+						150
+					],
+					[
+						227400,
+						1,
+						150
+					],
+					[
+						227700,
+						0,
+						150
+					],
+					[
+						225900,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						228300,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						228600,
+						2,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						228900,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						229200,
+						0,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						229500,
+						3,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						229800,
+						2,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						230100,
+						1,
+						0,
+						"Sky Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						230700,
+						2,
+						0
+					],
+					[
+						230550,
+						2,
+						0
+					],
+					[
+						231000,
+						1,
+						150
+					],
+					[
+						231450,
+						0,
+						0
+					],
+					[
+						231600,
+						3,
+						150
+					],
+					[
+						231900,
+						2,
+						0
+					],
+					[
+						232050,
+						1,
+						150
+					],
+					[
+						232350,
+						0,
+						150
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						232800,
+						3,
+						0
+					],
+					[
+						232950,
+						0,
+						0
+					],
+					[
+						233100,
+						3,
+						0
+					],
+					[
+						233400,
+						1,
+						150
+					],
+					[
+						233700,
+						2,
+						0
+					],
+					[
+						233850,
+						2,
+						0
+					],
+					[
+						234000,
+						0,
+						150
+					],
+					[
+						234300,
+						3,
+						0
+					],
+					[
+						234450,
+						2,
+						150
+					],
+					[
+						234750,
+						1,
+						150
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						235200,
+						1,
+						0
+					],
+					[
+						235500,
+						0,
+						0
+					],
+					[
+						235800,
+						3,
+						150
+					],
+					[
+						236100,
+						2,
+						0
+					],
+					[
+						236400,
+						1,
+						0
+					],
+					[
+						236550,
+						0,
+						150
+					],
+					[
+						236850,
+						3,
+						0
+					],
+					[
+						237000,
+						2,
+						150
+					],
+					[
+						237450,
+						1,
+						0,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						237600,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						238050,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						238200,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						238350,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						238500,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						238650,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						238800,
+						0,
+						150,
+						"GF Sing"
+					],
+					[
+						239100,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						239250,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						239400,
+						1,
+						150,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						241050,
+						2,
+						150,
+						"GF Sing"
+					],
+					[
+						241500,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						241650,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						241800,
+						0,
+						300,
+						"GF Sing"
+					],
+					[
+						242250,
+						5,
+						0,
+						"Sky Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						242400,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						242550,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						242700,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						242850,
+						2,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						243000,
+						1,
+						150,
+						"Sky Sing Note"
+					],
+					[
+						243900,
+						0,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						244200,
+						3,
+						300,
+						"Sky Sing Note"
+					],
+					[
+						243600,
+						1,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						243750,
+						3,
+						0,
+						"Sky Sing Note"
+					],
+					[
+						244725,
+						2,
+						300
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						245100,
+						1,
+						0
+					],
+					[
+						245400,
+						0,
+						150
+					],
+					[
+						245850,
+						2,
+						0
+					],
+					[
+						246000,
+						3,
+						150
+					],
+					[
+						246300,
+						2,
+						150
+					],
+					[
+						246600,
+						2,
+						300
+					],
+					[
+						247050,
+						5,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						247200,
+						1,
+						0
+					],
+					[
+						247500,
+						0,
+						0
+					],
+					[
+						247800,
+						2,
+						300
+					],
+					[
+						248400,
+						3,
+						0
+					],
+					[
+						248550,
+						2,
+						0
+					],
+					[
+						248700,
+						2,
+						0
+					],
+					[
+						249000,
+						0,
+						300
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						249900,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						250500,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						251100,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						251700,
+						4,
+						300,
+						"Dad & GF Sing Note"
+					],
+					[
+						249900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						250500,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						251100,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						251700,
+						0,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						252300,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						252600,
+						6,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						252900,
+						5,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						253200,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						253500,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						253800,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						254100,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						252300,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						252600,
+						2,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						252900,
+						1,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						253200,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						253500,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						253800,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						254100,
+						2,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						254700,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						255300,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						255900,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						256500,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						254700,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						255300,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						255900,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						256500,
+						0,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						257100,
+						5,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						257400,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						257700,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						258000,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						258300,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						258600,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						258900,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						257100,
+						1,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						257400,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						257700,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						258000,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						258300,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						258600,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						258900,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						259500,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						260100,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						260700,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						261300,
+						5,
+						300,
+						"Dad & GF Sing Note"
+					],
+					[
+						259500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						260100,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						260700,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						261300,
+						1,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						261900,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						262200,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						262500,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						262800,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						263100,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						263400,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						263700,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						261900,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						262200,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						262500,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						262800,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						263100,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						263400,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						263700,
+						1,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						264300,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						264900,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						265500,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						265800,
+						1,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						266100,
+						0,
+						300,
+						"Dad & GF Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						266700,
+						1,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						267300,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						267600,
+						0,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						267900,
+						1,
+						0,
+						"Dad & GF Sing Note"
+					],
+					[
+						268200,
+						2,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						268500,
+						3,
+						150,
+						"Dad & GF Sing Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						269100,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						269700,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						270300,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						270900,
+						6,
+						300,
+						"Dad & GF Sing Note"
+					],
+					[
+						269100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						269700,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						270300,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						270900,
+						2,
+						450,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						271500,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						271800,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						272100,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						272400,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						272700,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						273000,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						273300,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						271500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						271800,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						272100,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						272400,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						272700,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						273000,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						273300,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						273900,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						274500,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						275100,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						275400,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						275700,
+						4,
+						450,
+						"Dad & GF Sing Note"
+					],
+					[
+						273900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						274500,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						275100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						275400,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						275700,
+						0,
+						450,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						276300,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						276600,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						276900,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						277200,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						277500,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						277800,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						278100,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						276300,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						276600,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						276900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						277200,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						277500,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						277800,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						278100,
+						1,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						278700,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						279300,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						279900,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						280500,
+						2,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						281100,
+						1,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						281700,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						282000,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						282300,
+						2,
+						0,
+						"Sky Sing Note1"
+					],
+					[
+						282600,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						282900,
+						0,
+						150,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [
+					[
+						283500,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						284100,
+						4,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						284700,
+						7,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						285300,
+						6,
+						450,
+						"Dad & GF Sing Note"
+					],
+					[
+						283500,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						284100,
+						0,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						284700,
+						3,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						285300,
+						2,
+						450,
+						"Sky Sing Note1"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						285900,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						286500,
+						4,
+						450,
+						"Dad & GF Sing Note"
+					],
+					[
+						287100,
+						5,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						287400,
+						6,
+						150,
+						"Dad & GF Sing Note"
+					],
+					[
+						287700,
+						7,
+						300,
+						"Dad & GF Sing Note"
+					],
+					[
+						285900,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						286500,
+						0,
+						450,
+						"Sky Sing Note1"
+					],
+					[
+						287100,
+						1,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						287400,
+						2,
+						150,
+						"Sky Sing Note1"
+					],
+					[
+						287700,
+						3,
+						300,
+						"Sky Sing Note1"
+					]
+				],
+				"altAnim": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 126,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 126
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 100,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player2": "sans-ic-flip",
+		"player3": "gf",
+		"song": "To The Bone",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"validScore": true,
+		"stage": "bonedoggle",
+		"bpm": 100,
+		"speed": 2.7
+	}
+}

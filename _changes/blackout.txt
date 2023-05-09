@@ -1,32 +1,33 @@
 mods/data/blackout/blackout-hard.json
 mods/data/blackout/blackout.json
+mods/data/blackout/credit.lua
+mods/data/blackout/events.json
 mods/data/blackout/mod.txt
-mods/Final lesson/characters/bfMII.json
-mods/Final lesson/characters/mattChill.json
-mods/Final lesson/characters/gf_DM.json
-mods/Final lesson/stages/matt3.json
-mods/Final lesson/stages/matt3.lua
-mods/Final lesson/images/characters/BOYFRIEND.png
-mods/Final lesson/images/characters/BOYFRIEND.xml
-mods/Final lesson/images/characters/matt_chill.png
-mods/Final lesson/images/characters/matt_chill.xml
-mods/Final lesson/images/characters/GF_DM.png
-mods/Final lesson/images/characters/GF_DM.xml
-mods/Final lesson/characters/bfM.json
-mods/Final lesson/characters/mattbox.json
-mods/Final lesson/characters/gf_B.json
-mods/Final lesson/stages/arena.json
-mods/Final lesson/stages/arena.lua
-mods/Final lesson/images/characters/BOYFRIENDM.png
-mods/Final lesson/images/characters/BOYFRIENDM.xml
-mods/Final lesson/images/characters/matt_box.png
-mods/Final lesson/images/characters/matt_box.xml
-mods/Final lesson/images/characters/GF_B.png
-mods/Final lesson/images/characters/GF_B.xml
-mods/Final lesson/images/boxwall.png
-mods/Final lesson/images/boxwall.xml
-mods/Final lesson/images/boxfloor.png
-mods/Final lesson/images/boxfloor.xml
-mods/Final lesson/images/arena.png
+mods/Vs Impostor/characters/bfairship.json
+mods/Vs Impostor/characters/grey.json
+mods/Vs Impostor/characters/gfdead.json
+mods/Vs Impostor/stages/grey.json
+mods/Vs Impostor/stages/grey.lua
+mods/Vs Impostor/images/characters/bfairship.png
+mods/Vs Impostor/images/characters/bfairship.xml
+mods/Vs Impostor/images/characters/grey.png
+mods/Vs Impostor/images/characters/grey.xml
+mods/Vs Impostor/images/characters/gfdead.png
+mods/Vs Impostor/images/characters/gfdead.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/grey/graybg.png
+mods/Vs Impostor/images/bg/grey/grayfg.png
+mods/Vs Impostor/images/bg/grey/grayblack.png
+mods/Vs Impostor/images/bg/grey/grayblack.xml
+mods/Vs Impostor/images/bg/grey/grayglowy.png
+mods/Vs Impostor/images/bg/grey/grayglowy.xml
+mods/Vs Impostor/images/bg/grey/grayoverlay.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/blackout/Voices.ogg
+mods/songs/blackout/voices.ogg
 mods/songs/blackout/Inst.ogg
 mods/songs/blackout/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/dogbass/dogbass.json
+mods/data/dogbass/timeBarScript.lua
+mods/songs/dogbass/Voices.ogg
+mods/songs/dogbass/voices.ogg
+mods/songs/dogbass/Inst.ogg
+mods/songs/dogbass/inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jghost Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jghost Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jghost Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jghost idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jghost Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bob-ex/bluskys/hell/jghostEX",
+	"position": [
+		-110,
+		-40
+	],
+	"healthicon": "jghost-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		167,
+		45,
+		42
+	],
+	"camera_position": [
+		400,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

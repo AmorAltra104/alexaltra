@@ -1,0 +1,3 @@
+Value 1: If you want the camera beat to be
+           Enabled (True) or Disabled (False)
+Value 2: The intensity of the beat (Default = 0.03)

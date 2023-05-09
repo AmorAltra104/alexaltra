@@ -1,0 +1,17 @@
+mods/data/sussus-moogus/credit.lua
+mods/data/sussus-moogus/events.json
+mods/data/sussus-moogus/mod.txt
+mods/data/sussus-moogus/sussus-moogus-hard.json
+mods/data/sussus-moogus/videos.lua
+mods/Vs Impostor/stages/polus.json
+mods/Vs Impostor/stages/polus.lua
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/sussus-moogus/Voices.ogg
+mods/songs/sussus-moogus/voices.ogg
+mods/songs/sussus-moogus/Inst.ogg
+mods/songs/sussus-moogus/inst.ogg

@@ -1,0 +1,36 @@
+mods/data/who/credit.lua
+mods/data/who/events.json
+mods/Vs Impostor/characters/bluewho.json
+mods/Vs Impostor/images/characters/bluewho.png
+mods/Vs Impostor/images/characters/bluewho.xml
+mods/Vs Impostor/characters/whitemad.json
+mods/Vs Impostor/images/characters/whitemad.png
+mods/Vs Impostor/images/characters/whitemad.xml
+mods/Vs Impostor/characters/whitewho.json
+mods/Vs Impostor/images/characters/whitewho.png
+mods/Vs Impostor/images/characters/whitewho.xml
+mods/Vs Impostor/characters/bluewhonormal.json
+mods/Vs Impostor/images/characters/bluewhonormal.png
+mods/Vs Impostor/images/characters/bluewhonormal.xml
+mods/data/who/mod.txt
+mods/data/who/who-hard.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/who.json
+mods/Vs Impostor/stages/who.lua
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/hideSong/deadguy.png
+mods/Vs Impostor/images/bg/hideSong/meeting.png
+mods/Vs Impostor/images/bg/hideSong/meeting.xml
+mods/Vs Impostor/images/bg/hideSong/KILLYOURSELF.png
+mods/Vs Impostor/images/bg/hideSong/emergency.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/who/Voices.ogg
+mods/songs/who/voices.ogg
+mods/songs/who/Inst.ogg
+mods/songs/who/inst.ogg

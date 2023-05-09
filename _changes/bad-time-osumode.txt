@@ -1,5 +1,6 @@
 mods/data/bad-time/bad-time-genocidal.json
 mods/data/bad-time/bad-time-hard.json
+mods/data/bad-time/bad-time.json
 mods/data/bad-time/DodgeSans.lua
 mods/data/bad-time/healthbarsans.lua
 mods/data/bad-time/lelleelle.lua
@@ -9,6 +10,7 @@ mods/data/bad-time/no2.lua
 mods/data/bad-time/sans jumpscare.lua
 mods/data/bad-time/script.lua
 mods/data/bad-time/sus.lua
+mods/data/bad-time/timeBarScript.lua
 mods/IC/stages/sansN.json
 mods/IC/stages/sansN.lua
 mods/IC/custom_notetypes/Orange Bone Note.lua

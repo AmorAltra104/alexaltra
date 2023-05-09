@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				351
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "amor left big",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				328
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "amor down big",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				392
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "amor up big",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				353
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "amor right big",
+			"indices": []
+		},
+		{
+			"offsets": [
+				57,
+				413
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "funa",
+			"indices": [],
+			"name": "amor fucking dies"
+		},
+		{
+			"offsets": [
+				-85,
+				351
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "amor idle big"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/bosip-ex/amor/amorex",
+	"position": [
+		-100,
+		350
+	],
+	"healthicon": "amorex",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		96,
+		255
+	],
+	"camera_position": [
+		450,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

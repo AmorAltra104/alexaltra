@@ -1,0 +1,6 @@
+mods/data/happy-town/happy-town.json
+mods/data/happy-town/script.lua
+mods/songs/happy-town/Voices.ogg
+mods/songs/happy-town/voices.ogg
+mods/songs/happy-town/Inst.ogg
+mods/songs/happy-town/inst.ogg

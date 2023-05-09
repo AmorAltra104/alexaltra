@@ -1,0 +1,7 @@
+mods/data/megalovania/megalovania-no-mechanics.json
+mods/data/megalovania/megalovania.json
+mods/data/megalovania/timeBarScript.lua
+mods/songs/megalovania/Voices.ogg
+mods/songs/megalovania/voices.ogg
+mods/songs/megalovania/Inst.ogg
+mods/songs/megalovania/inst.ogg

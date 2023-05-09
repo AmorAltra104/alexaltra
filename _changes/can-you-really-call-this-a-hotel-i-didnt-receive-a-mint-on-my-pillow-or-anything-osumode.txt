@@ -1,0 +1,6 @@
+mods/data/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything.json
+mods/data/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything/timeBarScript.lua
+mods/songs/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything/Voices.ogg
+mods/songs/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything/voices.ogg
+mods/songs/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything/Inst.ogg
+mods/songs/can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything/inst.ogg

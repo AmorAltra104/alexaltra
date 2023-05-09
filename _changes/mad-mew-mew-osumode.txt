@@ -1,0 +1,8 @@
+mods/data/mad-mew-mew/mad-mew-mew-no-mechanics.json
+mods/data/mad-mew-mew/mad-mew-mew.json
+mods/data/mad-mew-mew/script.lua
+mods/data/mad-mew-mew/timeBarScript.lua
+mods/songs/mad-mew-mew/Voices.ogg
+mods/songs/mad-mew-mew/voices.ogg
+mods/songs/mad-mew-mew/Inst.ogg
+mods/songs/mad-mew-mew/inst.ogg

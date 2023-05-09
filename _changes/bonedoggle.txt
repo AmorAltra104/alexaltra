@@ -1,12 +1,15 @@
 mods/data/bonedoggle/3rdstrumline.lua
 mods/data/bonedoggle/bonedoggle-hard.json
 mods/data/bonedoggle/bonedoggle.json
+mods/data/bonedoggle/events.json
 mods/data/bonedoggle/fontp.lua
 mods/data/bonedoggle/mod.txt
 mods/data/bonedoggle/no.lua
 mods/data/bonedoggle/ratingsases.lua
 mods/data/bonedoggle/ratingscombo.lua
+mods/data/bonedoggle/script.lua
 mods/data/bonedoggle/sus.lua
+mods/data/bonedoggle/timeBarScript.lua
 mods/data/bonedoggle/urigod.lua
 mods/IC/characters/2bfnavidad.json
 mods/IC/characters/3sans.json

@@ -1,0 +1,35 @@
+{
+	"storyName": "Loggo's Halloween",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"weeb2",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Christmas",
+			"fella",
+			[
+				20,
+				75,
+				20
+			]
+		],
+		[
+			"Spookpostor",
+			"boo",
+			[
+				20,
+				75,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "BOO!"
+}

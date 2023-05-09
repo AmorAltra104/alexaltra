@@ -1,0 +1,6 @@
+mods/data/tem-shop/tem-shop.json
+mods/data/tem-shop/timeBarScript.lua
+mods/songs/tem-shop/Voices.ogg
+mods/songs/tem-shop/voices.ogg
+mods/songs/tem-shop/Inst.ogg
+mods/songs/tem-shop/inst.ogg

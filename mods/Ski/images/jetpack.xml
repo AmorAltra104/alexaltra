@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jetpack.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boost0000" x="0" y="0" width="13" height="19" frameX="0" frameY="0" frameWidth="2247" frameHeight="307"/>
+	<SubTexture name="boost0001" x="0" y="19" width="13" height="19" frameX="0" frameY="0" frameWidth="2247" frameHeight="307"/>
+	<SubTexture name="boost0001" x="0" y="38" width="13" height="19" frameX="0" frameY="0" frameWidth="2247" frameHeight="307"/>
+	<SubTexture name="boost0001" x="0" y="57" width="13" height="19" frameX="0" frameY="0" frameWidth="2247" frameHeight="307"/>
+	<SubTexture name="boost0001" x="0" y="76" width="13" height="19" frameX="0" frameY="0" frameWidth="2247" frameHeight="307"/>
+	<SubTexture name="boost0001" x="0" y="95" width="13" height="19" frameX="0" frameY="0" frameWidth="2247" frameHeight="307"/>
+</TextureAtlas>

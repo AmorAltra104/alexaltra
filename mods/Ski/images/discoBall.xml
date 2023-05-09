@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="discoBall.png">
+<SubTexture name="disco0000" x="0" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0001" x="31" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0002" x="62" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0003" x="93" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0004" x="124" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0005" x="155" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0006" x="186" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="disco0007" x="217" y="0" width="30" height="37" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+</TextureAtlas>

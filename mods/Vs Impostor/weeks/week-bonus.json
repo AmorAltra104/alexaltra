@@ -1,0 +1,113 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"ow",
+			"kills",
+			[
+				46,
+				173,
+				253
+			]
+		],
+		[
+			"who",
+			"whoguys",
+			[
+				46,
+				93,
+				253
+			]
+		],
+		[
+			"insane-streamer",
+			"jerma",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"sussus-nuzzus",
+			"nuzzles",
+			[
+				220,
+				100,
+				120
+			]
+		],
+		[
+			"idk",
+			"idk",
+			[
+				220,
+				100,
+				120
+			]
+		],
+		[
+			"esculent",
+			"dead",
+			[
+				40,
+				20,
+				20
+			]
+		],
+		[
+			"drippypop",
+			"drippy",
+			[
+				206,
+				73,
+				213
+			]
+		],
+		[
+			"crewicide",
+			"dave",
+			[
+				46,
+				53,
+				233
+			]
+		],
+		[
+			"monotone-attack",
+			"attack",
+			[
+				235,
+				235,
+				233
+			]
+		],
+		[
+			"top-10",
+			"top",
+			[
+				255,
+				53,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

@@ -17,7 +17,6 @@ mods/data/playing-with-god-slayer-mode/script1.lua
 mods/Rhys fanchart/characters/bf.json
 mods/Rhys fanchart/stages/god-eater.json
 mods/Rhys fanchart/stages/god-eater.lua
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/Rhys fanchart/images/god eater/god_bg.png
 mods/Rhys fanchart/images/god eater/god_bg.xml
 mods/Rhys fanchart/images/god eater/sasso.png

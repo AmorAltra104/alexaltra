@@ -1,0 +1,21 @@
+mods/data/lights-down/credit.lua
+mods/data/lights-down/events.json
+mods/data/lights-down/lights-down-hard.json
+mods/data/lights-down/load.lua
+mods/data/lights-down/mod.txt
+mods/data/lights-down/Preload.lua
+mods/data/lights-down/toogus.lua
+mods/Vs Impostor/stages/toogus.json
+mods/Vs Impostor/stages/toogus.lua
+mods/Vs Impostor/custom_events/Lights on Ending.lua
+mods/Vs Impostor/custom_events/Lights on.lua
+mods/Vs Impostor/custom_events/Lights out.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/lights-down/Voices.ogg
+mods/songs/lights-down/voices.ogg
+mods/songs/lights-down/Inst.ogg
+mods/songs/lights-down/inst.ogg

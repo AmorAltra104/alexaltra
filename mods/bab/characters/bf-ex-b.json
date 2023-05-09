@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf_down instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf_idle_fdg instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf_left instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf_up instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf_right instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf_left_miss instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				75
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf_down_miss instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				57
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf_up_miss instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf_right_miss instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				158
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf_gameover_1 instance ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				164
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf_gameover_2 instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				225
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf_gameover_3 instance ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/BoyFriend_Assets_EX",
+	"position": [
+		-10,
+		360
+	],
+	"healthicon": "bf-ex",
+	"flip_x": true,
+	"healthbar_colors": [
+		21,
+		87,
+		173
+	],
+	"camera_position": [
+		440,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

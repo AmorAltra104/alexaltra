@@ -1,0 +1,44 @@
+{
+	"storyName": "Polus Problems",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Week 0",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Chippin",
+			"cvp",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Chipping",
+			"cvp",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Torture",
+			"ziffy",
+			[
+				255,
+				51,
+				51
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 1"
+}

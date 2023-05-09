@@ -1,0 +1,18 @@
+mods/data/sabotage/credit.lua
+mods/data/sabotage/events.json
+mods/data/sabotage/mod.txt
+mods/data/sabotage/polus.lua
+mods/data/sabotage/sabotage-hard.json
+mods/data/sabotage/video.lua
+mods/Vs Impostor/stages/polus.json
+mods/Vs Impostor/stages/polus.lua
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/sabotage/Voices.ogg
+mods/songs/sabotage/voices.ogg
+mods/songs/sabotage/Inst.ogg
+mods/songs/sabotage/inst.ogg

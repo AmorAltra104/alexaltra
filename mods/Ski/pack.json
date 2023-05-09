@@ -1,0 +1,7 @@
+{
+	"name": "Ski Mod",
+	"description": "Ski",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

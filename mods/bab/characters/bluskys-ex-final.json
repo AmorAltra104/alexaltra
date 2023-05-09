@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				77,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bluskys Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				30,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bluskys Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				68,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bluskys Sing Note UP"
+		},
+		{
+			"offsets": [
+				-67,
+				-24
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bluskys Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bluskys idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "final",
+			"indices": [],
+			"name": "bluEX_ending"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/bluskys/bluEX_ENDING",
+	"position": [
+		40,
+		90
+	],
+	"healthicon": "bluskys-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		25,
+		85,
+		197
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

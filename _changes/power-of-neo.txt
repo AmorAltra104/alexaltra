@@ -1,0 +1,6 @@
+mods/data/power-of-neo/power-of-neo.json
+mods/data/power-of-neo/timeBarScript.lua
+mods/songs/power-of-neo/Voices.ogg
+mods/songs/power-of-neo/voices.ogg
+mods/songs/power-of-neo/Inst.ogg
+mods/songs/power-of-neo/inst.ogg

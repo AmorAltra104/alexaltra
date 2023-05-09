@@ -1,0 +1,14 @@
+mods/data/split-ex/mod.txt
+mods/data/split-ex/script.lua
+mods/data/split-ex/split-ex-ex.json
+mods/bab/stages/amor.json
+mods/bab/stages/amor.lua
+mods/bab/custom_notetypes/amor.lua
+mods/bab/custom_events/noteskinchangeOPPT.lua
+mods/bab/custom_events/imageflash.lua
+mods/bab/custom_events/Flashes Camera.lua
+mods/bab/fonts/Minecrafter.Alt.ttf
+mods/songs/split-ex/Voices.ogg
+mods/songs/split-ex/voices.ogg
+mods/songs/split-ex/Inst.ogg
+mods/songs/split-ex/inst.ogg

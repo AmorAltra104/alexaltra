@@ -2,6 +2,5 @@ mods/data/overkill/mod.txt
 mods/data/overkill/overkill-canon.json
 mods/Rhys fanchart/stages/overkill.json
 mods/Rhys fanchart/stages/overkill.lua
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/songs/overkill/Inst.ogg
 mods/songs/overkill/inst.ogg

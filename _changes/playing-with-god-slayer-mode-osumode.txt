@@ -4,7 +4,6 @@ mods/data/playing-with-god-slayer-mode/playing-with-god-slayer-mode-canon.json
 mods/data/playing-with-god-slayer-mode/script1.lua
 mods/Rhys fanchart/stages/god-eater.json
 mods/Rhys fanchart/stages/god-eater.lua
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/songs/playing-with-god-slayer-mode/Voices.ogg
 mods/songs/playing-with-god-slayer-mode/voices.ogg
 mods/songs/playing-with-god-slayer-mode/Inst.ogg

@@ -1,0 +1,15 @@
+mods/data/christmas/christmas-hard.json
+mods/data/christmas/christmas.json
+mods/data/christmas/credit.lua
+mods/data/christmas/mod.txt
+mods/Vs Impostor/stages/loggo.json
+mods/Vs Impostor/stages/loggo.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/christmas/Voices.ogg
+mods/songs/christmas/voices.ogg
+mods/songs/christmas/Inst.ogg
+mods/songs/christmas/inst.ogg

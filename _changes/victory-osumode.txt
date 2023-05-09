@@ -1,0 +1,22 @@
+mods/data/victory/credit.lua
+mods/data/victory/eve.lua
+mods/data/victory/events.json
+mods/data/victory/healthreset.lua
+mods/data/victory/impUI.lua
+mods/data/victory/mod.txt
+mods/data/victory/modchart.lua
+mods/data/victory/victory-hard.json
+mods/Vs Impostor/stages/victory.json
+mods/Vs Impostor/stages/victory.lua
+mods/Vs Impostor/custom_events/Show Victory Guy.lua
+mods/Vs Impostor/custom_events/Victory Darkness.lua
+mods/Vs Impostor/custom_events/HUD Fade.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/victory/Voices.ogg
+mods/songs/victory/voices.ogg
+mods/songs/victory/Inst.ogg
+mods/songs/victory/inst.ogg

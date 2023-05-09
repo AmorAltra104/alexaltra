@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				92,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Minishoey Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				86,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Minishoey Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-14,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Minishoey Sing Note UP"
+		},
+		{
+			"offsets": [
+				-32,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Minishoey Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Minishoey idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/bluskys/anime/MinishoeyEX-nocolor",
+	"position": [
+		40,
+		0
+	],
+	"healthicon": "mini-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		199,
+		147
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

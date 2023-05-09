@@ -1,0 +1,46 @@
+mods/data/defeat/credit.lua
+mods/data/defeat/dead.lua
+mods/data/defeat/defeat-hard.json
+mods/data/defeat/events.json
+mods/Vs Impostor/characters/bf-defeat-scared.json
+mods/Vs Impostor/images/characters/BF_Defeat_Scared.png
+mods/Vs Impostor/images/characters/BF_Defeat_Scared.xml
+mods/Vs Impostor/characters/bf.json
+mods/Vs Impostor/images/characters/BOYFRIEND.png
+mods/Vs Impostor/images/characters/BOYFRIEND.xml
+mods/Vs Impostor/characters/blackold.json
+mods/Vs Impostor/images/characters/blackold.png
+mods/Vs Impostor/images/characters/blackold.xml
+mods/Vs Impostor/characters/black.json
+mods/Vs Impostor/images/characters/black.png
+mods/Vs Impostor/images/characters/black.xml
+mods/data/defeat/impUI.lua
+mods/data/defeat/maxMissChoose.lua
+mods/data/defeat/mod.txt
+mods/data/defeat/modchart.lua
+mods/Vs Impostor/characters/bf-defeat-normal.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/defeat.json
+mods/Vs Impostor/stages/defeat.lua
+mods/Vs Impostor/images/characters/BF_Defeat_Nomal.png
+mods/Vs Impostor/images/characters/BF_Defeat_Nomal.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/custom_events/flash.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/defeat/defeat.png
+mods/Vs Impostor/images/bg/defeat/defeat.xml
+mods/Vs Impostor/images/bg/defeat/lol thing.png
+mods/Vs Impostor/images/bg/defeat/deadBG.png
+mods/Vs Impostor/images/bg/defeat/deadFG.png
+mods/Vs Impostor/images/bg/defeat/iluminao omaga.png
+mods/Vs Impostor/images/bg/defeat/defeatfnf.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/defeat/Voices.ogg
+mods/songs/defeat/voices.ogg
+mods/songs/defeat/Inst.ogg
+mods/songs/defeat/inst.ogg

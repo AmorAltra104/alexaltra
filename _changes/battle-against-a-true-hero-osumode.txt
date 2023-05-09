@@ -1,0 +1,7 @@
+mods/data/battle-against-a-true-hero/battle-against-a-true-hero-no-mechanics.json
+mods/data/battle-against-a-true-hero/battle-against-a-true-hero.json
+mods/data/battle-against-a-true-hero/timeBarScript.lua
+mods/songs/battle-against-a-true-hero/Voices.ogg
+mods/songs/battle-against-a-true-hero/voices.ogg
+mods/songs/battle-against-a-true-hero/Inst.ogg
+mods/songs/battle-against-a-true-hero/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/backbone/backbone-no-mechanics.json
+mods/data/backbone/backbone.json
+mods/data/backbone/timeBarScript.lua
+mods/songs/backbone/Voices.ogg
+mods/songs/backbone/voices.ogg
+mods/songs/backbone/Inst.ogg
+mods/songs/backbone/inst.ogg

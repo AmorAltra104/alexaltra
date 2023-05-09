@@ -1,0 +1,6 @@
+mods/data/metal-crusher/metal-crusher.json
+mods/data/metal-crusher/timeBarScript.lua
+mods/songs/metal-crusher/Voices.ogg
+mods/songs/metal-crusher/voices.ogg
+mods/songs/metal-crusher/Inst.ogg
+mods/songs/metal-crusher/inst.ogg

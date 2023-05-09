@@ -1,0 +1,6 @@
+mods/data/amalgam/amalgam.json
+mods/data/amalgam/timeBarScript.lua
+mods/songs/amalgam/Voices.ogg
+mods/songs/amalgam/voices.ogg
+mods/songs/amalgam/Inst.ogg
+mods/songs/amalgam/inst.ogg

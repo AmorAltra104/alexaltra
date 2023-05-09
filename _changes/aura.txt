@@ -7,7 +7,6 @@ mods/Rhys fanchart/stages/WBG.json
 mods/Rhys fanchart/stages/WBG.lua
 mods/Rhys fanchart/images/characters/shaggy_green.png
 mods/Rhys fanchart/images/characters/shaggy_green.xml
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/Rhys fanchart/images/WBG/BGBG.png
 mods/Rhys fanchart/images/WBG/LavaLimits.png
 mods/Rhys fanchart/images/WBG/Spikes.png

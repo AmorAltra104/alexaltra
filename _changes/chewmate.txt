@@ -1,0 +1,26 @@
+mods/data/chewmate/chewmate-hard.json
+mods/data/chewmate/credit.lua
+mods/data/chewmate/mod.txt
+mods/Vs Impostor/characters/bfsus-pixel.json
+mods/Vs Impostor/characters/hamster.json
+mods/Vs Impostor/characters/gf-pixel.json
+mods/Vs Impostor/stages/what.json
+mods/Vs Impostor/stages/what.lua
+mods/Vs Impostor/images/characters/bfSus.png
+mods/Vs Impostor/images/characters/bfSus.xml
+mods/Vs Impostor/images/characters/hamster.png
+mods/Vs Impostor/images/characters/hamster.xml
+mods/Vs Impostor/images/characters/gfPixel.png
+mods/Vs Impostor/images/characters/gfPixel.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/weeb/stars.png
+mods/Vs Impostor/images/bg/weeb/weebStreet.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/chewmate/Voices.ogg
+mods/songs/chewmate/voices.ogg
+mods/songs/chewmate/Inst.ogg
+mods/songs/chewmate/inst.ogg

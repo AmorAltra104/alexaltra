@@ -1,0 +1,27 @@
+{
+	"storyName": "Airship Atrocities",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"finale",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"finale",
+			"black",
+			[
+				255,
+				211,
+				51
+			]
+		]
+	],
+		
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

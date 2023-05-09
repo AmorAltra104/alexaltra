@@ -1,0 +1,35 @@
+mods/data/boiling-point/boiling-point-hard.json
+mods/data/boiling-point/credit.lua
+mods/data/boiling-point/events.json
+mods/data/boiling-point/mod.txt
+mods/data/boiling-point/obsidian.lua
+mods/data/boiling-point/Video.lua
+mods/Vs Impostor/characters/bf-lava.json
+mods/Vs Impostor/characters/maroonp.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/polus3.json
+mods/Vs Impostor/stages/polus3.lua
+mods/Vs Impostor/images/characters/bflava.png
+mods/Vs Impostor/images/characters/bflava.xml
+mods/Vs Impostor/images/characters/maroonP.png
+mods/Vs Impostor/images/characters/maroonP.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/custom_events/Alter Camera Bop.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/images/polus/wallBP.png
+mods/Vs Impostor/images/bg/images/polus/wallBP.xml
+mods/Vs Impostor/images/bg/images/polus/platform.png
+mods/Vs Impostor/images/bg/images/polus/bubbles.png
+mods/Vs Impostor/images/bg/images/polus/bubbles.xml
+mods/Vs Impostor/images/bg/images/polus/overlaythjing.png
+mods/Vs Impostor/images/bg/images/polus/newlava.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/boiling-point/Voices.ogg
+mods/songs/boiling-point/voices.ogg
+mods/songs/boiling-point/Inst.ogg
+mods/songs/boiling-point/inst.ogg

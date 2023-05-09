@@ -1,0 +1,41 @@
+mods/data/voting-time/cameraSpeed.lua
+mods/data/voting-time/credit.lua
+mods/data/voting-time/events.json
+mods/data/voting-time/mod.txt
+mods/data/voting-time/setObjectOrder.lua
+mods/data/voting-time/Video.lua
+mods/data/voting-time/voting-time-hard.json
+mods/data/voting-time/voting-time.json
+mods/Vs Impostor/characters/bf.json
+mods/Vs Impostor/characters/warchief.json
+mods/Vs Impostor/characters/jelqer.json
+mods/Vs Impostor/stages/voting.json
+mods/Vs Impostor/stages/voting.lua
+mods/Vs Impostor/images/characters/BOYFRIEND.png
+mods/Vs Impostor/images/characters/BOYFRIEND.xml
+mods/Vs Impostor/images/characters/warchief.png
+mods/Vs Impostor/images/characters/warchief.xml
+mods/Vs Impostor/images/characters/jelqer.png
+mods/Vs Impostor/images/characters/jelqer.xml
+mods/Vs Impostor/custom_notetypes/Tier 2.lua
+mods/Vs Impostor/custom_events/flash.lua
+mods/Vs Impostor/custom_events/Cam lock in Voting Time.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/voting/backer_groung_voting.png
+mods/Vs Impostor/images/bg/voting/main_bg_meeting.png
+mods/Vs Impostor/images/bg/voting/CHAIRS_______________.png
+mods/Vs Impostor/images/bg/voting/table_voting.png
+mods/Vs Impostor/images/bg/voting/light_voting.png
+mods/Vs Impostor/images/characters/madgus.png
+mods/Vs Impostor/images/characters/madgus.xml
+mods/Vs Impostor/images/NOTE/NOTE_Tier 2.png
+mods/Vs Impostor/images/NOTE/NOTE_Tier 2.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/voting-time/Voices.ogg
+mods/songs/voting-time/voices.ogg
+mods/songs/voting-time/Inst.ogg
+mods/songs/voting-time/inst.ogg

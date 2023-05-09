@@ -1,0 +1,14 @@
+mods/data/neurotic/credit.lua
+mods/data/neurotic/mod.txt
+mods/data/neurotic/neurotic-hard.json
+mods/Vs Impostor/stages/grey.json
+mods/Vs Impostor/stages/grey.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/neurotic/Voices.ogg
+mods/songs/neurotic/voices.ogg
+mods/songs/neurotic/Inst.ogg
+mods/songs/neurotic/inst.ogg

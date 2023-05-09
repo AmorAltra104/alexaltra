@@ -1,0 +1,6 @@
+mods/data/snowy/snowy.json
+mods/data/snowy/timeBarScript.lua
+mods/songs/snowy/Voices.ogg
+mods/songs/snowy/voices.ogg
+mods/songs/snowy/Inst.ogg
+mods/songs/snowy/inst.ogg

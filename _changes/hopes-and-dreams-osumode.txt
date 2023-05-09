@@ -1,0 +1,7 @@
+mods/data/hopes-and-dreams/hopes-and-dreams-no-mechanics.json
+mods/data/hopes-and-dreams/hopes-and-dreams.json
+mods/data/hopes-and-dreams/timeBarScript.lua
+mods/songs/hopes-and-dreams/Voices.ogg
+mods/songs/hopes-and-dreams/voices.ogg
+mods/songs/hopes-and-dreams/Inst.ogg
+mods/songs/hopes-and-dreams/inst.ogg

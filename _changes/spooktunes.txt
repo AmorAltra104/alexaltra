@@ -1,0 +1,6 @@
+mods/data/spooktunes/script.lua
+mods/data/spooktunes/spooktunes.json
+mods/songs/spooktunes/Voices.ogg
+mods/songs/spooktunes/voices.ogg
+mods/songs/spooktunes/Inst.ogg
+mods/songs/spooktunes/inst.ogg

@@ -1,0 +1,2 @@
+mods/data/skin-menu/script.lua
+mods/data/skin-menu/skin-menu.json

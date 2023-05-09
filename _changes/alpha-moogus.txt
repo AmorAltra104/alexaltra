@@ -1,0 +1,26 @@
+mods/data/alpha-moogus/alpha-moogus-hard.json
+mods/data/alpha-moogus/credit.lua
+mods/data/alpha-moogus/keda ui.lua
+mods/data/alpha-moogus/mod.txt
+mods/Vs Impostor/characters/bfgreenBar.json
+mods/Vs Impostor/characters/oldpostor.json
+mods/Vs Impostor/characters/oldgf.json
+mods/Vs Impostor/stages/alpha.json
+mods/Vs Impostor/stages/alpha.lua
+mods/Vs Impostor/images/characters/BOYFRIEND.png
+mods/Vs Impostor/images/characters/BOYFRIEND.xml
+mods/Vs Impostor/images/characters/oldpostor.png
+mods/Vs Impostor/images/characters/oldpostor.xml
+mods/Vs Impostor/images/characters/oldgf.png
+mods/Vs Impostor/images/characters/oldgf.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/HOTASS.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/alpha-moogus/Voices.ogg
+mods/songs/alpha-moogus/voices.ogg
+mods/songs/alpha-moogus/Inst.ogg
+mods/songs/alpha-moogus/inst.ogg

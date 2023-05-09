@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logoBumpin.png">
+<SubTexture name="logo bumpin0000" x="0" y="0" width="1080" height="609" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0001" x="1080" y="0" width="1080" height="606" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0002" x="0" y="609" width="1080" height="602" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0003" x="1080" y="609" width="1080" height="599" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0004" x="0" y="1211" width="1080" height="595" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0005" x="1080" y="1211" width="1080" height="592" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0006" x="2160" y="0" width="1080" height="588" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0007" x="2160" y="0" width="1080" height="588" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0008" x="2160" y="588" width="1080" height="585" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0009" x="2160" y="1173" width="1080" height="581" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0010" x="0" y="1806" width="1080" height="577" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0011" x="1080" y="1806" width="1080" height="574" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0012" x="2160" y="1806" width="1080" height="570" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0013" x="0" y="2383" width="1080" height="567" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="logo bumpin0014" x="1080" y="2383" width="1080" height="563" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+</TextureAtlas>

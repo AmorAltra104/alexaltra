@@ -1,0 +1,18 @@
+function onCreate()
+makeLuaSprite('Black114514','empty',-1725,25)
+makeGraphic('Black114514',1,1,'000000')
+addLuaSprite('Black114514',false)
+setProperty('Black114514.alpha',0)
+
+makeLuaSprite('what','bg/lounge/1',-1280/1920,0)
+scaleObject('what',1280/1920,720/1080)
+setObjectCamera('what', 'other')
+addLuaSprite('what',false)
+makeLuaSprite('what','bg/lounge/2',-1280/1920,0)
+scaleObject('what',1280/1920,720/1080)
+addLuaSprite('what',false)
+makeLuaSprite('what','bg/lounge/3',-1280/1920,0)
+scaleObject('what',1280/1920,720/1080)
+addLuaSprite('what',false)
+setProperty('what.alpha',0)
+end

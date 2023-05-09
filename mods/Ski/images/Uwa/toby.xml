@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toby.png">
+<SubTexture name="hot0000" x="4" y="3" width="26" height="19" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="hot0001" x="38" y="2" width="26" height="20" frameX="0" frameY="1" frameWidth="400" frameHeight="300" />
+<SubTexture name="warm0000" x="8" y="34" width="18" height="23" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="warm0001" x="42" y="34" width="18" height="23" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="cold0000" x="8" y="67" width="18" height="24" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="cold0001" x="42" y="67" width="18" height="24" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+</TextureAtlas>

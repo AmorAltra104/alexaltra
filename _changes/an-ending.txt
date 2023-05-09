@@ -1,0 +1,6 @@
+mods/data/an-ending/an-ending.json
+mods/data/an-ending/timeBarScript.lua
+mods/songs/an-ending/Voices.ogg
+mods/songs/an-ending/voices.ogg
+mods/songs/an-ending/Inst.ogg
+mods/songs/an-ending/inst.ogg

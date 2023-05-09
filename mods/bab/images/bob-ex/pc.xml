@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pc.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PC A0000" x="3" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0001" x="3" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0002" x="3" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0003" x="3" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0004" x="3" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0005" x="3" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0006" x="435" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0007" x="435" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0008" x="435" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0009" x="435" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0010" x="435" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0011" x="435" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0012" x="867" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0013" x="867" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0014" x="867" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0015" x="867" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0016" x="867" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0017" x="867" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0018" x="1299" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0019" x="1299" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0020" x="1299" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0021" x="1299" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0022" x="1299" y="3" width="429" height="475"/>
+	<SubTexture name="PC A0023" x="1299" y="3" width="429" height="475"/>
+</TextureAtlas>

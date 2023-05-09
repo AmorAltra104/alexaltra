@@ -1,0 +1,6 @@
+mods/data/save-the-world/save-the-world.json
+mods/data/save-the-world/timeBarScript.lua
+mods/songs/save-the-world/Voices.ogg
+mods/songs/save-the-world/voices.ogg
+mods/songs/save-the-world/Inst.ogg
+mods/songs/save-the-world/inst.ogg

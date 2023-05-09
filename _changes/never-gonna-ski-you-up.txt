@@ -1,0 +1,7 @@
+mods/data/never-gonna-ski-you-up/never-gonna-ski-you-up.json
+mods/data/never-gonna-ski-you-up/script (2).lua
+mods/data/never-gonna-ski-you-up/timeBarScript.lua
+mods/songs/never-gonna-ski-you-up/Voices.ogg
+mods/songs/never-gonna-ski-you-up/voices.ogg
+mods/songs/never-gonna-ski-you-up/Inst.ogg
+mods/songs/never-gonna-ski-you-up/inst.ogg

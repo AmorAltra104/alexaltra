@@ -1,0 +1,44 @@
+{
+	"storyName": "Humane Heartbeat",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"week7",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Heartbeat",
+			"pink",
+			[
+				255,
+				31,
+				120
+			]
+		],
+		[
+			"Pinkwave",
+			"pink",
+			[
+				255,
+				31,
+				120
+			]
+		],
+		[
+			"Pretender",
+			"gray",
+			[
+				15,
+				11,
+				31
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7"
+}

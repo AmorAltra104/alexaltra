@@ -1,0 +1,401 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "wrong-number",
+		"player1": "ski",
+		"player2": "dad",
+		"events": [],
+		"notes": [
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						0,
+						1,
+						0
+					],
+					[
+						170.570843757107,
+						2,
+						0
+					],
+					[
+						341.141687514214,
+						2,
+						0
+					],
+					[
+						852.854218785536,
+						0,
+						0
+					],
+					[
+						1023.42506254264,
+						3,
+						0
+					],
+					[
+						511.712531271321,
+						2,
+						255.856265635661
+					],
+					[
+						0,
+						7,
+						0
+					]
+				],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						1364.56675005686,
+						1,
+						0
+					],
+					[
+						1535.13759381396,
+						0,
+						0
+					],
+					[
+						1705.70843757107,
+						3,
+						85.2854218785536
+					],
+					[
+						1876.27928132818,
+						3,
+						85.2854218785536
+					],
+					[
+						2046.85012508529,
+						3,
+						0
+					]
+				],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						2729.13350011371,
+						1,
+						0
+					],
+					[
+						2899.70434387082,
+						2,
+						0
+					],
+					[
+						3070.27518762793,
+						2,
+						0
+					],
+					[
+						3240.84603138504,
+						2,
+						0
+					],
+					[
+						3411.41687514214,
+						0,
+						0
+					],
+					[
+						3581.98771889925,
+						3,
+						0
+					],
+					[
+						3752.55856265636,
+						1,
+						0
+					],
+					[
+						3923.12940641346,
+						1,
+						0
+					]
+				],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						4093.70025017057,
+						0,
+						0
+					],
+					[
+						4264.27109392768,
+						3,
+						0
+					],
+					[
+						4434.84193768479,
+						2,
+						255.856265635661
+					],
+					[
+						4775.983625199,
+						1,
+						0
+					]
+				],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						5586.19513304526,
+						1,
+						0
+					],
+					[
+						5735.44462133273,
+						2,
+						0
+					],
+					[
+						5906.01546508983,
+						2,
+						0
+					],
+					[
+						6076.58630884694,
+						2,
+						255.856265635661
+					],
+					[
+						6439.04935183079,
+						1,
+						0
+					],
+					[
+						6588.29884011826,
+						0,
+						0
+					]
+				],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6929.44052763248,
+						1,
+						0
+					],
+					[
+						7100.01137138958,
+						2,
+						0
+					],
+					[
+						7270.58221514669,
+						3,
+						85.2854218785536
+					],
+					[
+						7441.1530589038,
+						3,
+						85.2854218785536
+					],
+					[
+						7611.72390266091,
+						3,
+						0
+					]
+				],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						8315.32863315897,
+						1,
+						0
+					],
+					[
+						8464.57812144644,
+						2,
+						0
+					],
+					[
+						8635.14896520355,
+						2,
+						0
+					],
+					[
+						8805.71980896066,
+						2,
+						0
+					],
+					[
+						8976.29065271776,
+						0,
+						0
+					],
+					[
+						9146.86149647487,
+						3,
+						0
+					],
+					[
+						9317.43234023198,
+						1,
+						0
+					],
+					[
+						9488.00318398908,
+						1,
+						0
+					]
+				],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						9658.57402774619,
+						0,
+						0
+					],
+					[
+						9829.1448715033,
+						3,
+						0
+					],
+					[
+						9999.71571526041,
+						2,
+						255.856265635661
+					],
+					[
+						10340.8574027746,
+						1,
+						0
+					]
+				],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 175.88,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175.88,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Wrong Number"
+	}
+}

@@ -1,0 +1,14 @@
+mods/data/ow/credit.lua
+mods/data/ow/mod.txt
+mods/data/ow/ow-hard.json
+mods/Vs Impostor/stages/kills.json
+mods/Vs Impostor/stages/kills.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/ow/Voices.ogg
+mods/songs/ow/voices.ogg
+mods/songs/ow/Inst.ogg
+mods/songs/ow/inst.ogg

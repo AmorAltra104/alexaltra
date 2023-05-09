@@ -1,0 +1,54 @@
+mods/data/finale/credit.lua
+mods/data/finale/events.json
+mods/Vs Impostor/characters/blackparasite.json
+mods/Vs Impostor/images/characters/blackparasite.png
+mods/Vs Impostor/images/characters/blackparasite.xml
+mods/data/finale/finale-hard.json
+mods/data/finale/finale.json
+mods/data/finale/impUI.lua
+mods/data/finale/mod.txt
+mods/data/finale/script.lua
+mods/data/finale/timeBarScript.lua
+mods/data/finale/Video.lua
+mods/data/finale/Video1.lua
+mods/Vs Impostor/characters/bf-defeat-scared.json
+mods/Vs Impostor/characters/black.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/finalem.json
+mods/Vs Impostor/stages/finalem.lua
+mods/Vs Impostor/images/characters/BF_Defeat_Scared.png
+mods/Vs Impostor/images/characters/BF_Defeat_Scared.xml
+mods/Vs Impostor/images/characters/black.png
+mods/Vs Impostor/images/characters/black.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/stages/finale.json
+mods/Vs Impostor/stages/finale.lua
+mods/Vs Impostor/custom_events/HUD Fade.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/finale/defeatfnf.png
+mods/Vs Impostor/images/bg/finale/bgg.png
+mods/Vs Impostor/images/bg/finale/bg.png
+mods/Vs Impostor/images/bg/finale/dead.png
+mods/Vs Impostor/images/bg/finale/splat.png
+mods/Vs Impostor/images/bg/finale/fore.png
+mods/Vs Impostor/images/bg/finale/lamp.png
+mods/Vs Impostor/images/bg/finale/light.png
+mods/Vs Impostor/images/bg/finale/light.xml
+mods/Vs Impostor/images/bg/finale/dark.png
+mods/Vs Impostor/images/bg/finale/finaleFlashback.png
+mods/Vs Impostor/images/bg/finale/finaleFlashback.xml
+mods/Vs Impostor/images/healthBarFinaleBlue.png
+mods/Vs Impostor/images/healthBarFinale.png
+mods/Vs Impostor/images/healthBarFinale.xml
+mods/Vs Impostor/images/icons/icon-blackFinale.png
+mods/Vs Impostor/images/icons/icon-blackFinale.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/finale/Voices.ogg
+mods/songs/finale/voices.ogg
+mods/songs/finale/Inst.ogg
+mods/songs/finale/inst.ogg

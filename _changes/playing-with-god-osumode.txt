@@ -5,7 +5,6 @@ mods/data/playing-with-god/playing-with-god-mania.json
 mods/data/playing-with-god/script1.lua
 mods/Rhys fanchart/stages/god-eater.json
 mods/Rhys fanchart/stages/god-eater.lua
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/songs/playing-with-god/Voices.ogg
 mods/songs/playing-with-god/voices.ogg
 mods/songs/playing-with-god/Inst.ogg

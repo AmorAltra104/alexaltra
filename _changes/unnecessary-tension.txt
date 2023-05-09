@@ -1,0 +1,6 @@
+mods/data/unnecessary-tension/timeBarScript.lua
+mods/data/unnecessary-tension/unnecessary-tension.json
+mods/songs/unnecessary-tension/Voices.ogg
+mods/songs/unnecessary-tension/voices.ogg
+mods/songs/unnecessary-tension/Inst.ogg
+mods/songs/unnecessary-tension/inst.ogg

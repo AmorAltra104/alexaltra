@@ -1,0 +1,15 @@
+mods/data/shop/mod.txt
+mods/data/shop/script.lua
+mods/data/shop/shop-hard.json
+mods/data/shop/shop.json
+mods/data/shop/shop.lua
+mods/Vs Impostor/stages/stage.json
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/shop/Voices.ogg
+mods/songs/shop/voices.ogg
+mods/songs/shop/Inst.ogg
+mods/songs/shop/inst.ogg

@@ -10,7 +10,6 @@ mods/Rhys fanchart/images/characters/unknowedShag.png
 mods/Rhys fanchart/images/characters/unknowedShag.xml
 mods/Rhys fanchart/images/characters/unknowedmatt.png
 mods/Rhys fanchart/images/characters/unknowedmatt.xml
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/Rhys fanchart/images/final boss.png
 mods/songs/final-boss-2/Inst.ogg
 mods/songs/final-boss-2/inst.ogg

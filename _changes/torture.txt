@@ -1,0 +1,42 @@
+mods/data/torture/credit.lua
+mods/data/torture/events.json
+mods/data/torture/mod.txt
+mods/data/torture/torture-hard.json
+mods/Vs Impostor/characters/ziffytorture.json
+mods/Vs Impostor/characters/cvaltorture.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/warehouse.json
+mods/Vs Impostor/stages/warehouse.lua
+mods/Vs Impostor/images/characters/ziffytorture.png
+mods/Vs Impostor/images/characters/ziffytorture.xml
+mods/Vs Impostor/images/characters/cvaltorture.png
+mods/Vs Impostor/images/characters/cvaltorture.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/custom_notetypes/Opponent 2 Sing.lua
+mods/Vs Impostor/custom_events/HUD Fade.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/torture/torture_wall.png
+mods/Vs Impostor/images/bg/torture/tort_floor.png
+mods/Vs Impostor/images/bg/torture/torture_glasses_preblended.png
+mods/Vs Impostor/images/bg/torture/torture_glow2.png
+mods/Vs Impostor/images/bg/torture/rightblades.png
+mods/Vs Impostor/images/bg/torture/rightblades.xml
+mods/Vs Impostor/images/characters/piptorture.png
+mods/Vs Impostor/images/characters/piptorture.xml
+mods/Vs Impostor/images/bg/torture/monty.png
+mods/Vs Impostor/images/bg/torture/monty.xml
+mods/Vs Impostor/images/bg/torture/torture_startZiffy.png
+mods/Vs Impostor/images/bg/torture/torture_startZiffy.xml
+mods/Vs Impostor/sounds/ziffSaw.ogg
+mods/Vs Impostor/images/bg/torture/torture_roze.png
+mods/Vs Impostor/images/bg/torture/torture_roze.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/torture/Voices.ogg
+mods/songs/torture/voices.ogg
+mods/songs/torture/Inst.ogg
+mods/songs/torture/inst.ogg

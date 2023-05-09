@@ -1,0 +1,6 @@
+mods/data/bird-that-carries-you-over-a-disproportionately-small-gap/bird-that-carries-you-over-a-disproportionately-small-gap.json
+mods/data/bird-that-carries-you-over-a-disproportionately-small-gap/timeBarScript.lua
+mods/songs/bird-that-carries-you-over-a-disproportionately-small-gap/Voices.ogg
+mods/songs/bird-that-carries-you-over-a-disproportionately-small-gap/voices.ogg
+mods/songs/bird-that-carries-you-over-a-disproportionately-small-gap/Inst.ogg
+mods/songs/bird-that-carries-you-over-a-disproportionately-small-gap/inst.ogg

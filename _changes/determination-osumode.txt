@@ -1,0 +1,6 @@
+mods/data/determination/determination.json
+mods/data/determination/timeBarScript.lua
+mods/songs/determination/Voices.ogg
+mods/songs/determination/voices.ogg
+mods/songs/determination/Inst.ogg
+mods/songs/determination/inst.ogg

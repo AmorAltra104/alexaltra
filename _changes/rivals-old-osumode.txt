@@ -1,0 +1,10 @@
+mods/data/rivals-old/credit.lua
+mods/data/rivals-old/mod.txt
+mods/data/rivals-old/rivals-old-hard.json
+mods/Vs Impostor/stages/school.json
+mods/Vs Impostor/stages/school.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf

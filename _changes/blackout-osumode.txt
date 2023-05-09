@@ -1,9 +1,16 @@
 mods/data/blackout/blackout-hard.json
 mods/data/blackout/blackout.json
+mods/data/blackout/credit.lua
+mods/data/blackout/events.json
 mods/data/blackout/mod.txt
-mods/Final lesson/stages/matt3.json
-mods/Final lesson/stages/matt3.lua
-mods/Final lesson/stages/arena.json
-mods/Final lesson/stages/arena.lua
+mods/Vs Impostor/stages/grey.json
+mods/Vs Impostor/stages/grey.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/blackout/Voices.ogg
+mods/songs/blackout/voices.ogg
 mods/songs/blackout/Inst.ogg
 mods/songs/blackout/inst.ogg

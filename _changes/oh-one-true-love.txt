@@ -1,0 +1,6 @@
+mods/data/oh-one-true-love/oh-one-true-love.json
+mods/data/oh-one-true-love/timeBarScript.lua
+mods/songs/oh-one-true-love/Voices.ogg
+mods/songs/oh-one-true-love/voices.ogg
+mods/songs/oh-one-true-love/Inst.ogg
+mods/songs/oh-one-true-love/inst.ogg

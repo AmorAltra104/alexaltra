@@ -1,0 +1,3 @@
+Make Lyrics Appear on screen
+Value 1: The lyrics ya fuck
+Value 2: Font.

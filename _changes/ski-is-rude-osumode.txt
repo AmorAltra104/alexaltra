@@ -1,0 +1,6 @@
+mods/data/ski-is-rude/ski-is-rude.json
+mods/data/ski-is-rude/timeBarScript.lua
+mods/songs/ski-is-rude/Voices.ogg
+mods/songs/ski-is-rude/voices.ogg
+mods/songs/ski-is-rude/Inst.ogg
+mods/songs/ski-is-rude/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/long-elevator/long-elevator.json
+mods/data/long-elevator/script.lua
+mods/songs/long-elevator/Voices.ogg
+mods/songs/long-elevator/voices.ogg
+mods/songs/long-elevator/Inst.ogg
+mods/songs/long-elevator/inst.ogg

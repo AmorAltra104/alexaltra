@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="floweyLaugh.png">
+<SubTexture name="laugh0000" x="0" y="0" width="80" height="91" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="laugh0001" x="100" y="0" width="80" height="91" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+<SubTexture name="laugh0002" x="200" y="0" width="80" height="91" frameX="0" frameY="0" frameWidth="1080" frameHeight="720" />
+</TextureAtlas>

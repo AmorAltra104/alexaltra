@@ -11,7 +11,6 @@ mods/Rhys fanchart/images/characters/shaggy_overkill.png
 mods/Rhys fanchart/images/characters/shaggy_overkill.xml
 mods/Rhys fanchart/images/characters/matt_overkill.png
 mods/Rhys fanchart/images/characters/matt_overkill.xml
-mods/Rhys fanchart/scripts/MultiKeySupport.lua
 mods/Rhys fanchart/images/headshot.png
 mods/songs/overkill/Inst.ogg
 mods/songs/overkill/inst.ogg

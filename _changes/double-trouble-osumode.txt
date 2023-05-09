@@ -1,0 +1,13 @@
+mods/data/double-trouble/double-trouble-hard.json
+mods/data/double-trouble/mod.txt
+mods/Vs Impostor/stages/polus.json
+mods/Vs Impostor/stages/polus.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/double-trouble/Voices.ogg
+mods/songs/double-trouble/voices.ogg
+mods/songs/double-trouble/Inst.ogg
+mods/songs/double-trouble/inst.ogg

@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "snowdin-dog",
+		"player1": "ski",
+		"player2": "dad",
+		"events": [],
+		"notes": [
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						1090.90909090909,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						818.181818181818,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						545.454545454545,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						272.727272727273,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						136.363636363636,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						0,
+						0,
+						0,
+						"Hey!"
+					],
+					[
+						1363.63636363636,
+						0,
+						0,
+						"Hey!"
+					],
+					[
+						1534.09090909091,
+						3,
+						136.363636363636,
+						"Hey!"
+					],
+					[
+						1772.72727272727,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						1909.09090909091,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						2045.45454545455,
+						0,
+						0,
+						"Hey!"
+					]
+				],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						3272.72727272727,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						3000,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						2727.27272727273,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						2454.54545454545,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						2318.18181818182,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						3545.45454545455,
+						0,
+						0,
+						"Hey!"
+					],
+					[
+						3715.90909090909,
+						3,
+						136.363636363636,
+						"Hey!"
+					],
+					[
+						3954.54545454545,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						4090.90909090909,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						4227.27272727273,
+						0,
+						0,
+						"Hey!"
+					],
+					[
+						2181.81818181818,
+						2,
+						0,
+						"Hey!"
+					]
+				],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						4363.63636363636,
+						3,
+						954.545454545455,
+						"Hey!"
+					]
+				],
+				"bpm": 110,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 110,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 110,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 110,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Dogbass"
+	}
+}

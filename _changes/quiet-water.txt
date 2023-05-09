@@ -1,0 +1,6 @@
+mods/data/quiet-water/quiet-water.json
+mods/data/quiet-water/timeBarScript.lua
+mods/songs/quiet-water/Voices.ogg
+mods/songs/quiet-water/voices.ogg
+mods/songs/quiet-water/Inst.ogg
+mods/songs/quiet-water/inst.ogg

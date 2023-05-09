@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				106,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bosip Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				70,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bosip Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				54,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bosip Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bosip idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bosip Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bob-ex/bosip-ex/Bosipex",
+	"position": [
+		70,
+		-10
+	],
+	"healthicon": "Bosip-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

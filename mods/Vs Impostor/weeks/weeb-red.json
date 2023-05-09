@@ -1,0 +1,53 @@
+{
+	"storyName": "Rousey Rival",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"weeb1",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sussy Bussy",
+			"tomongus",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Rivals",
+			"tomongus",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Chewmate",
+			"hamster",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"tomongus-tuesday",
+			"tuesday",
+			[
+				255,
+				51,
+				51
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tomongus"
+}

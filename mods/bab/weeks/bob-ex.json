@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "ex",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"tutorial-ex",
+			"gf-ex",
+			[
+				80,
+				0,
+				55
+			]
+		],
+		[
+			"jump-in-ex",
+			"bob-exa",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"swing-ex",
+			"bosip-ex",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"split-ex",
+			"amorex",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

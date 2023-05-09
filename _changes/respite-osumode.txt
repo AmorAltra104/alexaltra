@@ -1,0 +1,6 @@
+mods/data/respite/respite.json
+mods/data/respite/timeBarScript.lua
+mods/songs/respite/Voices.ogg
+mods/songs/respite/voices.ogg
+mods/songs/respite/Inst.ogg
+mods/songs/respite/inst.ogg

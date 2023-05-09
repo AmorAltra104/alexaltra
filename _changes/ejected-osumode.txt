@@ -1,0 +1,17 @@
+mods/data/ejected/Camera.lua
+mods/data/ejected/credit.lua
+mods/data/ejected/ejected-hard.json
+mods/data/ejected/events.json
+mods/data/ejected/mod.txt
+mods/data/ejected/vv.lua
+mods/Vs Impostor/stages/ejected.json
+mods/Vs Impostor/stages/ejected.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/ejected/Voices.ogg
+mods/songs/ejected/voices.ogg
+mods/songs/ejected/Inst.ogg
+mods/songs/ejected/inst.ogg

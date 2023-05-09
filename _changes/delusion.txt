@@ -1,0 +1,35 @@
+mods/data/delusion/credit.lua
+mods/data/delusion/delusion-hard.json
+mods/data/delusion/events.json
+mods/data/delusion/mod.txt
+mods/data/delusion/Video.lua
+mods/Vs Impostor/characters/bfairship.json
+mods/Vs Impostor/characters/grey.json
+mods/Vs Impostor/characters/gfdead.json
+mods/Vs Impostor/stages/grey.json
+mods/Vs Impostor/stages/grey.lua
+mods/Vs Impostor/images/characters/bfairship.png
+mods/Vs Impostor/images/characters/bfairship.xml
+mods/Vs Impostor/images/characters/grey.png
+mods/Vs Impostor/images/characters/grey.xml
+mods/Vs Impostor/images/characters/gfdead.png
+mods/Vs Impostor/images/characters/gfdead.xml
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/custom_events/Alter Camera Bop.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/grey/graybg.png
+mods/Vs Impostor/images/bg/grey/grayfg.png
+mods/Vs Impostor/images/bg/grey/grayblack.png
+mods/Vs Impostor/images/bg/grey/grayblack.xml
+mods/Vs Impostor/images/bg/grey/grayglowy.png
+mods/Vs Impostor/images/bg/grey/grayglowy.xml
+mods/Vs Impostor/images/bg/grey/grayoverlay.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/delusion/Voices.ogg
+mods/songs/delusion/voices.ogg
+mods/songs/delusion/Inst.ogg
+mods/songs/delusion/inst.ogg

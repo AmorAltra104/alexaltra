@@ -1,0 +1,55 @@
+mods/data/victory/credit.lua
+mods/data/victory/eve.lua
+mods/data/victory/events.json
+mods/Vs Impostor/characters/jelqer.json
+mods/Vs Impostor/images/characters/jelqer.png
+mods/Vs Impostor/images/characters/jelqer.xml
+mods/Vs Impostor/characters/jorsawghost.json
+mods/Vs Impostor/images/characters/jorsawdead.png
+mods/Vs Impostor/images/characters/jorsawdead.xml
+mods/Vs Impostor/characters/warchief.json
+mods/Vs Impostor/images/characters/warchief.png
+mods/Vs Impostor/images/characters/warchief.xml
+mods/data/victory/healthreset.lua
+mods/data/victory/impUI.lua
+mods/data/victory/mod.txt
+mods/data/victory/modchart.lua
+mods/data/victory/victory-hard.json
+mods/Vs Impostor/characters/bf.json
+mods/Vs Impostor/characters/SB.json
+mods/Vs Impostor/stages/victory.json
+mods/Vs Impostor/stages/victory.lua
+mods/Vs Impostor/images/characters/BOYFRIEND.png
+mods/Vs Impostor/images/characters/BOYFRIEND.xml
+mods/Vs Impostor/images/characters/SB.png
+mods/Vs Impostor/images/characters/SB.xml
+mods/Vs Impostor/characters/jorsawdead.json
+mods/Vs Impostor/custom_events/Show Victory Guy.lua
+mods/Vs Impostor/custom_events/Victory Darkness.lua
+mods/Vs Impostor/custom_events/HUD Fade.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/victory/victorytext.png
+mods/Vs Impostor/images/bg/victory/victorytext.xml
+mods/Vs Impostor/images/bg/victory/vic_bgchars.png
+mods/Vs Impostor/images/bg/victory/vic_bgchars.xml
+mods/Vs Impostor/images/bg/victory/fog_back.png
+mods/Vs Impostor/images/bg/victory/vic_jelq.png
+mods/Vs Impostor/images/bg/victory/vic_jelq.xml
+mods/Vs Impostor/images/bg/victory/vic_war.png
+mods/Vs Impostor/images/bg/victory/vic_war.xml
+mods/Vs Impostor/images/bg/victory/vic_jor.png
+mods/Vs Impostor/images/bg/victory/vic_jor.xml
+mods/Vs Impostor/images/bg/victory/fog_mid.png
+mods/Vs Impostor/images/bg/victory/victory_spotlights.png
+mods/Vs Impostor/images/bg/victory/victory_pulse.png
+mods/Vs Impostor/images/bg/victory/victory_pulse.xml
+mods/Vs Impostor/images/bg/victory/fog_front.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/victory/Voices.ogg
+mods/songs/victory/voices.ogg
+mods/songs/victory/Inst.ogg
+mods/songs/victory/inst.ogg

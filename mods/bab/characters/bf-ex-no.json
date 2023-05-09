@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_down instance "
+		},
+		{
+			"offsets": [
+				-25,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf_idle_fdg instance "
+		},
+		{
+			"offsets": [
+				-20,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf_left instance "
+		},
+		{
+			"offsets": [
+				11,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf_up instance "
+		},
+		{
+			"offsets": [
+				-54,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf_right instance "
+		},
+		{
+			"offsets": [
+				-19,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf_left_miss instance "
+		},
+		{
+			"offsets": [
+				-38,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf_down_miss instance "
+		},
+		{
+			"offsets": [
+				6,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf_up_miss instance "
+		},
+		{
+			"offsets": [
+				-61,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf_right_miss instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/bluskys/anime/bf",
+	"position": [
+		-10,
+		360
+	],
+	"healthicon": "bf-ex",
+	"flip_x": true,
+	"healthbar_colors": [
+		21,
+		87,
+		173
+	],
+	"camera_position": [
+		440,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

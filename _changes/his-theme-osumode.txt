@@ -1,0 +1,6 @@
+mods/data/his-theme/his-theme.json
+mods/data/his-theme/timeBarScript.lua
+mods/songs/his-theme/Voices.ogg
+mods/songs/his-theme/voices.ogg
+mods/songs/his-theme/Inst.ogg
+mods/songs/his-theme/inst.ogg
