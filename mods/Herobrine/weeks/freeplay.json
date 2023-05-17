@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Removed",
+			"icon-notch",
+			[
+				180,
+				160,
+				255
+			]
+		],
+		[
+			"Alert",
+			"herobrine1",
+			[
+				0,
+				0,
+				135
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "FREEPLAY WEEK! KEEP LOCKED",
+	"weekName": "Sex 5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

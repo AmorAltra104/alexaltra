@@ -1,0 +1,8 @@
+mods/data/diverge/diverge.json
+mods/data/diverge/mod.txt
+mods/Filippo/stages/shrine.json
+mods/Filippo/stages/shrine.lua
+mods/songs/diverge/Voices.ogg
+mods/songs/diverge/voices.ogg
+mods/songs/diverge/Inst.ogg
+mods/songs/diverge/inst.ogg

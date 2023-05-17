@@ -1,0 +1,8 @@
+mods/data/final-warning-emix/final-warning-emix.json
+mods/data/final-warning-emix/mod.txt
+mods/Filippo/stages/emix.json
+mods/Filippo/stages/emix.lua
+mods/songs/final-warning-emix/Voices.ogg
+mods/songs/final-warning-emix/voices.ogg
+mods/songs/final-warning-emix/Inst.ogg
+mods/songs/final-warning-emix/inst.ogg

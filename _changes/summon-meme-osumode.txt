@@ -1,0 +1,15 @@
+mods/data/summon-meme/events.json
+mods/data/summon-meme/mod.txt
+mods/data/summon-meme/script.lua
+mods/data/summon-meme/summon-meme.json
+mods/Filippo/stages/butbad.json
+mods/Filippo/stages/butbad.lua
+mods/Filippo/custom_events/whatDaNotesDoin.lua
+mods/Filippo/custom_events/Toggle Trail.lua
+mods/Filippo/custom_events/CombineBothStrums.lua
+mods/Filippo/custom_events/Cam Boom Speed.lua
+mods/Filippo/custom_events/badapplelol.lua
+mods/songs/summon-meme/Voices.ogg
+mods/songs/summon-meme/voices.ogg
+mods/songs/summon-meme/Inst.ogg
+mods/songs/summon-meme/inst.ogg

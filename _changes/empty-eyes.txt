@@ -1,0 +1,7 @@
+mods/data/empty-eyes/empty-eyes.json
+mods/data/empty-eyes/mod.txt
+mods/data/empty-eyes/script.lua
+mods/songs/empty-eyes/Voices.ogg
+mods/songs/empty-eyes/voices.ogg
+mods/songs/empty-eyes/Inst.ogg
+mods/songs/empty-eyes/inst.ogg

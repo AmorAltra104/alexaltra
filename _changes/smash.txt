@@ -1,0 +1,2 @@
+mods/data/smash/mod.txt
+mods/data/smash/smash.json

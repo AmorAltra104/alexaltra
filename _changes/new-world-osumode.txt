@@ -1,0 +1,7 @@
+mods/data/new-world/mod.txt
+mods/data/new-world/new-world.json
+mods/data/new-world/script.lua
+mods/songs/new-world/Voices.ogg
+mods/songs/new-world/voices.ogg
+mods/songs/new-world/Inst.ogg
+mods/songs/new-world/inst.ogg

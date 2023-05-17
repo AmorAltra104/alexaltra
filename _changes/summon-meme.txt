@@ -1,0 +1,36 @@
+mods/data/summon-meme/events.json
+mods/Filippo/characters/bf_infi.json
+mods/Filippo/images/characters/infiBF.png
+mods/Filippo/images/characters/infiBF.xml
+mods/Filippo/characters/brinmeme.json
+mods/Filippo/images/characters/hbmeme.png
+mods/Filippo/images/characters/hbmeme.xml
+mods/Filippo/characters/zombie.json
+mods/Filippo/images/characters/zombie.png
+mods/Filippo/images/characters/zombie.xml
+mods/Filippo/characters/steev.json
+mods/Filippo/images/characters/steev.png
+mods/Filippo/images/characters/steev.xml
+mods/data/summon-meme/mod.txt
+mods/data/summon-meme/script.lua
+mods/data/summon-meme/summon-meme.json
+mods/Filippo/characters/bfmeme.json
+mods/Filippo/characters/gf.json
+mods/Filippo/stages/butbad.json
+mods/Filippo/stages/butbad.lua
+mods/Filippo/images/characters/bfmeme.png
+mods/Filippo/images/characters/bfmeme.xml
+mods/Filippo/images/characters/GF_assets.png
+mods/Filippo/images/characters/GF_assets.xml
+mods/Filippo/custom_events/whatDaNotesDoin.lua
+mods/Filippo/custom_events/Toggle Trail.lua
+mods/Filippo/custom_events/CombineBothStrums.lua
+mods/Filippo/custom_events/Cam Boom Speed.lua
+mods/Filippo/custom_events/badapplelol.lua
+mods/Filippo/images/stages/badddd/sky.png
+mods/Filippo/images/stages/badddd/ground.png
+mods/Filippo/images/stages/badddd/shrin.png
+mods/songs/summon-meme/Voices.ogg
+mods/songs/summon-meme/voices.ogg
+mods/songs/summon-meme/Inst.ogg
+mods/songs/summon-meme/inst.ogg

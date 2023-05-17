@@ -1,0 +1,8 @@
+mods/data/tutorial/events.json
+mods/data/tutorial/mod.txt
+mods/data/tutorial/script.lua
+mods/data/tutorial/tutorial-easy.json
+mods/data/tutorial/tutorial-hard.json
+mods/data/tutorial/tutorial.json
+mods/songs/tutorial/Inst.ogg
+mods/songs/tutorial/inst.ogg

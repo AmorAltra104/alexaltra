@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M boyblock right",
+	"idle_anim": "M boyblock idle",
+	"position": [
+		-420,
+		-80
+	],
+	"scale": 1.35,
+	"image": "Menu_boyblock",
+	"flipX": false
+}

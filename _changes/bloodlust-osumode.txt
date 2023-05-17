@@ -1,0 +1,9 @@
+mods/data/bloodlust/bloodlust.json
+mods/data/bloodlust/mod.txt
+mods/data/bloodlust/script.lua
+mods/Filippo/stages/alextage.json
+mods/Filippo/stages/alextage.lua
+mods/songs/bloodlust/Voices.ogg
+mods/songs/bloodlust/voices.ogg
+mods/songs/bloodlust/Inst.ogg
+mods/songs/bloodlust/inst.ogg
