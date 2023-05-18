@@ -1,6 +1,0 @@
-mods/data/memory/memory.json
-mods/data/memory/timeBarScript.lua
-mods/songs/memory/Voices.ogg
-mods/songs/memory/voices.ogg
-mods/songs/memory/Inst.ogg
-mods/songs/memory/inst.ogg

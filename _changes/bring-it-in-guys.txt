@@ -1,7 +1,0 @@
-mods/data/bring-it-in-guys/bring-it-in-guys.json
-mods/data/bring-it-in-guys/events.json
-mods/data/bring-it-in-guys/timeBarScript.lua
-mods/songs/bring-it-in-guys/Voices.ogg
-mods/songs/bring-it-in-guys/voices.ogg
-mods/songs/bring-it-in-guys/Inst.ogg
-mods/songs/bring-it-in-guys/inst.ogg

@@ -1,8 +1,0 @@
-mods/data/danger-classic/danger-classic.json
-mods/data/danger-classic/mod.txt
-mods/Filippo/stages/shrine.json
-mods/Filippo/stages/shrine.lua
-mods/songs/danger-classic/Voices.ogg
-mods/songs/danger-classic/voices.ogg
-mods/songs/danger-classic/Inst.ogg
-mods/songs/danger-classic/inst.ogg

@@ -1,5 +1,0 @@
-mods/data/unwind/unwind-hard.json
-mods/songs/unwind/Voices.ogg
-mods/songs/unwind/voices.ogg
-mods/songs/unwind/Inst.ogg
-mods/songs/unwind/inst.ogg

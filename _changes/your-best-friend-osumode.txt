@@ -1,6 +1,0 @@
-mods/data/your-best-friend/timeBarScript.lua
-mods/data/your-best-friend/your-best-friend.json
-mods/songs/your-best-friend/Voices.ogg
-mods/songs/your-best-friend/voices.ogg
-mods/songs/your-best-friend/Inst.ogg
-mods/songs/your-best-friend/inst.ogg

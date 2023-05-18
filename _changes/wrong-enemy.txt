@@ -1,6 +1,0 @@
-mods/data/wrong-enemy/timeBarScript.lua
-mods/data/wrong-enemy/wrong-enemy.json
-mods/songs/wrong-enemy/Voices.ogg
-mods/songs/wrong-enemy/voices.ogg
-mods/songs/wrong-enemy/Inst.ogg
-mods/songs/wrong-enemy/inst.ogg

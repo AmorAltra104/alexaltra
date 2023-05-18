@@ -1,6 +1,0 @@
-mods/data/sans/sans.json
-mods/data/sans/timeBarScript.lua
-mods/songs/sans/Voices.ogg
-mods/songs/sans/voices.ogg
-mods/songs/sans/Inst.ogg
-mods/songs/sans/inst.ogg

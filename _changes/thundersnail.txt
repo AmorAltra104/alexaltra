@@ -1,6 +1,0 @@
-mods/data/thundersnail/thundersnail.json
-mods/data/thundersnail/timeBarScript.lua
-mods/songs/thundersnail/Voices.ogg
-mods/songs/thundersnail/voices.ogg
-mods/songs/thundersnail/Inst.ogg
-mods/songs/thundersnail/inst.ogg

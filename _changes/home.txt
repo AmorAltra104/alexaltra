@@ -1,6 +1,0 @@
-mods/data/home/home.json
-mods/data/home/timeBarScript.lua
-mods/songs/home/Voices.ogg
-mods/songs/home/voices.ogg
-mods/songs/home/Inst.ogg
-mods/songs/home/inst.ogg

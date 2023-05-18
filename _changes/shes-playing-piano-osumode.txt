@@ -1,6 +1,0 @@
-mods/data/shes-playing-piano/shes-playing-piano.json
-mods/data/shes-playing-piano/timeBarScript.lua
-mods/songs/shes-playing-piano/Voices.ogg
-mods/songs/shes-playing-piano/voices.ogg
-mods/songs/shes-playing-piano/Inst.ogg
-mods/songs/shes-playing-piano/inst.ogg

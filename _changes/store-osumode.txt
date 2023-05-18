@@ -1,6 +1,0 @@
-mods/data/store/script.lua
-mods/data/store/store.json
-mods/songs/store/Voices.ogg
-mods/songs/store/voices.ogg
-mods/songs/store/Inst.ogg
-mods/songs/store/inst.ogg

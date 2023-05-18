@@ -1,5 +1,0 @@
-mods/data/adagio/mod.txt
-mods/songs/adagio/Voices.ogg
-mods/songs/adagio/voices.ogg
-mods/songs/adagio/Inst.ogg
-mods/songs/adagio/inst.ogg

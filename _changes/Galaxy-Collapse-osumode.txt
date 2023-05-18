@@ -1,8 +1,0 @@
-mods/data/Galaxy-Collapse/Galaxy-Collapse-hard.json
-mods/data/Galaxy-Collapse/mod.txt
-mods/normalmods/stages/concerttest.json
-mods/normalmods/stages/concerttest.lua
-mods/songs/Galaxy-Collapse/Voices.ogg
-mods/songs/Galaxy-Collapse/voices.ogg
-mods/songs/Galaxy-Collapse/Inst.ogg
-mods/songs/Galaxy-Collapse/inst.ogg

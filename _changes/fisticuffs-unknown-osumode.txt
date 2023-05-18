@@ -1,9 +1,0 @@
-mods/data/fisticuffs-unknown/cameramoves.lua
-mods/data/fisticuffs-unknown/events.json
-mods/data/fisticuffs-unknown/fisticuffs-unknown-hard.json
-mods/data/fisticuffs-unknown/mod.txt
-mods/Final lesson/stages/matt3.json
-mods/Final lesson/stages/matt3.lua
-mods/Final lesson/custom_events/Flash Camera.lua
-mods/songs/fisticuffs-unknown/Inst.ogg
-mods/songs/fisticuffs-unknown/inst.ogg

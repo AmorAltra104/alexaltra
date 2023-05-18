@@ -1,9 +1,0 @@
-mods/data/fisticuffs-remix/fisticuffs-remix-hard.json
-mods/data/fisticuffs-remix/fisticuffs-remix.json
-mods/data/fisticuffs-remix/mod.txt
-mods/JJTurbo/stages/matt3.json
-mods/JJTurbo/stages/matt3.lua
-mods/JJTurbo/scripts/camaraFluida.lua
-mods/JJTurbo/scripts/DoubleGhostNote.lua
-mods/songs/fisticuffs-remix/Inst.ogg
-mods/songs/fisticuffs-remix/inst.ogg

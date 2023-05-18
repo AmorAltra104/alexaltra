@@ -1,8 +1,0 @@
-mods/data/summon-emix/mod.txt
-mods/data/summon-emix/summon-emix.json
-mods/Filippo/stages/emix.json
-mods/Filippo/stages/emix.lua
-mods/songs/summon-emix/Voices.ogg
-mods/songs/summon-emix/voices.ogg
-mods/songs/summon-emix/Inst.ogg
-mods/songs/summon-emix/inst.ogg

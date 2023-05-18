@@ -1,7 +1,0 @@
-mods/data/dance-of-dog/dance-of-dog.json
-mods/data/dance-of-dog/script (2).lua
-mods/data/dance-of-dog/script.lua
-mods/songs/dance-of-dog/Voices.ogg
-mods/songs/dance-of-dog/voices.ogg
-mods/songs/dance-of-dog/Inst.ogg
-mods/songs/dance-of-dog/inst.ogg

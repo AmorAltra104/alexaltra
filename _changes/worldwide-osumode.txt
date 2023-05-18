@@ -1,9 +1,0 @@
-mods/data/worldwide/mod.txt
-mods/data/worldwide/worldwide-hard.json
-mods/data/worldwide/worldwide.json
-mods/JJTurbo/stages/sword-arena.json
-mods/JJTurbo/stages/sword-arena.lua
-mods/JJTurbo/scripts/camaraFluida.lua
-mods/JJTurbo/scripts/DoubleGhostNote.lua
-mods/songs/worldwide/Inst.ogg
-mods/songs/worldwide/inst.ogg

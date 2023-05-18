@@ -1,8 +1,0 @@
-mods/data/hyperlink-(reloaded)/hyperlink-(reloaded)-no-mechanics.json
-mods/data/hyperlink-(reloaded)/hyperlink-(reloaded).json
-mods/data/hyperlink-(reloaded)/script.lua
-mods/data/hyperlink-(reloaded)/timeBarScript.lua
-mods/songs/hyperlink-(reloaded)/Voices.ogg
-mods/songs/hyperlink-(reloaded)/voices.ogg
-mods/songs/hyperlink-(reloaded)/Inst.ogg
-mods/songs/hyperlink-(reloaded)/inst.ogg

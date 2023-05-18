@@ -1,6 +1,0 @@
-mods/data/pathetic-house/pathetic-house.json
-mods/data/pathetic-house/script.lua
-mods/songs/pathetic-house/Voices.ogg
-mods/songs/pathetic-house/voices.ogg
-mods/songs/pathetic-house/Inst.ogg
-mods/songs/pathetic-house/inst.ogg

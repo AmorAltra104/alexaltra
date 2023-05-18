@@ -1,5 +1,0 @@
-mods/data/CORE/timeBarScript.lua
-mods/songs/CORE/Voices.ogg
-mods/songs/CORE/voices.ogg
-mods/songs/CORE/Inst.ogg
-mods/songs/CORE/inst.ogg

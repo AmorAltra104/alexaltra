@@ -1,7 +1,0 @@
-mods/data/room-of-dog/room-of-dog.json
-mods/data/room-of-dog/script (2).lua
-mods/data/room-of-dog/timeBarScript.lua
-mods/songs/room-of-dog/Voices.ogg
-mods/songs/room-of-dog/voices.ogg
-mods/songs/room-of-dog/Inst.ogg
-mods/songs/room-of-dog/inst.ogg

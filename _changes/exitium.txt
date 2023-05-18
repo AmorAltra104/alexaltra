@@ -1,7 +1,0 @@
-mods/data/exitium/exitium.json
-mods/data/exitium/mod.txt
-mods/data/exitium/script.lua
-mods/songs/exitium/Voices.ogg
-mods/songs/exitium/voices.ogg
-mods/songs/exitium/Inst.ogg
-mods/songs/exitium/inst.ogg

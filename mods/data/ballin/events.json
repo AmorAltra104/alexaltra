@@ -1,38 +1,103 @@
 {
 	"song": {
-		"speed": 3,
-		"stage": "arena",
-		"player1": "bfMII",
-		"player2": "mattbox",
-		"player3": null,
 		"events": [
 			[
-				19100,
+				0,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Change Mania",
+						"3",
+						"true"
+					],
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"60"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
 					]
 				]
 			],
 			[
-				25500,
+				12000,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattbox"
+						"Cinematics (No HUD)",
+						"0.5",
+						"0"
 					]
 				]
 			],
 			[
-				31900,
+				12050,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				12150,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				12250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				12450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				12550,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				12650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
 					]
 				]
 			],
@@ -40,9 +105,114 @@
 				37000,
 				[
 					[
-						"Change Character",
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				37400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				38100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				38200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				38300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Toggle Trail",
 						"1",
-						"mattbox"
+						"1"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
 					]
 				]
 			],
@@ -50,19 +220,39 @@
 				44800,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.1",
+						""
 					]
 				]
 			],
 			[
-				51100,
+				48000,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattbox"
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.110",
+						""
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.110",
+						""
 					]
 				]
 			],
@@ -70,59 +260,114 @@
 				57600,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.110",
+						""
 					]
 				]
 			],
 			[
-				75500,
+				60800,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattbox"
+						"Add Camera Zoom",
+						"0.110",
+						""
 					]
 				]
 			],
 			[
-				78400,
+				64000,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Cinematics (No HUD)",
+						"0.5",
+						"60"
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					],
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
 					]
 				]
 			],
 			[
-				83400,
+				70400,
 				[
 					[
-						"",
-						"1",
-						"mattbox"
+						"Change Mania",
+						"5",
+						""
 					]
 				]
 			],
 			[
-				84800,
+				75550,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.05",
+						""
 					]
 				]
 			],
 			[
-				89600,
+				76400,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattbox"
+						"Add Camera Zoom",
+						"0.05",
+						""
+					],
+					[
+						"Cinematics (No HUD)",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				91550,
+				[
+					[
+						"Add Camera Zoom",
+						"0.065",
+						""
+					]
+				]
+			],
+			[
+				91750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.065",
+						""
+					]
+				]
+			],
+			[
+				92050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				92450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						""
 					]
 				]
 			],
@@ -130,9 +375,19 @@
 				92800,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.125",
+						""
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.15",
+						""
 					]
 				]
 			],
@@ -140,9 +395,24 @@
 				102400,
 				[
 					[
-						"Change Character",
+						"Toggle Trail",
 						"1",
-						"mattbox"
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
 					]
 				]
 			],
@@ -150,19 +420,39 @@
 				108800,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.08",
+						""
 					]
 				]
 			],
 			[
-				115100,
+				112000,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattbox"
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
 					]
 				]
 			],
@@ -170,20 +460,47 @@
 				121600,
 				[
 					[
-						"Change Character",
-						"1",
-						"mattangry"
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
+					],
+					[
+						"Cinematics (OverLap)",
+						"0.75",
+						"60"
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					],
+					[
+						"Change Mania",
+						"3",
+						""
 					]
 				]
 			]
-		],
-		"notes": [],
-		"splashSkin": null,
-		"validScore": false,
-		"gfVersion": "gf_B",
-		"bpm": 150,
-		"arrowSkin": null,
-		"needsVoices": true,
-		"song": "ballin"
+		]
 	}
 }

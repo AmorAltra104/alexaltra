@@ -1,6 +1,0 @@
-mods/data/dummy/dummy.json
-mods/data/dummy/timeBarScript.lua
-mods/songs/dummy/Voices.ogg
-mods/songs/dummy/voices.ogg
-mods/songs/dummy/Inst.ogg
-mods/songs/dummy/inst.ogg

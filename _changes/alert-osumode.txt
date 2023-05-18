@@ -1,7 +1,0 @@
-mods/data/alert/alert.json
-mods/data/alert/mod.txt
-mods/data/alert/script.lua
-mods/songs/alert/Voices.ogg
-mods/songs/alert/voices.ogg
-mods/songs/alert/Inst.ogg
-mods/songs/alert/inst.ogg

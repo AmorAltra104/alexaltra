@@ -1,8 +1,0 @@
-mods/data/playing-with-god-vin-sides/mod.txt
-mods/data/playing-with-god-vin-sides/playing-with-god-vin-sides-canon.json
-mods/data/playing-with-god-vin-sides/playing-with-god-vin-sides-mania.json
-mods/data/playing-with-god-vin-sides/script1.lua
-mods/songs/playing-with-god-vin-sides/Voices.ogg
-mods/songs/playing-with-god-vin-sides/voices.ogg
-mods/songs/playing-with-god-vin-sides/Inst.ogg
-mods/songs/playing-with-god-vin-sides/inst.ogg

@@ -1,5 +1,0 @@
-mods/data/its-raining-somewhere-else/its-raining-somewhere-else.json
-mods/data/its-raining-somewhere-else/script.lua
-mods/data/its-raining-somewhere-else/timeBarScript.lua
-mods/songs/its-raining-somewhere-else/Inst.ogg
-mods/songs/its-raining-somewhere-else/inst.ogg

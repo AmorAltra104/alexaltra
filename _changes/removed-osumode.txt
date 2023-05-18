@@ -1,6 +1,0 @@
-mods/data/removed/mod.txt
-mods/data/removed/removed.json
-mods/songs/removed/Voices.ogg
-mods/songs/removed/voices.ogg
-mods/songs/removed/Inst.ogg
-mods/songs/removed/inst.ogg

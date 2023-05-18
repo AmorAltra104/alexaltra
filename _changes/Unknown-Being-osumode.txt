@@ -1,6 +1,0 @@
-mods/data/Unknown-Being/mod.txt
-mods/data/Unknown-Being/Unknown-Being.json
-mods/songs/Unknown-Being/Voices.ogg
-mods/songs/Unknown-Being/voices.ogg
-mods/songs/Unknown-Being/Inst.ogg
-mods/songs/Unknown-Being/inst.ogg

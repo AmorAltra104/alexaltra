@@ -1,6 +1,0 @@
-mods/data/undyne/timeBarScript.lua
-mods/data/undyne/undyne.json
-mods/songs/undyne/Voices.ogg
-mods/songs/undyne/voices.ogg
-mods/songs/undyne/Inst.ogg
-mods/songs/undyne/inst.ogg

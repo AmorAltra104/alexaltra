@@ -1,8 +1,0 @@
-mods/data/bedrock/bedrock.json
-mods/data/bedrock/mod.txt
-mods/Filippo/stages/void.json
-mods/Filippo/stages/void.lua
-mods/songs/bedrock/Voices.ogg
-mods/songs/bedrock/voices.ogg
-mods/songs/bedrock/Inst.ogg
-mods/songs/bedrock/inst.ogg

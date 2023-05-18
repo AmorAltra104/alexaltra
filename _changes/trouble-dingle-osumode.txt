@@ -1,6 +1,0 @@
-mods/data/trouble-dingle/script.lua
-mods/data/trouble-dingle/trouble-dingle.json
-mods/songs/trouble-dingle/Voices.ogg
-mods/songs/trouble-dingle/voices.ogg
-mods/songs/trouble-dingle/Inst.ogg
-mods/songs/trouble-dingle/inst.ogg

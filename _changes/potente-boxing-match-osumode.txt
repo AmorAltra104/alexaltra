@@ -1,9 +1,0 @@
-mods/data/potente-boxing-match/events.json
-mods/data/potente-boxing-match/mod.txt
-mods/data/potente-boxing-match/potente-boxing-match-potente.json
-mods/Potente/stages/wiik2.json
-mods/Potente/stages/wiik2.lua
-mods/songs/potente-boxing-match/Voices.ogg
-mods/songs/potente-boxing-match/voices.ogg
-mods/songs/potente-boxing-match/Inst.ogg
-mods/songs/potente-boxing-match/inst.ogg

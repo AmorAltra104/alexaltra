@@ -1,6 +1,0 @@
-mods/data/hotel/hotel.json
-mods/data/hotel/timeBarScript.lua
-mods/songs/hotel/Voices.ogg
-mods/songs/hotel/voices.ogg
-mods/songs/hotel/Inst.ogg
-mods/songs/hotel/inst.ogg

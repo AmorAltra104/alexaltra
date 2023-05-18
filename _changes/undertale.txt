@@ -1,6 +1,0 @@
-mods/data/undertale/timeBarScript.lua
-mods/data/undertale/undertale.json
-mods/songs/undertale/Voices.ogg
-mods/songs/undertale/voices.ogg
-mods/songs/undertale/Inst.ogg
-mods/songs/undertale/inst.ogg

@@ -1,7 +1,0 @@
-mods/data/megalo-strike-back-(chara)/megalo-strike-back-(chara).json
-mods/data/megalo-strike-back-(chara)/script.lua
-mods/data/megalo-strike-back-(chara)/timeBarScript.lua
-mods/songs/megalo-strike-back-(chara)/Voices.ogg
-mods/songs/megalo-strike-back-(chara)/voices.ogg
-mods/songs/megalo-strike-back-(chara)/Inst.ogg
-mods/songs/megalo-strike-back-(chara)/inst.ogg

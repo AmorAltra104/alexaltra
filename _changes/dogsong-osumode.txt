@@ -1,6 +1,0 @@
-mods/data/dogsong/dogsong.json
-mods/data/dogsong/timeBarScript.lua
-mods/songs/dogsong/Voices.ogg
-mods/songs/dogsong/voices.ogg
-mods/songs/dogsong/Inst.ogg
-mods/songs/dogsong/inst.ogg

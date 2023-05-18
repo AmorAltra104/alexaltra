@@ -1,9 +1,0 @@
-mods/data/to-the-bone/Fake Paps.lua
-mods/data/to-the-bone/Fake Sky.lua
-mods/data/to-the-bone/script.lua
-mods/data/to-the-bone/timeBarScript.lua
-mods/data/to-the-bone/to-the-bone.json
-mods/songs/to-the-bone/Voices.ogg
-mods/songs/to-the-bone/voices.ogg
-mods/songs/to-the-bone/Inst.ogg
-mods/songs/to-the-bone/inst.ogg

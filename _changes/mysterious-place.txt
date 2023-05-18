@@ -1,7 +1,0 @@
-mods/data/mysterious-place/mysterious-place.json
-mods/data/mysterious-place/script.lua
-mods/data/mysterious-place/timeBarScript.lua
-mods/songs/mysterious-place/Voices.ogg
-mods/songs/mysterious-place/voices.ogg
-mods/songs/mysterious-place/Inst.ogg
-mods/songs/mysterious-place/inst.ogg

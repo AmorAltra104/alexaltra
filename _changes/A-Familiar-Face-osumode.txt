@@ -1,7 +1,0 @@
-mods/data/A-Familiar-Face/A-Familiar-Face.json
-mods/data/A-Familiar-Face/mod.txt
-mods/data/A-Familiar-Face/script.lua
-mods/songs/A-Familiar-Face/Voices.ogg
-mods/songs/A-Familiar-Face/voices.ogg
-mods/songs/A-Familiar-Face/Inst.ogg
-mods/songs/A-Familiar-Face/inst.ogg

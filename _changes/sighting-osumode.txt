@@ -1,8 +1,0 @@
-mods/data/sighting/mod.txt
-mods/data/sighting/sighting.json
-mods/Filippo/stages/iseeyou.json
-mods/Filippo/stages/iseeyou.lua
-mods/songs/sighting/Voices.ogg
-mods/songs/sighting/voices.ogg
-mods/songs/sighting/Inst.ogg
-mods/songs/sighting/inst.ogg

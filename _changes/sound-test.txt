@@ -1,2 +1,0 @@
-mods/data/sound-test/script.lua
-mods/data/sound-test/sound-test.json

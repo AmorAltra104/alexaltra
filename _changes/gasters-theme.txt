@@ -1,6 +1,0 @@
-mods/data/gasters-theme/gasters-theme.json
-mods/data/gasters-theme/script.lua
-mods/songs/gasters-theme/Voices.ogg
-mods/songs/gasters-theme/voices.ogg
-mods/songs/gasters-theme/Inst.ogg
-mods/songs/gasters-theme/inst.ogg

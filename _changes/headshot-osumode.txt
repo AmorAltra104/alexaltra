@@ -1,7 +1,0 @@
-mods/data/headshot/events.json
-mods/data/headshot/headshot-hard.json
-mods/data/headshot/mod.txt
-mods/songs/headshot/Voices.ogg
-mods/songs/headshot/voices.ogg
-mods/songs/headshot/Inst.ogg
-mods/songs/headshot/inst.ogg

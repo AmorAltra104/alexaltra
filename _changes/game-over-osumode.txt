@@ -1,8 +1,0 @@
-mods/data/game-over/game-over-hard.json
-mods/data/game-over/mod.txt
-mods/Final lesson/stages/matt1.json
-mods/Final lesson/stages/matt1.lua
-mods/songs/game-over/Voices.ogg
-mods/songs/game-over/voices.ogg
-mods/songs/game-over/Inst.ogg
-mods/songs/game-over/inst.ogg

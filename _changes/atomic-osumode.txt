@@ -1,8 +1,0 @@
-mods/data/atomic/atomic-hard.json
-mods/data/atomic/mod.txt
-mods/Final lesson/stages/boxingvolcano.json
-mods/Final lesson/stages/boxingvolcano.lua
-mods/songs/atomic/Voices.ogg
-mods/songs/atomic/voices.ogg
-mods/songs/atomic/Inst.ogg
-mods/songs/atomic/inst.ogg

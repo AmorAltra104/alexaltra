@@ -1,8 +1,0 @@
-mods/data/spider-dance/script.lua
-mods/data/spider-dance/spider-dance-no-mechanics.json
-mods/data/spider-dance/spider-dance.json
-mods/data/spider-dance/timeBarScript.lua
-mods/songs/spider-dance/Voices.ogg
-mods/songs/spider-dance/voices.ogg
-mods/songs/spider-dance/Inst.ogg
-mods/songs/spider-dance/inst.ogg

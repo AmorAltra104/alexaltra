@@ -1,8 +1,0 @@
-mods/data/desolation/desolation.json
-mods/data/desolation/mod.txt
-mods/Filippo/stages/void.json
-mods/Filippo/stages/void.lua
-mods/songs/desolation/Voices.ogg
-mods/songs/desolation/voices.ogg
-mods/songs/desolation/Inst.ogg
-mods/songs/desolation/inst.ogg

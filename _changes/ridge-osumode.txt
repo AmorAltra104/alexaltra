@@ -1,2 +1,0 @@
-mods/data/ridge/mod.txt
-mods/data/ridge/ridge.json

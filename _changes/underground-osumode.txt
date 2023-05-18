@@ -1,9 +1,0 @@
-mods/data/underground/mod.txt
-mods/data/underground/script.lua
-mods/data/underground/underground.json
-mods/Filippo/stages/cave.json
-mods/Filippo/stages/cave.lua
-mods/songs/underground/Voices.ogg
-mods/songs/underground/voices.ogg
-mods/songs/underground/Inst.ogg
-mods/songs/underground/inst.ogg

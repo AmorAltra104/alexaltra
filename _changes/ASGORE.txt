@@ -1,5 +1,0 @@
-mods/data/ASGORE/timeBarScript.lua
-mods/songs/ASGORE/Voices.ogg
-mods/songs/ASGORE/voices.ogg
-mods/songs/ASGORE/Inst.ogg
-mods/songs/ASGORE/inst.ogg

@@ -1,6 +1,0 @@
-mods/data/stronger-then-you/stronger-then-you.json
-mods/data/stronger-then-you/timeBarScript.lua
-mods/songs/stronger-then-you/Voices.ogg
-mods/songs/stronger-then-you/voices.ogg
-mods/songs/stronger-then-you/Inst.ogg
-mods/songs/stronger-then-you/inst.ogg

@@ -1,9 +1,0 @@
-mods/data/fandomania/events.json
-mods/data/fandomania/fandomania.json
-mods/data/fandomania/reflect1.lua
-mods/data/fandomania/script.lua
-mods/data/fandomania/timeBarScript.lua
-mods/songs/fandomania/Voices.ogg
-mods/songs/fandomania/voices.ogg
-mods/songs/fandomania/Inst.ogg
-mods/songs/fandomania/inst.ogg

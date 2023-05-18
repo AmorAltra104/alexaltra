@@ -1,4 +1,0 @@
-mods/data/insano/insano-hard.json
-mods/data/insano/mod.txt
-mods/songs/insano/Inst.ogg
-mods/songs/insano/inst.ogg

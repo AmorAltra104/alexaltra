@@ -1,8 +1,0 @@
-mods/data/death-by-glamour/death-by-glamour-no-mechanics.json
-mods/data/death-by-glamour/death-by-glamour.json
-mods/data/death-by-glamour/script.lua
-mods/data/death-by-glamour/timeBarScript.lua
-mods/songs/death-by-glamour/Voices.ogg
-mods/songs/death-by-glamour/voices.ogg
-mods/songs/death-by-glamour/Inst.ogg
-mods/songs/death-by-glamour/inst.ogg

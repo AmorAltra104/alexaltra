@@ -1,6 +1,0 @@
-mods/data/enemy-approaching/enemy-approaching.json
-mods/data/enemy-approaching/timeBarScript.lua
-mods/songs/enemy-approaching/Voices.ogg
-mods/songs/enemy-approaching/voices.ogg
-mods/songs/enemy-approaching/Inst.ogg
-mods/songs/enemy-approaching/inst.ogg

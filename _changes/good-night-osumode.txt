@@ -1,6 +1,0 @@
-mods/data/good-night/good-night.json
-mods/data/good-night/timeBarScript.lua
-mods/songs/good-night/Voices.ogg
-mods/songs/good-night/voices.ogg
-mods/songs/good-night/Inst.ogg
-mods/songs/good-night/inst.ogg

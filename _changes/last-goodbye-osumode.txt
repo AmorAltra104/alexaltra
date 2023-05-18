@@ -1,6 +1,0 @@
-mods/data/last-goodbye/last-goodbye.json
-mods/data/last-goodbye/script.lua
-mods/songs/last-goodbye/Voices.ogg
-mods/songs/last-goodbye/voices.ogg
-mods/songs/last-goodbye/Inst.ogg
-mods/songs/last-goodbye/inst.ogg

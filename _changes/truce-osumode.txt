@@ -1,6 +1,0 @@
-mods/data/truce/mod.txt
-mods/data/truce/truce-hard.json
-mods/Final lesson/stages/matt1.json
-mods/Final lesson/stages/matt1.lua
-mods/songs/truce/Inst.ogg
-mods/songs/truce/inst.ogg

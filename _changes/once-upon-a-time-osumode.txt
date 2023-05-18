@@ -1,6 +1,0 @@
-mods/data/once-upon-a-time/once-upon-a-time.json
-mods/data/once-upon-a-time/timeBarScript.lua
-mods/songs/once-upon-a-time/Voices.ogg
-mods/songs/once-upon-a-time/voices.ogg
-mods/songs/once-upon-a-time/Inst.ogg
-mods/songs/once-upon-a-time/inst.ogg

@@ -1,8 +1,0 @@
-mods/data/death-wish/death-wish.json
-mods/data/death-wish/mod.txt
-mods/Filippo/stages/desert night.json
-mods/Filippo/stages/desert night.lua
-mods/songs/death-wish/Voices.ogg
-mods/songs/death-wish/voices.ogg
-mods/songs/death-wish/Inst.ogg
-mods/songs/death-wish/inst.ogg

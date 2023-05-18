@@ -1,7 +1,0 @@
-mods/data/its-showtime/its-showtime.json
-mods/data/its-showtime/lights.lua
-mods/data/its-showtime/timeBarScript.lua
-mods/songs/its-showtime/Voices.ogg
-mods/songs/its-showtime/voices.ogg
-mods/songs/its-showtime/Inst.ogg
-mods/songs/its-showtime/inst.ogg

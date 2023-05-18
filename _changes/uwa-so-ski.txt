@@ -1,6 +1,0 @@
-mods/data/uwa-so-ski/timeBarScript.lua
-mods/data/uwa-so-ski/uwa-so-ski.json
-mods/songs/uwa-so-ski/Voices.ogg
-mods/songs/uwa-so-ski/voices.ogg
-mods/songs/uwa-so-ski/Inst.ogg
-mods/songs/uwa-so-ski/inst.ogg

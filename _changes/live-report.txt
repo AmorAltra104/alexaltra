@@ -1,7 +1,0 @@
-mods/data/live-report/live-report.json
-mods/data/live-report/script.lua
-mods/data/live-report/timeBarScript.lua
-mods/songs/live-report/Voices.ogg
-mods/songs/live-report/voices.ogg
-mods/songs/live-report/Inst.ogg
-mods/songs/live-report/inst.ogg

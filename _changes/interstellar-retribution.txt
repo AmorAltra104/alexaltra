@@ -1,7 +1,0 @@
-mods/data/interstellar-retribution/interstellar-retribution-no-mechanics.json
-mods/data/interstellar-retribution/interstellar-retribution.json
-mods/data/interstellar-retribution/timeBarScript.lua
-mods/songs/interstellar-retribution/Voices.ogg
-mods/songs/interstellar-retribution/voices.ogg
-mods/songs/interstellar-retribution/Inst.ogg
-mods/songs/interstellar-retribution/inst.ogg

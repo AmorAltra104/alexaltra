@@ -1,6 +1,0 @@
-mods/data/stronger-monsters/stronger-monsters.json
-mods/data/stronger-monsters/timeBarScript.lua
-mods/songs/stronger-monsters/Voices.ogg
-mods/songs/stronger-monsters/voices.ogg
-mods/songs/stronger-monsters/Inst.ogg
-mods/songs/stronger-monsters/inst.ogg

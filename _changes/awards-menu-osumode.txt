@@ -1,2 +1,0 @@
-mods/data/awards-menu/awards-menu.json
-mods/data/awards-menu/script.lua

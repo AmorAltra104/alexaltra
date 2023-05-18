@@ -1,6 +1,0 @@
-mods/data/vigorous/mod.txt
-mods/data/vigorous/vigorous-hard.json
-mods/Final lesson/stages/matt1.json
-mods/Final lesson/stages/matt1.lua
-mods/songs/vigorous/Inst.ogg
-mods/songs/vigorous/inst.ogg

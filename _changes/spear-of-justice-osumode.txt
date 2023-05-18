@@ -1,8 +1,0 @@
-mods/data/spear-of-justice/script.lua
-mods/data/spear-of-justice/spear-of-justice-no-mechanics.json
-mods/data/spear-of-justice/spear-of-justice.json
-mods/data/spear-of-justice/timeBarScript.lua
-mods/songs/spear-of-justice/Voices.ogg
-mods/songs/spear-of-justice/voices.ogg
-mods/songs/spear-of-justice/Inst.ogg
-mods/songs/spear-of-justice/inst.ogg

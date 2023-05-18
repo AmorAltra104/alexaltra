@@ -1,6 +1,0 @@
-mods/data/outmatched-again/mod.txt
-mods/data/outmatched-again/outmatched-again-hard.json
-mods/Final lesson/stages/matt3.json
-mods/Final lesson/stages/matt3.lua
-mods/songs/outmatched-again/Inst.ogg
-mods/songs/outmatched-again/inst.ogg

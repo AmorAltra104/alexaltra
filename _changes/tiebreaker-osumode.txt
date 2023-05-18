@@ -1,8 +1,0 @@
-mods/data/tiebreaker/mod.txt
-mods/data/tiebreaker/tiebreaker-hard.json
-mods/Final lesson/stages/matt2.json
-mods/Final lesson/stages/matt2.lua
-mods/songs/tiebreaker/Voices.ogg
-mods/songs/tiebreaker/voices.ogg
-mods/songs/tiebreaker/Inst.ogg
-mods/songs/tiebreaker/inst.ogg

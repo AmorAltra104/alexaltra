@@ -1,8 +1,0 @@
-mods/data/creepypasta-clash/creepypasta-clash.json
-mods/data/creepypasta-clash/mod.txt
-mods/Filippo/stages/creepy.json
-mods/Filippo/stages/creepy.lua
-mods/songs/creepypasta-clash/Voices.ogg
-mods/songs/creepypasta-clash/voices.ogg
-mods/songs/creepypasta-clash/Inst.ogg
-mods/songs/creepypasta-clash/inst.ogg

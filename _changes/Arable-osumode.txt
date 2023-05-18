@@ -1,9 +1,0 @@
-mods/data/Arable/Arable-hard.json
-mods/data/Arable/events.json
-mods/data/Arable/mod.txt
-mods/normalmods/stages/BambFarm.json
-mods/normalmods/stages/BambFarm.lua
-mods/songs/Arable/Voices.ogg
-mods/songs/Arable/voices.ogg
-mods/songs/Arable/Inst.ogg
-mods/songs/Arable/inst.ogg

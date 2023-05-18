@@ -1,6 +1,0 @@
-mods/data/heartache/heartache.json
-mods/data/heartache/timeBarScript.lua
-mods/songs/heartache/Voices.ogg
-mods/songs/heartache/voices.ogg
-mods/songs/heartache/Inst.ogg
-mods/songs/heartache/inst.ogg

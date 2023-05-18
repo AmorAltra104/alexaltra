@@ -1,1 +1,0 @@
-mods/data/other/mod.txt

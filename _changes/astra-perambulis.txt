@@ -1,8 +1,0 @@
-mods/data/astra-perambulis/ASCEND.lua
-mods/data/astra-perambulis/astra-perambulis.json
-mods/data/astra-perambulis/CHANGE WINDOW NAME.lua
-mods/data/astra-perambulis/timeBarScript.lua
-mods/songs/astra-perambulis/Voices.ogg
-mods/songs/astra-perambulis/voices.ogg
-mods/songs/astra-perambulis/Inst.ogg
-mods/songs/astra-perambulis/inst.ogg

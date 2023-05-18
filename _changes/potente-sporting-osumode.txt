@@ -1,9 +1,0 @@
-mods/data/potente-sporting/events.json
-mods/data/potente-sporting/mod.txt
-mods/data/potente-sporting/potente-sporting-potente.json
-mods/Potente/stages/wiik2.json
-mods/Potente/stages/wiik2.lua
-mods/songs/potente-sporting/Voices.ogg
-mods/songs/potente-sporting/voices.ogg
-mods/songs/potente-sporting/Inst.ogg
-mods/songs/potente-sporting/inst.ogg

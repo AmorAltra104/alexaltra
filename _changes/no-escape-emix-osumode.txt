@@ -1,9 +1,0 @@
-mods/data/no-escape-emix/missLimit.lua
-mods/data/no-escape-emix/mod.txt
-mods/data/no-escape-emix/no-escape-emix.json
-mods/Filippo/stages/emix.json
-mods/Filippo/stages/emix.lua
-mods/songs/no-escape-emix/Voices.ogg
-mods/songs/no-escape-emix/voices.ogg
-mods/songs/no-escape-emix/Inst.ogg
-mods/songs/no-escape-emix/inst.ogg

@@ -1,6 +1,0 @@
-mods/data/song-that-might-play-when-you-fight-sans/song-that-might-play-when-you-fight-sans.json
-mods/data/song-that-might-play-when-you-fight-sans/timeBarScript.lua
-mods/songs/song-that-might-play-when-you-fight-sans/Voices.ogg
-mods/songs/song-that-might-play-when-you-fight-sans/voices.ogg
-mods/songs/song-that-might-play-when-you-fight-sans/Inst.ogg
-mods/songs/song-that-might-play-when-you-fight-sans/inst.ogg
