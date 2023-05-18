@@ -1,0 +1,34 @@
+{
+	"storyName": "",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"GO FREEPLAY",
+			"",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"VE A FREEPLAY",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Matt FightDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				21
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt FightIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt FightLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Matt FightUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Matt FightRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt_fight",
+	"position": [
+		-150,
+		300
+	],
+	"healthicon": "icon_matt4",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		141,
+		6
+	],
+	"camera_position": [
+		120,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

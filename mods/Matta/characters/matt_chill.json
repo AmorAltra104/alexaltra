@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Matt ChillDown"
+		},
+		{
+			"offsets": [
+				-48,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Matt ChillLeft"
+		},
+		{
+			"offsets": [
+				18,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Matt ChillRight"
+		},
+		{
+			"offsets": [
+				1,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Matt ChillIdle"
+		},
+		{
+			"offsets": [
+				-14,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Matt ChillUp"
+		},
+		{
+			"offsets": [
+				6,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "snap",
+			"loop": false,
+			"name": "Matt ChillSnap"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt_chill",
+	"position": [
+		10,
+		300
+	],
+	"healthicon": "matt1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

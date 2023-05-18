@@ -1,0 +1,2 @@
+Value 1 nombre de la imagen
+Value 2 tiempo de duración.

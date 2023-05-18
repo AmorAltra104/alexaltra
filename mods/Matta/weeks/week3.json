@@ -1,0 +1,131 @@
+{
+	"storyName": "tomz",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "puto",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--tomz_--",
+			"tomz",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"focus",
+			"matt1",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"sudden-death",
+			"matt1",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"last-round",
+			"icon_mattsmile",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"game-over",
+			"matt1",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"tiebreaker",
+			"icon_matt3",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"timeout",
+			"icon_mattsmile",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"heating",
+			"icon_matt4",
+			[
+				255,
+				53,
+				0
+			]
+		],
+		[
+			"defeat",
+			"matt1",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"t-sporting",
+			"icon_matt3",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"authority",
+			"matt1",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"bonus-round",
+			"icon_matt3",
+			[
+				255,
+				113,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WiiK3",
+	"hiddenUntilUnlocked": false
+}

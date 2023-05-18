@@ -1,0 +1,86 @@
+{
+	"storyName": "invalid_bruh",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--invalid_bruh--",
+			"bruh",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bruh-ruckus",
+			"matt1",
+			[
+				255,
+				153,
+				0
+			]
+		],
+		[
+			"bruh-sporting",
+			"icon_matt3",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"bruh-boxing-match",
+			"icon_matt3",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"bruh-purgatory",
+			"icon_matt4",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"bruh-revenge",
+			"icon-matt2",
+			[
+				0,
+				93,
+				253
+			]
+		],
+		[
+			"bruh-final-destination",
+			"icon-shaggymatt",
+			[
+				255,
+				0,
+				53
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WiiK",
+	"hiddenUntilUnlocked": false
+}

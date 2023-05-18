@@ -1,0 +1,45 @@
+{
+	"storyName": "soda",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "lol",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--soda--",
+			"soda",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sparing",
+			"bmattomatt",
+			[
+				255,
+				100,
+				53
+			]
+		],
+		[
+			"out-mattched",
+			"matt1",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "WiiK 5"
+}

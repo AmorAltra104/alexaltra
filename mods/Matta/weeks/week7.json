@@ -1,0 +1,45 @@
+{
+	"storyName": "viniciusmorwtf",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "lol",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"--viniciusvmorwtf--",
+			"vi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"intoleration",
+			"shaggymattangry",
+			[
+				235,
+				0,
+				20
+			]
+		],
+		[
+			"final-destination-r-god",
+			"god_shaggymatt",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"weekName": "WiiK 7",
+	"hiddenUntilUnlocked": false
+}

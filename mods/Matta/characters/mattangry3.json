@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				21
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matt down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matt up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "matt right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				32
+			],
+			"anim": "stando pose",
+			"fps": 24,
+			"name": "matt stando pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				128
+			],
+			"anim": "ora",
+			"fps": 24,
+			"name": "ora",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				30
+			],
+			"anim": "parry",
+			"fps": 24,
+			"name": "matt parry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				16
+			],
+			"anim": "singUP block",
+			"fps": 24,
+			"name": "matt block up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				16
+			],
+			"anim": "singDOWN block",
+			"fps": 24,
+			"name": "matt block down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				16
+			],
+			"anim": "singLEFT block",
+			"fps": 24,
+			"name": "matt block left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				16
+			],
+			"anim": "singRIGHT block",
+			"fps": 24,
+			"name": "matt block right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mattangry3",
+	"position": [
+		130,
+		340
+	],
+	"healthicon": "icon_matt3",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		-20,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

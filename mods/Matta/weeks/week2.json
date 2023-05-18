@@ -1,0 +1,50 @@
+{
+	"storyName": "rev",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "puto",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--revlio_--",
+			"rev",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"target-practice-rev",
+			"matt1",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"sporting-rev",
+			"icon_matt3",
+			[
+				235,
+				93,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WiiK2",
+	"hiddenUntilUnlocked": false
+}

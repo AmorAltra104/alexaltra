@@ -1,0 +1,50 @@
+{
+	"storyName": "paper",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "puto",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--impaper--",
+			"paper",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"p-rejected",
+			"icon_mattangryb",
+			[
+				100,
+				100,
+				140
+			]
+		],
+		[
+			"tko",
+			"icon-matt2",
+			[
+				0,
+				160,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week9",
+	"hiddenUntilUnlocked": false
+}

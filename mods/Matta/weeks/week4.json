@@ -1,0 +1,59 @@
+{
+	"storyName": "hortas",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mamaguevo",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--hortas--",
+			"hortas",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"samurai",
+			"icon_matt4",
+			[
+				255,
+				53,
+				0
+			]
+		],
+		[
+			"unwind",
+			"icon-matt2",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"purge",
+			"icon_mattsmile",
+			[
+				255,
+				133,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WiiK4",
+	"hiddenUntilUnlocked": false
+}

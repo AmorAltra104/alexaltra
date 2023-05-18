@@ -1,0 +1,50 @@
+{
+	"storyName": "angryracc",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "puto",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"--angryracc--",
+			"racc",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ballin",
+			"bmattomatt",
+			[
+				255,
+				80,
+				53
+			]
+		],
+		[
+			"cosmic-truth",
+			"shaggymatt-y",
+			[
+				235,
+				215,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week8"
+}

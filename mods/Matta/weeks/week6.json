@@ -1,0 +1,36 @@
+{
+	"storyName": "john",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "fukin",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"songs": [
+		[
+			"--john--",
+			"john",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"trail",
+			"matt2",
+			[
+				0,
+				133,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "WiiK 6"
+}
