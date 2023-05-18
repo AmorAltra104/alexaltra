@@ -1,0 +1,48 @@
+mods/data/sporting-rev/events.json
+mods/Matta/characters/mattangry2.json
+mods/Matta/images/characters/mattangry2.png
+mods/Matta/images/characters/mattangry2.xml
+mods/Matta/characters/mattangry.json
+mods/Matta/images/characters/mattangry.png
+mods/Matta/images/characters/mattangry.xml
+mods/data/sporting-rev/mod.txt
+mods/data/sporting-rev/script.lua
+mods/data/sporting-rev/sporting-rev-easy.json
+mods/data/sporting-rev/sporting-rev-hard.json
+mods/data/sporting-rev/sporting-rev.json
+mods/Matta/characters/BOYFRIENDMII.json
+mods/Matta/characters/gf.json
+mods/Matta/stages/boxma.json
+mods/Matta/stages/boxma.lua
+mods/Matta/images/characters/BOYFRIENDMII.png
+mods/Matta/images/characters/BOYFRIENDMII.xml
+mods/Matta/images/characters/GF_assets.png
+mods/Matta/images/characters/GF_assets.xml
+mods/Matta/characters/gfmii.json
+mods/Matta/images/characters/GF_MII_assets.png
+mods/Matta/images/characters/GF_MII_assets.xml
+mods/Matta/custom_notetypes/Punch Note2.lua
+mods/Matta/custom_notetypes/HD Note.lua
+mods/Matta/scripts/coolfunkycredits.lua
+mods/Matta/scripts/coolfunkycredits10.lua
+mods/Matta/scripts/coolfunkycredits11.lua
+mods/Matta/scripts/coolfunkycredits12.lua
+mods/Matta/scripts/coolfunkycredits2.lua
+mods/Matta/scripts/coolfunkycredits3.lua
+mods/Matta/scripts/coolfunkycredits4.lua
+mods/Matta/scripts/coolfunkycredits5.lua
+mods/Matta/scripts/coolfunkycredits6.lua
+mods/Matta/scripts/coolfunkycredits7.lua
+mods/Matta/scripts/coolfunkycredits8.lua
+mods/Matta/scripts/coolfunkycredits9.lua
+mods/Matta/scripts/IconTween.lua
+mods/Matta/images/boxma/bg_boxn.png
+mods/Matta/images/boxma/bg_boxr.png
+mods/Matta/images/Punch Note2.png
+mods/Matta/images/Punch Note2.xml
+mods/Matta/images/HD Note.png
+mods/Matta/images/HD Note.xml
+mods/songs/sporting-rev/Voices.ogg
+mods/songs/sporting-rev/voices.ogg
+mods/songs/sporting-rev/Inst.ogg
+mods/songs/sporting-rev/inst.ogg

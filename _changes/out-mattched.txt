@@ -1,0 +1,36 @@
+mods/data/out-mattched/events.json
+mods/data/out-mattched/mod.txt
+mods/data/out-mattched/out-mattched-hard.json
+mods/data/out-mattched/out-mattched.json
+mods/data/out-mattched/script 2.lua
+mods/Matta/characters/BOYFRIENDMII.json
+mods/Matta/characters/matt_assets.json
+mods/Matta/characters/gfmii.json
+mods/Matta/stages/swordfight.json
+mods/Matta/stages/swordfight.lua
+mods/Matta/images/characters/BOYFRIENDMII.png
+mods/Matta/images/characters/BOYFRIENDMII.xml
+mods/Matta/images/characters/matt_assets.png
+mods/Matta/images/characters/matt_assets.xml
+mods/Matta/images/characters/GF_MII_assets.png
+mods/Matta/images/characters/GF_MII_assets.xml
+mods/Matta/custom_events/Cinematics (UnderLap).lua
+mods/Matta/custom_events/Toggle Ghost Trail.lua
+mods/Matta/scripts/coolfunkycredits.lua
+mods/Matta/scripts/coolfunkycredits10.lua
+mods/Matta/scripts/coolfunkycredits11.lua
+mods/Matta/scripts/coolfunkycredits12.lua
+mods/Matta/scripts/coolfunkycredits2.lua
+mods/Matta/scripts/coolfunkycredits3.lua
+mods/Matta/scripts/coolfunkycredits4.lua
+mods/Matta/scripts/coolfunkycredits5.lua
+mods/Matta/scripts/coolfunkycredits6.lua
+mods/Matta/scripts/coolfunkycredits7.lua
+mods/Matta/scripts/coolfunkycredits8.lua
+mods/Matta/scripts/coolfunkycredits9.lua
+mods/Matta/scripts/IconTween.lua
+mods/Matta/images/swordfight/swordfight.png
+mods/songs/out-mattched/Voices.ogg
+mods/songs/out-mattched/voices.ogg
+mods/songs/out-mattched/Inst.ogg
+mods/songs/out-mattched/inst.ogg

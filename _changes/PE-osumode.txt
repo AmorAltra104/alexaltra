@@ -1,0 +1,3 @@
+mods/data/PE/mod.txt
+mods/songs/PE/Inst.ogg
+mods/songs/PE/inst.ogg

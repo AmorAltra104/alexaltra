@@ -1,0 +1,82 @@
+mods/data/rude-buster/boyfriend die.lua
+mods/data/rude-buster/camellia die.lua
+mods/data/rude-buster/lel2.lua
+mods/data/rude-buster/mod.txt
+mods/data/rude-buster/rude-buster-mania-c-cmode.json
+mods/data/rude-buster/rude-buster-mania-c.json
+mods/data/rude-buster/rude-buster-modchart-cmode.json
+mods/data/rude-buster/rude-buster-modchart.json
+mods/data/rude-buster/script.lua
+mods/Camellia/characters/camellia-c.json
+mods/Camellia/characters/bf-c.json
+mods/Camellia/stages/stage2-extra-c.json
+mods/Camellia/stages/stage2-extra-c.lua
+mods/Camellia/images/characters/camellia-c.png
+mods/Camellia/images/characters/camellia-c.xml
+mods/Camellia/images/characters/BOYFRIEND-c.png
+mods/Camellia/images/characters/BOYFRIEND-c.xml
+mods/Camellia/characters/bf.json
+mods/Camellia/characters/camellia.json
+mods/Camellia/stages/stage2-extra.json
+mods/Camellia/stages/stage2-extra.lua
+mods/Camellia/images/characters/bf.png
+mods/Camellia/images/characters/bf.xml
+mods/Camellia/images/characters/camellia.png
+mods/Camellia/images/characters/camellia.xml
+mods/Camellia/characters/camellia-c-m.json
+mods/Camellia/custom_events/Hud Zoom.lua
+mods/Camellia/custom_events/Set Cam Zoom.lua
+mods/Camellia/custom_events/CamaraHudZoom.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/images/stage2/stage2wall.png
+mods/Camellia/images/stage2/light.png
+mods/Camellia/images/stage2/light.xml
+mods/Camellia/images/stage2/stage.png
+mods/Camellia/images/stage2/speaker_left.png
+mods/Camellia/images/stage2/speaker_left.xml
+mods/Camellia/images/stage2/speaker_right.png
+mods/Camellia/images/stage2/speaker_right.xml
+mods/Camellia/images/stage2/speakerleft.png
+mods/Camellia/images/stage2/speakerleft.xml
+mods/Camellia/images/stage2/speakerright.png
+mods/Camellia/images/stage2/speakerright.xml
+mods/Camellia/images/stage2/backcrowd-extra.png
+mods/Camellia/images/stage2/backcrowd-extra.xml
+mods/Camellia/images/stage2/frontcrowd-extra.png
+mods/Camellia/images/stage2/frontcrowd-extra.xml
+mods/Camellia/fonts/font.ttf
+mods/Camellia/fonts/2.ttf
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/Camellia/images/myth engine/newscorewall.png
+mods/Camellia/images/myth engine/newscorewall-botplay.png
+mods/Camellia/images/myth engine/bar camellia bf.png
+mods/Camellia/images/myth engine/bar botan bf.png
+mods/Camellia/images/myth engine/bar gf bf.png
+mods/Camellia/images/myth engine/bar camellia neobf.png
+mods/Camellia/images/myth engine/bar pico pico.png
+mods/Camellia/images/myth engine/bar bf camellia.png
+mods/Camellia/images/myth engine/bar miku bf.png
+mods/Camellia/images/myth engine/bar bf botan.png
+mods/Camellia/images/myth engine/healthlight.png
+mods/Camellia/images/myth engine/healthlight.xml
+mods/Camellia/images/myth engine/newtimebars.png
+mods/Camellia/images/myth engine/timebar camellia.png
+mods/Camellia/images/myth engine/timebar botan.png
+mods/Camellia/images/myth engine/timebar miku.png
+mods/Camellia/images/myth engine/timebar pico.png
+mods/Camellia/images/myth engine/timebar gf.png
+mods/Camellia/images/myth engine/timebar bf.png
+mods/songs/rude-buster/Voices.ogg
+mods/songs/rude-buster/voices.ogg
+mods/songs/rude-buster/Inst.ogg
+mods/songs/rude-buster/inst.ogg

@@ -1,0 +1,34 @@
+mods/data/magmatic/credit.lua
+mods/data/magmatic/events.json
+mods/data/magmatic/magmatic-hard.json
+mods/data/magmatic/mod.txt
+mods/Vs Impostor/characters/bfpolus.json
+mods/Vs Impostor/characters/maroon.json
+mods/Vs Impostor/characters/gfpolus.json
+mods/Vs Impostor/stages/polus2.json
+mods/Vs Impostor/stages/polus2.lua
+mods/Vs Impostor/images/characters/bfpolus.png
+mods/Vs Impostor/images/characters/bfpolus.xml
+mods/Vs Impostor/images/characters/maroon.png
+mods/Vs Impostor/images/characters/maroon.xml
+mods/Vs Impostor/images/characters/gfpolus.png
+mods/Vs Impostor/images/characters/gfpolus.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/images/polus/newsky.png
+mods/Vs Impostor/images/bg/images/polus/newcloud.png
+mods/Vs Impostor/images/bg/images/polus/newrocks.png
+mods/Vs Impostor/images/bg/images/polus/backwall.png
+mods/Vs Impostor/images/bg/images/polus/newstage.png
+mods/Vs Impostor/images/bg/images/polus/newlava.png
+mods/Vs Impostor/images/bg/images/polus/newoverlay.png
+mods/Vs Impostor/images/bg/images/polus/snowfront.png
+mods/Vs Impostor/images/bg/images/polus/snowfront.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/magmatic/Voices.ogg
+mods/songs/magmatic/voices.ogg
+mods/songs/magmatic/Inst.ogg
+mods/songs/magmatic/inst.ogg

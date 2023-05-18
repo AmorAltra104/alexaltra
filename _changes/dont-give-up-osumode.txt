@@ -1,0 +1,6 @@
+mods/data/dont-give-up/dont-give-up.json
+mods/data/dont-give-up/timeBarScript.lua
+mods/songs/dont-give-up/Voices.ogg
+mods/songs/dont-give-up/voices.ogg
+mods/songs/dont-give-up/Inst.ogg
+mods/songs/dont-give-up/inst.ogg

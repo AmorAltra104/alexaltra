@@ -1,0 +1,45 @@
+mods/data/no-escape-hellmix/events.json
+mods/data/no-escape-hellmix/missLimit.lua
+mods/data/no-escape-hellmix/mod.txt
+mods/data/no-escape-hellmix/no-escape-hellmix.json
+mods/data/no-escape-hellmix/script.lua
+mods/Filippo/characters/bf_.json
+mods/Filippo/characters/brin.json
+mods/Filippo/characters/gf.json
+mods/Filippo/stages/shrine.json
+mods/Filippo/stages/shrine.lua
+mods/Filippo/images/characters/bf_steve.png
+mods/Filippo/images/characters/bf_steve.xml
+mods/Filippo/images/characters/Brin_Normal.png
+mods/Filippo/images/characters/Brin_Normal.xml
+mods/Filippo/images/characters/GF_assets.png
+mods/Filippo/images/characters/GF_assets.xml
+mods/Filippo/custom_events/Activate extra keys.lua
+mods/Filippo/custom_events/Smooth cam zoom.lua
+mods/Filippo/custom_events/Toggle Trail.lua
+mods/Filippo/custom_events/Cam Boom Speed.lua
+mods/Filippo/images/RTXBrin.png
+mods/Filippo/images/characters/Brin_Glitched.png
+mods/Filippo/images/characters/bf_steve_glitch.png
+mods/Filippo/images/stages/plain/glitch_sky.png
+mods/Filippo/images/stages/plain/glitch_backmc.png
+mods/Filippo/images/stages/plain/glitch_groundmc.png
+mods/Filippo/images/stages/plain/glitch_Shrine.png
+mods/Filippo/images/stages/plain/glitch_Shrine.xml
+mods/Filippo/images/stages/plain/backmc.png
+mods/Filippo/images/stages/plain/groundmc.png
+mods/Filippo/images/stages/plain/Shrine.png
+mods/Filippo/images/stages/plain/Shrine.xml
+mods/Filippo/images/characters/pico-tuxido.png
+mods/Filippo/images/characters/pico-tuxido.xml
+mods/Filippo/images/characters/gf_minecraft.png
+mods/Filippo/images/characters/gf_minecraft.xml
+mods/Filippo/characters/bf_steve.json
+mods/Filippo/characters/brin-g.json
+mods/Filippo/images/characters/Brin_Glitched.xml
+mods/Filippo/characters/bf_steve-g.json
+mods/Filippo/images/characters/bf_steve_glitch.xml
+mods/songs/no-escape-hellmix/Voices.ogg
+mods/songs/no-escape-hellmix/voices.ogg
+mods/songs/no-escape-hellmix/Inst.ogg
+mods/songs/no-escape-hellmix/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/jjitler/jjitler-hard.json
+mods/data/jjitler/mod.txt
+mods/Final lesson/stages/boxingvolcano.json
+mods/Final lesson/stages/boxingvolcano.lua
+mods/songs/jjitler/Inst.ogg
+mods/songs/jjitler/inst.ogg

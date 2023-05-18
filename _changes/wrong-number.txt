@@ -1,0 +1,7 @@
+mods/data/wrong-number/script (2).lua
+mods/data/wrong-number/timeBarScript.lua
+mods/data/wrong-number/wrong-number.json
+mods/songs/wrong-number/Voices.ogg
+mods/songs/wrong-number/voices.ogg
+mods/songs/wrong-number/Inst.ogg
+mods/songs/wrong-number/inst.ogg

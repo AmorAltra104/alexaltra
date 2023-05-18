@@ -1,0 +1,50 @@
+mods/data/alter-ego/alter-ego-hard.json
+mods/data/alter-ego/alter-ego.json
+mods/data/alter-ego/mod.txt
+mods/JJTurbo/characters/bfrtx2.json
+mods/JJTurbo/characters/wiik-2-rtx.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/voiidmatt2.json
+mods/JJTurbo/stages/voiidmatt2.lua
+mods/JJTurbo/images/characters/bfrtx2.png
+mods/JJTurbo/images/characters/bfrtx2.xml
+mods/JJTurbo/images/characters/wiik 2.png
+mods/JJTurbo/images/characters/wiik 2.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/characters/mattrevnewalter.json
+mods/JJTurbo/images/characters/matt_rev_new.png
+mods/JJTurbo/images/characters/matt_rev_new.xml
+mods/JJTurbo/characters/bfrevalter.json
+mods/JJTurbo/images/characters/BOYFRIENDREV.png
+mods/JJTurbo/images/characters/BOYFRIENDREV.xml
+mods/JJTurbo/stages/matt2.json
+mods/JJTurbo/stages/matt2.lua
+mods/JJTurbo/characters/bfrev.json
+mods/JJTurbo/characters/mattrevnew.json
+mods/JJTurbo/custom_events/Set Cam Zoom.lua
+mods/JJTurbo/custom_events/ArrowDisappear.lua
+mods/JJTurbo/custom_events/Red Flash Camera.lua
+mods/JJTurbo/custom_events/stage test.lua
+mods/JJTurbo/custom_events/Flash Camera.lua
+mods/JJTurbo/custom_events/Change Stage.lua
+mods/JJTurbo/custom_events/hud flip.lua
+mods/JJTurbo/custom_events/hud unflip.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/boxingnight2.png
+mods/JJTurbo/images/buildings.png
+mods/JJTurbo/images/boxingnight3.png
+mods/JJTurbo/images/lights.png
+mods/JJTurbo/images/ruido.png
+mods/JJTurbo/images/stadium/5galaxy.png
+mods/JJTurbo/images/stadium/4arenaringback.png
+mods/JJTurbo/images/stadium/33.png
+mods/JJTurbo/images/stadium/2arenaring.png
+mods/JJTurbo/images/stadium/1arenastage.png
+mods/JJTurbo/images/bg_boxn.png
+mods/JJTurbo/images/bg_boxr.png
+mods/songs/alter-ego/Voices.ogg
+mods/songs/alter-ego/voices.ogg
+mods/songs/alter-ego/Inst.ogg
+mods/songs/alter-ego/inst.ogg

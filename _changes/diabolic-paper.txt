@@ -1,0 +1,27 @@
+mods/data/diabolic-paper/diabolic-paper-hard.json
+mods/data/diabolic-paper/mod.txt
+mods/JJTurbo/characters/silverbfmii-no-shade.json
+mods/JJTurbo/characters/pmattangry.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/matt2.json
+mods/JJTurbo/stages/matt2.lua
+mods/JJTurbo/images/characters/BFMII-no-shade.png
+mods/JJTurbo/images/characters/BFMII-no-shade.xml
+mods/JJTurbo/images/characters/pmattangry.png
+mods/JJTurbo/images/characters/pmattangry.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/custom_events/Flash Camera.lua
+mods/JJTurbo/custom_events/HideHud.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/custom_events/Smooth cam zoom.lua
+mods/JJTurbo/custom_events/ShowHud.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/bg_boxn.png
+mods/JJTurbo/images/bg_boxr.png
+mods/songs/diabolic-paper/Voices.ogg
+mods/songs/diabolic-paper/voices.ogg
+mods/songs/diabolic-paper/Inst.ogg
+mods/songs/diabolic-paper/inst.ogg

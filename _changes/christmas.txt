@@ -1,0 +1,31 @@
+mods/data/christmas/christmas-hard.json
+mods/data/christmas/christmas.json
+mods/data/christmas/credit.lua
+mods/data/christmas/mod.txt
+mods/Vs Impostor/characters/bf-christmas.json
+mods/Vs Impostor/characters/fella.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/loggo.json
+mods/Vs Impostor/stages/loggo.lua
+mods/Vs Impostor/images/characters/bfChristmas.png
+mods/Vs Impostor/images/characters/bfChristmas.xml
+mods/Vs Impostor/images/characters/fella.png
+mods/Vs Impostor/images/characters/fella.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/space.png
+mods/Vs Impostor/images/bg/normalOne.png
+mods/Vs Impostor/images/bg/stockingFire.png
+mods/Vs Impostor/images/bg/stockingFire.xml
+mods/Vs Impostor/images/bg/people.png
+mods/Vs Impostor/images/bg/people.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/christmas/Voices.ogg
+mods/songs/christmas/voices.ogg
+mods/songs/christmas/Inst.ogg
+mods/songs/christmas/inst.ogg

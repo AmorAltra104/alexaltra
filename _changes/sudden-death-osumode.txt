@@ -1,0 +1,8 @@
+mods/data/sudden-death/mod.txt
+mods/data/sudden-death/sudden-death-hard.json
+mods/Final lesson/stages/vol.json
+mods/Final lesson/stages/vol.lua
+mods/songs/sudden-death/Voices.ogg
+mods/songs/sudden-death/voices.ogg
+mods/songs/sudden-death/Inst.ogg
+mods/songs/sudden-death/inst.ogg

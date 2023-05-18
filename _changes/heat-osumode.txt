@@ -1,0 +1,13 @@
+mods/data/heat/CreditsSong.lua
+mods/data/heat/heat-easy.json
+mods/data/heat/heat-hard.json
+mods/data/heat/heat.json
+mods/data/heat/heatscri.lua
+mods/data/heat/mod.txt
+mods/Wiik 1000/stages/matttrain.json
+mods/Wiik 1000/stages/matttrain.lua
+mods/Wiik 1000/scripts/CreditsScript.lua
+mods/songs/heat/Voices.ogg
+mods/songs/heat/voices.ogg
+mods/songs/heat/Inst.ogg
+mods/songs/heat/inst.ogg

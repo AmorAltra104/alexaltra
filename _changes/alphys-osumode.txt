@@ -1,0 +1,6 @@
+mods/data/alphys/alphys.json
+mods/data/alphys/timeBarScript.lua
+mods/songs/alphys/Voices.ogg
+mods/songs/alphys/voices.ogg
+mods/songs/alphys/Inst.ogg
+mods/songs/alphys/inst.ogg

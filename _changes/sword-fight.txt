@@ -1,0 +1,32 @@
+mods/data/sword-fight/events.json
+mods/data/sword-fight/Golden.lua
+mods/data/sword-fight/healthdrain.lua
+mods/data/sword-fight/mod.txt
+mods/data/sword-fight/script.lua
+mods/data/sword-fight/Script1.lua
+mods/data/sword-fight/script2.lua
+mods/data/sword-fight/Script3.lua
+mods/data/sword-fight/sword-fight-hard.json
+mods/data/sword-fight/tabiHealthBar.lua
+mods/Matt Pursuit/characters/wiik4bf.json
+mods/Matt Pursuit/characters/corrupted.json
+mods/Matt Pursuit/stages/corrupted.json
+mods/Matt Pursuit/stages/corrupted.lua
+mods/Matt Pursuit/images/characters/wiik4bf.png
+mods/Matt Pursuit/images/characters/wiik4bf.xml
+mods/Matt Pursuit/images/characters/sword fight boss.png
+mods/Matt Pursuit/images/characters/sword fight boss.xml
+mods/Matt Pursuit/custom_notetypes/Danger Notes.lua
+mods/Matt Pursuit/custom_events/lyricsOpponent.lua
+mods/Matt Pursuit/custom_events/Toggle Trail.lua
+mods/Matt Pursuit/custom_events/badapplelol.lua
+mods/Matt Pursuit/custom_events/Cinematics.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/Matt Pursuit/images/SkyCorrupted.png
+mods/Matt Pursuit/images/BuildingsCorrupted.png
+mods/Matt Pursuit/images/GroundCorrupted.png
+mods/Matt Pursuit/images/FloorCorrupted.png
+mods/Matt Pursuit/images/DANGERNOTE_assets.png
+mods/Matt Pursuit/images/DANGERNOTE_assets.xml
+mods/songs/sword-fight/Inst.ogg
+mods/songs/sword-fight/inst.ogg

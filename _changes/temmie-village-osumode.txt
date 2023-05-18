@@ -1,0 +1,6 @@
+mods/data/temmie-village/temmie-village.json
+mods/data/temmie-village/timeBarScript.lua
+mods/songs/temmie-village/Voices.ogg
+mods/songs/temmie-village/voices.ogg
+mods/songs/temmie-village/Inst.ogg
+mods/songs/temmie-village/inst.ogg

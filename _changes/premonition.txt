@@ -1,0 +1,6 @@
+mods/data/premonition/premonition.json
+mods/data/premonition/timeBarScript.lua
+mods/songs/premonition/Voices.ogg
+mods/songs/premonition/voices.ogg
+mods/songs/premonition/Inst.ogg
+mods/songs/premonition/inst.ogg

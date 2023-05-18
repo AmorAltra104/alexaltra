@@ -1,0 +1,36 @@
+mods/data/cosmic-truth/BfYscript.lua
+mods/data/cosmic-truth/cosmic-truth-hard.json
+mods/data/cosmic-truth/cosmic-truth.json
+mods/data/cosmic-truth/mod.txt
+mods/data/cosmic-truth/script 2.lua
+mods/Matta/characters/BOYFRIENDMIIS.json
+mods/Matta/characters/shaggy-y.json
+mods/Matta/characters/mattangry-y.json
+mods/Matta/stages/space.json
+mods/Matta/stages/space.lua
+mods/Matta/images/characters/BOYFRIENDMII.png
+mods/Matta/images/characters/BOYFRIENDMII.xml
+mods/Matta/images/characters/yellow-shaggy.png
+mods/Matta/images/characters/yellow-shaggy.xml
+mods/Matta/images/characters/mattangry-y.png
+mods/Matta/images/characters/mattangry-y.xml
+mods/Matta/custom_notetypes/BfY.lua
+mods/Matta/custom_events/Cinematics (UnderLap).lua
+mods/Matta/scripts/coolfunkycredits.lua
+mods/Matta/scripts/coolfunkycredits10.lua
+mods/Matta/scripts/coolfunkycredits11.lua
+mods/Matta/scripts/coolfunkycredits12.lua
+mods/Matta/scripts/coolfunkycredits2.lua
+mods/Matta/scripts/coolfunkycredits3.lua
+mods/Matta/scripts/coolfunkycredits4.lua
+mods/Matta/scripts/coolfunkycredits5.lua
+mods/Matta/scripts/coolfunkycredits6.lua
+mods/Matta/scripts/coolfunkycredits7.lua
+mods/Matta/scripts/coolfunkycredits8.lua
+mods/Matta/scripts/coolfunkycredits9.lua
+mods/Matta/scripts/IconTween.lua
+mods/Matta/images/space/bg_boxn.png
+mods/songs/cosmic-truth/Voices.ogg
+mods/songs/cosmic-truth/voices.ogg
+mods/songs/cosmic-truth/Inst.ogg
+mods/songs/cosmic-truth/inst.ogg

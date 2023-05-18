@@ -1,0 +1,21 @@
+mods/data/sussus-toogus/credit.lua
+mods/data/sussus-toogus/eve.lua
+mods/data/sussus-toogus/events.json
+mods/data/sussus-toogus/midAnim.lua
+mods/data/sussus-toogus/mod.txt
+mods/data/sussus-toogus/sussus-toogus-hard.json
+mods/data/sussus-toogus/toogus.lua
+mods/data/sussus-toogus/video.lua
+mods/Vs Impostor/stages/toogus.json
+mods/Vs Impostor/stages/toogus.lua
+mods/Vs Impostor/custom_events/Toogus Sax.lua
+mods/Vs Impostor/custom_events/HUD Fade.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/sussus-toogus/Voices.ogg
+mods/songs/sussus-toogus/voices.ogg
+mods/songs/sussus-toogus/Inst.ogg
+mods/songs/sussus-toogus/inst.ogg

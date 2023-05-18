@@ -1,0 +1,7 @@
+mods/data/danger-h/danger-h.json
+mods/data/danger-h/mod.txt
+mods/data/danger-h/script.lua
+mods/songs/danger-h/Voices.ogg
+mods/songs/danger-h/voices.ogg
+mods/songs/danger-h/Inst.ogg
+mods/songs/danger-h/inst.ogg

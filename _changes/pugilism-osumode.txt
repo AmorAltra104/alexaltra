@@ -1,0 +1,6 @@
+mods/data/pugilism/mod.txt
+mods/data/pugilism/pugilism-hard.json
+mods/Final lesson/stages/matt3.json
+mods/Final lesson/stages/matt3.lua
+mods/songs/pugilism/Inst.ogg
+mods/songs/pugilism/inst.ogg

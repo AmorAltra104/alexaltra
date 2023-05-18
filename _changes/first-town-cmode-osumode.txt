@@ -1,0 +1,29 @@
+mods/data/first-town-cmode/camellia die.lua
+mods/data/first-town-cmode/first-town-cmode-hard.json
+mods/data/first-town-cmode/first-town-cmode-mania-c.json
+mods/data/first-town-cmode/first-town-cmode-modchart.json
+mods/data/first-town-cmode/first-town-cmode.json
+mods/data/first-town-cmode/mod.txt
+mods/data/first-town-cmode/script.lua
+mods/Camellia/stages/stage1-c.json
+mods/Camellia/stages/stage1-c.lua
+mods/Camellia/stages/stage1.1-c.json
+mods/Camellia/stages/stage1.1-c.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/fonts/font.ttf
+mods/Camellia/fonts/2.ttf
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/songs/first-town-cmode/Voices.ogg
+mods/songs/first-town-cmode/voices.ogg
+mods/songs/first-town-cmode/Inst.ogg
+mods/songs/first-town-cmode/inst.ogg

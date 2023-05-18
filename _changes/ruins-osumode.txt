@@ -1,0 +1,6 @@
+mods/data/ruins/ruins.json
+mods/data/ruins/timeBarScript.lua
+mods/songs/ruins/Voices.ogg
+mods/songs/ruins/voices.ogg
+mods/songs/ruins/Inst.ogg
+mods/songs/ruins/inst.ogg

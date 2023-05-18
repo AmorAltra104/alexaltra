@@ -1,0 +1,46 @@
+mods/data/boxing-match-bruh/boxing-match-bruh-hard.json
+mods/data/boxing-match-bruh/mod.txt
+mods/JJTurbo/characters/bfmii.json
+mods/JJTurbo/characters/Blue_Matt.json
+mods/JJTurbo/characters/gf.json
+mods/JJTurbo/stages/kuhutownbased.json
+mods/JJTurbo/stages/kuhutownbased.lua
+mods/JJTurbo/images/characters/BOYFRIENDMII.png
+mods/JJTurbo/images/characters/BOYFRIENDMII.xml
+mods/JJTurbo/images/characters/Blue_Matt.png
+mods/JJTurbo/images/characters/Blue_Matt.xml
+mods/JJTurbo/images/characters/GF_assets.png
+mods/JJTurbo/images/characters/GF_assets.xml
+mods/JJTurbo/characters/Blue_matt.json
+mods/JJTurbo/characters/boxbf.json
+mods/JJTurbo/images/characters/bfbox.png
+mods/JJTurbo/images/characters/bfbox.xml
+mods/JJTurbo/characters/floofgfv2.json
+mods/JJTurbo/images/characters/FloofGFv2.png
+mods/JJTurbo/images/characters/FloofGFv2.xml
+mods/JJTurbo/custom_notetypes/Boxing Note Hit 0.9.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit 1.1.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit.lua
+mods/JJTurbo/custom_notetypes/Punch.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit Bruv.lua
+mods/JJTurbo/custom_events/Cinematics (OverLap).lua
+mods/JJTurbo/custom_events/chartthing.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/MoveArrowsToMiddle.lua
+mods/JJTurbo/custom_events/Camera bounce.lua
+mods/JJTurbo/custom_events/stage test.lua
+mods/JJTurbo/custom_events/lyrics.lua
+mods/JJTurbo/custom_events/Camera Flash.lua
+mods/JJTurbo/custom_events/Smooth cam zoom.lua
+mods/JJTurbo/custom_events/Black.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/sky.png
+mods/JJTurbo/images/bridge.png
+mods/JJTurbo/images/mountain.png
+mods/JJTurbo/images/street.png
+mods/JJTurbo/images/black thing.png
+mods/songs/boxing-match-bruh/Voices.ogg
+mods/songs/boxing-match-bruh/voices.ogg
+mods/songs/boxing-match-bruh/Inst.ogg
+mods/songs/boxing-match-bruh/inst.ogg

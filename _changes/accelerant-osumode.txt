@@ -1,0 +1,24 @@
+mods/data/accelerant/accelerant-hard.json
+mods/data/accelerant/mod.txt
+mods/WI/stages/jankacStage.json
+mods/WI/stages/jankacStage.lua
+mods/WI/custom_notetypes/Jeringe Note.lua
+mods/WI/scripts/cameraMovement.lua
+mods/WI/scripts/camShake.lua
+mods/WI/scripts/camZoom.lua
+mods/WI/scripts/changeGameOver.lua
+mods/WI/scripts/cinematic.lua
+mods/WI/scripts/countDownEffect.lua
+mods/WI/scripts/cutscenes.lua
+mods/WI/scripts/endMickeyAnimations.lua
+mods/WI/scripts/extraCharacter.lua
+mods/WI/scripts/healthDrain.lua
+mods/WI/scripts/mickeyHud.lua
+mods/WI/scripts/oldEffect.lua
+mods/WI/scripts/screenBeat.lua
+mods/WI/scripts/songTransitions.lua
+mods/WI/fonts/MilkyNice.ttf
+mods/songs/accelerant/Voices.ogg
+mods/songs/accelerant/voices.ogg
+mods/songs/accelerant/Inst.ogg
+mods/songs/accelerant/inst.ogg

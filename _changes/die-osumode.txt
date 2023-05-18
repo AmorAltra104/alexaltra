@@ -1,0 +1,7 @@
+mods/data/die/die.json
+mods/data/die/script.lua
+mods/data/die/timeBarScript.lua
+mods/songs/die/Voices.ogg
+mods/songs/die/voices.ogg
+mods/songs/die/Inst.ogg
+mods/songs/die/inst.ogg

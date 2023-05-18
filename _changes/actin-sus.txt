@@ -1,0 +1,26 @@
+mods/data/actin-sus/actin-sus-hard.json
+mods/data/actin-sus/credit.lua
+mods/data/actin-sus/keda ui.lua
+mods/data/actin-sus/mod.txt
+mods/Vs Impostor/characters/susfriend.json
+mods/Vs Impostor/characters/oldpostor.json
+mods/Vs Impostor/characters/oldgf.json
+mods/Vs Impostor/stages/alpha.json
+mods/Vs Impostor/stages/alpha.lua
+mods/Vs Impostor/images/characters/susfriend.png
+mods/Vs Impostor/images/characters/susfriend.xml
+mods/Vs Impostor/images/characters/oldpostor.png
+mods/Vs Impostor/images/characters/oldpostor.xml
+mods/Vs Impostor/images/characters/oldgf.png
+mods/Vs Impostor/images/characters/oldgf.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/HOTASS.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/actin-sus/Voices.ogg
+mods/songs/actin-sus/voices.ogg
+mods/songs/actin-sus/Inst.ogg
+mods/songs/actin-sus/inst.ogg

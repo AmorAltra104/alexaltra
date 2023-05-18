@@ -1,0 +1,31 @@
+mods/data/devils-gambit/AnimatedIconScript BF.lua
+mods/data/devils-gambit/AnimatedIconScript.lua
+mods/data/devils-gambit/cuphead jumpscare.lua
+mods/data/devils-gambit/devils-gambit-devilish.json
+mods/data/devils-gambit/devils-gambit-normal.json
+mods/data/devils-gambit/disparo1.lua
+mods/data/devils-gambit/disparo2.lua
+mods/data/devils-gambit/events.json
+mods/data/devils-gambit/hadoken.lua
+mods/data/devils-gambit/healthbar.lua
+mods/data/devils-gambit/mod.txt
+mods/data/devils-gambit/no.lua
+mods/data/devils-gambit/script.lua
+mods/data/devils-gambit/skip countdown.lua
+mods/IC/stages/CupheadN.json
+mods/IC/stages/CupheadN.lua
+mods/IC/custom_notetypes/Parry_Note.lua
+mods/IC/custom_notetypes/fire_head.lua
+mods/IC/custom_events/CamaraZoom.lua
+mods/IC/scripts/charDance.lua
+mods/IC/scripts/Debug_Keys.lua
+mods/IC/scripts/heltxd.lua
+mods/IC/scripts/Kade.lua
+mods/IC/scripts/Splash.lua
+mods/IC/sounds/parry.ogg
+mods/IC/sounds/burnSound.ogg
+mods/IC/fonts/cumhead.otf
+mods/songs/devils-gambit/Voices.ogg
+mods/songs/devils-gambit/voices.ogg
+mods/songs/devils-gambit/Inst.ogg
+mods/songs/devils-gambit/inst.ogg

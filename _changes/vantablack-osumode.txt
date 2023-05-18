@@ -1,0 +1,8 @@
+mods/data/vantablack/characterInWindow.lua
+mods/data/vantablack/timeBarScript.lua
+mods/data/vantablack/vantablack.json
+mods/data/vantablack/windowUtils.lua
+mods/songs/vantablack/Voices.ogg
+mods/songs/vantablack/voices.ogg
+mods/songs/vantablack/Inst.ogg
+mods/songs/vantablack/inst.ogg

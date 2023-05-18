@@ -1,0 +1,15 @@
+mods/data/who/credit.lua
+mods/data/who/events.json
+mods/data/who/mod.txt
+mods/data/who/who-hard.json
+mods/Vs Impostor/stages/who.json
+mods/Vs Impostor/stages/who.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/who/Voices.ogg
+mods/songs/who/voices.ogg
+mods/songs/who/Inst.ogg
+mods/songs/who/inst.ogg

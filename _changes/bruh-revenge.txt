@@ -1,0 +1,43 @@
+mods/data/bruh-revenge/bruh-revenge-hard.json
+mods/data/bruh-revenge/bruh-revenge.json
+mods/data/bruh-revenge/events.json
+mods/data/bruh-revenge/mod.txt
+mods/data/bruh-revenge/script 2.lua
+mods/Matta/characters/BOYFRIENDMII.json
+mods/Matta/characters/matt.json
+mods/Matta/characters/gfmii.json
+mods/Matta/stages/boxma.json
+mods/Matta/stages/boxma.lua
+mods/Matta/images/characters/BOYFRIENDMII.png
+mods/Matta/images/characters/BOYFRIENDMII.xml
+mods/Matta/images/characters/matt.png
+mods/Matta/images/characters/matt.xml
+mods/Matta/images/characters/GF_MII_assets.png
+mods/Matta/images/characters/GF_MII_assets.xml
+mods/Matta/custom_notetypes/Punch Note2.lua
+mods/Matta/custom_notetypes/Punch Note3.lua
+mods/Matta/custom_events/Toggle Trail2.lua
+mods/Matta/custom_events/Flashes Camera.lua
+mods/Matta/scripts/coolfunkycredits.lua
+mods/Matta/scripts/coolfunkycredits10.lua
+mods/Matta/scripts/coolfunkycredits11.lua
+mods/Matta/scripts/coolfunkycredits12.lua
+mods/Matta/scripts/coolfunkycredits2.lua
+mods/Matta/scripts/coolfunkycredits3.lua
+mods/Matta/scripts/coolfunkycredits4.lua
+mods/Matta/scripts/coolfunkycredits5.lua
+mods/Matta/scripts/coolfunkycredits6.lua
+mods/Matta/scripts/coolfunkycredits7.lua
+mods/Matta/scripts/coolfunkycredits8.lua
+mods/Matta/scripts/coolfunkycredits9.lua
+mods/Matta/scripts/IconTween.lua
+mods/Matta/images/boxma/bg_boxn.png
+mods/Matta/images/boxma/bg_boxr.png
+mods/Matta/images/Punch Note2.png
+mods/Matta/images/Punch Note2.xml
+mods/Matta/images/Punch Note3.png
+mods/Matta/images/Punch Note3.xml
+mods/songs/bruh-revenge/Voices.ogg
+mods/songs/bruh-revenge/voices.ogg
+mods/songs/bruh-revenge/Inst.ogg
+mods/songs/bruh-revenge/inst.ogg

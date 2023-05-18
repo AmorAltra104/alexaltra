@@ -1,0 +1,28 @@
+mods/data/bad-time/bad-time-genocidal.json
+mods/data/bad-time/bad-time-hard.json
+mods/data/bad-time/bad-time.json
+mods/data/bad-time/DodgeSans.lua
+mods/data/bad-time/healthbarsans.lua
+mods/data/bad-time/lelleelle.lua
+mods/data/bad-time/mod.txt
+mods/data/bad-time/no.lua
+mods/data/bad-time/no2.lua
+mods/data/bad-time/sans jumpscare.lua
+mods/data/bad-time/script.lua
+mods/data/bad-time/sus.lua
+mods/data/bad-time/timeBarScript.lua
+mods/IC/stages/sansN.json
+mods/IC/stages/sansN.lua
+mods/IC/custom_notetypes/Orange Bone Note.lua
+mods/IC/custom_notetypes/Blue Bone Note.lua
+mods/IC/custom_events/CamaraZoom.lua
+mods/IC/scripts/charDance.lua
+mods/IC/scripts/Debug_Keys.lua
+mods/IC/scripts/heltxd.lua
+mods/IC/scripts/Kade.lua
+mods/IC/scripts/Splash.lua
+mods/IC/fonts/cumhead.otf
+mods/songs/bad-time/Voices.ogg
+mods/songs/bad-time/voices.ogg
+mods/songs/bad-time/Inst.ogg
+mods/songs/bad-time/inst.ogg

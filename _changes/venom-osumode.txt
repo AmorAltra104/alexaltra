@@ -1,0 +1,12 @@
+mods/data/venom/mod.txt
+mods/data/venom/venom-hard.json
+mods/JJTurbo/stages/voiidmatt2.json
+mods/JJTurbo/stages/voiidmatt2.lua
+mods/JJTurbo/custom_notetypes/Bullet Note.lua
+mods/JJTurbo/custom_notetypes/Boxing Note NO ANIM.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/venom/Voices.ogg
+mods/songs/venom/voices.ogg
+mods/songs/venom/Inst.ogg
+mods/songs/venom/inst.ogg

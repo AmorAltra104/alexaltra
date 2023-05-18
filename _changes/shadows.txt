@@ -1,0 +1,5 @@
+mods/data/shadows/mod.txt
+mods/songs/shadows/Voices.ogg
+mods/songs/shadows/voices.ogg
+mods/songs/shadows/Inst.ogg
+mods/songs/shadows/inst.ogg

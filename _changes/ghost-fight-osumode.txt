@@ -1,0 +1,6 @@
+mods/data/ghost-fight/ghost-fight.json
+mods/data/ghost-fight/timeBarScript.lua
+mods/songs/ghost-fight/Voices.ogg
+mods/songs/ghost-fight/voices.ogg
+mods/songs/ghost-fight/Inst.ogg
+mods/songs/ghost-fight/inst.ogg

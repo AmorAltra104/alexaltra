@@ -1,0 +1,8 @@
+mods/data/nevermore/mod.txt
+mods/data/nevermore/nevermore.json
+mods/Filippo/stages/OldRoot.json
+mods/Filippo/stages/OldRoot.lua
+mods/songs/nevermore/Voices.ogg
+mods/songs/nevermore/voices.ogg
+mods/songs/nevermore/Inst.ogg
+mods/songs/nevermore/inst.ogg

@@ -1,0 +1,26 @@
+mods/data/drippypop/credit.lua
+mods/data/drippypop/drippypop-hard.json
+mods/data/drippypop/events.json
+mods/data/drippypop/mod.txt
+mods/Vs Impostor/characters/dripbf.json
+mods/Vs Impostor/characters/drippypop.json
+mods/Vs Impostor/characters/drippico.json
+mods/Vs Impostor/stages/drippypop.json
+mods/Vs Impostor/stages/drippypop.lua
+mods/Vs Impostor/images/characters/DrippyBF.png
+mods/Vs Impostor/images/characters/DrippyBF.xml
+mods/Vs Impostor/images/characters/drippy.png
+mods/Vs Impostor/images/characters/drippy.xml
+mods/Vs Impostor/images/characters/drippico.png
+mods/Vs Impostor/images/characters/drippico.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/images/drip/ng.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/drippypop/Voices.ogg
+mods/songs/drippypop/voices.ogg
+mods/songs/drippypop/Inst.ogg
+mods/songs/drippypop/inst.ogg

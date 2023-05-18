@@ -1,0 +1,46 @@
+mods/data/pretender/credit.lua
+mods/data/pretender/mod.txt
+mods/data/pretender/pretender-hard.json
+mods/Vs Impostor/characters/pretender.json
+mods/Vs Impostor/characters/grey.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/pretender.json
+mods/Vs Impostor/stages/pretender.lua
+mods/Vs Impostor/images/characters/pretender.png
+mods/Vs Impostor/images/characters/pretender.xml
+mods/Vs Impostor/images/characters/grey.png
+mods/Vs Impostor/images/characters/grey.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/pretender/bg sky.png
+mods/Vs Impostor/images/bg/pretender/cloud fathest.png
+mods/Vs Impostor/images/bg/pretender/cloud front.png
+mods/Vs Impostor/images/bg/pretender/cloud 1.png
+mods/Vs Impostor/images/bg/pretender/cloud 2.png
+mods/Vs Impostor/images/bg/pretender/cloud 3.png
+mods/Vs Impostor/images/bg/pretender/cloud 4.png
+mods/Vs Impostor/images/bg/pretender/bigcloud.png
+mods/Vs Impostor/images/bg/pretender/ground.png
+mods/Vs Impostor/images/bg/pretender/front plant.png
+mods/Vs Impostor/images/bg/pretender/knocked over plant.png
+mods/Vs Impostor/images/bg/pretender/knocked over plant 2.png
+mods/Vs Impostor/images/bg/pretender/tomatodead.png
+mods/Vs Impostor/images/bg/pretender/gf_dead_p.png
+mods/Vs Impostor/images/bg/pretender/gf_dead_p.xml
+mods/Vs Impostor/images/bg/pretender/ripbozo.png
+mods/Vs Impostor/images/bg/pretender/rhm dead.png
+mods/Vs Impostor/images/bg/pretender/blued.png
+mods/Vs Impostor/images/bg/pretender/blued.xml
+mods/Vs Impostor/images/bg/pretender/front pot.png
+mods/Vs Impostor/images/bg/pretender/green.png
+mods/Vs Impostor/images/bg/pretender/lightingpretender.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/pretender/Voices.ogg
+mods/songs/pretender/voices.ogg
+mods/songs/pretender/Inst.ogg
+mods/songs/pretender/inst.ogg

@@ -1,0 +1,4 @@
+mods/data/song-menu/awards.lua
+mods/data/song-menu/script.lua
+mods/data/song-menu/song-menu-no-mechanics.json
+mods/data/song-menu/song-menu.json

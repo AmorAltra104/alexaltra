@@ -1,0 +1,25 @@
+mods/data/boxing-match-bruh/boxing-match-bruh-hard.json
+mods/data/boxing-match-bruh/mod.txt
+mods/JJTurbo/stages/kuhutownbased.json
+mods/JJTurbo/stages/kuhutownbased.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit 0.9.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit 1.1.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit.lua
+mods/JJTurbo/custom_notetypes/Punch.lua
+mods/JJTurbo/custom_notetypes/Boxing Note Hit Bruv.lua
+mods/JJTurbo/custom_events/Cinematics (OverLap).lua
+mods/JJTurbo/custom_events/chartthing.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/MoveArrowsToMiddle.lua
+mods/JJTurbo/custom_events/Camera bounce.lua
+mods/JJTurbo/custom_events/stage test.lua
+mods/JJTurbo/custom_events/lyrics.lua
+mods/JJTurbo/custom_events/Camera Flash.lua
+mods/JJTurbo/custom_events/Smooth cam zoom.lua
+mods/JJTurbo/custom_events/Black.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/boxing-match-bruh/Voices.ogg
+mods/songs/boxing-match-bruh/voices.ogg
+mods/songs/boxing-match-bruh/Inst.ogg
+mods/songs/boxing-match-bruh/inst.ogg

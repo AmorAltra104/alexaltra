@@ -1,0 +1,6 @@
+mods/data/start-menu/start-menu.json
+mods/data/start-menu/timeBarScript.lua
+mods/songs/start-menu/Voices.ogg
+mods/songs/start-menu/voices.ogg
+mods/songs/start-menu/Inst.ogg
+mods/songs/start-menu/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/your-best-nightmare/timeBarScript.lua
+mods/data/your-best-nightmare/your-best-nightmare.json
+mods/songs/your-best-nightmare/Voices.ogg
+mods/songs/your-best-nightmare/voices.ogg
+mods/songs/your-best-nightmare/Inst.ogg
+mods/songs/your-best-nightmare/inst.ogg

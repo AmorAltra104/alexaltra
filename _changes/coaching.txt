@@ -1,0 +1,25 @@
+mods/data/coaching/coaching.json
+mods/data/coaching/events.json
+mods/data/coaching/mod.txt
+mods/normalmods/characters/mattblue.json
+mods/normalmods/characters/gf.json
+mods/normalmods/stages/Arena.json
+mods/normalmods/stages/Arena.lua
+mods/normalmods/images/characters/mattblue.png
+mods/normalmods/images/characters/mattblue.xml
+mods/normalmods/custom_notetypes/Bell Note.lua
+mods/normalmods/custom_events/punch warn fade.lua
+mods/normalmods/custom_events/camera bounce.lua
+mods/normalmods/images/back.png
+mods/normalmods/images/arena-characters.png
+mods/normalmods/images/arena-characters.xml
+mods/normalmods/images/lights.png
+mods/normalmods/images/arena.png
+mods/normalmods/images/Bell Note.png
+mods/normalmods/images/Bell Note.xml
+mods/normalmods/sounds/cancelMenu.ogg
+mods/normalmods/sounds/bell.ogg
+mods/songs/coaching/Voices.ogg
+mods/songs/coaching/voices.ogg
+mods/songs/coaching/Inst.ogg
+mods/songs/coaching/inst.ogg

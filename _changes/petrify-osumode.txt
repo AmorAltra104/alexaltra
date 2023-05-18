@@ -1,0 +1,8 @@
+mods/data/petrify/mod.txt
+mods/data/petrify/petrify.json
+mods/Filippo/stages/OldRoot.json
+mods/Filippo/stages/OldRoot.lua
+mods/songs/petrify/Voices.ogg
+mods/songs/petrify/voices.ogg
+mods/songs/petrify/Inst.ogg
+mods/songs/petrify/inst.ogg

@@ -1,0 +1,16 @@
+mods/data/mando/credit.lua
+mods/data/mando/HideSong.lua
+mods/data/mando/mando-hard.json
+mods/data/mando/mod.txt
+mods/data/mando/Video.lua
+mods/Vs Impostor/stages/airshipRoom.json
+mods/Vs Impostor/stages/airshipRoom.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/mando/Voices.ogg
+mods/songs/mando/voices.ogg
+mods/songs/mando/Inst.ogg
+mods/songs/mando/inst.ogg

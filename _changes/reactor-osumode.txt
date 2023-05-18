@@ -1,0 +1,16 @@
+mods/data/reactor/credit.lua
+mods/data/reactor/events.json
+mods/data/reactor/mod.txt
+mods/data/reactor/reactor-hard.json
+mods/Vs Impostor/stages/reactor2.json
+mods/Vs Impostor/stages/reactor2.lua
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/reactor/Voices.ogg
+mods/songs/reactor/voices.ogg
+mods/songs/reactor/Inst.ogg
+mods/songs/reactor/inst.ogg

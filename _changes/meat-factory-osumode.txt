@@ -1,0 +1,6 @@
+mods/data/meat-factory/meat-factory.json
+mods/data/meat-factory/script.lua
+mods/songs/meat-factory/Voices.ogg
+mods/songs/meat-factory/voices.ogg
+mods/songs/meat-factory/Inst.ogg
+mods/songs/meat-factory/inst.ogg

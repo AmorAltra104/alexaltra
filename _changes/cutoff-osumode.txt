@@ -1,0 +1,9 @@
+mods/data/cutoff/cutoff.json
+mods/data/cutoff/mod.txt
+mods/Filippo/stages/epic.json
+mods/Filippo/stages/epic.lua
+mods/Filippo/custom_notetypes/Shifter.lua
+mods/songs/cutoff/Voices.ogg
+mods/songs/cutoff/voices.ogg
+mods/songs/cutoff/Inst.ogg
+mods/songs/cutoff/inst.ogg

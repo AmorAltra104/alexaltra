@@ -1,0 +1,10 @@
+mods/data/ambition/ambition-hard.json
+mods/data/ambition/mod.txt
+mods/JJTurbo/stages/sword-arena.json
+mods/JJTurbo/stages/sword-arena.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/ambition/Voices.ogg
+mods/songs/ambition/voices.ogg
+mods/songs/ambition/Inst.ogg
+mods/songs/ambition/inst.ogg

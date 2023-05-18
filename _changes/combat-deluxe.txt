@@ -1,0 +1,18 @@
+mods/data/combat-deluxe/combat-deluxe-hard.json
+mods/data/combat-deluxe/mod.txt
+mods/Matt/stages/Volcano.json
+mods/Matt/stages/Volcano.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/images/wiik6/1.png
+mods/Matt/images/wiik6/2.png
+mods/Matt/images/wiik6/3.png
+mods/Matt/images/wiik6/4.png
+mods/Matt/images/wiik6/5.png
+mods/songs/combat-deluxe/Voices.ogg
+mods/songs/combat-deluxe/voices.ogg
+mods/songs/combat-deluxe/Inst.ogg
+mods/songs/combat-deluxe/inst.ogg

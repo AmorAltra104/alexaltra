@@ -1,0 +1,14 @@
+mods/data/mattgalo/CreditsSong.lua
+mods/data/mattgalo/events.json
+mods/data/mattgalo/mattgalo-easy.json
+mods/data/mattgalo/mattgalo-hard.json
+mods/data/mattgalo/mattgalo.json
+mods/data/mattgalo/mod.txt
+mods/data/mattgalo/soolcwag.lua
+mods/Wiik 1000/stages/halls.json
+mods/Wiik 1000/stages/halls.lua
+mods/Wiik 1000/scripts/CreditsScript.lua
+mods/songs/mattgalo/Voices.ogg
+mods/songs/mattgalo/voices.ogg
+mods/songs/mattgalo/Inst.ogg
+mods/songs/mattgalo/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/shootout/mod.txt
+mods/data/shootout/script.lua
+mods/data/shootout/shootout.json
+mods/Filippo/stages/desert.json
+mods/Filippo/stages/desert.lua
+mods/songs/shootout/Voices.ogg
+mods/songs/shootout/voices.ogg
+mods/songs/shootout/Inst.ogg
+mods/songs/shootout/inst.ogg

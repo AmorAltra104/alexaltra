@@ -1,0 +1,17 @@
+mods/data/excluded/excluded.json
+mods/data/excluded/mod.txt
+mods/Filippo/characters/bf_.json
+mods/Filippo/characters/brin.json
+mods/Filippo/characters/gf.json
+mods/Filippo/stages/nothing.json
+mods/Filippo/stages/nothing.lua
+mods/Filippo/images/characters/bf_steve.png
+mods/Filippo/images/characters/bf_steve.xml
+mods/Filippo/images/characters/Brin_Normal.png
+mods/Filippo/images/characters/Brin_Normal.xml
+mods/Filippo/images/characters/GF_assets.png
+mods/Filippo/images/characters/GF_assets.xml
+mods/songs/excluded/Voices.ogg
+mods/songs/excluded/voices.ogg
+mods/songs/excluded/Inst.ogg
+mods/songs/excluded/inst.ogg

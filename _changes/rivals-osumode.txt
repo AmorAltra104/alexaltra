@@ -1,0 +1,16 @@
+mods/data/rivals/credit.lua
+mods/data/rivals/events.json
+mods/data/rivals/mod.txt
+mods/data/rivals/rivals-hard.json
+mods/Vs Impostor/stages/what.json
+mods/Vs Impostor/stages/what.lua
+mods/Vs Impostor/custom_events/flash.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/rivals/Voices.ogg
+mods/songs/rivals/voices.ogg
+mods/songs/rivals/Inst.ogg
+mods/songs/rivals/inst.ogg

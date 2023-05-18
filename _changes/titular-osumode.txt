@@ -1,0 +1,15 @@
+mods/data/titular/chooser.lua
+mods/data/titular/credit.lua
+mods/data/titular/mod.txt
+mods/data/titular/titular-hard.json
+mods/Vs Impostor/stages/henry.json
+mods/Vs Impostor/stages/henry.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/titular/Voices.ogg
+mods/songs/titular/voices.ogg
+mods/songs/titular/Inst.ogg
+mods/songs/titular/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/rival/mod.txt
+mods/data/rival/rival-hard.json
+mods/data/rival/Script.lua
+mods/data/rival/Script1.lua
+mods/Matt Pursuit/stages/courtday.json
+mods/Matt Pursuit/stages/courtday.lua
+mods/Matt Pursuit/custom_events/health_drain.lua
+mods/Matt Pursuit/scripts/Golden.lua
+mods/songs/rival/Voices.ogg
+mods/songs/rival/voices.ogg
+mods/songs/rival/Inst.ogg
+mods/songs/rival/inst.ogg

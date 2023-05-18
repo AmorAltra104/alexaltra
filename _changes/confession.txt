@@ -1,0 +1,6 @@
+mods/data/confession/confession.json
+mods/data/confession/timeBarScript.lua
+mods/songs/confession/Voices.ogg
+mods/songs/confession/voices.ogg
+mods/songs/confession/Inst.ogg
+mods/songs/confession/inst.ogg

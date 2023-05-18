@@ -1,0 +1,27 @@
+mods/data/reinforcements/credit.lua
+mods/data/reinforcements/endAnim.lua
+mods/data/reinforcements/events.json
+mods/data/reinforcements/grayscript.lua
+mods/data/reinforcements/midAnim.lua
+mods/data/reinforcements/mod.txt
+mods/data/reinforcements/reinforcements-hard.json
+mods/Vs Impostor/characters/henry.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/henry.json
+mods/Vs Impostor/stages/henry.lua
+mods/Vs Impostor/images/characters/HENRY_ASSS.png
+mods/Vs Impostor/images/characters/HENRY_ASSS.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/custom_notetypes/Opponent 2 Sing.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/stagehenry.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/reinforcements/Voices.ogg
+mods/songs/reinforcements/voices.ogg
+mods/songs/reinforcements/Inst.ogg
+mods/songs/reinforcements/inst.ogg

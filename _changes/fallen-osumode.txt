@@ -1,0 +1,8 @@
+mods/data/fallen/fallen.json
+mods/data/fallen/mod.txt
+mods/Filippo/stages/void.json
+mods/Filippo/stages/void.lua
+mods/songs/fallen/Voices.ogg
+mods/songs/fallen/voices.ogg
+mods/songs/fallen/Inst.ogg
+mods/songs/fallen/inst.ogg

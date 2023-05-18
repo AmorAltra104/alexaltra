@@ -1,0 +1,25 @@
+mods/data/insane-streamer/credit.lua
+mods/data/insane-streamer/insane-streamer-hard.json
+mods/data/insane-streamer/mod.txt
+mods/Vs Impostor/characters/bf.json
+mods/Vs Impostor/characters/jerma.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/jerma.json
+mods/Vs Impostor/stages/jerma.lua
+mods/Vs Impostor/images/characters/BOYFRIEND.png
+mods/Vs Impostor/images/characters/BOYFRIEND.xml
+mods/Vs Impostor/images/characters/Jerma.png
+mods/Vs Impostor/images/characters/Jerma.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/jerma.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/insane-streamer/Voices.ogg
+mods/songs/insane-streamer/voices.ogg
+mods/songs/insane-streamer/Inst.ogg
+mods/songs/insane-streamer/inst.ogg

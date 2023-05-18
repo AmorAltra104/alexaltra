@@ -1,0 +1,6 @@
+mods/data/another-medium/another-medium.json
+mods/data/another-medium/timeBarScript.lua
+mods/songs/another-medium/Voices.ogg
+mods/songs/another-medium/voices.ogg
+mods/songs/another-medium/Inst.ogg
+mods/songs/another-medium/inst.ogg

@@ -1,0 +1,35 @@
+mods/data/reactor/credit.lua
+mods/data/reactor/events.json
+mods/data/reactor/mod.txt
+mods/data/reactor/reactor-hard.json
+mods/Vs Impostor/characters/bfr.json
+mods/Vs Impostor/characters/impostorr.json
+mods/Vs Impostor/characters/gfr.json
+mods/Vs Impostor/stages/reactor2.json
+mods/Vs Impostor/stages/reactor2.lua
+mods/Vs Impostor/images/characters/bfr.png
+mods/Vs Impostor/images/characters/bfr.xml
+mods/Vs Impostor/images/characters/impostorr.png
+mods/Vs Impostor/images/characters/impostorr.xml
+mods/Vs Impostor/images/characters/gf_reactor.png
+mods/Vs Impostor/images/characters/gf_reactor.xml
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/green/3/wallbgthing.png
+mods/Vs Impostor/images/bg/green/3/floornew.png
+mods/Vs Impostor/images/bg/green/3/yellowcoti.png
+mods/Vs Impostor/images/bg/green/3/yellowcoti.xml
+mods/Vs Impostor/images/bg/green/3/backbars.png
+mods/Vs Impostor/images/bg/green/3/browngeoff.png
+mods/Vs Impostor/images/bg/green/3/browngeoff.xml
+mods/Vs Impostor/images/bg/green/3/ball lol.png
+mods/Vs Impostor/images/bg/green/3/ball lol.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/reactor/Voices.ogg
+mods/songs/reactor/voices.ogg
+mods/songs/reactor/Inst.ogg
+mods/songs/reactor/inst.ogg

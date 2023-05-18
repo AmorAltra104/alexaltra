@@ -1,0 +1,31 @@
+mods/data/why-do-you-hate-me/boyfriend die.lua
+mods/data/why-do-you-hate-me/mod.txt
+mods/data/why-do-you-hate-me/ModchartGen.lua
+mods/data/why-do-you-hate-me/script.lua
+mods/data/why-do-you-hate-me/storymode.lua
+mods/data/why-do-you-hate-me/why-do-you-hate-me-hard.json
+mods/data/why-do-you-hate-me/why-do-you-hate-me-mania-c.json
+mods/data/why-do-you-hate-me/why-do-you-hate-me-modchart.json
+mods/data/why-do-you-hate-me/why-do-you-hate-me.json
+mods/Camellia/stages/stage1.json
+mods/Camellia/stages/stage1.lua
+mods/Camellia/stages/stage1.1.json
+mods/Camellia/stages/stage1.1.lua
+mods/Camellia/scripts/bf.lua
+mods/Camellia/scripts/CameraBeatFix.lua
+mods/Camellia/scripts/Kade display.lua
+mods/Camellia/scripts/Kade health.lua
+mods/Camellia/scripts/Kade icon.lua
+mods/Camellia/scripts/Kade watermark.lua
+mods/Camellia/scripts/Myth engine UI.lua
+mods/Camellia/scripts/Myth healthbars.lua
+mods/Camellia/scripts/Myth timebar.lua
+mods/Camellia/fonts/font.ttf
+mods/Camellia/fonts/2.ttf
+mods/Camellia/fonts/pixel.otf
+mods/Camellia/fonts/montserrat.ttf
+mods/Camellia/fonts/1.ttf
+mods/songs/why-do-you-hate-me/Voices.ogg
+mods/songs/why-do-you-hate-me/voices.ogg
+mods/songs/why-do-you-hate-me/Inst.ogg
+mods/songs/why-do-you-hate-me/inst.ogg

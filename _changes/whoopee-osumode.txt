@@ -1,0 +1,22 @@
+mods/data/whoopee/DodgeSans.lua
+mods/data/whoopee/mod.txt
+mods/data/whoopee/no.lua
+mods/data/whoopee/sttt.lua
+mods/data/whoopee/whoopee-hard.json
+mods/IC/stages/sans.json
+mods/IC/stages/sans.lua
+mods/IC/custom_notetypes/Blue Bone Note.lua
+mods/IC/custom_notetypes/Orange Bone Note.lua
+mods/IC/custom_events/CamaraZoom.lua
+mods/IC/custom_events/1ChangeScrollSpeed.lua
+mods/IC/custom_events/gei.lua
+mods/IC/scripts/charDance.lua
+mods/IC/scripts/Debug_Keys.lua
+mods/IC/scripts/heltxd.lua
+mods/IC/scripts/Kade.lua
+mods/IC/scripts/Splash.lua
+mods/IC/fonts/cumhead.otf
+mods/songs/whoopee/Voices.ogg
+mods/songs/whoopee/voices.ogg
+mods/songs/whoopee/Inst.ogg
+mods/songs/whoopee/inst.ogg

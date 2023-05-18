@@ -1,0 +1,31 @@
+mods/data/tko/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/data/tko/events.json
+mods/data/tko/goofy_note_press.lua
+mods/data/tko/mod.txt
+mods/data/tko/script 2.lua
+mods/data/tko/script2.lua
+mods/data/tko/script3.lua
+mods/data/tko/script4.lua
+mods/data/tko/tko-easy.json
+mods/data/tko/tko-hard.json
+mods/data/tko/tko-old.json
+mods/data/tko/tko.json
+mods/Matta/stages/backwhite.json
+mods/Matta/stages/backwhite.lua
+mods/Matta/scripts/coolfunkycredits.lua
+mods/Matta/scripts/coolfunkycredits10.lua
+mods/Matta/scripts/coolfunkycredits11.lua
+mods/Matta/scripts/coolfunkycredits12.lua
+mods/Matta/scripts/coolfunkycredits2.lua
+mods/Matta/scripts/coolfunkycredits3.lua
+mods/Matta/scripts/coolfunkycredits4.lua
+mods/Matta/scripts/coolfunkycredits5.lua
+mods/Matta/scripts/coolfunkycredits6.lua
+mods/Matta/scripts/coolfunkycredits7.lua
+mods/Matta/scripts/coolfunkycredits8.lua
+mods/Matta/scripts/coolfunkycredits9.lua
+mods/Matta/scripts/IconTween.lua
+mods/songs/tko/Voices.ogg
+mods/songs/tko/voices.ogg
+mods/songs/tko/Inst.ogg
+mods/songs/tko/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/every-spam-moment-from-matt-DX/cameramoves.lua
+mods/data/every-spam-moment-from-matt-DX/heathdrain.lua
+mods/data/every-spam-moment-from-matt-DX/mod.txt
+mods/data/every-spam-moment-from-matt-DX/strum.lua
+mods/songs/every-spam-moment-from-matt-DX/Voices.ogg
+mods/songs/every-spam-moment-from-matt-DX/voices.ogg
+mods/songs/every-spam-moment-from-matt-DX/Inst.ogg
+mods/songs/every-spam-moment-from-matt-DX/inst.ogg

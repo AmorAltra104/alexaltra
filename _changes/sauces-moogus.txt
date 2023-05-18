@@ -1,0 +1,35 @@
+mods/data/sauces-moogus/credit.lua
+mods/data/sauces-moogus/events.json
+mods/data/sauces-moogus/mod.txt
+mods/data/sauces-moogus/sauces-moogus-hard.json
+mods/Vs Impostor/characters/bfsauce.json
+mods/Vs Impostor/characters/chefogus.json
+mods/Vs Impostor/characters/gf.json
+mods/Vs Impostor/stages/chef.json
+mods/Vs Impostor/stages/chef.lua
+mods/Vs Impostor/images/characters/bfsauce.png
+mods/Vs Impostor/images/characters/bfsauce.xml
+mods/Vs Impostor/images/characters/chefogus.png
+mods/Vs Impostor/images/characters/chefogus.xml
+mods/Vs Impostor/images/ralsei2.png
+mods/Vs Impostor/images/ralsei2.xml
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/images/chef/Back Wall Kitchen.png
+mods/Vs Impostor/images/bg/images/chef/Chef Floor.png
+mods/Vs Impostor/images/bg/images/chef/Back Table Kitchen.png
+mods/Vs Impostor/images/bg/images/chef/oven.png
+mods/Vs Impostor/images/bg/images/chef/Boppers.png
+mods/Vs Impostor/images/bg/images/chef/Boppers.xml
+mods/Vs Impostor/images/bg/images/chef/Kitchen Counter.png
+mods/Vs Impostor/images/bg/images/chef/bluelight.png
+mods/Vs Impostor/images/bg/images/chef/black_overhead_shadow.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/sauces-moogus/Voices.ogg
+mods/songs/sauces-moogus/voices.ogg
+mods/songs/sauces-moogus/Inst.ogg
+mods/songs/sauces-moogus/inst.ogg

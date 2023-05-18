@@ -1,0 +1,22 @@
+mods/data/starlight/mod.txt
+mods/data/starlight/starlight-hard.json
+mods/Matt/stages/ruins.json
+mods/Matt/stages/ruins.lua
+mods/Matt/custom_notetypes/Parry Note.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/Matt/images/wiik5/1.png
+mods/Matt/images/wiik5/2.png
+mods/Matt/images/wiik5/3.png
+mods/Matt/images/wiik5/4.png
+mods/Matt/images/wiik5/5.png
+mods/Matt/images/wiik5/6.png
+mods/Matt/images/parry_assets.png
+mods/Matt/images/parry_assets.xml
+mods/songs/starlight/Voices.ogg
+mods/songs/starlight/voices.ogg
+mods/songs/starlight/Inst.ogg
+mods/songs/starlight/inst.ogg

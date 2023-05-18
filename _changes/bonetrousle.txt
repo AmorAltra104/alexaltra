@@ -1,0 +1,8 @@
+mods/data/bonetrousle/bonetrousle-no-mechanics.json
+mods/data/bonetrousle/bonetrousle.json
+mods/data/bonetrousle/script.lua
+mods/data/bonetrousle/timeBarScript.lua
+mods/songs/bonetrousle/Voices.ogg
+mods/songs/bonetrousle/voices.ogg
+mods/songs/bonetrousle/Inst.ogg
+mods/songs/bonetrousle/inst.ogg

@@ -1,0 +1,38 @@
+mods/data/sabotage/credit.lua
+mods/data/sabotage/events.json
+mods/Vs Impostor/characters/ghostgf.json
+mods/Vs Impostor/images/characters/ghostgf.png
+mods/Vs Impostor/images/characters/ghostgf.xml
+mods/data/sabotage/mod.txt
+mods/data/sabotage/polus.lua
+mods/data/sabotage/sabotage-hard.json
+mods/data/sabotage/video.lua
+mods/Vs Impostor/characters/bf.json
+mods/Vs Impostor/characters/sabotage.json
+mods/Vs Impostor/characters/invisigf.json
+mods/Vs Impostor/stages/polus.json
+mods/Vs Impostor/stages/polus.lua
+mods/Vs Impostor/images/characters/BOYFRIEND.png
+mods/Vs Impostor/images/characters/BOYFRIEND.xml
+mods/Vs Impostor/images/characters/impostorS.png
+mods/Vs Impostor/images/characters/impostorS.xml
+mods/Vs Impostor/images/characters/invisigf.png
+mods/Vs Impostor/images/characters/invisigf.xml
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/images/polus/polus_custom_sky.png
+mods/Vs Impostor/images/bg/images/polus/polusrocks.png
+mods/Vs Impostor/images/bg/images/polus/polusHills.png
+mods/Vs Impostor/images/bg/images/polus/polus_custom_lab.png
+mods/Vs Impostor/images/bg/images/polus/polus_custom_floor.png
+mods/Vs Impostor/images/bg/images/polus/snow.png
+mods/Vs Impostor/images/bg/images/polus/snow.xml
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/sabotage/Voices.ogg
+mods/songs/sabotage/voices.ogg
+mods/songs/sabotage/Inst.ogg
+mods/songs/sabotage/inst.ogg

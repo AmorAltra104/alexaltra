@@ -1,0 +1,6 @@
+mods/data/dating-start/dating-start.json
+mods/data/dating-start/timeBarScript.lua
+mods/songs/dating-start/Voices.ogg
+mods/songs/dating-start/voices.ogg
+mods/songs/dating-start/Inst.ogg
+mods/songs/dating-start/inst.ogg

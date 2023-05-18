@@ -1,0 +1,9 @@
+mods/data/potente-ruckus/events.json
+mods/data/potente-ruckus/mod.txt
+mods/data/potente-ruckus/potente-ruckus-potente.json
+mods/Potente/stages/wiik1.json
+mods/Potente/stages/wiik1.lua
+mods/songs/potente-ruckus/Voices.ogg
+mods/songs/potente-ruckus/voices.ogg
+mods/songs/potente-ruckus/Inst.ogg
+mods/songs/potente-ruckus/inst.ogg

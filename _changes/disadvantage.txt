@@ -1,0 +1,37 @@
+mods/data/disadvantage/disadvantage-hard.json
+mods/data/disadvantage/mod.txt
+mods/JJTurbo/characters/bfrev.json
+mods/JJTurbo/characters/mattrevnew.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/stadium.json
+mods/JJTurbo/stages/stadium.lua
+mods/JJTurbo/images/characters/BOYFRIENDREV.png
+mods/JJTurbo/images/characters/BOYFRIENDREV.xml
+mods/JJTurbo/images/characters/matt_rev_new.png
+mods/JJTurbo/images/characters/matt_rev_new.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/characters/mattrev.json
+mods/JJTurbo/images/characters/matt_rev.png
+mods/JJTurbo/images/characters/matt_rev.xml
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/ShowHud.lua
+mods/JJTurbo/custom_events/Toggle_Trail.lua
+mods/JJTurbo/custom_events/badapplelol.lua
+mods/JJTurbo/custom_events/Set CamZoom.lua
+mods/JJTurbo/custom_events/TweenSpin.lua
+mods/JJTurbo/custom_events/HideHud.lua
+mods/JJTurbo/custom_events/Flash Camera.lua
+mods/JJTurbo/custom_events/Smooth cam zoom.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/stadium/1arenastage.png
+mods/JJTurbo/images/stadium/2arenaring.png
+mods/JJTurbo/images/stadium/4arenaringback.png
+mods/JJTurbo/images/stadium/5galaxy.png
+mods/JJTurbo/images/stadium/33.png
+mods/songs/disadvantage/Voices.ogg
+mods/songs/disadvantage/voices.ogg
+mods/songs/disadvantage/Inst.ogg
+mods/songs/disadvantage/inst.ogg

@@ -1,0 +1,13 @@
+mods/data/strike/mod.txt
+mods/data/strike/strike-hard.json
+mods/Matt/stages/bridge.json
+mods/Matt/stages/bridge.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/songs/strike/Voices.ogg
+mods/songs/strike/voices.ogg
+mods/songs/strike/Inst.ogg
+mods/songs/strike/inst.ogg

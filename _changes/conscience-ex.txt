@@ -1,0 +1,50 @@
+mods/data/conscience-ex/conscience-ex-ex.json
+mods/data/conscience-ex/mod.txt
+mods/data/conscience-ex/script.lua
+mods/bab/characters/bf-ex-b.json
+mods/bab/characters/Mini-ex.json
+mods/bab/characters/gf-ex.json
+mods/bab/stages/Mini.json
+mods/bab/stages/Mini.lua
+mods/bab/images/bob-ex/BoyFriend_Assets_EX.png
+mods/bab/images/bob-ex/BoyFriend_Assets_EX.xml
+mods/bab/images/bob-ex/bluskys/anime/MinishoeyEX.png
+mods/bab/images/bob-ex/bluskys/anime/MinishoeyEX.xml
+mods/bab/images/bob-ex/GF_ass_sets_outfit.png
+mods/bab/images/bob-ex/GF_ass_sets_outfit.xml
+mods/bab/characters/mini-ex-no.json
+mods/bab/images/bob-ex/bluskys/anime/MinishoeyEX-nocolor.png
+mods/bab/images/bob-ex/bluskys/anime/MinishoeyEX-nocolor.xml
+mods/bab/characters/bf-ex-no.json
+mods/bab/images/bob-ex/bluskys/anime/bf.png
+mods/bab/images/bob-ex/bluskys/anime/bf.xml
+mods/bab/characters/gf-ex-no.json
+mods/bab/images/bob-ex/bluskys/anime/GF_ass_sets_outfit.png
+mods/bab/images/bob-ex/bluskys/anime/GF_ass_sets_outfit.xml
+mods/bab/characters/mini-ex.json
+mods/bab/characters/mini-ex-final.json
+mods/bab/images/bob-ex/bluskys/anime/MiniEndingAnim.png
+mods/bab/images/bob-ex/bluskys/anime/MiniEndingAnim.xml
+mods/bab/custom_events/Flashes Camera-B.lua
+mods/bab/custom_events/noteskinchangeOPPT.lua
+mods/bab/custom_events/imageflash.lua
+mods/bab/custom_events/Flashes Camera.lua
+mods/bab/images/bob-ex/Bluskys/anime/MINI 1.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 1_2.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 2.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 3.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 4.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 1 BW.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 1_2 BW.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 2 BW.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 3 BW.png
+mods/bab/images/bob-ex/Bluskys/anime/MINI 4 BW.png
+mods/bab/fonts/Minecrafter.Alt.ttf
+mods/bab/sounds/mini/go.ogg
+mods/bab/sounds/mini/3.ogg
+mods/bab/sounds/mini/2.ogg
+mods/bab/sounds/mini/1.ogg
+mods/songs/conscience-ex/Voices.ogg
+mods/songs/conscience-ex/voices.ogg
+mods/songs/conscience-ex/Inst.ogg
+mods/songs/conscience-ex/inst.ogg

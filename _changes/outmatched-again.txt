@@ -1,0 +1,19 @@
+mods/data/outmatched-again/mod.txt
+mods/data/outmatched-again/outmatched-again-hard.json
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/mattChill.json
+mods/Final lesson/characters/gf_FC.json
+mods/Final lesson/stages/matt3.json
+mods/Final lesson/stages/matt3.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/matt_chill.png
+mods/Final lesson/images/characters/matt_chill.xml
+mods/Final lesson/images/characters/GF_FC.png
+mods/Final lesson/images/characters/GF_FC.xml
+mods/Final lesson/images/boxwall.png
+mods/Final lesson/images/boxwall.xml
+mods/Final lesson/images/boxfloor.png
+mods/Final lesson/images/boxfloor.xml
+mods/songs/outmatched-again/Inst.ogg
+mods/songs/outmatched-again/inst.ogg

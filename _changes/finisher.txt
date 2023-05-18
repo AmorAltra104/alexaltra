@@ -1,0 +1,20 @@
+mods/data/finisher/finisher-hard.json
+mods/data/finisher/mod.txt
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/matthurt2.json
+mods/Final lesson/characters/nogf.json
+mods/Final lesson/stages/vol.json
+mods/Final lesson/stages/vol.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/matt_hurt2.png
+mods/Final lesson/images/characters/matt_hurt2.xml
+mods/Final lesson/images/characters/noGF_assets.png
+mods/Final lesson/images/characters/noGF_assets.xml
+mods/Final lesson/custom_events/Arrow flip.lua
+mods/Final lesson/custom_events/FlipUI.lua
+mods/Final lesson/custom_events/LinearSpin.lua
+mods/Final lesson/images/volcano.png
+mods/Final lesson/images/volcano.xml
+mods/songs/finisher/Inst.ogg
+mods/songs/finisher/inst.ogg

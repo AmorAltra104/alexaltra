@@ -1,0 +1,6 @@
+mods/data/megalo-strike-back/megalo-strike-back.json
+mods/data/megalo-strike-back/timeBarScript.lua
+mods/songs/megalo-strike-back/Voices.ogg
+mods/songs/megalo-strike-back/voices.ogg
+mods/songs/megalo-strike-back/Inst.ogg
+mods/songs/megalo-strike-back/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/swing-ex/mod.txt
+mods/data/swing-ex/script.lua
+mods/data/swing-ex/swing-ex-ex.json
+mods/bab/stages/Bosip-ex.json
+mods/bab/stages/Bosip-ex.lua
+mods/bab/custom_events/noteskinchangeOPPT.lua
+mods/bab/custom_events/imageflash.lua
+mods/bab/fonts/Minecrafter.Alt.ttf
+mods/bab/sounds/carPass1.ogg
+mods/bab/sounds/bosip_good_job.ogg
+mods/songs/swing-ex/Voices.ogg
+mods/songs/swing-ex/voices.ogg
+mods/songs/swing-ex/Inst.ogg
+mods/songs/swing-ex/inst.ogg

@@ -1,0 +1,24 @@
+mods/data/killer/events.json
+mods/data/killer/killer-hard.json
+mods/data/killer/mod.txt
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/unknowedmatt.json
+mods/Final lesson/characters/gfm.json
+mods/Final lesson/stages/boxingvolcano.json
+mods/Final lesson/stages/boxingvolcano.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/unknowedmatt.png
+mods/Final lesson/images/characters/unknowedmatt.xml
+mods/Final lesson/images/characters/gfm.png
+mods/Final lesson/images/characters/gfm.xml
+mods/Final lesson/custom_notetypes/Dodge_Note.lua
+mods/Final lesson/custom_events/Image Flash.lua
+mods/Final lesson/custom_events/Flash Camera.lua
+mods/Final lesson/images/boxing volcano.png
+mods/Final lesson/images/Dodge_Note.png
+mods/Final lesson/images/Dodge_Note.xml
+mods/songs/killer/Voices.ogg
+mods/songs/killer/voices.ogg
+mods/songs/killer/Inst.ogg
+mods/songs/killer/inst.ogg

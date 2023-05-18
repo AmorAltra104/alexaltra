@@ -1,0 +1,40 @@
+mods/data/blastout/blastout-hard.json
+mods/data/blastout/mod.txt
+mods/JJTurbo/characters/bfrtx.json
+mods/JJTurbo/characters/wiik-2-rtx.json
+mods/JJTurbo/characters/nogf.json
+mods/JJTurbo/stages/voiidmatt2.json
+mods/JJTurbo/stages/voiidmatt2.lua
+mods/JJTurbo/images/characters/bfrtx.png
+mods/JJTurbo/images/characters/bfrtx.xml
+mods/JJTurbo/images/characters/wiik 2.png
+mods/JJTurbo/images/characters/wiik 2.xml
+mods/JJTurbo/images/characters/noGF_assets.png
+mods/JJTurbo/images/characters/noGF_assets.xml
+mods/JJTurbo/custom_events/Flash.lua
+mods/JJTurbo/custom_events/Toggle Trail.lua
+mods/JJTurbo/custom_events/Set Cam Zoom.lua
+mods/JJTurbo/custom_events/ShowHud.lua
+mods/JJTurbo/custom_events/MoveArrowsToMiddle.lua
+mods/JJTurbo/custom_events/badapplelol.lua
+mods/JJTurbo/custom_events/TweenSpin.lua
+mods/JJTurbo/custom_events/HideHud.lua
+mods/JJTurbo/custom_events/Flash Camera.lua
+mods/JJTurbo/custom_events/Cinematics.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/JJTurbo/images/boxingnight2.png
+mods/JJTurbo/images/buildings.png
+mods/JJTurbo/images/boxingnight3.png
+mods/JJTurbo/images/lights.png
+mods/JJTurbo/images/ruido.png
+mods/JJTurbo/images/stadium/5galaxy.png
+mods/JJTurbo/images/stadium/4arenaringback.png
+mods/JJTurbo/images/stadium/33.png
+mods/JJTurbo/images/stadium/2arenaring.png
+mods/JJTurbo/images/stadium/1arenastage.png
+mods/JJTurbo/images/white.png
+mods/songs/blastout/Voices.ogg
+mods/songs/blastout/voices.ogg
+mods/songs/blastout/Inst.ogg
+mods/songs/blastout/inst.ogg

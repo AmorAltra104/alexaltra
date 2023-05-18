@@ -1,0 +1,25 @@
+mods/data/bruh-final-destination/bruh-final-destination-hard.json
+mods/data/bruh-final-destination/bruh-final-destination.json
+mods/data/bruh-final-destination/events.json
+mods/data/bruh-final-destination/mod.txt
+mods/data/bruh-final-destination/script 2.lua
+mods/Matta/stages/boxma3.json
+mods/Matta/stages/boxma3.lua
+mods/Matta/custom_events/Toggle Trail.lua
+mods/Matta/scripts/coolfunkycredits.lua
+mods/Matta/scripts/coolfunkycredits10.lua
+mods/Matta/scripts/coolfunkycredits11.lua
+mods/Matta/scripts/coolfunkycredits12.lua
+mods/Matta/scripts/coolfunkycredits2.lua
+mods/Matta/scripts/coolfunkycredits3.lua
+mods/Matta/scripts/coolfunkycredits4.lua
+mods/Matta/scripts/coolfunkycredits5.lua
+mods/Matta/scripts/coolfunkycredits6.lua
+mods/Matta/scripts/coolfunkycredits7.lua
+mods/Matta/scripts/coolfunkycredits8.lua
+mods/Matta/scripts/coolfunkycredits9.lua
+mods/Matta/scripts/IconTween.lua
+mods/songs/bruh-final-destination/Voices.ogg
+mods/songs/bruh-final-destination/voices.ogg
+mods/songs/bruh-final-destination/Inst.ogg
+mods/songs/bruh-final-destination/inst.ogg

@@ -1,0 +1,20 @@
+mods/data/rivals-old/credit.lua
+mods/data/rivals-old/mod.txt
+mods/data/rivals-old/rivals-old-hard.json
+mods/Vs Impostor/characters/bf-pixel.json
+mods/Vs Impostor/characters/tomongus.json
+mods/Vs Impostor/characters/gf-pixel.json
+mods/Vs Impostor/stages/school.json
+mods/Vs Impostor/stages/school.lua
+mods/Vs Impostor/images/characters/bfPixel.png
+mods/Vs Impostor/images/characters/bfPixel.xml
+mods/Vs Impostor/images/characters/tomongus.png
+mods/Vs Impostor/images/characters/tomongus.xml
+mods/Vs Impostor/images/characters/gfPixel.png
+mods/Vs Impostor/images/characters/gfPixel.xml
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf

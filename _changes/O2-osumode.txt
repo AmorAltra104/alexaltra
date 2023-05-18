@@ -1,0 +1,20 @@
+mods/data/O2/credit.lua
+mods/data/O2/eve.lua
+mods/data/O2/events.json
+mods/data/O2/function onCreate().lua
+mods/data/O2/mod.txt
+mods/data/O2/O2-hard.json
+mods/Vs Impostor/stages/lounge.json
+mods/Vs Impostor/stages/lounge.lua
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/custom_events/Lights Down O2.lua
+mods/Vs Impostor/custom_events/WTF O2.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/O2/Voices.ogg
+mods/songs/O2/voices.ogg
+mods/songs/O2/Inst.ogg
+mods/songs/O2/inst.ogg

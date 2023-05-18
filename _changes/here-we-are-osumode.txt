@@ -1,0 +1,6 @@
+mods/data/here-we-are/here-we-are.json
+mods/data/here-we-are/timeBarScript.lua
+mods/songs/here-we-are/Voices.ogg
+mods/songs/here-we-are/voices.ogg
+mods/songs/here-we-are/Inst.ogg
+mods/songs/here-we-are/inst.ogg

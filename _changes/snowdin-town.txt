@@ -1,0 +1,7 @@
+mods/data/snowdin-town/script.lua
+mods/data/snowdin-town/snowdin-town.json
+mods/data/snowdin-town/timeBarScript.lua
+mods/songs/snowdin-town/Voices.ogg
+mods/songs/snowdin-town/voices.ogg
+mods/songs/snowdin-town/Inst.ogg
+mods/songs/snowdin-town/inst.ogg

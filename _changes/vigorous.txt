@@ -1,0 +1,19 @@
+mods/data/vigorous/mod.txt
+mods/data/vigorous/vigorous-hard.json
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/matt.json
+mods/Final lesson/characters/gf.json
+mods/Final lesson/stages/matt1.json
+mods/Final lesson/stages/matt1.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/matt_assets.png
+mods/Final lesson/images/characters/matt_assets.xml
+mods/Final lesson/images/characters/GF_MII_assets.png
+mods/Final lesson/images/characters/GF_MII_assets.xml
+mods/Final lesson/images/arena-bg.png
+mods/Final lesson/images/arena-characters.png
+mods/Final lesson/images/arena-characters.xml
+mods/Final lesson/images/railing.png
+mods/songs/vigorous/Inst.ogg
+mods/songs/vigorous/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/terminal/mod.txt
+mods/data/terminal/terminal-hard.json
+mods/Final lesson/stages/matt1night.json
+mods/Final lesson/stages/matt1night.lua
+mods/songs/terminal/Inst.ogg
+mods/songs/terminal/inst.ogg

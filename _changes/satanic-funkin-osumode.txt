@@ -1,0 +1,19 @@
+mods/data/satanic-funkin/healthbar.lua
+mods/data/satanic-funkin/mod.txt
+mods/data/satanic-funkin/no.lua
+mods/data/satanic-funkin/satanic-funkin-hard.json
+mods/data/satanic-funkin/skip countdown.lua
+mods/IC/stages/devil.json
+mods/IC/stages/devil.lua
+mods/IC/custom_notetypes/fire_notes.lua
+mods/IC/scripts/charDance.lua
+mods/IC/scripts/Debug_Keys.lua
+mods/IC/scripts/heltxd.lua
+mods/IC/scripts/Kade.lua
+mods/IC/scripts/Splash.lua
+mods/IC/sounds/burnSound.ogg
+mods/IC/fonts/cumhead.otf
+mods/songs/satanic-funkin/Voices.ogg
+mods/songs/satanic-funkin/voices.ogg
+mods/songs/satanic-funkin/Inst.ogg
+mods/songs/satanic-funkin/inst.ogg

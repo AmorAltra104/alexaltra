@@ -1,0 +1,34 @@
+mods/data/rivals/credit.lua
+mods/data/rivals/events.json
+mods/Vs Impostor/characters/bfsus-pixel.json
+mods/Vs Impostor/images/characters/bfSus.png
+mods/Vs Impostor/images/characters/bfSus.xml
+mods/Vs Impostor/characters/hamster.json
+mods/Vs Impostor/images/characters/hamster.png
+mods/Vs Impostor/images/characters/hamster.xml
+mods/data/rivals/mod.txt
+mods/data/rivals/rivals-hard.json
+mods/Vs Impostor/characters/bf-pixel.json
+mods/Vs Impostor/characters/tomongus.json
+mods/Vs Impostor/characters/gf-pixel.json
+mods/Vs Impostor/stages/what.json
+mods/Vs Impostor/stages/what.lua
+mods/Vs Impostor/images/characters/bfPixel.png
+mods/Vs Impostor/images/characters/bfPixel.xml
+mods/Vs Impostor/images/characters/tomongus.png
+mods/Vs Impostor/images/characters/tomongus.xml
+mods/Vs Impostor/images/characters/gfPixel.png
+mods/Vs Impostor/images/characters/gfPixel.xml
+mods/Vs Impostor/custom_events/flash.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/images/bg/weeb/stars.png
+mods/Vs Impostor/images/bg/weeb/weebStreet.png
+mods/Vs Impostor/images/timeBarAlt.png
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/rivals/Voices.ogg
+mods/songs/rivals/voices.ogg
+mods/songs/rivals/Inst.ogg
+mods/songs/rivals/inst.ogg

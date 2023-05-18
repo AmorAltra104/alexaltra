@@ -1,0 +1,9 @@
+mods/data/banjowdown/banjowdown-hard.json
+mods/data/banjowdown/mod.txt
+mods/data/banjowdown/script.lua
+mods/JJTurbo/stages/jojo.json
+mods/JJTurbo/stages/jojo.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/banjowdown/Inst.ogg
+mods/songs/banjowdown/inst.ogg

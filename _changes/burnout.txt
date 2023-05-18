@@ -1,0 +1,37 @@
+mods/data/burnout/burnout-hard.json
+mods/data/burnout/mod.txt
+mods/data/burnout/script.lua
+mods/normalmods/characters/bfrtx.json
+mods/normalmods/characters/wiik-2-rtx.json
+mods/normalmods/characters/gfrtx.json
+mods/normalmods/stages/matt2.json
+mods/normalmods/stages/matt2.lua
+mods/normalmods/images/characters/bfrtx.png
+mods/normalmods/images/characters/bfrtx.xml
+mods/normalmods/images/characters/wiik 2.png
+mods/normalmods/images/characters/wiik 2.xml
+mods/normalmods/images/characters/gfrtx.png
+mods/normalmods/images/characters/gfrtx.xml
+mods/normalmods/custom_events/Flash.lua
+mods/normalmods/custom_events/ArrowDisappear.lua
+mods/normalmods/custom_events/Zoom Camera.lua
+mods/normalmods/custom_events/badapplelol.lua
+mods/normalmods/custom_events/TweenSpin.lua
+mods/normalmods/custom_events/Cinematics.lua
+mods/normalmods/custom_events/Count.lua
+mods/normalmods/custom_events/Camera Switch.lua
+mods/normalmods/images/boxingnight2.png
+mods/normalmods/images/buildings.png
+mods/normalmods/images/boxingnight3.png
+mods/normalmods/images/lights.png
+mods/normalmods/images/ruido.png
+mods/normalmods/images/white.png
+mods/normalmods/images/blackscreen.png
+mods/normalmods/images/uno.png
+mods/normalmods/images/dos.png
+mods/normalmods/images/tres.png
+mods/normalmods/images/cuatro.png
+mods/songs/burnout/Voices.ogg
+mods/songs/burnout/voices.ogg
+mods/songs/burnout/Inst.ogg
+mods/songs/burnout/inst.ogg

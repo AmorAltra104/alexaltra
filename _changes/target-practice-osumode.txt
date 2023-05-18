@@ -1,0 +1,25 @@
+mods/data/target-practice/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/data/target-practice/goofy_note_press.lua
+mods/data/target-practice/mod.txt
+mods/data/target-practice/script12.lua
+mods/data/target-practice/script19.lua
+mods/data/target-practice/script2.lua
+mods/data/target-practice/script3.lua
+mods/data/target-practice/script4.lua
+mods/data/target-practice/script6.lua
+mods/data/target-practice/script7.lua
+mods/data/target-practice/target-practice-easy.json
+mods/data/target-practice/target-practice-hard.json
+mods/data/target-practice/target-practice-old.json
+mods/data/target-practice/target-practice.json
+mods/Matt/stages/swordfight.json
+mods/Matt/stages/swordfight.lua
+mods/Matt/scripts/Editable Combo and Ratings v2.2 (Player Only).lua
+mods/Matt/scripts/goofy_note_press.lua
+mods/Matt/scripts/script.lua
+mods/Matt/scripts/script3.lua
+mods/Matt/scripts/script4.lua
+mods/songs/target-practice/Voices.ogg
+mods/songs/target-practice/voices.ogg
+mods/songs/target-practice/Inst.ogg
+mods/songs/target-practice/inst.ogg

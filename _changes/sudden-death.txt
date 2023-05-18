@@ -1,0 +1,22 @@
+mods/data/sudden-death/mod.txt
+mods/data/sudden-death/sudden-death-hard.json
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/mattfight.json
+mods/Final lesson/characters/nogf.json
+mods/Final lesson/stages/vol.json
+mods/Final lesson/stages/vol.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/matt_fight.png
+mods/Final lesson/images/characters/matt_fight.xml
+mods/Final lesson/images/characters/noGF_assets.png
+mods/Final lesson/images/characters/noGF_assets.xml
+mods/Final lesson/characters/matt.json
+mods/Final lesson/images/characters/matt_assets.png
+mods/Final lesson/images/characters/matt_assets.xml
+mods/Final lesson/images/volcano.png
+mods/Final lesson/images/volcano.xml
+mods/songs/sudden-death/Voices.ogg
+mods/songs/sudden-death/voices.ogg
+mods/songs/sudden-death/Inst.ogg
+mods/songs/sudden-death/inst.ogg

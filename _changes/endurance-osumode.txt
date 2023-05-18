@@ -1,0 +1,10 @@
+mods/data/endurance/endurance-hard.json
+mods/data/endurance/mod.txt
+mods/JJTurbo/stages/training.json
+mods/JJTurbo/stages/training.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/endurance/Voices.ogg
+mods/songs/endurance/voices.ogg
+mods/songs/endurance/Inst.ogg
+mods/songs/endurance/inst.ogg

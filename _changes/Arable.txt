@@ -1,0 +1,15 @@
+mods/data/Arable/Arable-hard.json
+mods/data/Arable/events.json
+mods/data/Arable/mod.txt
+mods/normalmods/characters/Bambiphone.json
+mods/normalmods/characters/gf.json
+mods/normalmods/stages/BambFarm.json
+mods/normalmods/stages/BambFarm.lua
+mods/normalmods/images/characters/Bambiphone.png
+mods/normalmods/images/characters/Bambiphone.xml
+mods/normalmods/images/stageback.png
+mods/normalmods/images/stagefront.png
+mods/songs/Arable/Voices.ogg
+mods/songs/Arable/voices.ogg
+mods/songs/Arable/Inst.ogg
+mods/songs/Arable/inst.ogg

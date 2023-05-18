@@ -1,0 +1,7 @@
+mods/data/reality-check-through-the-skull/reality-check-through-the-skull-no-mechanics.json
+mods/data/reality-check-through-the-skull/reality-check-through-the-skull.json
+mods/data/reality-check-through-the-skull/timeBarScript.lua
+mods/songs/reality-check-through-the-skull/Voices.ogg
+mods/songs/reality-check-through-the-skull/voices.ogg
+mods/songs/reality-check-through-the-skull/Inst.ogg
+mods/songs/reality-check-through-the-skull/inst.ogg

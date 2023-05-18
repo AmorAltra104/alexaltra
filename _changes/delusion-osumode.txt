@@ -1,0 +1,18 @@
+mods/data/delusion/credit.lua
+mods/data/delusion/delusion-hard.json
+mods/data/delusion/events.json
+mods/data/delusion/mod.txt
+mods/data/delusion/Video.lua
+mods/Vs Impostor/stages/grey.json
+mods/Vs Impostor/stages/grey.lua
+mods/Vs Impostor/custom_events/Reactor Beep.lua
+mods/Vs Impostor/custom_events/Alter Camera Bop.lua
+mods/Vs Impostor/scripts/creditfix.lua
+mods/Vs Impostor/scripts/dead.lua
+mods/Vs Impostor/scripts/impostorHUD.lua
+mods/Vs Impostor/scripts/pets.lua
+mods/Vs Impostor/fonts/kade.ttf
+mods/songs/delusion/Voices.ogg
+mods/songs/delusion/voices.ogg
+mods/songs/delusion/Inst.ogg
+mods/songs/delusion/inst.ogg

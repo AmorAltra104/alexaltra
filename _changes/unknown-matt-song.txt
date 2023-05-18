@@ -1,0 +1,19 @@
+mods/data/unknown-matt-song/mod.txt
+mods/data/unknown-matt-song/unknown-matt-song-hard.json
+mods/Final lesson/characters/bfMII.json
+mods/Final lesson/characters/mattChill.json
+mods/Final lesson/characters/gf_KH.json
+mods/Final lesson/stages/matt3.json
+mods/Final lesson/stages/matt3.lua
+mods/Final lesson/images/characters/BOYFRIEND.png
+mods/Final lesson/images/characters/BOYFRIEND.xml
+mods/Final lesson/images/characters/matt_chill.png
+mods/Final lesson/images/characters/matt_chill.xml
+mods/Final lesson/images/characters/GF_KH.png
+mods/Final lesson/images/characters/GF_KH.xml
+mods/Final lesson/images/boxwall.png
+mods/Final lesson/images/boxwall.xml
+mods/Final lesson/images/boxfloor.png
+mods/Final lesson/images/boxfloor.xml
+mods/songs/unknown-matt-song/Inst.ogg
+mods/songs/unknown-matt-song/inst.ogg

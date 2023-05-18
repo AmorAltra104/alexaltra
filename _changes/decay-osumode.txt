@@ -1,0 +1,10 @@
+mods/data/decay/decay-hard.json
+mods/data/decay/mod.txt
+mods/JJTurbo/stages/stadium.json
+mods/JJTurbo/stages/stadium.lua
+mods/JJTurbo/scripts/camaraFluida.lua
+mods/JJTurbo/scripts/DoubleGhostNote.lua
+mods/songs/decay/Voices.ogg
+mods/songs/decay/voices.ogg
+mods/songs/decay/Inst.ogg
+mods/songs/decay/inst.ogg
