@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				259,
+				308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bullshit"
+		},
+		{
+			"offsets": [
+				259,
+				308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				14,
+				14
+			],
+			"name": "Bullshit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bob-ex/bosip-ex/Bosipok",
+	"position": [
+		90,
+		10
+	],
+	"healthicon": "Bosip-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.55
+}

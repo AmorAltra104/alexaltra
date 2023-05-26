@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "PC idle"
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PC Note LEFT"
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "PC Note DOWN"
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "PC Note UP"
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PC Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pc",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "amorex",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

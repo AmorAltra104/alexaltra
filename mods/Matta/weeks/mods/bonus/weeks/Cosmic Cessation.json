@@ -1,0 +1,40 @@
+{
+	"storyName": "get ready for the second hardest funkin chart ever!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"shaggymattMenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cosmic-Cessation",
+			"oshaggy",
+			[
+				186,
+				95,
+				0
+			]
+		],
+		[
+			"Cosmic-Cessation-god",
+			"shaggymattgod",
+			[
+				0,
+				20,
+				13
+			]
+		]
+	],
+	"weekName": "muahahaha"
+}

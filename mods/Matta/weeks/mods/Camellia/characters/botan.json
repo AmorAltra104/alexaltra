@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				887,
+				272
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "botan Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				862,
+				262
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "botan NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1143,
+				228
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "botan Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				891,
+				289
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "botan Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				925,
+				264
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "botan Note Right0",
+			"indices": []
+		}
+		
+	],
+	"no_antialiasing": false,
+	"image": "characters/botan",
+	"position": [
+		1000,
+		350
+	],
+	"healthicon": "botan",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		202,
+		230
+	],
+	"camera_position": [
+		-1190,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				235,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cerberus Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				261,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cerberus Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				300,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cerberus Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				278,
+				-114
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cerberus idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cerberus Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bob-ex/bluskys/hell/CerberusEX",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cerberus-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		84,
+		27
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

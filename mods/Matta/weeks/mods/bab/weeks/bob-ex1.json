@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "ex",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"groovy-brass-ex",
+			"bluskys-ex",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"conscience-ex",
+			"mini-ex",
+			[
+				20,
+				213,
+				53
+			]
+		],
+		[
+			"yap-squad-ex",
+			"jghost-ex",
+			[
+				166,
+				53,
+				35
+			]
+		],
+		[
+			"intertwined-ex",
+			"ash-n-cerb-ex",
+			[
+				106,
+				40,
+				93
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

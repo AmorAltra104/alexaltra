@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cerb Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cerb Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cerb Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cerb idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cerb Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/bluskys/glitch/cerbex",
+	"position": [
+		130,
+		400
+	],
+	"healthicon": "ash-n-cerb-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		27,
+		86
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

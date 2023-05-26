@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				86,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "botan Idle Dance"
+		},
+		{
+			"offsets": [
+				71,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "botan NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				57,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "botan Down Note0"
+		},
+		{
+			"offsets": [
+				91,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "botan Up note0"
+		},
+		{
+			"offsets": [
+				34,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "botan Note Right0"
+		},
+		{
+			"offsets": [
+				104,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "botan NOTE LEFT miss0"
+		},
+		{
+			"offsets": [
+				78,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "botan Down Note MISS0"
+		},
+		{
+			"offsets": [
+				98,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "botan Up note miss0"
+		},
+		{
+			"offsets": [
+				32,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "botan Note Right Miss0"
+		}
+		
+	],
+	"no_antialiasing": false,
+	"image": "characters/botan-c",
+	"position": [
+		180,
+		310
+	],
+	"healthicon": "botan",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		202,
+		230
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

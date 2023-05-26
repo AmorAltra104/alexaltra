@@ -1,0 +1,12 @@
+{	
+	"titlex":150,
+	"titley":-50,
+	"startx":150,
+	"starty":596,
+	"titlescale": 0.2,
+	
+	"gfx":580,
+	"gfy":40,
+	"backgroundSprite":"stagewall",
+	"bpm":99
+}

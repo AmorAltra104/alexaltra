@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cerb Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cerb Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				24,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cerb Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cerb idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				241,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cerb Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				380,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "final",
+			"indices": [],
+			"name": "IntertwinedEX_ENDING"
+		},
+		{
+			"offsets": [
+				380,
+				320
+			],
+			"indices": [
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45
+			],
+			"fps": 24,
+			"anim": "final-loop",
+			"loop": true,
+			"name": "IntertwinedEX_ENDING"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bob-ex/bluskys/glitch/IntertwinedEX_ENDING",
+	"position": [
+		130,
+		400
+	],
+	"healthicon": "ash-n-cerb-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		27,
+		86
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
