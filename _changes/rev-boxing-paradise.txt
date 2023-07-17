@@ -1,0 +1,26 @@
+mods/data/rev-boxing-paradise/coolfunkycredits.lua
+mods/data/rev-boxing-paradise/mod.txt
+mods/data/rev-boxing-paradise/rev-boxing-paradise-hard.json
+mods/Rev/characters/bf-red.json
+mods/Rev/characters/mattrev-wiik2.json
+mods/Rev/characters/gf-red.json
+mods/Rev/stages/wiik2.json
+mods/Rev/stages/wiik2.lua
+mods/Rev/images/characters/BOYFRIEND-RED.png
+mods/Rev/images/characters/BOYFRIEND-RED.xml
+mods/Rev/images/characters/WIIK_2_RTX.png
+mods/Rev/images/characters/WIIK_2_RTX.xml
+mods/Rev/images/characters/gf_revmix-wiik2.png
+mods/Rev/images/characters/gf_revmix-wiik2.xml
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/images/wiik2-background.png
+mods/Rev/images/wiik2-sun.png
+mods/Rev/images/wiik2-buildings.png
+mods/Rev/images/wiik2-arena.png
+mods/songs/rev-boxing-paradise/Voices.ogg
+mods/songs/rev-boxing-paradise/voices.ogg
+mods/songs/rev-boxing-paradise/Inst.ogg
+mods/songs/rev-boxing-paradise/inst.ogg

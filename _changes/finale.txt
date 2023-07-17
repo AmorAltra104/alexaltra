@@ -18,8 +18,8 @@ mods/Vs Impostor/stages/finalem.json
 mods/Vs Impostor/stages/finalem.lua
 mods/Vs Impostor/images/characters/BF_Defeat_Scared.png
 mods/Vs Impostor/images/characters/BF_Defeat_Scared.xml
-mods/Vs Impostor/images/characters/black.png
-mods/Vs Impostor/images/characters/black.xml
+mods/Vs Impostor/images/sus/black.png
+mods/Vs Impostor/images/sus/black.xml
 mods/Vs Impostor/images/ralsei2.png
 mods/Vs Impostor/images/ralsei2.xml
 mods/Vs Impostor/stages/finale.json

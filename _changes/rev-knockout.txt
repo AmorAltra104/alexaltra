@@ -1,0 +1,36 @@
+mods/data/rev-knockout/coolfunkycredits.lua
+mods/data/rev-knockout/events.json
+mods/data/rev-knockout/mod.txt
+mods/data/rev-knockout/rev-knockout-hard.json
+mods/data/rev-knockout/RevBoxingScript.lua
+mods/Rev/characters/bf-wiik3.json
+mods/Rev/characters/mattrev-wiik3.json
+mods/Rev/characters/gf-red.json
+mods/Rev/stages/stadium-wiik3.json
+mods/Rev/stages/stadium-wiik3.lua
+mods/Rev/images/characters/bf_rev_boxing.png
+mods/Rev/images/characters/bf_rev_boxing.xml
+mods/Rev/images/characters/WIIK_3_MATT.png
+mods/Rev/images/characters/WIIK_3_MATT.xml
+mods/Rev/images/characters/gf_revmix-wiik2.png
+mods/Rev/images/characters/gf_revmix-wiik2.xml
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/BoxingNote.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/bf_ghost_mechanic.lua
+mods/Rev/images/stadium/1arenastage.png
+mods/Rev/images/stadium/2arenaring.png
+mods/Rev/images/stadium/4arenaringback.png
+mods/Rev/images/stadium/5galaxy.png
+mods/Rev/images/Crowd_Bump.png
+mods/Rev/images/Crowd_Bump.xml
+mods/Rev/images/RevPunch.png
+mods/Rev/images/RevPunch.xml
+mods/Rev/images/GHOST_BF.png
+mods/Rev/images/GHOST_BF.xml
+mods/songs/rev-knockout/Voices.ogg
+mods/songs/rev-knockout/voices.ogg
+mods/songs/rev-knockout/Inst.ogg
+mods/songs/rev-knockout/inst.ogg

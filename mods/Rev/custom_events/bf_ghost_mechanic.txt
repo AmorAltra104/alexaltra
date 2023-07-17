@@ -1,0 +1,2 @@
+value1: 1 = BF ghost, 0 = Bf ghost off
+value2: 2 = BF ghost attacks from behind, 0 = BF ghost off

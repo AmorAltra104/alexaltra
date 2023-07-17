@@ -2,8 +2,8 @@ mods/data/danger/credit.lua
 mods/data/danger/danger-hard.json
 mods/data/danger/events.json
 mods/Vs Impostor/characters/blackalt.json
-mods/Vs Impostor/images/characters/blackalt.png
-mods/Vs Impostor/images/characters/blackalt.xml
+mods/Vs Impostor/images/sus/blackalt.png
+mods/Vs Impostor/images/sus/blackalt.xml
 mods/data/danger/mod.txt
 mods/data/danger/Video.lua
 mods/Vs Impostor/characters/bf-running.json
@@ -11,29 +11,33 @@ mods/Vs Impostor/characters/black-run.json
 mods/Vs Impostor/characters/gfdanger.json
 mods/Vs Impostor/stages/airship.json
 mods/Vs Impostor/stages/airship.lua
-mods/Vs Impostor/images/characters/bf_running.png
-mods/Vs Impostor/images/characters/bf_running.xml
-mods/Vs Impostor/images/characters/blackrun.png
-mods/Vs Impostor/images/characters/blackrun.xml
-mods/Vs Impostor/images/characters/gf_danger.png
-mods/Vs Impostor/images/characters/gf_danger.xml
+mods/Vs Impostor/images/sus/bf_running.png
+mods/Vs Impostor/images/sus/bf_running.xml
+mods/Vs Impostor/images/sus/blackrun.png
+mods/Vs Impostor/images/sus/blackrun.xml
+mods/Vs Impostor/images/sus/gf_danger.png
+mods/Vs Impostor/images/sus/gf_danger.xml
 mods/Vs Impostor/scripts/creditfix.lua
 mods/Vs Impostor/scripts/dead.lua
 mods/Vs Impostor/scripts/impostorHUD.lua
 mods/Vs Impostor/scripts/pets.lua
-mods/Vs Impostor/images/bg/airship/sky.png
-mods/Vs Impostor/images/bg/airship/farthestClouds.png
-mods/Vs Impostor/images/bg/airship/backClouds.png
-mods/Vs Impostor/images/bg/airship/airship.png
-mods/Vs Impostor/images/bg/airship/airshipFan.png
-mods/Vs Impostor/images/bg/airship/airshipFan.xml
-mods/Vs Impostor/images/bg/airship/bigCloud.png
-mods/Vs Impostor/images/bg/airship/frontClouds.png
-mods/Vs Impostor/images/bg/airship/fgPlatform.png
-mods/Vs Impostor/images/characters/blacklegs.png
-mods/Vs Impostor/images/characters/blacklegs.xml
-mods/Vs Impostor/images/characters/bf_legs.png
-mods/Vs Impostor/images/characters/bf_legs.xml
+mods/Vs Impostor/images/Sus/danger/sky.png
+mods/Vs Impostor/images/Sus/danger/farthestClouds.png
+mods/Vs Impostor/images/Sus/danger/backClouds.png
+mods/Vs Impostor/images/Sus/danger/airship.png
+mods/Vs Impostor/images/Sus/danger/airshipFan.png
+mods/Vs Impostor/images/Sus/danger/airshipFan.xml
+mods/Vs Impostor/images/Sus/danger/frontClouds.png
+mods/Vs Impostor/images/Sus/danger/bigCloud.png
+mods/Vs Impostor/images/Sus/danger/speedlines.png
+mods/Vs Impostor/images/Sus/danger/fgPlatform.png
+mods/Vs Impostor/images/Sus/danger/rojo.png
+mods/Vs Impostor/images/Sus/danger/rojo.xml
+mods/Vs Impostor/images/Sus/danger/blacklegs.png
+mods/Vs Impostor/images/Sus/danger/blacklegs.xml
+mods/Vs Impostor/images/Sus/danger/bf_legs.png
+mods/Vs Impostor/images/Sus/danger/bf_legs.xml
+mods/Vs Impostor/fonts/PhantomMuff Full Letters 1.1.5.ttf
 mods/Vs Impostor/images/timeBarAlt.png
 mods/Vs Impostor/fonts/kade.ttf
 mods/songs/danger/Voices.ogg

@@ -1,0 +1,29 @@
+mods/data/rev-disadvantage-old/coolfunkycredits.lua
+mods/data/rev-disadvantage-old/mod.txt
+mods/data/rev-disadvantage-old/rev-disadvantage-old-hard.json
+mods/Rev/characters/bf-wiik4.json
+mods/Rev/characters/mattrev-wiik4.json
+mods/Rev/characters/gf-wiik4.json
+mods/Rev/stages/wiik4.json
+mods/Rev/stages/wiik4.lua
+mods/Rev/images/characters/BOYFRIEND-WIIK4.png
+mods/Rev/images/characters/BOYFRIEND-WIIK4.xml
+mods/Rev/images/characters/matt_rev-wiik4-lighting.png
+mods/Rev/images/characters/matt_rev-wiik4-lighting.xml
+mods/Rev/images/characters/gf-wiik4.png
+mods/Rev/images/characters/gf-wiik4.xml
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/images/Wiik4/SKY.png
+mods/Rev/images/Wiik4/MOON.png
+mods/Rev/images/Wiik4/WATER.png
+mods/Rev/images/Wiik4/WAWAROCK1.png
+mods/Rev/images/Wiik4/WAWAROCK2.png
+mods/Rev/images/Wiik4/LAVA.png
+mods/Rev/images/Wiik4/RIGHTROCK.png
+mods/Rev/images/Wiik4/LEFTROCK.png
+mods/Rev/images/Wiik4/PLATFORM.png
+mods/Rev/images/Wiik4/FRONTROCK.png
+mods/songs/rev-disadvantage-old/Inst.ogg
+mods/songs/rev-disadvantage-old/inst.ogg

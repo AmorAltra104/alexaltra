@@ -1,7 +1,7 @@
 {
-	"name": "VS Impostor V4 modpack",
-	"description": "thinks for playing!",
+	"name": "you are in danger",
+	"description": "DANGER!!!1!!1!1!!!!1",
 	"restart":false,
-	"runsGlobally": false,
+	"runGlobally": false,
 	"color": [170, 0, 255]
 }

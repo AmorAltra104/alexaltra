@@ -1,0 +1,36 @@
+mods/data/black-matt/black-matt-hard.json
+mods/data/black-matt/events.json
+mods/data/black-matt/mod.txt
+mods/Black Matt/characters/bfmii.json
+mods/Black Matt/characters/BLACK MATT.json
+mods/Black Matt/characters/basedgf.json
+mods/Black Matt/stages/mattblack.json
+mods/Black Matt/stages/mattblack.lua
+mods/Black Matt/images/characters/BOYFRIENDMII.png
+mods/Black Matt/images/characters/BOYFRIENDMII.xml
+mods/Black Matt/images/characters/blackmatt.png
+mods/Black Matt/images/characters/blackmatt.xml
+mods/Black Matt/images/characters/basedgf.png
+mods/Black Matt/images/characters/basedgf.xml
+mods/Black Matt/custom_notetypes/BLACK MATT.lua
+mods/Black Matt/custom_events/CamDefualtZoom.lua
+mods/Black Matt/custom_events/Fade Event.lua
+mods/Black Matt/custom_events/Flash Event.lua
+mods/Black Matt/scripts/camfunnycringe.lua
+mods/Black Matt/scripts/particles.lua
+mods/Black Matt/images/the space.png
+mods/Black Matt/images/the rocks.png
+mods/Black Matt/images/the planets.png
+mods/Black Matt/images/the float.png
+mods/Black Matt/images/the behind stage.png
+mods/Black Matt/images/the stage.png
+mods/Black Matt/images/the front.png
+mods/Black Matt/images/the overlay.png
+mods/Black Matt/images/za bar.png
+mods/Black Matt/images/BLACKMATTNOTE_assets.png
+mods/Black Matt/images/BLACKMATTNOTE_assets.xml
+mods/Black Matt/sounds/Ugh.ogg
+mods/songs/black-matt/Voices.ogg
+mods/songs/black-matt/voices.ogg
+mods/songs/black-matt/Inst.ogg
+mods/songs/black-matt/inst.ogg

@@ -1,0 +1,18 @@
+mods/data/rev-rejected/coolfunkycredits.lua
+mods/data/rev-rejected/events.json
+mods/data/rev-rejected/mod.txt
+mods/data/rev-rejected/rejected_mechanic.lua
+mods/data/rev-rejected/rev-rejected-hard.json
+mods/Rev/stages/wiik4.json
+mods/Rev/stages/wiik4.lua
+mods/Rev/custom_notetypes/Warning.lua
+mods/Rev/custom_notetypes/rejected_mechanic.lua
+mods/Rev/custom_notetypes/Punch-Wiik4.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/rejected_mechanic.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/songs/rev-rejected/Voices.ogg
+mods/songs/rev-rejected/voices.ogg
+mods/songs/rev-rejected/Inst.ogg
+mods/songs/rev-rejected/inst.ogg

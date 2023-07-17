@@ -1,0 +1,7 @@
+{
+	"name": "the (real) sex mode",
+	"description": "boing boing",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [248, 217, 215]
+}

@@ -1,0 +1,12 @@
+mods/data/rev-light-it-up/coolfunkycredits.lua
+mods/data/rev-light-it-up/mod.txt
+mods/data/rev-light-it-up/rev-light-it-up-hard.json
+mods/Rev/stages/stadium.json
+mods/Rev/stages/stadium.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/songs/rev-light-it-up/Voices.ogg
+mods/songs/rev-light-it-up/voices.ogg
+mods/songs/rev-light-it-up/Inst.ogg
+mods/songs/rev-light-it-up/inst.ogg

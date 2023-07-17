@@ -1,0 +1,26 @@
+mods/data/rev-night-of-nights/coolfunkycredits.lua
+mods/data/rev-night-of-nights/events.json
+mods/data/rev-night-of-nights/mod.txt
+mods/data/rev-night-of-nights/rev-night-of-nights-hard.json
+mods/Rev/characters/bf-red.json
+mods/Rev/characters/mattrev-wiik1.json
+mods/Rev/characters/gf-red.json
+mods/Rev/stages/stadium.json
+mods/Rev/stages/stadium.lua
+mods/Rev/images/characters/BOYFRIEND-RED.png
+mods/Rev/images/characters/BOYFRIEND-RED.xml
+mods/Rev/images/characters/new_matt_wiik1-lighting.png
+mods/Rev/images/characters/new_matt_wiik1-lighting.xml
+mods/Rev/images/characters/gf_revmix-wiik2.png
+mods/Rev/images/characters/gf_revmix-wiik2.xml
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/badapplelol.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/images/stadium/1arenastage.png
+mods/Rev/images/stadium/2arenaring.png
+mods/Rev/images/stadium/4arenaringback.png
+mods/Rev/images/stadium/5galaxy.png
+mods/Rev/images/Crowd_Bump.png
+mods/Rev/images/Crowd_Bump.xml
+mods/songs/rev-night-of-nights/Inst.ogg
+mods/songs/rev-night-of-nights/inst.ogg

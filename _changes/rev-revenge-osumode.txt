@@ -1,0 +1,16 @@
+mods/data/rev-revenge/coolfunkycredits.lua
+mods/data/rev-revenge/events.json
+mods/data/rev-revenge/mod.txt
+mods/data/rev-revenge/rev-revenge-canon.json
+mods/data/rev-revenge/rev-revenge-mania.json
+mods/Rev/stages/wiik2.json
+mods/Rev/stages/wiik2.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/Bat.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-revenge/Voices.ogg
+mods/songs/rev-revenge/voices.ogg
+mods/songs/rev-revenge/Inst.ogg
+mods/songs/rev-revenge/inst.ogg

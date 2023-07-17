@@ -1,0 +1,31 @@
+mods/data/rev-ballin/coolfunkycredits.lua
+mods/data/rev-ballin/events.json
+mods/data/rev-ballin/mod.txt
+mods/data/rev-ballin/rev-ballin-hard.json
+mods/Rev/characters/bf-red.json
+mods/Rev/characters/mattrev-wiik2-duo.json
+mods/Rev/characters/mattrev-wiik1.json
+mods/Rev/stages/stadium-duo.json
+mods/Rev/stages/stadium-duo.lua
+mods/Rev/images/characters/BOYFRIEND-RED.png
+mods/Rev/images/characters/BOYFRIEND-RED.xml
+mods/Rev/images/characters/WIIK_2_RTX.png
+mods/Rev/images/characters/WIIK_2_RTX.xml
+mods/Rev/images/characters/new_matt_wiik1-lighting.png
+mods/Rev/images/characters/new_matt_wiik1-lighting.xml
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/karaokelyrics.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/BLACKOUT.lua
+mods/Rev/images/stadium/1arenastage.png
+mods/Rev/images/stadium/2arenaring.png
+mods/Rev/images/stadium/4arenaringback.png
+mods/Rev/images/stadium/5galaxy.png
+mods/Rev/images/Crowd_Bump.png
+mods/Rev/images/Crowd_Bump.xml
+mods/Rev/images/gf_revmix-wiik2.png
+mods/Rev/images/gf_revmix-wiik2.xml
+mods/songs/rev-ballin/Voices.ogg
+mods/songs/rev-ballin/voices.ogg
+mods/songs/rev-ballin/Inst.ogg
+mods/songs/rev-ballin/inst.ogg

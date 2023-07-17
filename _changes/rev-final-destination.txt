@@ -1,0 +1,33 @@
+mods/data/rev-final-destination/coolfunkycredits.lua
+mods/data/rev-final-destination/events.json
+mods/data/rev-final-destination/mod.txt
+mods/data/rev-final-destination/rev-final-destination-canon.json
+mods/data/rev-final-destination/rev-final-destination-mania.json
+mods/Rev/characters/bf-red.json
+mods/Rev/characters/mattrev-fd.json
+mods/Rev/characters/shaggyrev.json
+mods/Rev/stages/final-destination.json
+mods/Rev/stages/final-destination.lua
+mods/Rev/images/characters/BOYFRIEND-RED.png
+mods/Rev/images/characters/BOYFRIEND-RED.xml
+mods/Rev/images/characters/WIIK_2_RTX.png
+mods/Rev/images/characters/WIIK_2_RTX.xml
+mods/Rev/images/characters/SHAGGY_RTX.png
+mods/Rev/images/characters/SHAGGY_RTX.xml
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/Rev/custom_events/Cinema Bars.lua
+mods/Rev/images/wiik2-background.png
+mods/Rev/images/wiik2-sun.png
+mods/Rev/images/wiik2-buildings.png
+mods/Rev/images/wiik2-arena.png
+mods/Rev/images/gf_revmix-wiik2.png
+mods/Rev/images/gf_revmix-wiik2.xml
+mods/Rev/images/RevPunch.png
+mods/Rev/images/RevPunch.xml
+mods/songs/rev-final-destination/Voices.ogg
+mods/songs/rev-final-destination/voices.ogg
+mods/songs/rev-final-destination/Inst.ogg
+mods/songs/rev-final-destination/inst.ogg

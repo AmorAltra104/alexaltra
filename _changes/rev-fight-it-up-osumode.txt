@@ -1,0 +1,10 @@
+mods/data/rev-fight-it-up/coolfunkycredits.lua
+mods/data/rev-fight-it-up/mod.txt
+mods/data/rev-fight-it-up/rev-fight-it-up-hard.json
+mods/Rev/stages/stadium-duo.json
+mods/Rev/stages/stadium-duo.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-fight-it-up/Inst.ogg
+mods/songs/rev-fight-it-up/inst.ogg

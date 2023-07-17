@@ -1,0 +1,3 @@
+Enables sword mechanic :3.
+Value 1: Turns it ON/OFF (0=OFF 1=ON)
+Value 2: Empty :3.

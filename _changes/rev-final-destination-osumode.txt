@@ -1,0 +1,16 @@
+mods/data/rev-final-destination/coolfunkycredits.lua
+mods/data/rev-final-destination/events.json
+mods/data/rev-final-destination/mod.txt
+mods/data/rev-final-destination/rev-final-destination-canon.json
+mods/data/rev-final-destination/rev-final-destination-mania.json
+mods/Rev/stages/final-destination.json
+mods/Rev/stages/final-destination.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/Rev/custom_events/Cinema Bars.lua
+mods/songs/rev-final-destination/Voices.ogg
+mods/songs/rev-final-destination/voices.ogg
+mods/songs/rev-final-destination/Inst.ogg
+mods/songs/rev-final-destination/inst.ogg

@@ -1,0 +1,17 @@
+mods/data/rev-knockout/coolfunkycredits.lua
+mods/data/rev-knockout/events.json
+mods/data/rev-knockout/mod.txt
+mods/data/rev-knockout/rev-knockout-hard.json
+mods/data/rev-knockout/RevBoxingScript.lua
+mods/Rev/stages/stadium-wiik3.json
+mods/Rev/stages/stadium-wiik3.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/BoxingNote.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/bf_ghost_mechanic.lua
+mods/songs/rev-knockout/Voices.ogg
+mods/songs/rev-knockout/voices.ogg
+mods/songs/rev-knockout/Inst.ogg
+mods/songs/rev-knockout/inst.ogg

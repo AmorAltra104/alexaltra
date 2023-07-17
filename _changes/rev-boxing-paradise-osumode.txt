@@ -1,0 +1,13 @@
+mods/data/rev-boxing-paradise/coolfunkycredits.lua
+mods/data/rev-boxing-paradise/mod.txt
+mods/data/rev-boxing-paradise/rev-boxing-paradise-hard.json
+mods/Rev/stages/wiik2.json
+mods/Rev/stages/wiik2.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/songs/rev-boxing-paradise/Voices.ogg
+mods/songs/rev-boxing-paradise/voices.ogg
+mods/songs/rev-boxing-paradise/Inst.ogg
+mods/songs/rev-boxing-paradise/inst.ogg

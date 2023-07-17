@@ -1,0 +1,13 @@
+mods/data/rev-sporting/coolfunkycredits.lua
+mods/data/rev-sporting/mod.txt
+mods/data/rev-sporting/rev-sporting-hard.json
+mods/Rev/stages/wiik2.json
+mods/Rev/stages/wiik2.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-sporting/Voices.ogg
+mods/songs/rev-sporting/voices.ogg
+mods/songs/rev-sporting/Inst.ogg
+mods/songs/rev-sporting/inst.ogg

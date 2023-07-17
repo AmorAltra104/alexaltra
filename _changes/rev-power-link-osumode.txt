@@ -1,0 +1,13 @@
+mods/data/rev-power-link/coolfunkycredits.lua
+mods/data/rev-power-link/events.json
+mods/data/rev-power-link/mod.txt
+mods/data/rev-power-link/rev-power-link-canon.json
+mods/data/rev-power-link/rev-power-link-mania.json
+mods/Rev/stages/stadium-duo.json
+mods/Rev/stages/stadium-duo.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-power-link/Voices.ogg
+mods/songs/rev-power-link/voices.ogg
+mods/songs/rev-power-link/Inst.ogg
+mods/songs/rev-power-link/inst.ogg

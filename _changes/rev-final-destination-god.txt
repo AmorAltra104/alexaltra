@@ -1,0 +1,36 @@
+mods/data/rev-final-destination-god/coolfunkycredits.lua
+mods/data/rev-final-destination-god/events.json
+mods/data/rev-final-destination-god/mod.txt
+mods/data/rev-final-destination-god/rev-final-destination-god-canon.json
+mods/data/rev-final-destination-god/rev-final-destination-god-mania.json
+mods/data/rev-final-destination-god/static.lua
+mods/Rev/characters/bf-red.json
+mods/Rev/characters/mattrev-fd-g.json
+mods/Rev/characters/shaggyrev-fd-g.json
+mods/Rev/stages/final-destination-g.json
+mods/Rev/stages/final-destination-g.lua
+mods/Rev/images/characters/BOYFRIEND-RED.png
+mods/Rev/images/characters/BOYFRIEND-RED.xml
+mods/Rev/images/characters/WIIK_2_SPRITES_GOD.png
+mods/Rev/images/characters/WIIK_2_SPRITES_GOD.xml
+mods/Rev/images/characters/SHAGGY_GOD_NEW.png
+mods/Rev/images/characters/SHAGGY_GOD_NEW.xml
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/Punch-God.lua
+mods/Rev/custom_events/badapplelol.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/BLACKOUT.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/Rev/custom_events/Cinema Bars.lua
+mods/Rev/images/final-background.png
+mods/Rev/images/final-glow.png
+mods/Rev/images/final-arena.png
+mods/Rev/images/RevPunch.png
+mods/Rev/images/RevPunch.xml
+mods/Rev/images/RevPunchAlt.png
+mods/Rev/images/RevPunchAlt.xml
+mods/songs/rev-final-destination-god/Voices.ogg
+mods/songs/rev-final-destination-god/voices.ogg
+mods/songs/rev-final-destination-god/Inst.ogg
+mods/songs/rev-final-destination-god/inst.ogg

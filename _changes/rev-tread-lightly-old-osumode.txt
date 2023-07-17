@@ -1,0 +1,16 @@
+mods/data/rev-tread-lightly-old/coolfunkycredits.lua
+mods/data/rev-tread-lightly-old/mod.txt
+mods/data/rev-tread-lightly-old/rev-tread-lightly-old-hard.json
+mods/data/rev-tread-lightly-old/vcr.lua
+mods/data/rev-tread-lightly-old/vcrshader.lua
+mods/Rev/stages/stadium.json
+mods/Rev/stages/stadium.lua
+mods/Rev/custom_events/badapplelol.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/songs/rev-tread-lightly-old/Voices.ogg
+mods/songs/rev-tread-lightly-old/voices.ogg
+mods/songs/rev-tread-lightly-old/Inst.ogg
+mods/songs/rev-tread-lightly-old/inst.ogg

@@ -1,0 +1,16 @@
+mods/data/rev-king-hit/coolfunkycredits.lua
+mods/data/rev-king-hit/events.json
+mods/data/rev-king-hit/mod.txt
+mods/data/rev-king-hit/rev-king-hit-hard.json
+mods/data/rev-king-hit/RevBoxingScript.lua
+mods/Rev/stages/stadium-wiik3.json
+mods/Rev/stages/stadium-wiik3.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/BoxingNote.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-king-hit/Voices.ogg
+mods/songs/rev-king-hit/voices.ogg
+mods/songs/rev-king-hit/Inst.ogg
+mods/songs/rev-king-hit/inst.ogg

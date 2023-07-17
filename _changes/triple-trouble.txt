@@ -1,7 +1,7 @@
 mods/data/triple-trouble/events.json
 mods/Vs Impostor/characters/black.json
-mods/Vs Impostor/images/characters/black.png
-mods/Vs Impostor/images/characters/black.xml
+mods/Vs Impostor/images/sus/black.png
+mods/Vs Impostor/images/sus/black.xml
 mods/Vs Impostor/characters/grey.json
 mods/Vs Impostor/images/characters/grey.png
 mods/Vs Impostor/images/characters/grey.xml

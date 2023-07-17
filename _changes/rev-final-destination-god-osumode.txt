@@ -1,0 +1,20 @@
+mods/data/rev-final-destination-god/coolfunkycredits.lua
+mods/data/rev-final-destination-god/events.json
+mods/data/rev-final-destination-god/mod.txt
+mods/data/rev-final-destination-god/rev-final-destination-god-canon.json
+mods/data/rev-final-destination-god/rev-final-destination-god-mania.json
+mods/data/rev-final-destination-god/static.lua
+mods/Rev/stages/final-destination-g.json
+mods/Rev/stages/final-destination-g.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/Punch-God.lua
+mods/Rev/custom_events/badapplelol.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/BLACKOUT.lua
+mods/Rev/custom_events/Camera bounce.lua
+mods/Rev/custom_events/Cinema Bars.lua
+mods/songs/rev-final-destination-god/Voices.ogg
+mods/songs/rev-final-destination-god/voices.ogg
+mods/songs/rev-final-destination-god/Inst.ogg
+mods/songs/rev-final-destination-god/inst.ogg

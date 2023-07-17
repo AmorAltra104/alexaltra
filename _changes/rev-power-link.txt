@@ -1,0 +1,31 @@
+mods/data/rev-power-link/coolfunkycredits.lua
+mods/data/rev-power-link/events.json
+mods/Rev/characters/mattrev-wiik1-flipped.json
+mods/Rev/images/characters/new_matt_wiik1-lighting.png
+mods/Rev/images/characters/new_matt_wiik1-lighting.xml
+mods/Rev/characters/mattrev-wiik1.json
+mods/data/rev-power-link/mod.txt
+mods/data/rev-power-link/rev-power-link-canon.json
+mods/data/rev-power-link/rev-power-link-mania.json
+mods/Rev/characters/bf-red.json
+mods/Rev/characters/shaggyrev-stadium.json
+mods/Rev/stages/stadium-duo.json
+mods/Rev/stages/stadium-duo.lua
+mods/Rev/images/characters/BOYFRIEND-RED.png
+mods/Rev/images/characters/BOYFRIEND-RED.xml
+mods/Rev/images/characters/SHAGGY_RTX_STADIUM.png
+mods/Rev/images/characters/SHAGGY_RTX_STADIUM.xml
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/images/stadium/1arenastage.png
+mods/Rev/images/stadium/2arenaring.png
+mods/Rev/images/stadium/4arenaringback.png
+mods/Rev/images/stadium/5galaxy.png
+mods/Rev/images/Crowd_Bump.png
+mods/Rev/images/Crowd_Bump.xml
+mods/Rev/images/gf_revmix-wiik2.png
+mods/Rev/images/gf_revmix-wiik2.xml
+mods/songs/rev-power-link/Voices.ogg
+mods/songs/rev-power-link/voices.ogg
+mods/songs/rev-power-link/Inst.ogg
+mods/songs/rev-power-link/inst.ogg

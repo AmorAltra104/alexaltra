@@ -1,0 +1,19 @@
+mods/data/rev-screen-time/coolfunkycredits.lua
+mods/data/rev-screen-time/mod.txt
+mods/data/rev-screen-time/rev-screen-time-hard.json
+mods/Rev/characters/bf-mini.json
+mods/Rev/characters/rev.json
+mods/Rev/characters/gf.json
+mods/Rev/images/characters/boifren_assets.png
+mods/Rev/images/characters/boifren_assets.xml
+mods/Rev/images/characters/rev_assets.png
+mods/Rev/images/characters/rev_assets.xml
+mods/Rev/images/characters/gf_revmix.png
+mods/Rev/images/characters/gf_revmix.xml
+mods/Rev/custom_events/changestage.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-screen-time/Voices.ogg
+mods/songs/rev-screen-time/voices.ogg
+mods/songs/rev-screen-time/Inst.ogg
+mods/songs/rev-screen-time/inst.ogg

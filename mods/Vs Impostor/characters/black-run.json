@@ -1,77 +1,77 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				124,
 				287
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "BLACK LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BLACK LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				176,
-				345 
+				345
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "BLACK RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BLACK RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-53,
 				327
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "BLACK DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BLACK DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				54,
 				542
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "BLACK UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "BLACK UP"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				100,
 				350
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "BLACK IDLE"
+			"fps": 24,
+			"name": "BLACK IDLE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				132,
 				1033
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "scream",
-			"indices": [],
-			"name": "BLACK SCREAM"
+			"fps": 24,
+			"name": "BLACK SCREAM",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/blackrun",
+	"image": "sus/blackrun",
 	"position": [
 		-290,
-		-240
+		330
 	],
 	"healthicon": "black",
 	"flip_x": false,

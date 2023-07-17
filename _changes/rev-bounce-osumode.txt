@@ -1,0 +1,13 @@
+mods/data/rev-bounce/coolfunkycredits.lua
+mods/data/rev-bounce/events.json
+mods/data/rev-bounce/mod.txt
+mods/data/rev-bounce/rev-bounce-hard.json
+mods/Rev/stages/stadium-duo.json
+mods/Rev/stages/stadium-duo.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/songs/rev-bounce/Voices.ogg
+mods/songs/rev-bounce/voices.ogg
+mods/songs/rev-bounce/Inst.ogg
+mods/songs/rev-bounce/inst.ogg

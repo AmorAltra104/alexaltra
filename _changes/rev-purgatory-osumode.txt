@@ -1,0 +1,16 @@
+mods/data/rev-purgatory/coolfunkycredits.lua
+mods/data/rev-purgatory/mod.txt
+mods/data/rev-purgatory/rev-purgatory-hard.json
+mods/Rev/stages/wiik4.json
+mods/Rev/stages/wiik4.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/Warning.lua
+mods/Rev/custom_notetypes/Punch-Wiik4.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Cinematics.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/songs/rev-purgatory/Voices.ogg
+mods/songs/rev-purgatory/voices.ogg
+mods/songs/rev-purgatory/Inst.ogg
+mods/songs/rev-purgatory/inst.ogg

@@ -13,163 +13,173 @@ local followchars = true;
 local del = 0;
 local del2 = 0;
 function onCreate()
-    
-    makeLuaSprite('sky','bg/airship/sky',-1504, -897.55);
-    scaleObject("sky", 1.5, 1.5)
-    setLuaSpriteScrollFactor('sky', 0, 0);
-    addLuaSprite('sky', false)
-    
-    makeLuaSprite('farthestClouds','bg/airship/farthestClouds',-1448.05, -142.2);
-    setLuaSpriteScrollFactor('farthestClouds', 0.1, 0.1);
-    addLuaSprite('farthestClouds', false)
-    
-    makeLuaSprite('farthestClouds2','bg/airship/farthestClouds',3075.95, -142.2);
-    setLuaSpriteScrollFactor('farthestClouds2', 0.1, 0.1);
-    addLuaSprite('farthestClouds2', false)
-    
-    makeLuaSprite('backClouds','bg/airship/backClouds',-1462.4, 76.55);
-    setLuaSpriteScrollFactor('backClouds', 0.2, 0.2);
-    addLuaSprite('backClouds', false)
-    
-    makeLuaSprite('backClouds2','bg/airship/backClouds',3052.4, 76.55);
-    setLuaSpriteScrollFactor('backClouds2', 0.2, 0.2);
-    addLuaSprite('backClouds2', false)
-    
-    makeLuaSprite('airship','bg/airship/airship',1800, -1300);
-    scaleObject("airship", 1, 1)
-    addLuaSprite('airship', false)
-    
-    makeAnimatedLuaSprite('airshipFan','bg/airship/airshipFan',3001, -345)addAnimationByPrefix('airshipFan', 'idle','ala avion instance 1',24,true)
-	objectPlayAnimation('airshipFan','idle',false)
-    scaleObject("airshipFan", 1, 1)
-    addLuaSprite('airshipFan', false)
-    
-    makeLuaSprite('bigCloud','bg/airship/bigCloud',3507.15, -744.2);
-    setLuaSpriteScrollFactor('bigCloud', 0.4, 0.4);
-    addLuaSprite('bigCloud', false)
-    
-    makeLuaSprite('frontClouds','bg/airship/frontClouds',-1903.9, 422.15);
-    setLuaSpriteScrollFactor('frontClouds', 0.3, 0.3);
-    addLuaSprite('frontClouds', false)
-    
-    makeLuaSprite('frontClouds2','bg/airship/frontClouds',6092.2, 422.15);
-    setLuaSpriteScrollFactor('frontClouds2', 0.3, 0.3);
-    addLuaSprite('frontClouds2', false)
-    
-    makeLuaSprite('fgPlatform','bg/airship/fgPlatform',-1454.2, 282.25);
-    addLuaSprite('fgPlatform', false)
-    
-    makeLuaSprite('fgPlatform2','bg/airship/fgPlatform',4275.15, 282.25);
-    addLuaSprite('fgPlatform2', false)
-    
-    makeAnimatedLuaSprite('leg','characters/blacklegs',196, 345)addAnimationByPrefix('leg', 'idle','legs',24,true)
-	objectPlayAnimation('leg','idle',false)
-    scaleObject("leg", 1.27, 1.27)
-    addLuaSprite('leg', false)
-    
-    makeAnimatedLuaSprite('leg2','characters/bf_legs',1508, 401)addAnimationByPrefix('leg2', 'idle','run legs',24,true)
-	objectPlayAnimation('leg2','idle',false)
-    scaleObject("leg2", 1.2, 1.2)
-    addLuaSprite('leg2', false)
-    
-    doTweenX('fgPlatform', 'fgPlatform', -7384.8, 2, "linear")
-    doTweenX('fgPlatform2', 'fgPlatform2', -1455.05, 2, "linear")
-    
-    doTweenX('farthestClouds', 'farthestClouds', -5978.95, 15, "linear")
-    doTweenX('farthestClouds2', 'farthestClouds2', -1460.05, 15, "linear")
-    
-    doTweenX('backClouds', 'backClouds', -5951.4, 10, "linear")
-    doTweenX('backClouds2', 'backClouds2', -1462.4, 10, "linear")
-    
-    doTweenX('bigCloud', 'bigCloud', -3000, 30, "linear")
-    doTweenX('frontClouds', 'frontClouds', -9900.2, 15, "linear")
-    doTweenX('frontClouds2', 'frontClouds2', -1903.9, 15, "linear")
-    
-    setObjectOrder('farthestClouds', '1')
-    setObjectOrder('farthestClouds2', '1')
-    setObjectOrder('backClouds', '5')
-    setObjectOrder('backClouds2', '5')
-    setObjectOrder('airship', '15')
-    setObjectOrder('airshipFan', '18')
-    setObjectOrder('bigCloud', '20')
-    setObjectOrder('frontClouds', '20')
-    setObjectOrder('frontClouds2', '20')
-    setObjectOrder('fgPlatform', '27')
-    setObjectOrder('fgPlatform2', '30')
-    setObjectOrder('gfGroup', '35')
-    setObjectOrder('leg', '38')
-    setObjectOrder('leg2', '38')
-    setObjectOrder('dadGroup', '40')
-    setObjectOrder('boyfriendGroup', '40')
-    
-    
-    runTimer('fgPlatform', 2)
-    runTimer('fgPlatform2', 2)
-    runTimer('bigCloud', 30)
-    runTimer('frontClouds', 10)
-    runTimer('backClouds', 10)
-    runTimer('farthestClouds', 15)
-end
 
-function onTimerCompleted(tag, loops, loopsleft)
-    if tag == 'fgPlatform' then
-    setProperty('fgPlatform.x',-1454.2)
-    doTweenX('fgPlatform', 'fgPlatform', -7184.8, 2, "linear")
-    
-    runTimer('fgPlatform', 2)
-    end
-    if tag == 'fgPlatform2' then
-    setProperty('fgPlatform2.x',4275.15)
-    doTweenX('fgPlatform2', 'fgPlatform2', -1454.2, 2, "linear")
-    
-    runTimer('fgPlatform2', 2)
-    end
-    if tag == 'bigCloud' then
-    setProperty('bigCloud.x',3507.15)
-    doTweenX('bigCloud', 'bigCloud', -3000, 30, "linear")
-    
-    runTimer('bigCloud', 30)
-    end
-    if tag == 'frontClouds' then
-    setProperty('frontClouds.x',-1903.9)
-   setProperty('frontClouds2.x',6092.2)
+
+
+	makeLuaSprite('sky', 'Sus/danger/sky', -800, -1200);
+	addLuaSprite('sky', false);
+        setProperty("sky.scale.y", 2.0);
+        setProperty("sky.scale.x", 2.0);
+
+
+	makeLuaSprite('nube0', 'Sus/danger/farthestClouds', 12060, 0);
+	addLuaSprite('nube0', false);
+        setProperty("nube0.scale.y", 2.0);
+        setProperty("nube0.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nube0', 0.2, 0.2);
+
+
+	makeLuaSprite('nube', 'Sus/danger/farthestClouds', 3000, 0);
+	addLuaSprite('nube', false);
+        setProperty("nube.scale.y", 2.0);
+        setProperty("nube.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nube', 0.2, 0.2);
+
+
+	makeLuaSprite('nube2', 'Sus/danger/farthestClouds', -6060, 0);
+	addLuaSprite('nube2', false);
+        setProperty("nube2.scale.y", 2.0);
+        setProperty("nube2.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nube2', 0.2, 0.2);
+
+
+
+	makeLuaSprite('nub0', 'Sus/danger/backClouds', 12050, 400);
+	addLuaSprite('nub0', false);
+        setProperty("nub0.scale.y", 2.0);
+        setProperty("nub0.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nub0', 0.2, 0.2);
+
+
+	makeLuaSprite('nub', 'Sus/danger/backClouds', 3000, 400);
+	addLuaSprite('nub', false);
+        setProperty("nub.scale.y", 2.0);
+        setProperty("nub.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nub', 0.2, 0.2);
+
+
+	makeLuaSprite('nub2', 'Sus/danger/backClouds', -6050, 400);
+	addLuaSprite('nub2', false);
+        setProperty("nub2.scale.y", 2.0);
+        setProperty("nub2.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nub2', 0.2, 0.2);
+
+
+	makeLuaSprite('airship', 'Sus/danger/airship', 1300, -900);
+	addLuaSprite('airship', false);
+	setLuaSpriteScrollFactor('airship', 0.3, 0.3);
+
+	makeAnimatedLuaSprite('airshipFan', 'Sus/danger/airshipFan', 2500, 0);
+	addAnimationByPrefix('airshipFan', 'idle', 'ala avion instance 1', 30, true);
+        objectPlayAnimation('airshipFan', 'idle', true);
+	addLuaSprite('airshipFan', false);
+	setLuaSpriteScrollFactor('airshipFan', 0.3, 0.3);
+
+
+	makeLuaSprite('nu0', 'Sus/danger/frontClouds', 22000, 600);
+	addLuaSprite('nu0', false);
+        setProperty("nu0.scale.y", 2.0);
+        setProperty("nu0.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nu0', 0.5, 0.5);
+
+
+
+	makeLuaSprite('nu', 'Sus/danger/frontClouds', 6000, 600);
+	addLuaSprite('nu', false);
+        setProperty("nu.scale.y", 2.0);
+        setProperty("nu.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nu', 0.5, 0.5);
+
+
+	makeLuaSprite('nu1', 'Sus/danger/frontClouds', -10000, 600);
+	addLuaSprite('nu1', false);
+        setProperty("nu1.scale.y", 2.0);
+        setProperty("nu1.scale.x", 2.0);
+	setLuaSpriteScrollFactor('nu1', 0.5, 0.5);
+
+
+	makeLuaSprite('nubef', 'Sus/danger/bigCloud', 3400, -800);
+	addLuaSprite('nubef', false);
+	setLuaSpriteScrollFactor('nubef', 0.6, 0.6);
+
+	makeLuaSprite('a', 'Sus/danger/speedlines', 6000, -800);
+	addLuaSprite('a', true);
+        setProperty("a.scale.y", 2.0);
+        setProperty("a.scale.x", 2.0);
+
+
+	makeLuaSprite('BG0', 'Sus/danger/fgPlatform', -1200, 240);
+	addLuaSprite('BG0', false);
+
+	makeLuaSprite('BG1', 'Sus/danger/fgPlatform', 1090, 240);
+	addLuaSprite('BG1', false);
+
+	makeLuaSprite('BG2', 'Sus/danger/fgPlatform', 3380, 240);
+	addLuaSprite('BG2', false);
+
+
+	makeAnimatedLuaSprite('s', 'Sus/danger/rojo', 100, -200);
+	addAnimationByPrefix('s', 'idle', 'rojo idle', 8, true);
+	addLuaSprite('s', false);
+        setProperty("s.scale.x", 2.5);
+        setProperty("s.scale.y", 2.5);
+	setProperty('s.visible', false)
+
+
+	makeAnimatedLuaSprite('C', 'Sus/danger/blacklegs', 260, 360);
+	addAnimationByPrefix('C', 'idle', 'legs', 30, true);
+        objectPlayAnimation('C', 'idle', true);
+	addLuaSprite('C', false);
+        setProperty("C.scale.x", 1.3);
+        setProperty("C.scale.y", 1.3);
+        setObjectOrder('C',18);
+
+	makeAnimatedLuaSprite('B', 'Sus/danger/bf_legs', 1565, 420);
+	addAnimationByPrefix('B', 'idle', 'run legs', 30, true);
+        objectPlayAnimation('B', 'idle', true);
+	addLuaSprite('B', false);
+
+
+
+
+
+
+runTimer('correr',0.5)
+runTimer('nube',0.5)
+runTimer('nub',0.5)
+runTimer('nu',0.5)
+runTimer('nuf',10)
+--runTimer('a',0.3)
+
+end
+function onCreatePost()
+
+   --makeLuaTexts
+  makeLuaText('Watermark', 'Port by Thepotra', 0, 4, getProperty('healthBarBG.y') + 58);
+
+  
+   --addLuaText
+   addLuaText('Watermark')
+
+
+   --Text fonts
+   setTextFont('scoreTxt', 'PhantomMuff Full Letters 1.1.5.ttf')
+   setTextFont('healthCounter', 'PhantomMuff Full Letters 1.1.5.ttf')
+   setTextFont('timeTxt', 'PhantomMuff Full Letters 1.1.5.ttf')
+   setTextFont('botplayTxt', 'PhantomMuff Full Letters 1.1.5.ttf')
+   setTextFont('judgementCounter', 'PhantomMuff Full Letters 1.1.5.ttf')
+   setTextFont('Watermark', 'PhantomMuff Full Letters 1.1.5.ttf');
+
    
-    doTweenX('frontClouds', 'frontClouds', -9900.2, 10, "linear")
-    doTweenX('frontClouds2', 'frontClouds2', -1903.9, 10, "linear")
-    
-    runTimer('frontClouds', 10)
-    end
-    if tag == 'farthestClouds' then
-    setProperty('farthestClouds.x',-1448.05)
-    setProperty('farthestClouds2.x',3075.95)
-    
-    doTweenX('farthestClouds', 'farthestClouds', -5978.95, 15, "linear")
-    doTweenX('farthestClouds2', 'farthestClouds2', -1460.05, 15, "linear")
-    
-    runTimer('farthestClouds', 15)
-    end
-    if tag == 'backClouds' then
-    setProperty('backClouds.x',-1462.4)
-    setProperty('backClouds2.x',3052.4)
+   --Text sizes
+   setTextSize('Watermark', 16);
+   setTextSize('scoreTxt', 20);
+   setTextSize('healthCounter', 20);
+   setTextSize('timeTxt', 20);
+   setTextSize('botplayTxt', 34);
+   setTextSize('judgementCounter', 20);
 
-    
-    doTweenX('backClouds', 'backClouds', -5951.4, 10, "linear")
-    doTweenX('backClouds2', 'backClouds2', -1462.4, 10, "linear")
-    
-    runTimer('backClouds', 10)
-    end
 end
-
-function onEvent(n,v1,v2)
-    if n == "Change Character" and v1 == "1" and v2 == "blackalt" then
-    setProperty('dad.y', -225)
-    setProperty('dad.x', 315)
-    end
-    if n == "bye gf" then
-    doTweenX('6djd', 'gf', -2500, 2, "quadin")
-    end
-end
-
 function onUpdate()
 	if del > 0 then
 		del = del - 1
@@ -322,8 +332,86 @@ function onUpdate()
         yy2 = 150
     end
 
-    songPos = getSongPosition()
-local currentBeat = (songPos/1000)*(curBpm/60)
-doTweenAngle('sus2', 'camHUD', 1*math.cos((currentBeat+0.1*2)*math.pi), 0.00001)
+    
+end
+function onTimerCompleted(t,l,ll)
+       if t == 'correr' then
+
+		setProperty('BG0.x', -1200)
+		doTweenX('BG0','BG0', -3490, 1.0,'linear')
+		setProperty('BG1.x', 1090)
+		doTweenX('BG1','BG1', -1200, 1.0,'linear')
+		setProperty('BG2.x', 3380)
+		doTweenX('BG2','BG2', 1090, 1.0,'linear')
+                runTimer('correr',1.0)
+
+        end
+       if t == 'nube' then
+
+		setProperty('nube0.x', 12060)
+		doTweenX('nube0','nube0', 3000, 90,'linear')
+		setProperty('nube.x', 3000)
+		doTweenX('nube','nube', -6060, 90,'linear')
+		setProperty('nube2.x', -6060)
+		doTweenX('nube2','nube2', -15120, 90,'linear')
+                runTimer('nube',90)
+
+        end
+       if t == 'nub' then
+
+
+		setProperty('nub0.x', 12050)
+		doTweenX('nub0','nub0', 3000, 60,'linear')
+		setProperty('nub.x', 3000)
+		doTweenX('nub','nub', -6050, 60,'linear')
+		setProperty('nub2.x', -6050)
+		doTweenX('nub2','nub2', -15100, 60,'linear')
+                runTimer('nub',60)
+
+
+        end
+       if t == 'nu' then
+
+		setProperty('nu0.x', 22000)
+		doTweenX('nu0','nu0', 6000, 30,'linear')
+		setProperty('nu.x', 6000)
+		doTweenX('nu','nu', -10000, 30,'linear')
+		setProperty('nu1.x', -10000)
+		doTweenX('nu1','nu1', -26000, 30,'linear')
+                runTimer('nu',30)
+
+        end
+       if t == 'nuf' then
+
+		setProperty('nubef.x', 3400)
+		doTweenX('nubef','nubef', -6000, 60,'linear')
+                runTimer('nuf',60)
+        end
+       if t == 'a' then
+
+		setProperty('a.x', 6000)
+		doTweenX('a','a', -9000, 1,'linear')
+                runTimer('a',5)
+
+        end
+end
+function onEvent(name,value1,value2)
+	if name == 'Thepotra' then 
+		
+		if value1 == 'a' then
+			doTweenX("gf", "gf", -4000, 2.0, "linear")	
+
+
+		end
+		
+                if value1 == 's' then
+	                setProperty('s.visible', true)
+                        objectPlayAnimation('s', 'idle', true);
+		end
+		
+                if value1 == 'sa' then
+	                setProperty('s.visible', false)
+                end
+	end
 end
 

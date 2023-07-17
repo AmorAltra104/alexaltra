@@ -12,8 +12,8 @@ mods/Vs Impostor/characters/blackold.json
 mods/Vs Impostor/images/characters/blackold.png
 mods/Vs Impostor/images/characters/blackold.xml
 mods/Vs Impostor/characters/black.json
-mods/Vs Impostor/images/characters/black.png
-mods/Vs Impostor/images/characters/black.xml
+mods/Vs Impostor/images/sus/black.png
+mods/Vs Impostor/images/sus/black.xml
 mods/data/defeat/impUI.lua
 mods/data/defeat/maxMissChoose.lua
 mods/data/defeat/mod.txt

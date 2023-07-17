@@ -1,0 +1,15 @@
+mods/data/rev-fisticuffs/coolfunkycredits.lua
+mods/data/rev-fisticuffs/mod.txt
+mods/data/rev-fisticuffs/rev-fisticuffs-hard.json
+mods/data/rev-fisticuffs/RevBoxingScript.lua
+mods/Rev/stages/stadium-wiik3.json
+mods/Rev/stages/stadium-wiik3.lua
+mods/Rev/custom_notetypes/Punch.lua
+mods/Rev/custom_notetypes/BoxingNote.lua
+mods/Rev/custom_events/Toggle Trail.lua
+mods/Rev/custom_events/Set Cam Zoom.lua
+mods/Rev/custom_events/Flash Camera.lua
+mods/songs/rev-fisticuffs/Voices.ogg
+mods/songs/rev-fisticuffs/voices.ogg
+mods/songs/rev-fisticuffs/Inst.ogg
+mods/songs/rev-fisticuffs/inst.ogg
